@@ -1,0 +1,91 @@
+name: Release Plugin ZIPs
+
+# Baut bei jedem Tag oder bei manueller Ausloesung pro Plugin eine ZIP-Datei
+# und haengt sie an den GitHub Release. Damit ergeben sich stabile Download-URLs:
+#   https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<plugin>.zip
+# Direkt einzeln in Claude Code (Customize Plugins) installierbar.
+
+on:
+  push:
+    tags:
+      - 'v*'
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: 'Release-Tag (z. B. v1.1.0). Leer = nur ZIPs bauen, keinen Release anlegen.'
+        required: false
+        default: ''
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validator
+        run: node scripts/validate-plugin-structure.mjs
+
+      - name: Liste aller Plugins aus marketplace.json lesen
+        id: plugins
+        run: |
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, pathlib
+          m = json.loads(pathlib.Path('.claude-plugin/marketplace.json').read_text())
+          names = [p['name'] for p in m['plugins']]
+          print('names=' + ' '.join(names))
+          PY
+
+      - name: ZIPs bauen
+        run: |
+          mkdir -p dist
+          for plugin in ${{ steps.plugins.outputs.names }}; do
+            echo "Baue $plugin.zip"
+            zip -rq "dist/${plugin}.zip" "$plugin" -x '*.DS_Store'
+            ls -la "dist/${plugin}.zip"
+          done
+          # Manifest fuer Marketplace-Komfort
+          cp .claude-plugin/marketplace.json dist/marketplace.json
+
+      - name: Beispielakten separat verpacken (kein Teil der Plugins)
+        run: |
+          if [ -d examples ]; then
+            for d in examples/*/; do
+              name=$(basename "$d")
+              echo "Baue ${name}.zip aus $d"
+              (cd examples && zip -rq "../dist/${name}.zip" "$name" -x '*.DS_Store')
+              ls -la "dist/${name}.zip"
+            done
+          fi
+
+      - name: Tag bestimmen
+        id: tagref
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            echo "tag=${GITHUB_REF_NAME}" >> "$GITHUB_OUTPUT"
+          else
+            echo "tag=${{ github.event.inputs.tag }}" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Release veroeffentlichen (mit ZIP-Anhaengen)
+        if: steps.tagref.outputs.tag != ''
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ steps.tagref.outputs.tag }}
+          name: ${{ steps.tagref.outputs.tag }}
+          generate_release_notes: true
+          files: |
+            dist/*.zip
+            dist/marketplace.json
+
+      - name: Artefakte hochladen (immer)
+        uses: actions/upload-artifact@v4
+        with:
+          name: plugin-zips
+          path: dist/*.zip
+          retention-days: 30

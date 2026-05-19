@@ -1,6 +1,41 @@
-# Liquiditätsplanung – Power-Plugin
+# Liquiditätsplanung — Power-Plugin
 
-Eigenständiges Plugin für **wochenaktuelle Liquiditätsvorschauen** nach deutschem Recht (§§ 17, 18, 19 InsO; § 1 StaRUG). Funktioniert allein; ergänzt sich optimal mit den Plugins `insolvenzrecht` und `steuerberater-werkzeuge`, hängt aber nicht von ihnen ab.
+**Eigenständiges Power-Plugin** für wochenaktuelle Liquiditätsvorschauen nach deutschem Recht (§§ 17, 18, 19 InsO; § 1 StaRUG; BGH-Schema Passiva II). Funktioniert allein. Ergänzt sich optional mit `insolvenzrecht` und `steuerberater-werkzeuge`, hängt aber nicht von ihnen ab.
+
+---
+
+## ⬇️ Direkt-Download (einzelnes ZIP)
+
+| Plugin | Direkt-Download |
+| --- | --- |
+| **liquiditaetsplanung** (dieses Plugin) | [liquiditaetsplanung.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/liquiditaetsplanung.zip) |
+| insolvenzrecht | [insolvenzrecht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/insolvenzrecht.zip) |
+| steuerberater-werkzeuge | [steuerberater-werkzeuge.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/steuerberater-werkzeuge.zip) |
+
+Die URLs sind **stabil** und zeigen immer auf die neueste Version. Alle weiteren Plugins (Vertragsrecht, Datenschutz, Arbeitsrecht, …) sind unter [Releases · latest](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) genauso einzeln verfügbar.
+
+### Installation in Claude Code
+
+1. ZIP herunterladen (Link oben).
+2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
+3. Fertig. Skills sind sofort verfügbar.
+
+### Zum Ausprobieren: Beispielakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+[beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/beispielakte-edelholz-berlin.zip)
+
+Enthält Firmenstammblatt, BWA, SuSa, OPOS, Bankauszüge, Steuer-/SV-Lage und einen fertigen Liquiditätsplan der fiktiven Edelholz Manufaktur Berlin GmbH.
+
+Alternativ als ganzes Marketplace:
+
+```bash
+# Marketplace-Manifest aus dem Release ziehen
+curl -L -O https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/marketplace.json
+```
+
+---
 
 ## Was ist drin
 
@@ -58,21 +93,6 @@ Quote      = Lücke abs. ÷ (Passiva I + Passiva II)   (Volumeneffekt
 7. BGH, 12.10.2006 – IX ZR 228/03, NJW 2007, 78 (Indizienkatalog)
 
 Berufsständischer Hintergrund: IDW S 11 (12.08.2021), IDW S 6 — nicht im Vordergrund zitieren.
-
-## Installation
-
-Power-Plugin: einzeln installierbar.
-
-```jsonc
-{
-  "plugins": ["liquiditaetsplanung"]
-}
-```
-
-Optional zusammen mit:
-
-- `insolvenzrecht` — formale Prüfung §§ 15a, 17, 18, 19 InsO, § 15b InsO Zahlungsverbote, Gläubigerantrag.
-- `steuerberater-werkzeuge` — BWA-/SuSa-/Bilanz-Vorprüfung als Datenquelle.
 
 ## Lizenz
 
