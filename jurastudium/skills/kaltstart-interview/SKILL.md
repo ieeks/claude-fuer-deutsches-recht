@@ -9,7 +9,7 @@ description: >
 language: de
 argument-hint: "[--redo | --check-integrations | --schnellstart]"
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - cold-start
   - neueinrichtung
   - neues profil
@@ -17,7 +17,7 @@ when_to_use: |
   - lernprofil anlegen
 ---
 
-# Erstes Einrichtungsgespräch (Cold-Start-Interview)
+# Erstes Einrichtungsgespräch (Kaltstart-Interview)
 
 ## Zweck
 

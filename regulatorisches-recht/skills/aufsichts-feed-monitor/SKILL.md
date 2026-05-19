@@ -7,7 +7,7 @@ description: >
   zur Einordnung nennt — oder wenn der Scheduler-Agent die Skill automatisch auslöst.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Feeds prüfen
   - regulatorische Aktualisierung
   - Was gibt es Neues im Regulatorischen

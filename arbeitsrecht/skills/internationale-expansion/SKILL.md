@@ -10,7 +10,7 @@ description: >
 language: de
 user-invocable: false
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - internationale Einstellung
   - Auslandsexpansion
   - EOR vs Gesellschaft

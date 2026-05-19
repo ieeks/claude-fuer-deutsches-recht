@@ -9,7 +9,7 @@ description: >
   mit einem Hinweis zurückschickt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Prüfwarteschlange
   - Supervisor Freigabe
   - Review Queue

@@ -9,7 +9,7 @@ description: >
   Quellen – keine ausführliche Analyse.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - ist das ein problem
   - kurze frage
   - können wir das
@@ -21,7 +21,7 @@ argument-hint: "[die Frage]"
 
 # /ist-das-ein-problem – Schnellprüfung
 
-1. `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` → Risikokalibrierung laden.
+1. `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → Risikokalibrierung laden.
 2. Triage-Ablauf unten anwenden.
 3. Muster-erkennen. Auf häufige Fallen prüfen.
 4. In fünf Minuten antworten: ✅ In Ordnung / ⚠️ Braucht einen Blick / 🛑 Stop. Ein Satz warum.
@@ -51,7 +51,7 @@ Das Ziel ist Geschwindigkeit. Der PM fragte um 16:47 Uhr. Er will eine Antwort, 
 
 ## Kalibrierung laden
 
-`~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` → `## Risikokalibrierung` lesen. Der ganze Sinn dieses Skills ist Muster-Erkennung gegen diese Tabelle.
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → `## Risikokalibrierung` lesen. Der ganze Sinn dieses Skills ist Muster-Erkennung gegen diese Tabelle.
 
 ## Die Triage
 

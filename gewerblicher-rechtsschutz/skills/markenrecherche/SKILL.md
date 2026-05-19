@@ -7,7 +7,7 @@ description: >
   Freigabegutachten – Ergebnis ist Recherchepaket für anwaltliche Entscheidung.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - markenrecherche
   - markenprüfung
   - clearance

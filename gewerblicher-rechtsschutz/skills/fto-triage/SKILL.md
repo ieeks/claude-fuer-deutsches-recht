@@ -6,7 +6,7 @@ description: >
   EP-Patente. Ergebnis ist ein Recherchepaket für den Patentanwalt – kein FTO-Gutachten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - fto
   - freedom to operate
   - patentrecherche

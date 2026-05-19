@@ -7,7 +7,7 @@ description: >
   oder „Stilfehler zeigen" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Hausarbeit Feedback
   - Seminararbeit prüfen
   - Aufsatz kommentieren

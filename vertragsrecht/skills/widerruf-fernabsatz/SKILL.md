@@ -7,7 +7,7 @@ description: |
   eines Fernabsatz- oder Außergeschäftsraumvertrags betrifft.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Widerrufsrecht
   - Fernabsatz
   - § 312g BGB

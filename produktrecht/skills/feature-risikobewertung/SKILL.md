@@ -11,7 +11,7 @@ description: >
   KI-VO-Anforderungen, Verbraucherschutz nach BGB.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - risikobewertung
   - feature-risiko
   - tiefer einblick
@@ -141,7 +141,7 @@ Eine wählen. Erklären warum. Anerkennen was abgewogen wird.
 
 ## Kalibrierungscheck
 
-Vor der Fertigstellung gegen `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` → Risikokalibrierung prüfen:
+Vor der Fertigstellung gegen `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → Risikokalibrierung prüfen:
 
 - Ist diese Risikobewertung auf *dieses Unternehmen* kalibriert, oder ist sie generisch?
 - Ein Risiko das bei einem Unternehmen unter einem Bußgeldbescheid „Hoch" ist könnte bei einem das es nicht ist „Mittel" sein
@@ -212,11 +212,11 @@ Prüfen:
 
 ## Ausgabeformat
 
-Eigenständiges Dokument, 2–4 Seiten. Arbeitsvermerk aus `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` `## Ausgaben` voranstellen.
+Eigenständiges Dokument, 2–4 Seiten. Arbeitsvermerk aus `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` `## Ausgaben` voranstellen.
 
 Kein Foliensatz, kein Memo zur Akte – ein Entscheidungsdokument das jemand liest und dann entscheidet.
 
-Speichern wo `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` → Launch-Review-Prozess sagt wohin Review-Dokumente gehen.
+Speichern wo `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` → Launch-Review-Prozess sagt wohin Review-Dokumente gehen.
 
 ## Quellen und Zitierweise
 

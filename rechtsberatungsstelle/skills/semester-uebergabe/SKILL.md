@@ -10,7 +10,7 @@ description: >
   ausscheidenden Studierenden abmelden müssen.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Semesterübergabe
   - Fallübergabe
   - Kohorte abschließen

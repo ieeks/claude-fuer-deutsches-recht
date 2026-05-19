@@ -8,7 +8,7 @@ description: >
   „§ 1835 BGB", „§ 1865 BGB" oder „Sperrvermerk" auftreten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Vermögensverzeichnis
   - Anfangsvermögen Betreuung
   - Rechnungslegung Betreuer

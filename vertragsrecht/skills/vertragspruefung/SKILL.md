@@ -9,7 +9,7 @@ description: >
   „Klauselkontrolle" oder einen Vertrag zur Analyse einreicht.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Vertrag prüfen
   - AGB prüfen
   - Klauselkontrolle

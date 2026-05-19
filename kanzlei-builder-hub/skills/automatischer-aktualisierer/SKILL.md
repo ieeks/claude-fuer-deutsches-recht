@@ -8,7 +8,7 @@ description: >
 argument-hint: "[--apply zum Aktualisieren aller, sonst nur Benachrichtigen]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - updates prüfen
   - skills aktualisieren
   - automatischer-aktualisierer

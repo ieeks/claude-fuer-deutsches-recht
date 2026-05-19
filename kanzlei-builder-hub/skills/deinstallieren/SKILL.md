@@ -8,7 +8,7 @@ description: >
   entfernen möchte („Skill deinstallieren [Name]", „Skill entfernen").
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Skill deinstallieren
   - Skill entfernen
   - Skill löschen

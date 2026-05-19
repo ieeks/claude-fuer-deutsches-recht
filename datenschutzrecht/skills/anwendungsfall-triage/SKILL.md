@@ -8,7 +8,7 @@ description: >
   Auftragsverarbeitung beschreibt und fragt, ob eine Datenschutz-Folgenabschätzung nötig ist.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Datenschutz-Triage
   - brauchen wir eine DSFA
   - neues Feature datenschutzrechtlich prüfen

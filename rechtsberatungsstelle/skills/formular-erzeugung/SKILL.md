@@ -9,7 +9,7 @@ description: >
 language: de
 user-invocable: false
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Formular ausfüllen
   - Formularerstellung
   - Antragsformular

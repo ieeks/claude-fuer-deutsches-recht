@@ -8,7 +8,7 @@ description: >
   darf, oder bei der Vorbereitung von Code zur Veröffentlichung als Open Source.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Open-Source-Lizenz prüfen
   - GPL Copyleft Compliance
   - AGPL Pflichten

@@ -8,7 +8,7 @@ description: >
 language: de
 argument-hint: "[--lernstil | --bundesland | --fach | --material | --reset]"
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - profil ändern
   - lernstil wechseln
   - fach hinzufügen

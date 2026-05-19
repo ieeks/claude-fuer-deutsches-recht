@@ -9,7 +9,7 @@ description: >
   „KI-VO-Register" oder „KI-System-Verzeichnis".
 argument-hint: "[list | add | edit <id> | classify <id> | show <id>]"
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - KI-Inventar
   - KI-System
   - EU AI Act Register

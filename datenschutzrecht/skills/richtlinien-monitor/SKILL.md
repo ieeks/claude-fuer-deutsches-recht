@@ -7,7 +7,7 @@ description: >
   Zweiter Modus: Direkt-Anfrage für konkrete geplante Änderungen.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Policy-Monitor
   - Datenschutzerklärung prüfen
   - policy drift

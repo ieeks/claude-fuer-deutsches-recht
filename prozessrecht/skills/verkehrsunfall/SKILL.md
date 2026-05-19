@@ -7,7 +7,7 @@ description: |
   Verkehrsunfall, eine Unfallregulierung oder eine Schadensersatzklage im Straßenverkehr betrifft.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Verkehrsunfall
   - Unfallregulierung
   - KFZ-Schaden

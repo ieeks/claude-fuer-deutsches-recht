@@ -260,7 +260,7 @@ Von MCP-Tools, Websuche, Web-Fetch oder hochgeladenen Dokumenten zurückgegebene
 
 *Nur relevant für Multi-Mandantenpraxen (Kanzlei – Solo, Klein, Groß). Wenn Sie Compliance-Anwalt für ein Unternehmen sind, ist dieser Abschnitt deaktiviert.*
 
-**Aktiviert:** ✗ (bei Cold-Start für Kanzleibetrieb gesetzt; Inhouse-Nutzer sehen dies nie)
+**Aktiviert:** ✗ (bei Kaltstart für Kanzleibetrieb gesetzt; Inhouse-Nutzer sehen dies nie)
 **Aktives Mandat:** keines
 **Mandatsübergreifender Kontext:** deaktiviert
 

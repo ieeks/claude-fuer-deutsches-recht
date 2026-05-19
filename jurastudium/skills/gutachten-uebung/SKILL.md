@@ -7,7 +7,7 @@ description: >
   „Klausur Feedback" oder „Subsumtion prüfen" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Gutachtenstil üben
   - Klausur Feedback
   - Gutachten prüfen

@@ -8,7 +8,7 @@ description: >
 language: de
 argument-hint: "[Rechtsgebiet, oder --schriftlich / --mündlich / --session <n>]"
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - examensklausur
   - übungsfragen
   - teste mich

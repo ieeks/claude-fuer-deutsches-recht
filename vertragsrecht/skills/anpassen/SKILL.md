@@ -7,7 +7,7 @@ description: >
   „Klauselposition ändern" oder „konfigurieren" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Profil anpassen
   - Playbook ändern
   - Konfiguration ändern

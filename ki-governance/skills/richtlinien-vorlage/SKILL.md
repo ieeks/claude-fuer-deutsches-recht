@@ -9,7 +9,7 @@ description: >
   Ähnliches sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - KI-Richtlinie entwerfen
   - KI-Nutzungsrichtlinie erstellen
   - AI-Act-konforme Richtlinie

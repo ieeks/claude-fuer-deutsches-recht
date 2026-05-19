@@ -8,7 +8,7 @@ description: >
   „Stundenplan Staatsexamen" oder „wie soll ich für [Prüfung] lernen" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Lernplan erstellen
   - Examensvorbereitung planen
   - Staatsexamen Lernplan

@@ -9,7 +9,7 @@ description: >
   Offenlegungsanhängen im M&A-Kontext.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Vertragsanhang erstellen
   - wesentliche Verträge
   - Disclosure Schedule

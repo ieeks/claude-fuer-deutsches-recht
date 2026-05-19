@@ -9,7 +9,7 @@ description: >
   prüfen" sagt oder die Konfigurationsdatei fehlt bzw. `[PLATZHALTER]` enthält.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - KI-Governance einrichten
   - KI-Inventar erfassen
   - Plugin konfigurieren

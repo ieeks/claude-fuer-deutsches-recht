@@ -4,7 +4,7 @@ description: Wochenaktuelle Drei-Wochen-Liquiditätsvorschau nach § 17 InsO. Er
 language: de
 license: Apache-2.0 OR MIT
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Drei-Wochen-Liquidität
   - 3-Wochen-Vorschau
   - Liquidität wöchentlich prüfen

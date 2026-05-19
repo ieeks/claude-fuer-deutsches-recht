@@ -2,14 +2,14 @@
 name: anpassen
 description: >
   Geführte Anpassung Ihres Produktrecht-Praxisprofils – eine Sache ändern ohne
-  das gesamte Cold-Start-Interview erneut auszuführen. Risikokalibrierung,
+  das gesamte Kaltstart-Interview erneut auszuführen. Risikokalibrierung,
   Eskalationskontakte, Launch-Review-Framework, Werbeaussagen-Haltung oder
   Mandate-Workspace-Pfade anpassen. Verwenden wenn der Nutzer sagt „mein
   [Ding] ändern", „mein Profil aktualisieren", „mein Framework bearbeiten",
   „meine Kalibrierung anpassen" oder „anpassen".
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - anpassen
   - konfiguration ändern
   - profil aktualisieren
@@ -22,11 +22,11 @@ argument-hint: "[Abschnittsname, oder beschreiben was Sie ändern möchten]"
 
 ## Wann dies ausgeführt wird
 
-Der Nutzer hat `/produktrecht:anpassen` eingegeben. Er möchte etwas in seinem Produktrecht-Profil ändern – eine Risikokalibrierungs-Schwelle, einen Eskalationskontakt, einen Framework-Abschnitt – ohne das gesamte Cold-Start-Interview erneut auszuführen und ohne YAML direkt zu bearbeiten.
+Der Nutzer hat `/produktrecht:anpassen` eingegeben. Er möchte etwas in seinem Produktrecht-Profil ändern – eine Risikokalibrierungs-Schwelle, einen Eskalationskontakt, einen Framework-Abschnitt – ohne das gesamte Kaltstart-Interview erneut auszuführen und ohne YAML direkt zu bearbeiten.
 
 ## Was zu tun ist
 
-1. **Konfiguration lesen.** `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` lesen (und `~/.claude/plugins/config/claude-fuer-legal/unternehmens-profil.md` eine Ebene darüber). Wenn die Plugin-Konfiguration nicht existiert oder noch `[PLATZHALTER]`-Werte enthält, sagen:
+1. **Konfiguration lesen.** `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` lesen (und `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` eine Ebene darüber). Wenn die Plugin-Konfiguration nicht existiert oder noch `[PLATZHALTER]`-Werte enthält, sagen:
 
    > Sie haben das Setup noch nicht ausgeführt. Führen Sie zuerst `/produktrecht:kaltstart-interview` aus – anpassen ist für die Anpassung eines Profils das Sie bereits haben.
 
@@ -52,7 +52,7 @@ Der Nutzer hat `/produktrecht:anpassen` eingegeben. Er möchte etwas in seinem P
    - *Neue Launch-Review-Kategorie:* „`/launch-pruefung` fügt einen Abschnitt für diese Kategorie hinzu. `/ist-das-ein-problem` wird es in der Triage muster-erkennen."
    - *Werbeaussagen-Haltung festigen:* „`/werbeaussagen-pruefung` wird mehr Sprache als substanziierungsbedürftig oder umformulierungsbedürftig flaggen."
 
-5. **Für gemeinsames-Profil-Änderungen** (Unternehmensname, Branche, Jurisdiktionen, Praxissetting, Phase): nach `~/.claude/plugins/config/claude-fuer-legal/unternehmens-profil.md` schreiben und vermerken:
+5. **Für gemeinsames-Profil-Änderungen** (Unternehmensname, Branche, Jurisdiktionen, Praxissetting, Phase): nach `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` schreiben und vermerken:
 
    > Diese Änderung betrifft alle Plugins – jedes Plugin das Ihren Jurisdiktions-Fußabdruck liest sieht jetzt [neuer Wert].
 

@@ -267,7 +267,7 @@ Die Antwort nach der Frage bemessen. Eine Orientierungsanfrage zu § 17 InsO bra
 
 *Nur relevant für Multi-Mandantenpraxen (Kanzlei – Solo, Klein, Groß). Wenn Sie Inhouse-Jurist für ein Unternehmen oder Insolvenzverwalter mit einem Verfahren sind, ist dieser Abschnitt deaktiviert.*
 
-**Aktiviert:** ✗ (bei Cold-Start für Kanzleibetrieb gesetzt; Inhouse-Nutzer sehen dies nie)
+**Aktiviert:** ✗ (bei Kaltstart für Kanzleibetrieb gesetzt; Inhouse-Nutzer sehen dies nie)
 **Aktives Mandat:** keines
 **Mandatsübergreifender Kontext:** deaktiviert
 

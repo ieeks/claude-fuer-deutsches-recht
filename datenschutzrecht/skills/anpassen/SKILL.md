@@ -7,7 +7,7 @@ description: >
   die nicht passt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - anpassen
   - konfigurieren
   - ändern
@@ -19,7 +19,7 @@ when_to_use: |
 
 ## Zweck
 
-Gezieltes Aktualisieren einzelner Abschnitte von `CLAUDE.md`, ohne das gesamte Cold-Start-Interview zu wiederholen. Typische Anlässe: neue Aufsichtsbehörde wegen Umzug der Hauptniederlassung, geänderter AVV-Dealbreaker nach Vertragsverhandlung, neue Systemliste nach IT-Migration, aktualisertes DSFA-Format nach Audit-Feedback, Wechsel des internen DSB.
+Gezieltes Aktualisieren einzelner Abschnitte von `CLAUDE.md`, ohne das gesamte Kaltstart-Interview zu wiederholen. Typische Anlässe: neue Aufsichtsbehörde wegen Umzug der Hauptniederlassung, geänderter AVV-Dealbreaker nach Vertragsverhandlung, neue Systemliste nach IT-Migration, aktualisertes DSFA-Format nach Audit-Feedback, Wechsel des internen DSB.
 
 ## Eingaben
 

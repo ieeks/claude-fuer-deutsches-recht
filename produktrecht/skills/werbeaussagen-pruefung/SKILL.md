@@ -7,7 +7,7 @@ description: >
   prüfen" oder vergleichbare Werbebehauptungen zur Überprüfung vorlegt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Werbetext prüfen
   - Marketingaussagen prüfen
   - UWG-Prüfung

@@ -12,7 +12,7 @@ description: >
   „NDA-Verhandlung" auftreten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - NDA durchsetzen
   - NDA Redline
   - NDA Gegenseite

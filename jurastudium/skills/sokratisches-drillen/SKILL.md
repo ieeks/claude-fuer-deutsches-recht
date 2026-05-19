@@ -7,7 +7,7 @@ description: >
   „Fragen-Antwort-Drill" oder „mündliche Prüfung üben" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - mündlich prüfen
   - AG-Gespräch
   - Abfrage Strafrecht

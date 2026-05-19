@@ -2,14 +2,14 @@
 name: anpassen
 description: >
   Geführte Anpassung Ihres KI-Governance-Praxisprofils – eine Einstellung ändern, ohne das
-  vollständige Cold-Start-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte,
+  vollständige Kaltstart-Interview neu zu starten. Risikoeinstellung, Eskalationskontakte,
   Use-Case-Register-Einträge, Vendor-KI-Positionen, KI-Richtlinien-Commitments,
   Folgenabschätzungs-Hausformat oder Mandats-Workspace-Pfade anpassen. Verwenden, wenn
   der Nutzer sagt „ändere mein [Ding]", „Profil aktualisieren", „Konfiguration bearbeiten",
   „Playbook anpassen" oder „anpassen".
 argument-hint: "[Abschnittsname oder Beschreibung der gewünschten Änderung]"
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Profil anpassen
   - Playbook ändern
   - anpassen
@@ -26,7 +26,7 @@ language: de
 
 Der Nutzer hat `/ki-governance:anpassen` eingegeben. Er möchte etwas in seinem Praxisprofil
 ändern – eine Risikoeinstellung, einen Eskalationskontakt, eine Playbook-Position, eine
-Jurisdiktion, ein Ausgabeformat – ohne das gesamte Cold-Start-Interview neu zu starten und
+Jurisdiktion, ein Ausgabeformat – ohne das gesamte Kaltstart-Interview neu zu starten und
 ohne YAML manuell zu bearbeiten.
 
 ## Eingaben

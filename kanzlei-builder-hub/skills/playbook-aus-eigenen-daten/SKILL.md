@@ -4,7 +4,7 @@ description: Erzeugt aus eigenen Daten (E-Mails, Schriftsätzen, Aktenexporten, 
 language: de
 license: Apache-2.0 OR MIT
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - playbook aus meinen daten erstellen
   - wie mache ich aus meinen e-mails ein playbook
   - spielbuch aus akten generieren

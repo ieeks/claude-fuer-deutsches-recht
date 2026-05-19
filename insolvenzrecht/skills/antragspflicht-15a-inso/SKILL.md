@@ -8,7 +8,7 @@ description: >
   oder „§ 15a InsO" auftreten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Antragspflicht
   - Insolvenzverschleppung
   - § 15a InsO

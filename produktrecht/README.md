@@ -13,11 +13,11 @@ Rechtliche Abläufe für Produktteams: Launch-Review, Werbeaussagen-Prüfung, Fe
 | **Marketing / Brand** | Werbeaussagen-Prüfung vor Veröffentlichung |
 | **GC / Leiter Rechtsabteilung** | Feature-Risikobewertung für eskalierte Punkte |
 
-## Erster Start: das Cold-Start-Interview
+## Erster Start: das Kaltstart-Interview
 
 Verbindet sich mit Ihrem Launch-Tracker (Jira/Linear), liest zehn vergangene Launch-Reviews, lernt was Sie tatsächlich blockieren vs. durchwinken. Erstellt eine Risikokalibrierungstabelle, auf die jeder andere Skill zurückgreift.
 
-Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` gespeichert und überlebt Plugin-Updates.
+Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` gespeichert und überlebt Plugin-Updates.
 
 ```
 /produktrecht:kaltstart-interview
@@ -27,7 +27,7 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-legal/produk
 
 | Befehl | Funktion |
 |---|---|
-| `/produktrecht:kaltstart-interview` | Cold-Start-Interview |
+| `/produktrecht:kaltstart-interview` | Kaltstart-Interview |
 | `/produktrecht:launch-pruefung [PRD oder Ticket]` | Vollständiger Launch-Review gegen Ihr Framework |
 | `/produktrecht:werbeaussagen-pruefung [Text]` | Werbeaussagen-Prüfung |
 | `/produktrecht:ist-das-ein-problem [Frage]` | Schnelle „Ist-das-ein-Problem?"-Antwort |
@@ -40,7 +40,7 @@ Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-legal/produk
 
 | Skill | Zweck |
 |---|---|
-| **kaltstart-interview** | Erstellt `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` aus Interview + vergangenen Launch-Reviews |
+| **kaltstart-interview** | Erstellt `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` aus Interview + vergangenen Launch-Reviews |
 | **launch-pruefung** | Kategorie-für-Kategorie-Review, kalibriert auf Ihr Unternehmen (Sieben-Kategorien-Framework: Werberecht, Datenschutz, Produktsicherheit, AGB, Verbraucherrechte, Geistiges Eigentum, Aufsichtsrecht) |
 | **werbeaussagen-pruefung** | Werbeaussagen-Taxonomie: Marktschreierische Anpreisung / Tatsachenbehauptung / Vergleich / implizierte Aussage / absolute Aussage; Prüfung nach §§ 5, 5a, 5b UWG und PAngV |
 | **feature-risikobewertung** | Tiefgehende Analyse eines einzelnen Features (UWG, DSGVO, DSA, KI-VO, Verbraucherschutz BGB) |
@@ -69,7 +69,7 @@ Ausgeliefert mit in `.mcp.json` konfigurierten Konnektoren:
 - **Atlassian** – Jira-Issues und Confluence-Seiten
 - **Asana** – Aufgaben und Projekt-Tracking
 
-Mit verbundenem Tracker: Cold-Start liest Launch-Historie, launch-pruefung liest Ticket-Kontext, markteinfuehrungs-monitor-Agent überwacht den Kalender.
+Mit verbundenem Tracker: Kaltstart liest Launch-Historie, launch-pruefung liest Ticket-Kontext, markteinfuehrungs-monitor-Agent überwacht den Kalender.
 
 ## Schnellstart
 
@@ -93,7 +93,7 @@ Dann:
 
 ## Wie das Plugin lernt
 
-Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` ist nicht statisch – es verbessert sich durch Nutzung. Skills zeigen an, wenn eine Ausgabe eine Standard-Einstellung verwendet hat, die Sie anpassen sollten. Sie können das Setup erneut ausführen, die Datei direkt bearbeiten oder einem Skill mitteilen, eine neue Position zu erfassen.
+Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` ist nicht statisch – es verbessert sich durch Nutzung. Skills zeigen an, wenn eine Ausgabe eine Standard-Einstellung verwendet hat, die Sie anpassen sollten. Sie können das Setup erneut ausführen, die Datei direkt bearbeiten oder einem Skill mitteilen, eine neue Position zu erfassen.
 
 ## Wichtige Normen dieses Plugins
 
@@ -119,4 +119,4 @@ Einige Features referenzieren externe Integrationen (Dokumentenmanagementsystem,
 
 ## Konfiguration
 
-Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md` gespeichert und überlebt Plugin-Updates – Sie führen das Setup nur einmal aus.
+Ihre Konfiguration wird unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md` gespeichert und überlebt Plugin-Updates – Sie führen das Setup nur einmal aus.

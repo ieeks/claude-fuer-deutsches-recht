@@ -7,7 +7,7 @@ description: >
   Ausnahmen nach §§ 34, 35 BDSG werden geprüft.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Betroffenenanfrage
   - Auskunftsanfrage
   - DSAR

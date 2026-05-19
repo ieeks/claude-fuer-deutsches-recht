@@ -9,7 +9,7 @@ description: >
   eine Fristenübersicht für laufende Mandate benötigt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Frist eintragen
   - Fristenübersicht
   - Notfrist

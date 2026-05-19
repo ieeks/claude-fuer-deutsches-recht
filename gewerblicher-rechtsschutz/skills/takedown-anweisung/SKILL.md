@@ -8,7 +8,7 @@ description: >
   Meldung oder der Formulierung einer Gegendarstellung.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Take-Down Meldung
   - Notice and Take Down Deutschland
   - Hostprovider Haftung

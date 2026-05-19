@@ -6,7 +6,7 @@ description: >
   (kein Kontext-Leak zwischen Mandaten). Für internen Unternehmenseinsatz nicht relevant.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Mandat anlegen
   - Mandatswechsel
   - mandat-arbeitsbereich

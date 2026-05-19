@@ -9,7 +9,7 @@ description: >
 argument-hint: "[optional: Fachbereich – z. B. 'asyl', 'sgbii', 'mietrecht']"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - leitfaden erstellen
   - beratungsstelle aufbauen
   - guide konfigurieren

@@ -7,7 +7,7 @@ description: >
   Richtung (Auftragsverarbeiter oder Verantwortlicher) wird automatisch erkannt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - AVV
   - Auftragsverarbeitungsvertrag
   - dpa review

@@ -9,7 +9,7 @@ description: >
   oder vergleichbare Formulierungen verwendet.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Profil ändern
   - Konfiguration aktualisieren
   - Einstellung anpassen

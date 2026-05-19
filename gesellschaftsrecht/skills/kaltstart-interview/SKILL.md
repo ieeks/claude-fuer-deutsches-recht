@@ -8,7 +8,7 @@ description: >
   oder zur Überprüfung von Integrationen (--integrationen-pruefen).
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Ersteinrichtung
   - Praxisprofil einrichten
   - cold-start

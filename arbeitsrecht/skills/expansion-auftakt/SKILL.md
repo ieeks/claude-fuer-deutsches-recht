@@ -9,7 +9,7 @@ description: >
   „Expansion nach [Land]" oder „erste Einstellung in [Land]".
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Expansion
   - Neueinstellung Ausland
   - erste Einstellung

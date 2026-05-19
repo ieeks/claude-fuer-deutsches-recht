@@ -3,7 +3,7 @@ name: richtlinien-neufassung
 description: Richtlinien-Neufassung – erstellt einen markierten Entwurf einer internen Richtlinie, der eine identifizierte Compliance-Lücke schließt. Laden, wenn eine Richtlinie nach einem Diff oder einer Gap-Analyse überarbeitet werden soll.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - richtlinien-neufassung
   - Richtlinien-Neufassung
   - Richtlinie überarbeiten

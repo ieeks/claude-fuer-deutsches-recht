@@ -8,7 +8,7 @@ description: >
   Weiterverfolgung oder Ablehnung benötigt wird.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Erfindungsmeldung
   - Arbeitnehmererfindung
   - Patentanmeldung prüfen

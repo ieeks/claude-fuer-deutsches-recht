@@ -8,7 +8,7 @@ description: >
   KI", „neue KI-Verordnung prüfen" oder Regelungstext eingibt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Lückenanalyse AI Act
   - gilt der AI Act für uns
   - Compliance-Prüfung KI

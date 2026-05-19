@@ -7,7 +7,7 @@ description: >
   Abmahnung / einstweilige Verfügung / Klage.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - verletzung
   - infringement
   - verletzungs-triage

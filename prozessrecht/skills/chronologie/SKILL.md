@@ -3,7 +3,7 @@ name: chronologie
 description: Aufbau oder Aktualisierung einer Sachverhalts-Chronologie aus Dokumentenquellen und Uploads – datierte Ereignisse werden extrahiert, dedupliziert und nach Bedeutung für die Mandatstheorie markiert. Verwenden, wenn der Nutzer eine Chronologie oder einen Zeitstrahl aus einer Produktion oder Mandatsakte erstellen möchte, „Chronologie aus den Unterlagen" oder „was ist wann passiert" sagt oder einen Arbeits-, Sachverhaltdarstellungs- oder Zeugen-Zeitstrahl benötigt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - chronologie
   - sachverhaltschronologie
   - zeitstrahl

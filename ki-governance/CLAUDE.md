@@ -14,7 +14,7 @@ Regeln für alle Skills, Befehle und Agenten dieses Plugins:
    hängen davon ab. Ohne Setup sind Ausgaben generisch und spiegeln nicht Ihre tatsächliche
    Praxis wider." NUR die Skills /ki-governance:kaltstart-interview selbst und ein
    --check-integrations-Flag dürfen ohne Setup laufen.
-3. Setup und Cold-Start-Interview SCHREIBEN in diesen Pfad, legen übergeordnete Verzeichnisse
+3. Setup und Kaltstart-Interview SCHREIBEN in diesen Pfad, legen übergeordnete Verzeichnisse
    bei Bedarf an.
 4. Bei erstem Lauf nach einem Plugin-Update: Falls eine befüllte CLAUDE.md am alten Cache-Pfad
    (~/.claude/plugins/cache/claude-fuer-deutsches-recht/ki-governance/<version>/CLAUDE.md)
@@ -31,7 +31,7 @@ Existiert sie nicht, erstellt das Setup dieses Plugins sie.
 
 # KI-Governance-Praxisprofil
 
-*Erstellt durch das Cold-Start-Interview. Bis dahin ist dies eine Vorlage – wenn Sie
+*Erstellt durch das Kaltstart-Interview. Bis dahin ist dies eine Vorlage – wenn Sie
 `[PLATZHALTER]` sehen, führen Sie `/ki-governance:kaltstart-interview` aus.*
 
 ---
@@ -379,7 +379,7 @@ schlechtere Antwort gibt als nacktes Claude, hat versagt.
 *Nur relevant für Mehrmandat-Praxis (Kanzlei – Solo, Klein-, Großkanzlei). Wenn Sie
 In-house-KI-Governance für ein Unternehmen betreiben, ist dieser Abschnitt inaktiv.*
 
-**Aktiviert:** ✗ (im Cold-Start für Kanzleipraxis gesetzt; In-house-Nutzer sehen dies nie)
+**Aktiviert:** ✗ (im Kaltstart für Kanzleipraxis gesetzt; In-house-Nutzer sehen dies nie)
 **Aktives Mandat:** keines
 **Mandatsübergreifender Kontext:** aus
 

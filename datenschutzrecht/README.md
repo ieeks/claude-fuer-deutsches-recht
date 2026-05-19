@@ -14,7 +14,7 @@ Datenschutzrechtliche Arbeitsabläufe für Kanzleien und Datenschutzbeauftragte:
 | **Produktverantwortliche / Entwickler** | DSFA-Einstieg, Rechtsgrundlagen-Triage, Einwilligungsgestaltung |
 | **Sachbearbeitung / Support** | Betroffenenanfragen-Erstbearbeitung (mit Eskalation) |
 
-## Ersteinrichtung: Cold-Start-Interview
+## Ersteinrichtung: Kaltstart-Interview
 
 Das Plugin befragt Sie zur Identifikation Ihrer Organisation: Verantwortlicher oder Auftragsverarbeiter? Welche Verarbeitungstätigkeiten? Zuständige Aufsichtsbehörde (BfDI oder zuständiger LfDI)? Interner oder externer DSB? Anschließend liest es drei Ausgangsdokumente – Datenschutzerklärung, AVV-Vorlage, eine abgeschlossene DSFA – und erlernt Ihre Positionen und Ihren Kanzleistil.
 

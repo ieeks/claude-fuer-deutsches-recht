@@ -7,7 +7,7 @@ description: |
   oder einen Vollstreckungsbescheid betrifft.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Mahnbescheid
   - Mahnverfahren
   - § 688 ZPO

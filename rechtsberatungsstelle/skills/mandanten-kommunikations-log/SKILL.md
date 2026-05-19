@@ -9,7 +9,7 @@ description: >
 argument-hint: "[optional: Aktenzeichen oder Mandantenkennung]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - kommunikation protokollieren
   - kontakt loggen
   - mandantenkontakt

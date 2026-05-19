@@ -3,7 +3,7 @@ name: nda-pruefung
 description: Schnelle Triage von eingehenden NDA-/Geheimhaltungsvereinbarungen in GRÜN / GELB / ROT, damit nur die Vereinbarungen anwaltliche Zeit beanspruchen, die sie wirklich brauchen. Geeignet für Vertrieb und BD zur eigenständigen Erstprüfung. Wird von /vertragsrecht:pruefen geladen, wenn ein NDA erkannt wird.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - nda
   - geheimhaltungsvereinbarung
   - verschwiegenheitserklärung

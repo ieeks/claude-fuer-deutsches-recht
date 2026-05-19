@@ -8,7 +8,7 @@ description: >
 language: de
 argument-hint: "[Rechtsgebiet oder Bundesland, oder --statistik]"
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - examensprognose
   - was kommt im examen
   - jpa-statistik

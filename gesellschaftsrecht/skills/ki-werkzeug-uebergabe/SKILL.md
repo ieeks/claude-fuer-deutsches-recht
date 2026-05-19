@@ -7,7 +7,7 @@ description: >
   ein einheitliches Klausel-Extraktionsprofil erfordern.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Luminance
   - Kira
   - KI-Prüfung

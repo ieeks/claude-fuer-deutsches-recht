@@ -9,7 +9,7 @@ description: >
   Zulässigkeitsvoraussetzungen des Gläubigerantrags zu prüfen sind.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Gläubigerantrag
   - § 14 InsO
   - Insolvenzantrag Gläubiger

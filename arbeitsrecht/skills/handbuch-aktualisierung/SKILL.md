@@ -9,7 +9,7 @@ description: >
   oder „Richtlinie ändern".
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Personalhandbuch aktualisieren
   - Handbuch ändern
   - Betriebsvereinbarung anpassen

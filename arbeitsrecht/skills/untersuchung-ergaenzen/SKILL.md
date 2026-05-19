@@ -9,7 +9,7 @@ description: >
   eingehen.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Untersuchung Daten hinzufügen
   - Befragungsnotizen einpflegen
   - Dokumente zur Untersuchung

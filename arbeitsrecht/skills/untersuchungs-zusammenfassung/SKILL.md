@@ -8,7 +8,7 @@ description: >
   erhalten darf oder soll.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Untersuchung zusammenfassen
   - HR-Zusammenfassung Untersuchung
   - Aufsichtsrat briefen

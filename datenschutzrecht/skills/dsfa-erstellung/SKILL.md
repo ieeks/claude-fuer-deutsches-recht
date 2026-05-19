@@ -6,7 +6,7 @@ description: >
   Auslöser: Neues Verarbeitungsvorhaben, Systemeinführung, oder Ergebnis aus anwendungsfall-triage.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - DSFA
   - Datenschutz-Folgenabschätzung
   - PIA

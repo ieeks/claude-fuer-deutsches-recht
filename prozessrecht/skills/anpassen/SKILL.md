@@ -1,9 +1,9 @@
 ---
 name: anpassen
-description: Geführte Anpassung des Praxisprofils – einzelne Einstellungen ändern, ohne das gesamte Cold-Start-Interview zu wiederholen. Rolle, Praxisschwerpunkte, Risikostrategie, Kanzleistil, Vergütungsart oder Integrationen einzeln aktualisieren.
+description: Geführte Anpassung des Praxisprofils – einzelne Einstellungen ändern, ohne das gesamte Kaltstart-Interview zu wiederholen. Rolle, Praxisschwerpunkte, Risikostrategie, Kanzleistil, Vergütungsart oder Integrationen einzeln aktualisieren.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - anpassen
   - profil ändern
   - einstellung ändern
@@ -16,7 +16,7 @@ when_to_use: |
 
 ## Zweck
 
-Gezielte Änderung einzelner Felder des Praxisprofils in CLAUDE.md, ohne den gesamten Cold-Start-Prozess zu wiederholen. Geeignet für Wechsel des Praxisschwerpunkts, Anpassung der Risikostrategie, Aktivierung neuer Integrationen oder Korrektur falscher Angaben.
+Gezielte Änderung einzelner Felder des Praxisprofils in CLAUDE.md, ohne den gesamten Kaltstart-Prozess zu wiederholen. Geeignet für Wechsel des Praxisschwerpunkts, Anpassung der Risikostrategie, Aktivierung neuer Integrationen oder Korrektur falscher Angaben.
 
 ## Eingaben
 

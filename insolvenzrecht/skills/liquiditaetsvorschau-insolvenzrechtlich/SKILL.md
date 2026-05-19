@@ -8,7 +8,7 @@ description: >
   13-Wochen- bzw. 24-Monats-Vorschau nach IDW S 11 zu konstruieren ist.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Liquiditätsvorschau
   - Liquiditätsbilanz
   - Zahlungsunfähigkeit nachweisen

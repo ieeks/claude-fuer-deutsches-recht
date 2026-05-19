@@ -257,7 +257,7 @@ Die Antwort nach der Frage bemessen. Eine Orientierungsanfrage zu § 1863 BGB br
 
 *Nur relevant für Berufsbetreuer-Büros mit mehreren Betreuten oder Betreuungsvereine. Wenn Sie Einzelbetreuer für eine Person sind, ist dieser Abschnitt deaktiviert.*
 
-**Aktiviert:** ✗ (bei Cold-Start für Bürobetrieb gesetzt; Einzelbetreuer sehen dies nie)
+**Aktiviert:** ✗ (bei Kaltstart für Bürobetrieb gesetzt; Einzelbetreuer sehen dies nie)
 **Aktiver Betreuter:** keiner
 **Betreuten-übergreifender Kontext:** deaktiviert
 

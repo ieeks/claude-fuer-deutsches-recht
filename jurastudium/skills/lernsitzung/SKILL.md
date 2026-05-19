@@ -7,7 +7,7 @@ description: >
   „5 Karten zu [Thema]" oder „Abfrage [Rechtsgebiet]" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Lerneinheit starten
   - Fragen zu Strafrecht
   - Abfrage BGB

@@ -7,7 +7,7 @@ description: >
   Streitwert und Kostenansatz (RVG) oder ein Optionen-Memo zur erhaltenen Abmahnung.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - abmahnung
   - unterlassungserklärung
   - abmahnschreiben

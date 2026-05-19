@@ -10,7 +10,7 @@ description: >
   „Policy-Monitor starten" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Richtlinien-Sweep
   - KI-Richtlinie prüfen
   - AI-Act-Konformität überwachen

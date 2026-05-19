@@ -21,7 +21,7 @@ und entscheidet. Quellenangaben sind nach Herkunft gekennzeichnet. Berufsrechtli
 | **GC / Legal Ops** | KI-Richtlinien-Governance, Eskalation, Vorstandsthemen |
 | **Einkauf / Vertragsrecht** | Vendor-AI-Vertragsreview nach Art. 28 DSGVO / Art. 11 KI-VO |
 
-## Erster Start: das Cold-Start-Interview
+## Erster Start: das Kaltstart-Interview
 
 Das Plugin befragt Sie, um zu erfahren: Sind Sie Anbieter, Betreiber oder beides? Welche
 Regelwerke greifen konkret? Wo sind die roten Linien? Wie sieht eine interne Folgenabschätzung
@@ -36,7 +36,7 @@ und Ihren Haustil.
 
 | Befehl | Funktion |
 |---|---|
-| `/ki-governance:kaltstart-interview` | Cold-Start-Interview – schreibt Ihr Praxisprofil |
+| `/ki-governance:kaltstart-interview` | Kaltstart-Interview – schreibt Ihr Praxisprofil |
 | `/ki-governance:ki-inventar [list \| add \| edit \| classify \| show]` | KI-Inventar verwalten – Rolle und Risikoklasse je KI-System nach KI-VO erfassen |
 | `/ki-governance:anwendungsfall-triage [Anwendungsfall]` | Use-Case gegen Ihr Register prüfen (genehmigt / bedingt / nie) |
 | `/ki-governance:ki-folgenabschaetzung [Anwendungsfall]` | KI-Folgenabschätzung (FRIA Art. 27 KI-VO + DSFA Art. 35 DSGVO) erstellen |

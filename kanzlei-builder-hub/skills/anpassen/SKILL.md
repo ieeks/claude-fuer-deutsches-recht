@@ -8,7 +8,7 @@ description: >
 argument-hint: "[--profil | --positivliste | --registries | --updates | --tom | Abschnittsname]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - kanzleiprofil anpassen
   - positivliste bearbeiten
   - registry hinzufügen
@@ -20,7 +20,7 @@ when_to_use: |
 
 ## Zweck
 
-Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzleiprofils und der Hub-Einstellungen, ohne das vollständige Cold-Start-Interview zu wiederholen. Verwenden Sie ihn, wenn sich Ihre Kanzlei, Rechtsgebiete, Teamzusammensetzung oder Sicherheitseinstellungen geändert haben.
+Dieser Skill ermöglicht die gezielte Anpassung einzelner Abschnitte des Kanzleiprofils und der Hub-Einstellungen, ohne das vollständige Kaltstart-Interview zu wiederholen. Verwenden Sie ihn, wenn sich Ihre Kanzlei, Rechtsgebiete, Teamzusammensetzung oder Sicherheitseinstellungen geändert haben.
 
 **Änderungshistorie:** Jede Änderung wird mit Zeitstempel protokolliert, damit nachvollziehbar bleibt, was wann und aus welchem Grund geändert wurde.
 

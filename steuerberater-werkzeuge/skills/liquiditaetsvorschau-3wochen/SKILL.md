@@ -4,7 +4,7 @@ description: Kurzfristige Drei-Wochen-Liquiditätsvorschau für GmbH/UG zur wöc
 language: de
 license: Apache-2.0 OR MIT
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Drei-Wochen-Liquidität
   - 3-Wochen-Vorschau
   - Liquidität wöchentlich prüfen

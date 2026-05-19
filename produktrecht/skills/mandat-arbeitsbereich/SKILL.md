@@ -8,7 +8,7 @@ description: >
   parallelen Produktrechtsmandaten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Mandat anlegen
   - Mandatswechsel
   - Mandat wechseln

@@ -9,7 +9,7 @@ description: >
   oder „was ist noch offen".
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Post-Merger-Integration
   - Post-Closing
   - Betriebsübergang

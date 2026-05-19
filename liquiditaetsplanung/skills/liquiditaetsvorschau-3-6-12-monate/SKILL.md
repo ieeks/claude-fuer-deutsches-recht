@@ -4,7 +4,7 @@ description: Rollierende Liquiditätsvorschau über 13/26/52 Wochen für GmbH/UG
 language: de
 license: Apache-2.0 OR MIT
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Liquiditätsvorschau
   - Liquiditätsplanung
   - Cashflow-Planung

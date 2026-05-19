@@ -3,7 +3,7 @@ name: aenderungs-historie
 description: Verfolgt, wie sich ein Vertrag über Basisvertrag und alle Nachträge hinweg verändert hat – entweder als Gesamtüberblick aller Änderungen oder als Klausel-Rückverfolgung für eine bestimmte Bestimmung. Laden, wenn der Nutzer fragt „was hat sich in diesem Vertrag geändert", „zeig mir die Nachtragshistorie", „wo steht die aktuelle [Klausel]" oder mehrere Vertragsversionen hochlädt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - nachtrag
   - vertragsänderung
   - nachtragshistorie

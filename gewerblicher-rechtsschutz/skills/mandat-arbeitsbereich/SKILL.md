@@ -8,7 +8,7 @@ description: >
   in welchem Mandatskontext sie arbeitet.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Mandat anlegen
   - Mandatsakte wechseln
   - IP-Mandat verwalten

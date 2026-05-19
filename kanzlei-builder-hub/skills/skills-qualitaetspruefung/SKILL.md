@@ -12,7 +12,7 @@ description: >
   Skill-Installers.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Skill prüfen
   - Skill-Qualitätsprüfung
   - Skill bewerten

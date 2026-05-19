@@ -7,7 +7,7 @@ Die nutzerspezifische Konfiguration dieses Plugins liegt versionssicher unter:
 
 Regeln für alle Skills, Befehle und Agenten in diesem Plugin:
 1. Konfiguration aus dem obigen Pfad LESEN. Nicht aus dieser Datei.
-2. Falls diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit ANHALTEN. Meldung: „Das Plugin muss eingerichtet werden, bevor es nützliche Ausgaben liefern kann. Bitte /vertragsrecht:ersteinrichtung ausführen – Dauer ca. 10–15 Minuten; alle Funktionen hängen davon ab. Ohne Einrichtung sind Ausgaben generisch und spiegeln nicht die tatsächliche Praxis wider." NICHT mit Platzhalter- oder Standard-Konfiguration fortfahren. Die einzige Funktion, die ohne Einrichtung läuft, ist /vertragsrecht:ersteinrichtung selbst sowie ein optionales --integration-check-Flag.
+2. Falls diese Datei nicht existiert oder noch [PLATZHALTER]-Marker enthält, VOR substanzieller Arbeit ANHALTEN. Meldung: „Das Plugin muss eingerichtet werden, bevor es nützliche Ausgaben liefern kann. Bitte /vertragsrecht:kaltstart-interview ausführen – Dauer ca. 10–15 Minuten; alle Funktionen hängen davon ab. Ohne Einrichtung sind Ausgaben generisch und spiegeln nicht die tatsächliche Praxis wider." NICHT mit Platzhalter- oder Standard-Konfiguration fortfahren. Die einzige Funktion, die ohne Einrichtung läuft, ist /vertragsrecht:kaltstart-interview selbst sowie ein optionales --check-integrations-Flag.
 3. Einrichtung und Ersteinrichtung SCHREIBEN in diesen Pfad, ggf. übergeordnete Verzeichnisse anlegen.
 4. Diese Datei (die Sie gerade lesen) ist das TEMPLATE. Sie wird bei jedem Plugin-Update ersetzt. Nutzerdaten niemals hier speichern.
 
@@ -16,7 +16,7 @@ Regeln für alle Skills, Befehle und Agenten in diesem Plugin:
 
 # Vertragsrechtliches Praxisprofil
 
-*Diese Datei wird beim Ersteinrichtungs-Interview befüllt. Bis dahin ist sie ein Template. Solange [PLATZHALTER]-Werte sichtbar sind, bitte `/vertragsrecht:ersteinrichtung` ausführen.*
+*Diese Datei wird beim Ersteinrichtungs-Interview befüllt. Bis dahin ist sie ein Template. Solange [PLATZHALTER]-Werte sichtbar sind, bitte `/vertragsrecht:kaltstart-interview` ausführen.*
 
 *Nach Befüllung: Diese Datei direkt bearbeiten. Jeder Skill in diesem Plugin liest sie vor Beginn jeder Tätigkeit. Eine Änderung hier wirkt sich überall aus.*
 
@@ -102,7 +102,7 @@ Dieses Plugin arbeitet im Rahmen des deutschen Privatrechts. Maßgebliche Rechts
 | Dokumenten-Ablage (Drive / SharePoint / Box) | [PLATZHALTER ✓/✗] | Nutzer lädt Verträge für jede Prüfung direkt hoch |
 | Slack | [PLATZHALTER ✓/✗] | Benachrichtigungen und Zusammenfassungen direkt inline zugestellt |
 
-*Erneut prüfen: `/vertragsrecht:ersteinrichtung --check-integrations`*
+*Erneut prüfen: `/vertragsrecht:kaltstart-interview --check-integrations`*
 
 ---
 
@@ -119,7 +119,7 @@ Dieses Plugin arbeitet im Rahmen des deutschen Privatrechts. Maßgebliche Rechts
 
 *Gilt, wenn das Unternehmen Verkäufer/Auftragnehmer ist. In der Regel unser Muster.*
 
-*[Nicht konfiguriert – `/vertragsrecht:ersteinrichtung --seite verkäufer` ausführen]*
+*[Nicht konfiguriert – `/vertragsrecht:kaltstart-interview --seite verkäufer` ausführen]*
 
 #### Haftungsbegrenzung (§§ 276, 309 Nr. 7 BGB; § 307 BGB)
 
@@ -194,7 +194,7 @@ Dieses Plugin arbeitet im Rahmen des deutschen Privatrechts. Maßgebliche Rechts
 
 *Gilt, wenn das Unternehmen Auftraggeber/Käufer ist. In der Regel deren Muster.*
 
-*[Nicht konfiguriert – `/vertragsrecht:ersteinrichtung --seite käufer` ausführen]*
+*[Nicht konfiguriert – `/vertragsrecht:kaltstart-interview --seite käufer` ausführen]*
 
 #### Haftungsbegrenzung (§§ 276, 309 Nr. 7 BGB; § 307 BGB)
 
@@ -429,4 +429,4 @@ Verbindliche Methodik nach `../references/methodik-deutsches-recht.md`:
 
 ---
 
-*Interview wiederholen: `/vertragsrecht:ersteinrichtung --redo`*
+*Interview wiederholen: `/vertragsrecht:kaltstart-interview --redo`*

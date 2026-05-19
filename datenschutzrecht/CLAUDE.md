@@ -7,8 +7,8 @@ Benutzerspezifische Konfiguration für dieses Plugin liegt an einem versionsunab
 
 Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
-2. Existiert diese Datei nicht oder enthält noch [PLATZHALTER]-Marker, VOR substanzieller Arbeit STOPPEN. Ausgabe: „Dieses Plugin benötigt eine Einrichtung, bevor es sinnvolle Ergebnisse liefern kann. Führen Sie /datenschutzrecht:kaltstart-interview aus – die Einrichtung dauert ca. 10–15 Minuten; ohne sie sind Ausgaben generisch und entsprechen nicht Ihrer tatsächlichen Praxis." Ausnahme: Das Cold-Start-Interview selbst und --check-integrations laufen auch ohne Setup.
-3. Setup und Cold-Start-Interview SCHREIBEN in diesen Pfad (übergeordnete Verzeichnisse werden angelegt).
+2. Existiert diese Datei nicht oder enthält noch [PLATZHALTER]-Marker, VOR substanzieller Arbeit STOPPEN. Ausgabe: „Dieses Plugin benötigt eine Einrichtung, bevor es sinnvolle Ergebnisse liefern kann. Führen Sie /datenschutzrecht:kaltstart-interview aus – die Einrichtung dauert ca. 10–15 Minuten; ohne sie sind Ausgaben generisch und entsprechen nicht Ihrer tatsächlichen Praxis." Ausnahme: Das Kaltstart-Interview selbst und --check-integrations laufen auch ohne Setup.
+3. Setup und Kaltstart-Interview SCHREIBEN in diesen Pfad (übergeordnete Verzeichnisse werden angelegt).
 4. Bei erstem Start nach einem Plugin-Update: Wenn eine befüllte CLAUDE.md am alten Cache-Pfad existiert, aber nicht am Konfigurationspfad, diese automatisch dorthin übertragen.
 5. Diese Datei hier ist die VORLAGE. Sie wird mit jedem Plugin-Update überschrieben. Keine Benutzerdaten hier eintragen.
 
@@ -16,7 +16,7 @@ Regeln für jeden Skill, jeden Befehl und jeden Agenten in diesem Plugin:
 -->
 
 # Datenschutzrecht – Praxisprofil
-*Geschrieben durch das Cold-Start-Interview. Bis dahin ist dies eine Vorlage – enthält die Datei `[PLATZHALTER]`, führen Sie `/datenschutzrecht:kaltstart-interview` aus.*
+*Geschrieben durch das Kaltstart-Interview. Bis dahin ist dies eine Vorlage – enthält die Datei `[PLATZHALTER]`, führen Sie `/datenschutzrecht:kaltstart-interview` aus.*
 
 ---
 
@@ -281,7 +281,7 @@ Diese Regeln gelten für jeden Skill in diesem Plugin. Bei Widersprüchen zwisch
 
 *Nur relevant für Mehrmandat-Kanzleien. Bei internem Unternehmenseinsatz: diese Sektion ist deaktiviert.*
 
-**Aktiviert:** ✗ (beim Cold-Start für Kanzleien gesetzt)
+**Aktiviert:** ✗ (beim Kaltstart für Kanzleien gesetzt)
 **Aktives Mandat:** keins
 **Mandatsübergreifender Kontext:** aus
 

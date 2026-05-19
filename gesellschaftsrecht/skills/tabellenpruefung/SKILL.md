@@ -10,7 +10,7 @@ description: >
   „Tabelle erstellen" oder bei Verweis auf einen Dokumentenordner mit Vergleichsauftrag.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - tabellarisches Review
   - Review-Raster
   - Due Diligence Tabelle

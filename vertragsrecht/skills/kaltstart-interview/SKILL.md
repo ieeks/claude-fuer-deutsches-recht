@@ -8,7 +8,7 @@ description: >
   „Vertragsmandat aufnehmen" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Plugin einrichten
   - Erstgespräch
   - Mandatsaufnahme

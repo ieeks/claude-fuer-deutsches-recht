@@ -7,7 +7,7 @@ description: >
   „was ist im VDR" sagt oder auf VDR-Dokumente hinweist.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Datenraum prüfen
   - DD-Issues
   - Due Diligence

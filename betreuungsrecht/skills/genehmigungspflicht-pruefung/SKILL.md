@@ -10,7 +10,7 @@ description: >
   oder „Heimvertrag" auftreten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Genehmigung Betreuungsgericht
   - § 1848 BGB
   - § 1850 BGB

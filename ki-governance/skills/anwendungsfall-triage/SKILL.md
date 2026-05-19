@@ -9,7 +9,7 @@ description: >
   einsetzen", „ist das freigegeben" oder „Hochrisiko-KI klassifizieren" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - KI-Anwendungsfall triage
   - dürfen wir KI für X einsetzen
   - ist das freigegeben

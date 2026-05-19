@@ -7,7 +7,7 @@ description: >
   Überschuldungsstatus erstellt oder § 19 InsO ausgelegt werden soll.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Überschuldung
   - § 19 InsO
   - Überschuldungsstatus

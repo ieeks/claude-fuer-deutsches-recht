@@ -3,7 +3,7 @@ name: gegenseite-status
 description: Erstellt wöchentliche Statusanfrage-E-Mail-Entwürfe an externe Bevollmächtigte (Sozietät/Korrespondenzanwalt) für alle aktiven Prozessmandate im Portfolio — Markdown-Entwurf je Mandat, optional Outlook-Entwurf bei verfügbarer MCP-Integration. Lädt, wenn der Nutzer Statusanfragen an externe Bevollmächtigte erstellen, wöchentliche Rückfragen bei der Außensozietät generieren oder mandatsbezogene Anfragen-E-Mails aus dem Portfolio-Protokoll heraus entwerfen möchte.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Statusanfrage externe Bevollmächtigte
   - Korrespondenzanwalt anfragen
   - wöchentliche OC-Rückfrage

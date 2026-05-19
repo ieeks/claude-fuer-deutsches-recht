@@ -1,6 +1,6 @@
 # Prozessrecht-Plugin – Praxiskonfiguration
 
-> Diese Datei wird vom Cold-Start-Interview geschrieben und angepasst. Sie enthält das Praxisprofil der Kanzlei bzw. Rechtsabteilung und steuert alle Skills. Vor dem ersten Einsatz das Cold-Start-Interview mit `/Kaltstart` ausführen.
+> Diese Datei wird vom Kaltstart-Interview geschrieben und angepasst. Sie enthält das Praxisprofil der Kanzlei bzw. Rechtsabteilung und steuert alle Skills. Vor dem ersten Einsatz das Kaltstart-Interview mit `/prozessrecht:kaltstart-interview` ausführen.
 
 ---
 
@@ -90,7 +90,7 @@ Für das Prozessrecht maßgebliche Kommentarwerke:
 
 ---
 
-## 6. Praxisprofil (wird durch Cold-Start befüllt)
+## 6. Praxisprofil (wird durch Kaltstart befüllt)
 
 ```yaml
 kanzlei_typ: ""             # z. B. "Einzelanwalt", "Sozietät", "Rechtsabteilung"
@@ -113,7 +113,7 @@ kalender_mcp: false         # Kalender MCP verfügbar?
 
 | Skill | Befehl | Zweck |
 |---|---|---|
-| Cold-Start-Interview | `/Kaltstart` | Praxisprofil einrichten |
+| Kaltstart-Interview | `/prozessrecht:kaltstart-interview` | Praxisprofil einrichten |
 | Konfiguration anpassen | `/anpassen` | Einzelne Einstellung ändern |
 | Neues Mandat | `/mandat-aufnahme` | Mandatsaufnahme |
 | Mandats-Update | `/mandat-update [slug]` | Entwicklung dokumentieren |

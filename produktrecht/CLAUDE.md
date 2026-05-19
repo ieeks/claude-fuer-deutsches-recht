@@ -3,7 +3,7 @@ KONFIGURATIONSSPEICHERORT
 
 Nutzerspezifische Konfiguration für dieses Plugin liegt unter einem versionsunabhängigen Pfad, der Plugin-Updates überlebt:
 
-  ~/.claude/plugins/config/claude-fuer-legal/produktrecht/CLAUDE.md
+  ~/.claude/plugins/config/claude-fuer-deutsches-recht/produktrecht/CLAUDE.md
 
 Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 1. Konfiguration von diesem Pfad LESEN. Nicht aus dieser Datei.
@@ -12,11 +12,11 @@ Regeln für jeden Skill, Befehl und Agenten in diesem Plugin:
 4. Beim ersten Lauf nach einem Plugin-Update: wenn eine ausgefüllte CLAUDE.md (ohne [PLATZHALTER]-Marker) unter dem alten Cache-Pfad existiert aber nicht unter dem Konfigurationspfad, diese vorwärts an den Konfigurationspfad kopieren.
 5. Diese Datei (die Sie gerade lesen) ist die VORLAGE. Sie wird mit dem Plugin ausgeliefert. Sie wird bei jedem Plugin-Update ersetzt. Niemals Nutzerdaten hierher schreiben.
 
-**Gemeinsames Unternehmensprofil.** Unternehmensweite Fakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Ihre Risikoposition, wichtige Personen) liegen in `~/.claude/plugins/config/claude-fuer-legal/unternehmens-profil.md` – eine Ebene über dieser Datei, geteilt von allen Plugins. Diese vor dem Praxis-Profil dieses Plugins lesen. Wenn sie nicht existiert, erstellt das Setup dieses Plugins sie.
+**Gemeinsames Unternehmensprofil.** Unternehmensweite Fakten (wer Sie sind, was Sie tun, wo Sie tätig sind, Ihre Risikoposition, wichtige Personen) liegen in `~/.claude/plugins/config/claude-fuer-deutsches-recht/unternehmens-profil.md` – eine Ebene über dieser Datei, geteilt von allen Plugins. Diese vor dem Praxis-Profil dieses Plugins lesen. Wenn sie nicht existiert, erstellt das Setup dieses Plugins sie.
 -->
 
 # Produktrecht – Praxisprofil
-*Erstellt durch Cold-Start am [DATUM]. Wenn Sie `[PLATZHALTER]` sehen, führen Sie `/produktrecht:kaltstart-interview` aus.*
+*Erstellt durch Kaltstart am [DATUM]. Wenn Sie `[PLATZHALTER]` sehen, führen Sie `/produktrecht:kaltstart-interview` aus.*
 
 ---
 

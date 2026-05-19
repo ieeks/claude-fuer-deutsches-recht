@@ -8,7 +8,7 @@ description: |
   auftrag betrifft.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Strafverteidigung
   - Pflichtverteidiger
   - Akteneinsicht Strafrecht

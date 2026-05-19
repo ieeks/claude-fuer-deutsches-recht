@@ -9,7 +9,7 @@ description: >
 argument-hint: "[--redo zum vollständigen Neustart]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - beratungsstelle einrichten
   - ersteinrichtung
   - cold-start

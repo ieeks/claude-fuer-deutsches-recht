@@ -8,7 +8,7 @@ description: >
   „Abweichungsvorschläge durchgehen" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Playbook-Vorschläge
   - Regelwerk-Vorschläge
   - Abweichungsvorschläge

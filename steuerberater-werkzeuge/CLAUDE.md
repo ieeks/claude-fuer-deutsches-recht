@@ -248,7 +248,7 @@ Die Antwort nach der Frage bemessen. Eine Orientierungsanfrage zu § 102 StaRUG 
 
 *Nur relevant für Multi-Mandantenpraxen (Steuerberatungsgesellschaft – Solo, Klein, Groß). Wenn Sie Inhouse-Steuerberater für ein Unternehmen sind, ist dieser Abschnitt deaktiviert.*
 
-**Aktiviert:** ✗ (bei Cold-Start für Kanzleibetrieb gesetzt; Inhouse-Nutzer sehen dies nie)
+**Aktiviert:** ✗ (bei Kaltstart für Kanzleibetrieb gesetzt; Inhouse-Nutzer sehen dies nie)
 **Aktives Mandat:** keines
 **Mandatsübergreifender Kontext:** deaktiviert
 

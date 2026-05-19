@@ -11,7 +11,7 @@ description: >
   ohne Versammlung.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Umlaufbeschluss
   - schriftlicher Beschluss
   - Gesellschafterbeschluss

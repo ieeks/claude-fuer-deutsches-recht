@@ -9,7 +9,7 @@ description: >
   Verzeichnis auswählt oder eine direkte Skill-URL übergibt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Skill installieren
   - Skill hinzufügen
   - neuen Skill einrichten

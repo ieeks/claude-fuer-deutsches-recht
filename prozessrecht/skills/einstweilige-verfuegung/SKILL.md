@@ -7,7 +7,7 @@ description: |
   oder die Aufhebung einer Verfügung betrifft.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - einstweilige Verfügung
   - § 935 ZPO
   - § 940 ZPO

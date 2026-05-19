@@ -9,7 +9,7 @@ description: >
   geladen. Kein direkter Nutzeraufruf.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Skill deinstallieren
   - Skill entfernen
   - Skill deaktivieren

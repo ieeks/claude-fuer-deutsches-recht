@@ -8,7 +8,7 @@ description: >
 language: de
 argument-hint: "[Sachverhalt einfügen oder Fallname nennen]"
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - fallbearbeitung
   - gutachten
   - sachverhalt

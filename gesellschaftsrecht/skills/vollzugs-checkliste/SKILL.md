@@ -8,7 +8,7 @@ description: >
   „Checklisten-Status", „zur Checkliste hinzufügen".
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Vollzugscheckliste
   - Closing-Checkliste
   - Closing-Bedingungen

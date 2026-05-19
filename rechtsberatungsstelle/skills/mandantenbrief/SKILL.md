@@ -9,7 +9,7 @@ description: >
 argument-hint: "[optional: Briefanlass – z. B. 'Widerspruch eingelegt', 'Ergebnis Mietprüfung']"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - mandantenbrief
   - brief schreiben
   - einfache sprache

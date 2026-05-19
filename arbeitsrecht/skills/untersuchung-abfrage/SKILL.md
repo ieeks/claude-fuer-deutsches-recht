@@ -8,7 +8,7 @@ description: >
   durchlesen zu müssen.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Untersuchung abfragen
   - was hat Zeuge gesagt
   - Widersprüche in Untersuchung

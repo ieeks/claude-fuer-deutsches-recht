@@ -6,7 +6,7 @@ description: >
   das gesamte kaltstart-interview erneut auszuführen.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - kanzleiprofil anpassen
   - einstellungen ändern
   - anpassen

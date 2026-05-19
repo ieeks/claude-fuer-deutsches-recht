@@ -8,7 +8,7 @@ description: >
   erklärungen, Filesharing-Fällen oder Schadensersatzforderungen nach UrhG.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Abmahnung Urheberrecht
   - § 97a UrhG
   - Filesharing

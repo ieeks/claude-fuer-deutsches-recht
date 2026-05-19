@@ -7,7 +7,7 @@ description: >
   oder „Anki-Karten für [Rechtsgebiet]" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Karteikarten erstellen
   - Definition üben
   - Karteikarten Strafrecht

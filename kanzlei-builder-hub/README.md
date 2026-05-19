@@ -12,7 +12,7 @@ Für alle, die die anderen Kanzlei-Plugins nutzen. Dies ist der App-Store.
 
 ---
 
-## Erster Start: Cold-Start-Interview
+## Erster Start: Kaltstart-Interview
 
 Das Interview fragt nach Kanzleityp, Rechtsgebiet, Teamgröße und technischer Vertrautheit. Es empfiehlt ein Starter-Paket passender Community-Skills und installiert die ausgewählten.
 

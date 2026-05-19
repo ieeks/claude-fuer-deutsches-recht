@@ -3,7 +3,7 @@ name: abmahnung-arbeitsrecht
 description: Entwirft und bewertet arbeitsrechtliche Abmahnungen. Lädt, wenn eine Abmahnung erstellt, inhaltlich geprüft oder deren Wirksamkeitsvoraussetzungen (Warnfunktion, Bestimmtheit, Dokumentation) beurteilt werden sollen – sowohl aus Arbeitgeber- als auch aus Arbeitnehmerperspektive.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Abmahnung
   - Abmahnung Arbeitsrecht
   - Abmahnung entwurfsreif

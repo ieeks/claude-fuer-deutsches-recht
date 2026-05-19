@@ -8,7 +8,7 @@ description: >
   „für Einkauf erklären" oder „nicht-juristische Zusammenfassung" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Zusammenfassung Geschäftsführung
   - Vorstandszusammenfassung
   - Management-Briefing

@@ -9,7 +9,7 @@ description: >
 argument-hint: "[--redo] [--check-integrations]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - kaltstart
   - cold-start
   - einrichten

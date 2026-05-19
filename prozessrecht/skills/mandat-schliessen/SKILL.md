@@ -3,7 +3,7 @@ name: mandat-schliessen
 description: Mandat abschließen – Ergebnis, Endexposition und Erkenntnisse festhalten, dann aus dem aktiven Portfolio archivieren ohne den Datensatz zu löschen. Verwenden, wenn der Nutzer ein Mandat schließen möchte, sagt „[Mandat] ist abgeschlossen", oder ein Vergleich, Klagerücknahme, Urteil, Rücknahme oder Konsolidierung als Ergebnis dokumentieren will.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - mandat schliessen
   - mandat abschliessen
   - mandat beenden

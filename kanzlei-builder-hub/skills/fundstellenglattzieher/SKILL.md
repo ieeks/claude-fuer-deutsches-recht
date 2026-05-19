@@ -12,7 +12,7 @@ description: >
   „BGH-Zitierung prüfen" oder „Citation Check" auftreten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Fundstellen prüfen
   - Zitate glattziehen
   - Zitatkorrektur

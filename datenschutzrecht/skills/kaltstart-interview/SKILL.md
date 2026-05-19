@@ -8,7 +8,7 @@ description: >
 argument-hint: "[--redo zum Neustart] [--check-integrations nur Integrationen neu prüfen]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - cold-start
   - einrichten
   - konfigurieren
@@ -16,7 +16,7 @@ when_to_use: |
   - setup
 ---
 
-# Cold-Start-Interview – Datenschutzrecht
+# Kaltstart-Interview – Datenschutzrecht
 
 ## Zweck
 

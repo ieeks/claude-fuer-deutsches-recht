@@ -9,7 +9,7 @@ description: >
   „Berufsbetreuer" oder „Lebenssituation" auftreten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Jahresbericht Betreuungsgericht
   - Betreuungsbericht
   - § 1863 BGB

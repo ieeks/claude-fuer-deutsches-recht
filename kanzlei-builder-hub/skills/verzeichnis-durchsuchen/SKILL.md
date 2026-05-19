@@ -8,7 +8,7 @@ description: >
 argument-hint: "[Suchbegriff]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - skills suchen
   - registry durchsuchen
   - was gibt es für

@@ -3,7 +3,7 @@ name: dsgvo-auskunft
 description: Unterstützt bei der Bearbeitung von Auskunftsersuchen nach Art. 15 DSGVO – von der Identifizierung der betroffenen Person über Fristeinhaltung bis zur Formulierung der Auskunft und Prüfung von Ausnahmegründen. Lädt, wenn ein Mandant ein Auskunftsverlangen erhält oder stellen möchte.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Auskunftsersuchen
   - Auskunftsrecht
   - Art. 15 DSGVO

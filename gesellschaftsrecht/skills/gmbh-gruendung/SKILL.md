@@ -7,7 +7,7 @@ description: >
   Neugründung, Vorgesellschaft, Stammkapitalaufbringung oder Gesellschaftsvertrag.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - GmbH gründen
   - Gesellschaftsvertrag GmbH
   - Stammkapital

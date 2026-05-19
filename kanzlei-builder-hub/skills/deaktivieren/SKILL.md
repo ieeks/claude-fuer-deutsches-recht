@@ -8,7 +8,7 @@ description: >
 argument-hint: "[Skillname]"
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - skill deaktivieren
   - skill stilllegen
   - disable

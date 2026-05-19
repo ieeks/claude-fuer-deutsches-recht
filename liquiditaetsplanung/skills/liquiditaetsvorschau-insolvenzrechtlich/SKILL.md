@@ -4,7 +4,7 @@ description: Gerichtsfähige Liquiditätsbilanz und Liquiditätsvorschau für di
 language: de
 license: Apache-2.0 OR MIT
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - insolvenzrechtliche Liquiditätsbilanz
   - Zahlungsunfähigkeit § 17 InsO belegen
   - Fortbestehensprognose § 19 InsO

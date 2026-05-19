@@ -3,7 +3,7 @@ name: stellungnahmen
 description: Konsultationsbeiträge für BaFin-, BNetzA-, EBA-, ESMA- und EU-Konsultationen verwalten und verfassen. Laden bei Konsultationszeiträumen, Stellungnahmen und Kommentierungsfristen.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Konsultation
   - Stellungnahme
   - Kommentierungsfrist

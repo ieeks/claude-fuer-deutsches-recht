@@ -8,7 +8,7 @@ description: >
   Registerpublizitätsfragen und Anmeldungspflichten.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Handelsregister
   - HRB
   - HRA

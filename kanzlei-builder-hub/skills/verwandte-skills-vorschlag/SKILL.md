@@ -8,7 +8,7 @@ description: >
   am Ende von Abläufe anderer Plugins.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - gibt es einen skill dafür
   - was gibt es noch
   - skill empfehlung

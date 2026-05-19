@@ -9,7 +9,7 @@ description: >
   Art. 25 Vertragspflichten" oder „KI-AGB prüfen" sagt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - KI-Vertrag prüfen
   - Anbietervertrag KI
   - KI-Zusatzvereinbarung prüfen

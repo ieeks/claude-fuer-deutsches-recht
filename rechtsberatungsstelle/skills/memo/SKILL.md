@@ -10,7 +10,7 @@ description: >
   ein Kurz-Gutachten für einen Fall erstellen muss.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Gutachten erstellen
   - Fallanalyse
   - Gutachtenmethode

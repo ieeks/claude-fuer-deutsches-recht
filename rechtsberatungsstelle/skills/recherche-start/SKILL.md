@@ -9,7 +9,7 @@ description: >
   bestehender Recherche identifizieren möchte.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Recherche anfangen
   - wo anfangen Rechtsfrage
   - Recherchefahrplan

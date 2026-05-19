@@ -9,7 +9,7 @@ description: >
   „Transparenzregister", „Jahresabschluss einreichen", „was ist fällig".
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Gesellschafts-Compliance
   - Einreichungsfristen
   - Bilanzpublizität

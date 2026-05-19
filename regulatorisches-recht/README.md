@@ -12,7 +12,7 @@
 | **Datenschutz-/Produktjurist** | Gefilterte Alerts für das eigene Gebiet |
 | **GC / Chefjustitiar** | Eskalationsempfänger bei wesentlichen Lücken mit Fristen |
 
-## Erster Start: Cold-Start
+## Erster Start: Kaltstart
 
 Fragt ab, welche Behörden Sie beobachten, verbindet Ihren Richtlinienordner und erlernt, was „wesentlich" bedeutet. Erstellt eine Beobachtungsliste und indiziert Ihre Richtlinienbibliothek.
 

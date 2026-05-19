@@ -3,7 +3,7 @@ name: fehlzeit-erfassen
 description: Neue Abwesenheit oder neuen Urlaubseintrag im Register anlegen – mit allen für die Fristenberechnung nach BUrlG, EFZG, MuSchG und BEEG notwendigen Informationen. Startet die Überwachung von Fristen ab dem ersten Tag.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - fehlzeit eintragen
   - urlaub eintragen
   - log fehlzeit

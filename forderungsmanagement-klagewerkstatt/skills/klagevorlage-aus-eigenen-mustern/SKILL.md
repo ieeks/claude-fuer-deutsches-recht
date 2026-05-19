@@ -4,7 +4,7 @@ description: Lernlauf der Klagewerkstatt für Forderungsmanagement-Klagen. Friss
 language: de
 license: Apache-2.0 OR MIT
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Klagevorlage aus eigenen Mustern bauen
   - eigene Klagewerkstatt einrichten
   - Klage für Forderungsmanagement entwerfen

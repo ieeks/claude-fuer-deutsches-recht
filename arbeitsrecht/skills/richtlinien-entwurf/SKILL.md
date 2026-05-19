@@ -9,7 +9,7 @@ description: >
   oder eine Regelungslücke benennt.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - Richtlinie entwerfen
   - Policy entwerfen
   - Betriebsordnung

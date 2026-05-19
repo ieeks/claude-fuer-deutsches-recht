@@ -9,7 +9,7 @@ description: >
   Praxisebene arbeiten möchte.
 language: de
 when_to_use: |
-  Trigger phrases and example requests:
+  Auslöser und Beispielanfragen:
   - neues Mandat
   - Mandat anlegen
   - Mandat wechseln
