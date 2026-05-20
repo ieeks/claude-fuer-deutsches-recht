@@ -65,7 +65,7 @@ Hinweis: Die NRW-Mietpreisbegrenzungsverordnung (MietBremse NRW) und die NRW-Kap
 
 **Ordentliche Gerichtsbarkeit**
 - Amtsgerichte: 130 AG in NRW; für Mietrecht, Familiensachen und Strafsachen erste Anlaufstelle.
-- Landgerichte: LG Köln, LG Düsseldorf, LG Dortmund, LG Essen, LG Münster u. a. – für Berufungen in Mietrecht und Forderungen > 5.000 EUR.
+- Landgerichte: LG Köln, LG Düsseldorf, LG Dortmund, LG Essen, LG Münster u. a. – für Berufungen in Mietrecht und Forderungen > 10.000 EUR.
 - Oberlandesgerichte: OLG Köln, OLG Düsseldorf, OLG Hamm (Sitz in Hamm, zuständig für weite Teile NRWs).
 
 **Arbeitsgerichtsbarkeit**

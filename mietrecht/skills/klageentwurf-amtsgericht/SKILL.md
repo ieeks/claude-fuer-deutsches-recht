@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-amtsgericht
-description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Wohnraummietsache. Sachliche Zustaendigkeit nach § 23 Nr. 2a GVG fuer Mietsachen ueber Wohnraum ohne Ruecksicht auf den Streitwert. Oertliche Zustaendigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Antraege Sachverhalt rechtliche Wuerdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Pruefung. Disclaimer mehrfach (Skill-Start und vor finalem Antrag).
+description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zustaendigkeit fuer Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Ruecksicht auf den Streitwert; bei Geschaeftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG (zehntausend Euro seit Reform 2024). Oertliche Zustaendigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Antraege Sachverhalt rechtliche Wuerdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Pruefung. Disclaimer mehrfach.
 ---
 
 # Klageentwurf zum Amtsgericht (Mietsache)
@@ -13,8 +13,9 @@ Eine Klageschrift ist ein Rechtsschriftsatz mit erheblichen Konsequenzen (Gerich
 
 ### Schritt 1 — Sachliche Zustaendigkeit
 
-- **Amtsgericht** ist nach § 23 Nr. 2a GVG zustaendig fuer Streitigkeiten aus Mietverhaeltnissen ueber Wohnraum **ohne Ruecksicht auf den Streitwert**.
-- Streitwert ist dennoch zu berechnen (fuer Kosten, Berufungssumme).
+- **Wohnraummietsachen** — Amtsgericht ist nach § 23 Nr. 2a GVG zustaendig fuer Streitigkeiten aus Mietverhaeltnissen ueber Wohnraum **ohne Ruecksicht auf den Streitwert**.
+- **Geschaeftsraummiete** — allgemeine Streitwertgrenze des § 23 Nr. 1 GVG: AG bis **zehntausend Euro** (Erhoehung von zuvor fuenftausend Euro durch die Justizmodernisierung 2024); darueber LG (§ 71 GVG).
+- Streitwert ist in jedem Fall zu berechnen (fuer Kosten und Berufungssumme).
 
 ### Schritt 2 — Oertliche Zustaendigkeit (§ 29a ZPO)
 
