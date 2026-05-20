@@ -32,7 +32,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ZIP                                       | Was steckt drin                                                                                                            |
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `kanzlei-cowork.zip`                      | Fristenbuch, Timesheet, Rechnung, Mandantenakte, Korrespondenz                                                             |
-| `kanzlei-lebenszyklus.zip`                | Das volle Kanzlei-Workflow-Plugin: edles Kommandocenter, GwG, Klage/Replik, Vertrag, Rechtsprechung, beA, Rechnung, UStVA      |
+| `kanzlei-allgemein.zip`                | Kanzlei-Allgemein-Plugin: edles Kommandocenter, GwG, Klage/Replik, Vertrag, Rechtsprechung, beA, Rechnung, UStVA      |
 | `kanzlei-builder-hub.zip`                 | Werkzeuge zum Bauen eigener kanzleiinterner Skills, Security-Review                                                        |
 | `verwaltete-agentenrezepte.zip`           | Kuratierte Workflow-Rezepte zum Wiederverwenden                                                                            |
 | `aktenaufbereiter-strafrecht.zip`         | Strukturierung großer Strafakten in den Griff bekommen                                                                     |
