@@ -196,6 +196,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`methodenlehre-deutsches-recht`](./methodenlehre-deutsches-recht) | Deutsche juristische Methodenlehre als zuschaltbares Plugin. Gutachten- vor Urteilsstil, Anspruchsgrundlagen-Reihenfolge, Auslegung nach Wortlaut/Systematik/Historie/Telos, unionsrechtskonforme Auslegung. |
 | [`mietrecht`](./mietrecht) | Mietrecht für Mieter und Vermieter mit ausschließlich amtlichen Mietspiegel-Quellen pro Bundesland und für Top- und Universitätsstädte. Acht Skills: Datenerhebung, Mieterhöhungs-Widerspruch, Mietsenkungsverlangen, Nebenkostenprüfung, Mieteranfragen, Klageentwurf Amtsgericht. |
 | [`nda-abgleich`](./nda-abgleich) | NDA-Verhandlungshilfe für die empfangende Seite. Modus A: Standard-Destillation aus 1–n NDAs. Modus B: Redlining gegen den eigenen Standard. |
+| [`patentrecherche`](./patentrecherche) | Patentrecherche für Patentanwälte – agentisch in Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE, USPTO. Stand der Technik, Neuheit (§ 3 PatG, Art. 54 EPÜ), erfinderische Tätigkeit (§ 4 PatG, Art. 56 EPÜ) im Problem-Solution-Approach, Freedom-to-Operate, CPC-/IPC-Klassifikation, INPADOC-Patentfamilie, Recherchebericht. |
 | [`produktrecht`](./produktrecht) | Produktrecht, AGB, Impressum, PAngV, Marketing-Claims. |
 | [`prozessrecht`](./prozessrecht) | Zivil-, Straf- und Verwaltungsprozess, Mahnverfahren, einstweilige Verfügung, Zwangsvollstreckung, Verkehrsunfall. Streitwertgrenzen ab 1.1.2026 angepasst (AG bis 10.000 € nach § 23 Nr. 1 GVG n.F.). |
 | [`rechtsberatungsstelle`](./rechtsberatungsstelle) | Pro-Bono-Beratungsstellen, Mandantenakte, Mandantenbrief. |
@@ -436,6 +437,23 @@ A: **Nicht sehr**. LLMs erfinden oft Zitate. Die Skills sind so konzipiert, dass
 7. **Experimentieren erwünscht**: Probieren Sie die Skills aus, testen Sie verschiedene Prompts, passen Sie die Vorlagen an Ihre Kanzlei an – aber immer mit der gebotenen **Sorgfalt und Skepsis**.
 
 **Viel Erfolg beim Ausprobieren – auf eigene Verantwortung.**
+
+## Hinweise für Mitwirkende: Cross-Plugin-Bezüge und doppelte Referenzen
+
+Einige Plugins verweisen in ihren Skills auf Skills oder Pläne **anderer** Plugins (Beispiele: `sozialrecht-kanzlei` referenziert `versand-vor-check` aus `kanzlei-cowork`; `fortbestehensprognose` referenziert `liquiditaetsplanung` und `insolvenzrecht`; `liquiditaetsplanung` referenziert `steuerberater-werkzeuge` und `insolvenzrecht`). Wer ein **Einzelplugin** als ZIP zieht, hat diese Begleitplugins nicht automatisch dabei — die Skills funktionieren trotzdem eigenständig, weisen aber an den entsprechenden Stellen darauf hin, dass mit dem Begleitplugin der Workflow runder läuft. Im `marketplace.json`-Eintrag der betroffenen Plugins steht zusätzlich eine Zeile **„Empfohlene Begleitplugins“**.
+
+Zwei zentrale Methodik- und Zitierreferenzen liegen **doppelt** im Repo:
+
+- `references/methodik-deutsches-recht.md` und `methodenlehre-deutsches-recht/references/methodik-deutsches-recht.md`
+- `references/zitierweise.md` und `zitierweise-deutsches-recht/references/zitierweise.md`
+
+Das ist gewollt: Die Querschnittsplugins `methodenlehre-deutsches-recht` und `zitierweise-deutsches-recht` werden auch einzeln als ZIP ausgeliefert und müssen autark sein. Wer die Repo-Root-Datei ändert, muss den Spiegel im Plugin-Ordner mitziehen, sonst driften die Plugins gegen die anderen Skills, die per relativem Pfad auf die Root-Referenz zeigen. Dafür gibt es ein Hilfsskript:
+
+```bash
+python3 scripts/sync-references.py
+```
+
+Das Skript kopiert die Root-Referenzen ggf. in die Plugin-Spiegel und meldet, was synchronisiert wurde. Vor jedem Commit, der die beiden Root-Dateien anfasst, einmal aufrufen.
 
 ## Lizenz
 

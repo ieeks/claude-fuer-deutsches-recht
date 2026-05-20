@@ -225,7 +225,7 @@
     {
       "name": "sozialrecht-kanzlei",
       "source": "./sozialrecht-kanzlei",
-      "description": "Vollassistenz fuer die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagenerstellung. Spezialisiert auf Buergergeld SGB II SGB IX Schwerbehinderung Pflege Hilfsmittel (Rollstuhl Hoerhilfe Vorlesekraft) Eingliederungshilfe SGB VIII Schulbegleitung. Fristenbuch und PKH.",
+      "description": "Vollassistenz fuer die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagenerstellung. Spezialisiert auf Buergergeld SGB II SGB IX Schwerbehinderung Pflege Hilfsmittel (Rollstuhl Hoerhilfe Vorlesekraft) Eingliederungshilfe SGB VIII Schulbegleitung. Fristenbuch und PKH. Funktioniert allein; empfohlenes Begleitplugin kanzlei-cowork (Skill versand-vor-check fuer Versandkontrolle Fristenbuch Mandantenakte).",
       "author": {
         "name": "Klotzkette"
       }
@@ -401,7 +401,7 @@
     {
       "name": "fortbestehensprognose",
       "source": "./fortbestehensprognose",
-      "description": "Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschaeftsfuehrer-Selbstdokumentation. Pruefablauf Bilanzstatus Annahmen Plausibilisierung 12-Monats-Liquiditaet. Sanierungsbausteine harte Patronatserklaerung Comfortletter Gesellschafterdarlehen Rangruecktritt Stundung Forderungsverzicht. IDW S 11 S 6 StaRUG.",
+      "description": "Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschaeftsfuehrer-Selbstdokumentation. Pruefablauf Bilanzstatus Annahmen Plausibilisierung 12-Monats-Liquiditaet. Sanierungsbausteine harte Patronatserklaerung Comfortletter Gesellschafterdarlehen Rangruecktritt Stundung Forderungsverzicht. IDW S 11 S 6 StaRUG. Funktioniert allein; empfohlene Begleitplugins liquiditaetsplanung (wochenbasierte Liquiditaet) und insolvenzrecht (§ 17 § 18 InsO Antragspflicht).",
       "author": {
         "name": "Klotzkette"
       }
@@ -410,6 +410,14 @@
       "name": "berufsrecht-ki-vertragspruefung",
       "source": "./berufsrecht-ki-vertragspruefung",
       "description": "Berufsrechtliche und strafrechtliche Forprüfung von Verträgen mit privaten Legal-AI-Anbietern. Für Rechtsanwälte Steuerberater Wirtschaftsprüfer Patentanwälte Notare. §§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO § 203 StGB. Maßstab DAV-Stellungnahme. Gutachten Rückfragebrief Klauselvorschläge.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "patentrecherche",
+      "source": "./patentrecherche",
+      "description": "Patentrecherche fuer Patentanwaelte agentisch in Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO PATENTSCOPE USPTO. Stand der Technik Neuheit (§ 3 PatG Art. 54 EPUe) erfinderische Taetigkeit (§ 4 PatG Art. 56 EPUe) Problem-Solution-Approach Freedom-to-Operate CPC-/IPC-Klassifikation INPADOC-Patentfamilie Rechtsstand Patentbeobachtung Recherchebericht. Funktioniert allein; empfohlenes Begleitplugin gewerblicher-rechtsschutz (Marke Design UWG).",
       "author": {
         "name": "Klotzkette"
       }

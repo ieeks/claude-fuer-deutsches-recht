@@ -11,12 +11,15 @@
 ## 2. Anspruchsgrundlagen-/Klausurprüfungsschemata
 
 Wichtige Reihenfolgen, in der Anspruchsgrundlagen geprüft werden:
-1. Vertragliche Ansprüche
-2. Vertragsähnliche Ansprüche (c.i.c., §§ 311 II, 280 I BGB; pVV historisch; Vertrag mit Schutzwirkung)
-3. Quasivertragliche Ansprüche (GoA, §§ 677 ff. BGB)
-4. Dingliche Ansprüche (§§ 985, 1004 BGB)
-5. Deliktische Ansprüche (§§ 823 ff., 826, 831 BGB; ProdHaftG; StVG; UmweltHG)
-6. Bereicherungsansprüche (§§ 812 ff. BGB)
+1. Vertragliche Ansprüche (einschließlich Vertrag mit Schutzwirkung zugunsten Dritter)
+2. Vorvertragliche Ansprüche (c.i.c., §§ 311 II, III, 280 I, 241 II BGB)
+3. Geschäftsführung ohne Auftrag (§§ 677 ff. BGB)
+4. Dingliche Ansprüche (§§ 985, 1004, 894, 1007 BGB)
+5. Deliktische Ansprüche im engeren Sinne — verschuldensabhängig (§§ 823 I, 823 II, 824, 826, 831 BGB)
+6. Gefährdungshaftung — verschuldensunabhängig (§ 7 StVG; § 1 ProdHaftG; § 1 HaftpflG; § 33 LuftVG; § 25 AtG; § 89 II WHG; § 84 AMG; § 32 GenTG; § 1 UmweltHG; § 833 S. 1 BGB Tierhalter)
+7. Bereicherungsansprüche (§§ 812 ff. BGB)
+
+> Hinweis zur Terminologie: Die früher verbreiteten Sammelbegriffe »vertragsähnlich« und »quasivertraglich« werden hier bewusst vermieden — sie sind in der Lehre uneinheitlich besetzt (mal wird c.i.c. als »vertragsähnlich«, mal als »quasivertraglich« geführt, mal werden beide synonym verwendet) und tragen prüfungspraktisch nichts bei. Sauberer ist die direkte Benennung: c.i.c. ist vorvertragliches Schuldverhältnis (§ 311 II BGB), GoA ist gesetzliches Schuldverhältnis aus berechtigter Fremdgeschäftsführung. Die Gefährdungshaftung gehört systematisch zwischen Delikt und Bereicherung und wird gern übersehen — sie ist **kein** Unterfall des § 823 BGB, sondern eigenständige verschuldensunabhängige Haftungsspur.
 
 ## 3. Auslegung
 

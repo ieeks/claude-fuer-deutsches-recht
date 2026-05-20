@@ -54,12 +54,15 @@ Das Plugin verwendet **ausschließlich** das deutsche Vier-Schritte-Schema. IRAC
 
 Die Reihenfolge ist nicht beliebig – vgl. `../references/methodik-deutsches-recht.md`:
 
-1. Vertragliche Ansprüche (§§ 433, 535, 611 ff. BGB etc.)
-2. Vertragsähnliche Ansprüche (c.i.c., §§ 311 Abs. 2, 241 Abs. 2, 280 Abs. 1 BGB)
-3. Quasivertragliche Ansprüche (GoA, §§ 677 ff. BGB)
-4. Dingliche Ansprüche (§§ 985, 1004 BGB)
-5. Deliktische Ansprüche (§§ 823 Abs. 1, 823 Abs. 2, 826 BGB; ProdHaftG; StVG)
-6. Bereicherungsansprüche (§§ 812 ff. BGB)
+1. Vertragliche Ansprüche (§§ 433, 535, 611 ff. BGB; Vertrag mit Schutzwirkung zugunsten Dritter)
+2. Vorvertragliche Ansprüche aus c.i.c. (§§ 311 Abs. 2, 311 Abs. 3, 241 Abs. 2, 280 Abs. 1 BGB)
+3. Geschäftsführung ohne Auftrag (§§ 677 ff. BGB)
+4. Dingliche Ansprüche (§§ 985, 1004, 894, 1007 BGB)
+5. Deliktische Ansprüche im engeren Sinne, verschuldensabhängig (§§ 823 Abs. 1, 823 Abs. 2, 824, 826, 831 BGB)
+6. Gefährdungshaftung, verschuldensunabhängig (§ 7 StVG; § 1 ProdHaftG; § 1 HaftpflG; § 33 LuftVG; § 25 AtG; § 89 II WHG; § 84 AMG; § 32 GenTG; § 1 UmweltHG; § 833 S. 1 BGB)
+7. Bereicherungsansprüche (§§ 812 ff. BGB)
+
+Die Sammelbegriffe »vertragsähnlich« und »quasivertraglich« werden bewusst vermieden — sie sind in der Lehre uneinheitlich besetzt. Die Gefährdungshaftung ist eigenständige verschuldensunabhängige Haftungsspur, **kein** Unterfall des § 823 BGB; in Klausuren gern übersehen.
 
 Strafrecht: Täterschaft vor Teilnahme, vollendetes Delikt vor Versuch, schwerer vor minder schwerer Fall.
 
