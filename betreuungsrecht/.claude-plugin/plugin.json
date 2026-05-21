@@ -1,7 +1,7 @@
 {
   "name": "betreuungsrecht",
-  "version": "3.0.0",
-  "description": "Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis und Genehmigungspflichten nach BtOG und BGB.",
+  "version": "3.0.7",
+  "description": "Betreuungsrechtliche Skills für Jahresbericht, Vermögensverzeichnis, Genehmigungspflichten, Kontoanalyse und Verdachtsverträge nach BtOG und BGB.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -15,6 +15,9 @@
     "betreuungsgericht",
     "vermoegensverzeichnis",
     "genehmigungspflicht",
+    "kontodaten",
+    "verdaechtige-vertraege",
+    "vermoegenssorge",
     "bgb-reform-2023"
   ]
 }

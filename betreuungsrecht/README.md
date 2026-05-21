@@ -32,6 +32,12 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 
 Fiktive Akte einer Berufsbetreuung einer 87-jährigen Mandantin (Hildegard Sauer): Bestellungsbeschluss, Vermögensverzeichnis, erster Jahresbericht, Genehmigungsanträge.
 
+[testakte-betreuung-schmalfeld-kontodaten-vertraege.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-betreuung-schmalfeld-kontodaten-vertraege.zip)
+
+Fiktive Akte einer Vermögenssorge-Prüfung bei Herbert Wilhelm Schmalfeld:
+Kontoauszüge 2023 bis 2025, Vertragsregister, verdächtige Zahlungen,
+Fernwartung, Auslandsanlage, Immobilienreservierung und Maßnahmenplan.
+
 
 ## Enthaltene Skills
 
@@ -40,6 +46,7 @@ Fiktive Akte einer Berufsbetreuung einer 87-jährigen Mandantin (Hildegard Sauer
 | `jahresbericht-betreuungsgericht` | Strukturierter Jahresbericht ans Betreuungsgericht aus Ereignissen, E-Mails, Quittungen und Aktenvermerken | § 1863 BGB |
 | `vermoegensverzeichnis-pruefung` | Erstellung und Aktualisierung des Vermögensverzeichnisses bei Übernahme der Betreuung | §§ 1835, 1839 BGB |
 | `genehmigungspflicht-pruefung` | Prüfung, ob ein konkretes Rechtsgeschäft (Grundstücksverkauf, Erbausschlagung, Darlehen, Wohnungsauflösung, Heimvertrag) der Genehmigung des Betreuungsgerichts bedarf | §§ 1848–1858 BGB |
+| `kontodaten-vertragsverdacht-pruefung` | Kontoauszüge und Vertragsunterlagen auf verdächtige Vermögensabflüsse, Fernwartung, Hochrisikoanlagen, Auslandszahlungen und Schutzmaßnahmen prüfen | §§ 1821, 1825, 1835, 1865 BGB |
 
 ## Adressatenkreis
 

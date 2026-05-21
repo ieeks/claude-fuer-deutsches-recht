@@ -12,6 +12,10 @@
       {
         "match": "(?i)(genehmigung\\s+betreuungsgericht|§\\s*184[89]|§\\s*185[01]|§\\s*183[12]|freiheitsentziehend|heimvertrag|erbausschlagung|grundstücksverkauf\\s+betreuung)",
         "load_skill": "skills/genehmigungspflicht-pruefung"
+      },
+      {
+        "match": "(?i)(kontoausz[uü]ge|kontoausz[uü]g|kontodaten|vertragsverdacht|verdachtsvertrag|verd[äa]chtige\\s+vertr[äa]ge|verm[oö]gensabfluss|missbrauchsverdacht|fernwartung|lotterie|seniorenprodukte|auslands[uü]berweisung|einwilligungsvorbehalt)",
+        "load_skill": "skills/kontodaten-vertragsverdacht-pruefung"
       }
     ]
   }

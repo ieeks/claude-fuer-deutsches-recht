@@ -81,6 +81,14 @@ Wenn der Output nicht erscheint oder der Skill abbricht: das Plugin ist nicht fu
 
 **Abbruchkriterium:** Skill zitiert noch §§ 1896 ff. BGB **a. F.** statt §§ 1814 ff. BGB n. F. (Reform 01.01.2023).
 
+**Zusatz-Eingang Kontodaten:** `testakten/betreuung-schmalfeld-kontodaten-vertraege/`.
+
+**Zusatz-Schritt — Verdachtsprüfung:** `/betreuungsrecht:kontodaten-vertragsverdacht-pruefung` → liest Kontoauszüge, Vertragsregister und Verdachtsliste.
+
+**Erwarteter Zusatz-Output:** Ampeltabelle mit akuten Treffern für angebliche Sicherheitskautionen, Fernwartung/Sicherheitssoftware, Auslandsanlage, Spanien-Reservierung und Windpark-Beteiligung; private Hilfezahlungen werden nur als belegbedürftig, nicht pauschal als Betrug eingeordnet.
+
+**Zusatz-Abbruchkriterium:** Output behauptet ohne Beweis Betrug oder Geschäftsunfähigkeit **oder** behandelt Fernwartungszugriff nicht als eigenes Sofortschutzthema.
+
 ---
 
 ## berufsrecht-ki-vertragspruefung
