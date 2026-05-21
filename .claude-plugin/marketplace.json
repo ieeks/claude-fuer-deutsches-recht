@@ -63,6 +63,14 @@
       }
     },
     {
+      "name": "energierecht",
+      "source": "./energierecht",
+      "description": "Freistehendes Energierecht-Plugin: Stadtwerke, Strom-, Gas- und Wärmeversorgung, Netze, Speicher, Vertrieb, Industrie, EEG/KWKG, Quartiere, Fernwärme, Wettbewerb, Verwaltungsverfahren, Transaktionen, PPA und Projektfinanzierung.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "fachanwalt-agrarrecht",
       "source": "./fachanwalt-agrarrecht",
       "description": "Light-Touch-Plugin Fachanwalt fuer Agrarrecht. Orientierung Hoefeordnung Anerbenrechte Landpachtrecht BGB §§ 581 ff. GrdstVG EU-GAP Direktzahlungen Cross-Compliance Duengeverordnung Pflanzenschutzrecht Tierschutz Forstrecht.",
@@ -479,9 +487,25 @@
       }
     },
     {
+      "name": "umweltrecht",
+      "source": "./umweltrecht",
+      "description": "Freistehendes Umweltrecht-Plugin: Emissionshandel, BImSchG, Störfall, Abfall und Circular Economy, Wasser, Boden, Naturschutz, UIG/IFG, Verwaltungsverfahren, Bußgeld, Schulung und Umwelt-Due-Diligence.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
       "name": "verfassungsrecht",
       "source": "./verfassungsrecht",
       "description": "Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz formelle und materielle Verfassungsmäßigkeit Grundrechte und Verfassungsbeschwerde.",
+      "author": {
+        "name": "Klotzkette"
+      }
+    },
+    {
+      "name": "verkehr-infrastrukturrecht",
+      "source": "./verkehr-infrastrukturrecht",
+      "description": "Freistehendes Verkehrs- und Infrastrukturrecht-Plugin: Verkehrsplanung, Planfeststellung, Straßenbahn, Ladeinfrastruktur, Sondernutzung, Parkraumbewirtschaftung, Wirtschaftsverkehr, Lieferzonen, Verkehrswende, Schulwegsicherheit, Förderung und Vergabe.",
       "author": {
         "name": "Klotzkette"
       }
