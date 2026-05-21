@@ -377,7 +377,7 @@
     {
       "name": "insolvenzverwaltung",
       "source": "./insolvenzverwaltung",
-      "description": "Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Gutachten, Berichte und Schlussrechnung.",
+      "description": "Freistehendes Insolvenzverwaltungs-Plugin aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Regelverfahren, Eigenverwaltung, Schutzschirm, Masse, Anfechtung, § 15b, Forderungsprüfung, Insolvenzplan-/StaRUG-Planwerkstatt, § 208, Berichte, Schlussrechnung und Verteilung.",
       "author": {
         "name": "Klotzkette"
       }

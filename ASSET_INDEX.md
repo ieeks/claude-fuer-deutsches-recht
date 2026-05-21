@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v3.0.1
+**Stand:** v3.0.2
 
 ## Asset-Typen
 
@@ -65,7 +65,7 @@ Alphabetisch wie in `.claude-plugin/marketplace.json`. URL-Schema:
 | `insolvenzforderungsanmeldungspruefung` | Freistehendes Plugin für die Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung. |
 | `insolvenzplan-starug-planwerkstatt` | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen, Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. |
 | `insolvenzrecht` | Insolvenz- und sanierungsrechtliche Skills: strukturierte Prüfung Zahlungsunfähigkeit (§ 17 InsO) anhand der BGH-Rechtsprechung (BGHZ 163, 134), zweistufige Überschuldungsprüfung (§ 19 InsO) mit Fortbestehensprognose nach IDW S 11, Antragspflicht Geschäftsleiter (§ 15a InsO) und Haftung Insolvenzverschleppung, Gläubigerantrag-Prüfung (§ 14 InsO), rollierende Liquiditätsvorschau 13 Wochen / 24 Monate. |
-| `insolvenzverwaltung` | Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Gutachten, Berichte und Schlussrechnung. |
+| `insolvenzverwaltung` | Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Insolvenzplan-/StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung. |
 | `jurastudium` | Studium und Referendariat – Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte, Lernstrategien, Tatbestände lernen, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung. |
 | `kanzlei-allgemein` | Kanzlei-Allgemein-Plugin: edles Cowork-Kommandocenter, Mandatsannahme/GwG, Klage/Replik, Vertrag, Rechtsprechungsrecherche, Handelsregister, beA, Fristen, HR, Rechnung, Bankmatching, XRechnung, UStVA. |
 | `kanzlei-builder-hub` | Findet, prüft und installiert Community-Skills mit Security-Review-Gate vor dem Einsatz in der Kanzleiumgebung. Enthält zusätzlich den Skill 'playbook-aus-eigenen-daten', der aus Mandantenkorrespondenz und Aktenexporten ein wiederverwendbares Spielbuch (Playbook) ableitet — mit verbindlicher Pseudonymisierung nach DSGVO/BRAO. |

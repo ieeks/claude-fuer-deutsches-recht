@@ -1,7 +1,7 @@
 {
   "name": "insolvenzverwaltung",
-  "version": "3.0.0",
-  "description": "Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Gutachten, Berichte und Schlussrechnung.",
+  "version": "3.0.2",
+  "description": "Freistehendes Insolvenzverwaltungs-Plugin aus Sicht von Insolvenzverwalter, Sachwalter und vorläufiger Verwaltung: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Gutachten, Berichte und Schlussrechnung.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"
@@ -22,6 +22,12 @@
     "eroeffnungsgutachten",
     "masseunzulaenglichkeit",
     "schlussrechnung",
-    "freistehend"
+    "freistehend",
+    "insolvenzplan",
+    "starug",
+    "restrukturierungsplan",
+    "vergleichsrechnung",
+    "planwerkstatt",
+    "cramdown"
   ]
 }

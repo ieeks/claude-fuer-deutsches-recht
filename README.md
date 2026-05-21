@@ -205,7 +205,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`insolvenzforderungsanmeldungspruefung`](./insolvenzforderungsanmeldungspruefung) | Freistehende Insolvenzforderungsanmeldungsprüfung: Intake, § 174 InsO, Belegkette, Grund/Betrag/Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Schuldnerwiderspruch und § 189-Nachlauf. |
 | [`insolvenzplan-starug-planwerkstatt`](./insolvenzplan-starug-planwerkstatt) | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Kaltstart, Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen/Klassen, darstellender und gestaltender Teil, Anlagen, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Planvollzug. |
 | [`insolvenzrecht`](./insolvenzrecht) | Zahlungsunfähigkeit § 17 InsO (BGHZ 163, 134), zweistufige Überschuldungsprüfung § 19 InsO mit Fortbestehensprognose (IDW S 11), Antragspflicht § 15a InsO und Haftung wegen Insolvenzverschleppung, Gläubigerantrag § 14 InsO, gerichtsfähige Liquiditätsvorschau. |
-| [`insolvenzverwaltung`](./insolvenzverwaltung) | Freistehendes Insolvenzverwaltungs-Cockpit aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Regelverfahren, Eigenverwaltung, Schutzschirm, Masse, Anfechtung, § 15b InsO, Forderungsprüfung, § 208 InsO, Berichte, Schlussrechnung und Verteilung. |
+| [`insolvenzverwaltung`](./insolvenzverwaltung) | Freistehendes Insolvenzverwaltungs-Cockpit aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Regelverfahren, Eigenverwaltung, Schutzschirm, Masse, Anfechtung, § 15b InsO, Forderungsprüfung, Insolvenzplan-/StaRUG-Planwerkstatt, § 208 InsO, Berichte, Schlussrechnung und Verteilung. |
 | [`jurastudium`](./jurastudium) | Werkzeuge für Studium und Referendariat: Prüfungsgespräch nach AG-Tradition, Subsumtionslehre, Methodenlehre (Zivilrecht, Strafrecht, Öffentliches Recht), Rechtsgeschichte (röm. Recht/BGB-Genese, NS-Justiz/Radbruchsche Formel, SED-Unrecht, GG 1949, Unionsrecht), Lernstrategien, Tatbestände lernen, Lösungsschemata, Gutachtenstil, Klausurkorrektur, Lernplanung. Lernmodus, kein Antwortmodus. |
 | [`kanzlei-allgemein`](./kanzlei-allgemein) | Kanzlei-Allgemein-Plugin mit edlem Cowork-Kommandocenter, Nachtblau/Silber/Orange-Look, Copilot, Mandatsannahme/GwG, KYC, PEP, Aktenanlage, Kontoblatt, Schreib-Canvas, Klage/Replik-Turbo, Vertragsentwurf, Rechtsprechungsrecherche, Handelsregisterabruf, beA, Fristen, Rechnung, Geschäftskonto, Bankmatching, XRechnung, UStVA und Simulation. |
 | [`kanzlei-builder-hub`](./kanzlei-builder-hub) | Werkzeuge zum Bauen eigener kanzleiinterner Skills. |
@@ -338,7 +338,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.0.1: **76 Plugins, 943 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
+Stand v3.0.2: **76 Plugins, 967 Skills**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung und Zwangsverwaltung.
 
 ### Materielle Rechtsgebiete
 

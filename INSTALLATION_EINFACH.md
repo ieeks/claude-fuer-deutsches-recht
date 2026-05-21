@@ -6,7 +6,7 @@
 
 ## Kurzfassung
 
-> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.1`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
+> 📆 **Hinweis Release vs. Entwicklungsstand:** Die ZIPs in der Releases-Seite entsprechen einem **getaggten, validierten Stand** (zur Zeit `v3.0.2`). Der `main`-Branch des Repos kann **neuer** sein — mit weiteren Fixes, kleinen Ergänzungen oder neuen Tests. Für stabile Tagung → ZIPs aus dem Release; für neueste Korrekturen → Marketplace-Sync über den GitHub-Pfad (siehe README.md, Weg 1).
 
 1. Auf [die Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) gehen.
 2. Pro gewünschtem Rechtsgebiet **eine ZIP-Datei** herunterladen, z. B. `liquiditaetsplanung.zip`.
@@ -53,7 +53,7 @@ Auf der [Releases-Seite](https://github.com/Klotzkette/claude-fuer-deutsches-rec
 | ----------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- |
 | `liquiditaetsplanung.zip`                 | 3-Wochen-Vorschau, 13/26/52-Wochen-Planung, BGH-Schema Passiva II                                                          |
 | `insolvenzrecht.zip`                      | §§ 17, 19 InsO, Antragspflicht § 15a InsO, BGH-Volltexte als PDF                                                           |
-| `insolvenzverwaltung.zip`                | Insolvenzverwaltung aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Masse, Tabelle, Anfechtung, § 15b, § 208, Berichte, Schlussrechnung |
+| `insolvenzverwaltung.zip`                | Insolvenzverwaltung aus IV-/Sachwalter-Sicht: Eröffnungsgutachten, Masse, Tabelle, Anfechtung, § 15b, Insolvenzplan-/StaRUG-Planwerkstatt, § 208, Berichte, Schlussrechnung |
 | `insolvenzforderungsanmeldungspruefung.zip` | Freistehende Forderungsanmeldungsprüfung: Intake, § 174 InsO, Belege, Grund/Betrag/Rang, Bestreiten, Feststellung, Tabelle, Prüfungstermin und § 189-Nachlauf |
 | `insolvenzplan-starug-planwerkstatt.zip` | Freistehende Insolvenzplan- und StaRUG-Planwerkstatt: Sanierungskonzept, integrierte Planung, Vergleichsrechnung, Gruppen/Klassen, Planentwurf, Abstimmung, Cram-down, Minderheitenschutz, Gericht und Vollzug |
 | `fortbestehensprognose.zip`               | Fortbestehensprognose § 19 II InsO als Geschäftsführer-Selbstdokumentation                                                 |

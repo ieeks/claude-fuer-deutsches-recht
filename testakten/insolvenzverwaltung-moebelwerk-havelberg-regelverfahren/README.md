@@ -1,6 +1,6 @@
 # Testakte Insolvenzverwaltung - Möbelwerk Havelberg GmbH
 
-Fiktive Testakte für das Plugin `insolvenzverwaltung`. Die Akte simuliert ein Regelverfahren mit vorläufiger Verwaltung, Betriebsfortführung, späterer Eröffnung, Forderungsanmeldungen, Anfechtung, § 15b InsO, Masseunzulänglichkeitsszenario und Schlussverteilung.
+Fiktive Testakte für das Plugin `insolvenzverwaltung`. Die Akte simuliert ein Regelverfahren mit vorläufiger Verwaltung, Betriebsfortführung, späterer Eröffnung, Forderungsanmeldungen, Anfechtung, § 15b InsO, Masseunzulänglichkeitsszenario, Planoption, Insolvenzplan-/StaRUG-Vergleich und Schlussverteilung.
 
 ## Rollen
 
@@ -18,3 +18,4 @@ Fiktive Testakte für das Plugin `insolvenzverwaltung`. Die Akte simuliert ein R
 4. Rekonstruiere § 15b InsO-Zahlungen ab Insolvenzreife.
 5. Prüfe, ob eine Anzeige nach § 208 InsO vorbereitet werden muss.
 6. Erstelle Schlussbericht, Schlussrechnung und Verteilungsvorschlag.
+7. Nutze die IV-Planwerkstatt für Planoption, Vergleichsrechnung, Gruppenbildung und StaRUG-Alternativroute.
