@@ -1,0 +1,97 @@
+---
+name: wandlungspreis-berechnung
+description: "Konkrete Formel fuer den Wandlungspreis: Anteile = (Darlehen + aufgelaufene Zinsen) / Wandlungspreis. Wandlungspreis = MIN(Pre-Money/vollverwaesserte Anteile, (1-Discount) x Pre-Money/Anteile, Cap/Anteile). Schritt-fuer-Schritt-Beispielrechnung fuer alle drei Trigger-Typen. Aufrundungsregel nach § 5 GmbHG."
+---
+
+# Wandlungspreis-Berechnung
+
+## Zweck
+
+Dieser Skill führt die vollständige Wandlungspreis-Berechnung durch – von der Wandlungssumme über den Wandlungspreis nach MIN-Methode bis zur Zahl der neuen Geschäftsanteile. Phase C des Lebenszyklus.
+
+## Eingaben
+
+- Darlehensbetrag (EUR)
+- Auszahlungsdatum und Stichtag Wandlung (für Zinsberechnung)
+- Zinssatz (fuenf Prozent p.a., act/360)
+- Pre-Money-Bewertung der Finanzierungsrunde (oder Fall-back-Bewertung bei Maturity)
+- Vollverwässerte Anteile vor Wandlung (Stammkapital + ESOP)
+- Valuation Cap (EUR)
+- Discount (Prozent)
+- Aktuelles Stammkapital (EUR) und Nennwert je Anteil (Standard EUR 1)
+
+## Rechtlicher Rahmen
+
+### Primärnormen
+- § 5 Abs. 1 GmbHG (Mindestanteilsnennbetrag EUR 1 – Aufrundungsregel)
+- § 55 Abs. 1 GmbHG (Kapitalerhöhung durch Gesellschafterbeschluss)
+- § 56 GmbHG (Sacheinlage: Forderung aus Wandeldarlehen)
+- § 272 Abs. 2 Nr. 4 HGB (Kapitalrücklage nach Wandlung)
+- § 9 GmbHG (Differenzhaftung bei Überbewertung der Sacheinlage)
+
+### Rechtsprechung
+- BGH, Urt. v. 24. Oktober 2005 – II ZR 179/03 (Kapitalerhöhung gegen Sacheinlage – Differenzhaftung)
+- BGH, Urt. v. 6. Dezember 2010 – II ZR 14/09 (Werthaltigkeit einzubringender Forderung)
+
+## Vorgehen
+
+### 1. Wandlungssumme C berechnen
+C = Darlehensbetrag + Zinsen (act/360)
+Zinsen = Darlehensbetrag × Zinssatz × (Anzahl Zinstage / 360)
+
+### 2. Vollverwässerte Anteile bestimmen
+Basis: Stammkapital der Gesellschaft (in EUR, entspricht Anteilszahl bei EUR 1 Nennwert je Anteil) + ausgegebene ESOP-Optionen (vollverwässert). Vor Wandlung, vor Kapitalerhöhung der neuen Investoren.
+
+### 3. Drei Preise berechnen
+Preis A = Pre-Money / Vollverwässerte Anteile
+Preis B = (1 − Discount) × Pre-Money / Vollverwässerte Anteile
+Preis C = Cap / Vollverwässerte Anteile
+
+### 4. Wandlungspreis bestimmen
+Wandlungspreis = MIN(Preis A, Preis B, Preis C)
+Begründung MIN: Lender soll immer den günstigsten Preis (aus seiner Sicht) erhalten.
+
+### 5. Anteilszahl berechnen und aufrunden
+Rohwert = C / Wandlungspreis
+Neue Anteile = ⌈Rohwert⌉ (aufrunden auf nächste ganze Zahl gemäß § 5 Abs. 1 GmbHG; Nennwert muss mindestens EUR 1 je Anteil betragen)
+Nennbetrag neue Anteile = Neue Anteile × EUR 1
+
+### 6. Kapitalrücklage berechnen
+Wandlungssumme C − Nennbetrag neue Anteile = Einlage in Kapitalrücklage (§ 272 Abs. 2 Nr. 4 HGB). Der Lender bringt seine Forderung in Höhe von C ein; der den Nennbetrag übersteigende Betrag geht in die Kapitalrücklage.
+
+## Vollständige Beispielrechnung (Qualified Financing, Cap-Trigger)
+
+| Schritt | Formel | Wert |
+|---|---|---|
+| Darlehensbetrag | — | EUR 250000 |
+| Zinstage | 01.06.2025 bis 31.05.2027 = 730 Tage | 730 |
+| Zinsen | 250000 × 0.05 × 730/360 | EUR 25694 |
+| Wandlungssumme C | 250000 + 25694 | EUR 275694 |
+| Vollverwaesserte Anteile | Stammkapital EUR 100 → 100 Anteile | 100 |
+| Preis A (Rundenpreis, Pre-Money EUR 6 Mio) | 6000000 / 100 | EUR 60000 |
+| Preis B (zwanzig Prozent Discount) | 0.8 × 6000000 / 100 | EUR 48000 |
+| Preis C (Cap EUR 4 Mio) | 4000000 / 100 | EUR 40000 |
+| Wandlungspreis (MIN) | MIN(60000; 48000; 40000) | EUR 40000 |
+| Rohwert Anteile | 275694 / 40000 | 6.892 |
+| Neue Anteile (aufgerundet) | ⌈6.892⌉ | 7 |
+| Nennbetrag neue Anteile | 7 × EUR 1 | EUR 7 |
+| Kapitalrücklage | 275694 − 7 | EUR 275687 |
+
+## Risiken und Red Flags
+
+| Konstellation | Rot | Orange | Gruen |
+|---|---|---|---|
+| Vollverwaesserte Anteile falsch ermittelt | Falsche Preisberechnung | ESOP-Pool strittig | Vollstaendig dokumentiert |
+| Zinsen nicht einbezogen | Wandlungssumme zu gering | Zinsen geschaetzt | Exakt berechnet |
+| Cap unter aktuellem Preis A und B | Cap immer massgeblich | Cap leicht unter | Cap deutlich unter |
+| Differenzhaftung bei Ueberbewertung | Gesellschafter persoenlich haftbar (§ 9 GmbHG) | Wertgutachten fehlt | Werthaltigkeitspruefung vorhanden |
+
+## Querverweise
+
+- `wandeldarlehen-lebenszyklus/skills/cap-table-update-pre-post/SKILL.md`
+- `wandeldarlehen-lebenszyklus/skills/sacheinlagebericht-werthaltigkeit/SKILL.md`
+- `wandeldarlehen-lebenszyklus/skills/wandlungspruefung-trigger-qualified-financing/SKILL.md`
+
+## Quellen und Updates
+
+Stand: 05/2026. Bei Änderung GmbHG §§ 5 und 55 ff. sowie HGB § 272 aktualisieren.

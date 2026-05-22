@@ -246,6 +246,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`verfassungsrecht`](./verfassungsrecht) | Deutsches Verfassungsrecht unter dem Grundgesetz aus Sicht einer Spezialkanzlei. Rechtsprechungsgetrieben mit verpflichtender Live-Recherche auf bundesverfassungsgericht.de. Acht Skills für Gesetzgebungskompetenz, formelle und materielle Verfassungsmäßigkeit, Grundrechte und Verfassungsbeschwerde. |
 | [`verlagsredaktion`](./verlagsredaktion) | Verlegerischer Redaktionsassistent. Modus A macht aus disparaten Inputs (Transkripte, PPT, Screenshots, Videos, Notizen) einen redaktionellen Text. Modus B redigiert vorhandene Texte. |
 | [`vertragsrecht`](./vertragsrecht) | NDA, SaaS-/MSA-Review, Lieferanten-AGB, Renewal-Tracking. |
+| [`wandeldarlehen-lebenszyklus`](./wandeldarlehen-lebenszyklus) | Vollstaendiger Lebenszyklus eines Wandeldarlehens fuer GmbH und UG: Erstellung (bilingual/einsprachig), Beurkundungspruefung, Wandelereignisse, Wandlungsberechnung, Cap-Table-Update, Gesellschafterbeschluss und Notar-Paket. |
 | [`zwangsverwaltung-zvg`](./zwangsverwaltung-zvg) | Freistehendes ZVG-Cockpit für Zwangsverwaltung und Versteigerung: Bestellung, Beschlagnahme, Besitz, Mietverwaltung, Treuhandkonto, Berichte, § 155 ZVG-Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
 | [`zitierweise-deutsches-recht`](./zitierweise-deutsches-recht) | Deutsche juristische Hauszitierweise als zuschaltbares Plugin. Rechtsprechung mit Datum, Aktenzeichen, Fundstelle, Randnummer. Kommentar- und Aufsatzzitate. |
 
@@ -350,7 +351,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - Due Diligence läuft über Q&A, Datenraum und anwaltliche Sachverhaltsaufklärung.
 - Kündigungsschutz: Regelfall nach KSchG ab 6 Monate / mehr als 10 Arbeitnehmer.
 
-Stand v3.3.0: **90 Plugins, 1226 Skills, 36 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont und Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23.
+Stand v3.3.1: **94 Plugins, 1411 Skills, 37 Testakten**. Abgedeckt sind klassische Mandantenpraxis, alle 24 Fachanwaltschaften, Großkanzlei- und Mittelstandsformate sowie Spezialdisziplinen wie Insolvenzverwaltung, Zwangsverwaltung, Zwangsversteigerung, Markenrecht für Luxus-Fashion mit USPTO-Lanham-Act-Modul, betriebliche Altersversorgung in Konzernen mit Düsseldorf-Kyoto-Profil, StaRUG-Krisenfrüherkennung mit Vier-und-zwanzig-Monats-Horizont und Schriftform-/Textform-Workflow-Organisator nach BGH I ZR 202/25 und BGH VIII ZR 159/23.
 
 ### Materielle Rechtsgebiete
 

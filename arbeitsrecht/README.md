@@ -123,6 +123,63 @@ Mitarbeiter soll für 18 Monate nach Paris entsendet werden. Bitte A1-
 Bescheinigung, AEntG-Anforderungen und Entsendevertrag-Checkliste.
 ```
 
+## Neue Workflows v3.3.1
+
+### Bündel 1: Kündigungsschutzklage Selbsthilfe-Workflow (KüSchK)
+
+Vollständiger Workflow für Verbraucher und Anwälte zur eigenständigen Einreichung und Verteidigung einer Kündigungsschutzklage — von der Triage über die Klageschrift bis zur Vergleichsverhandlung.
+
+| Skill | Funktion |
+|---|---|
+| `/arbeitsrecht:kueschk-triage-laie-oder-anwalt` | KERNEINSTIEG: Anwalt oder Laie; Weichenstellung für den gesamten Workflow |
+| `/arbeitsrecht:kueschk-grundwarnung-falsche-wiese-und-haftung` | Pflichtkopf für alle Laien-Schriftsätze: Haftungsausschluss, Dreiwochenfrist |
+| `/arbeitsrecht:kueschk-anwendbarkeit-kschg-pruefen` | § 1 Abs. 1 KSchG Wartezeit; § 23 KSchG Betriebsgröße; Teilzeit-Berechnung |
+| `/arbeitsrecht:kueschk-kuendigungsgrund-personen-verhalten-betrieb` | Drei Kündigungsgründe § 1 Abs. 2 KSchG; Sonderkündigungsschutz-Querverweis |
+| `/arbeitsrecht:kueschk-sonderkuendigungsschutz-checkliste` | Schwangerschaft, Elternzeit, Schwerbehinderung, BR-Mitglied, Datenschutzbeauftragter |
+| `/arbeitsrecht:kueschk-formfehler-pruefen` | § 623 BGB, § 174 BGB Vollmachtsrüge, § 102 BetrVG, §§ 17/18 KSchG |
+| `/arbeitsrecht:kueschk-frist-und-zugang-pruefen` | § 4 KSchG Dreiwochenfrist; § 5 KSchG nachträgliche Zulassung; Zugangsbeweis |
+| `/arbeitsrecht:kueschk-klageschrift-laie-baustein` | Ausfüllbare Klageschrift Schritt für Schritt für Laien |
+| `/arbeitsrecht:kueschk-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift mit Hilfsanträgen und Anlagen-Checkliste |
+| `/arbeitsrecht:kueschk-allgemeiner-und-besonderer-feststellungsantrag` | Punktueller Antrag § 4 KSchG vs. Schleppnetz § 256 ZPO |
+| `/arbeitsrecht:kueschk-weiterbeschaeftigungsantrag-grosser-senat` | BAG GS 1985; Voraussetzungen; Vor- und Nachteile |
+| `/arbeitsrecht:kueschk-annahmeverzug-loehne-anrechnung-zwischenverdienst` | § 615 BGB; § 11 KSchG Anrechnung; böswilliges Unterlassen |
+| `/arbeitsrecht:kueschk-erwiderung-arbeitgeber-strategien-typisch` | Typische Arbeitgeberstrategien; Stricken-Anwälte; Hinhaltetaktik |
+| `/arbeitsrecht:kueschk-replik-arbeitnehmer-baustein` | Replik auf Klageerwiderung; Substantiierungstiefe; Beweismittel |
+| `/arbeitsrecht:kueschk-guetetermin-strategie-und-sprechzettel` | § 54 ArbGG Gütetermin; Sprechzettel; was sagen / nicht sagen |
+| `/arbeitsrecht:kueschk-kammertermin-sprechzettel` | Kammertermin Hauptverhandlung; Antragsstellung; Reaktionsmuster |
+| `/arbeitsrecht:kueschk-muendliche-verhandlung-praxistipps-laie` | Auftreten, Kleidung, Anrede, Sitzungsverlauf für Laien |
+| `/arbeitsrecht:kueschk-vergleichsverhandlung-checkliste` | Alle Vergleichsbausteine: Abfindung, Zeugnis, Freistellung, Erledigung |
+| `/arbeitsrecht:kueschk-abfindung-faustformel-und-spannweite` | Faustformel; Spannweite; § 34 EStG Fünftel-Regelung |
+| `/arbeitsrecht:kueschk-stricken-anwalt-risiko-und-vergleichsdruck` | KERNWARNUNG: Stricken-Strategie; Rückkehrpflicht; § 12 KSchG; § 9 KSchG |
+| `/arbeitsrecht:kueschk-aufloesungsantrag-arbeitnehmer-9-kschg` | Auflösungsantrag § 9 KSchG bei Unzumutbarkeit; Abfindung § 10 KSchG |
+| `/arbeitsrecht:kueschk-paragraph-12-kschg-neuer-job-einseitig` | § 12 KSchG einseitige Lösung; Wochenfrist; Abgrenzung § 9 KSchG |
+| `/arbeitsrecht:kueschk-zeugnisanspruch-und-vergleich` | § 109 GewO; BAG-Mindeststandard; geheime Negativsignale; Vergleichsformulierungen |
+| `/arbeitsrecht:kueschk-streitwert-kostenfolge-prozesskostenhilfe` | § 42 GKG; § 12a ArbGG keine Kostenerstattung erste Instanz; PKH |
+| `/arbeitsrecht:kueschk-berufung-und-revision-lag-bag` | Berufung LAG; Revision BAG; Zulassungsgründe; Fristen |
+| `/arbeitsrecht:kueschk-output-warnschriftsatz-laie` | Vollständige Klageschrift mit Pflicht-Disclaimer für Laien |
+
+### Bündel 2: Entfristungsklage / Befristungskontrollklage (TzBfG)
+
+Vollständiger Workflow für die Klage auf Feststellung, dass ein angeblich befristeter Vertrag unbefristet ist — insbesondere bei Schriftformverstößen nach § 14 Abs. 4 TzBfG und digitaler Vertragsunterzeichnung.
+
+| Skill | Funktion |
+|---|---|
+| `/arbeitsrecht:entfristung-triage-was-will-user` | Einstieg; Erkennung Entfristungsklage; Abgrenzung zu KüSchK |
+| `/arbeitsrecht:entfristung-laie-oder-anwalt-frage` | Statusabfrage; Laien-Warnungen; Empfehlung anwaltlicher Beratung |
+| `/arbeitsrecht:entfristung-grundwarnung-drei-wochen-frist` | § 17 TzBfG Dreiwochenfrist ab vereinbartem Ende; Fiktionswirkung § 7 KSchG |
+| `/arbeitsrecht:entfristung-sachgrund-pruefen-14-abs-1` | Acht Sachgründe § 14 Abs. 1 TzBfG; Prüfungsstruktur; Beweislast |
+| `/arbeitsrecht:entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | § 14 Abs. 2 TzBfG; Vorbeschäftigungsverbot; BVerfG 2018; Karenzzeit |
+| `/arbeitsrecht:entfristung-sachgrundlos-14-abs-2a-neugruendung` | Neugründungsprivileg vier Jahre § 14 Abs. 2a TzBfG |
+| `/arbeitsrecht:entfristung-sachgrundlos-14-abs-3-aelter-52` | § 14 Abs. 3 TzBfG; Befristung ab 52; Vorarbeitslosigkeit |
+| `/arbeitsrecht:entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: Schriftform § 14 Abs. 4 TzBfG; eigenhändige Unterschrift; KEINE elektronische Form |
+| `/arbeitsrecht:entfristung-elektronische-signatur-vorsicht` | DocuSign, Adobe Sign als Erkennungsmerkmale; Signaturtypen; Rechtslage |
+| `/arbeitsrecht:entfristung-rechtsfolge-16-tzbfg-unbefristet` | § 16 Satz 1 TzBfG Vertrag gilt als unbefristet; früheste Kündigung § 16 Satz 2 |
+| `/arbeitsrecht:entfristung-klageschrift-laie-baustein` | Schritt-für-Schritt Klageschrift Entfristungsklage für Laien |
+| `/arbeitsrecht:entfristung-klageschrift-anwalt-baustein` | Anwaltliche Klageschrift mit Hilfsanträgen und Weiterbeschäftigungsantrag |
+| `/arbeitsrecht:entfristung-guetetermin-und-kammertermin-sprechzettel` | Sprechzettel mündliche Verhandlung; Kernargumente Schriftformmangel |
+| `/arbeitsrecht:entfristung-vergleichsverhandlung-checkliste` | Vergleichsbausteine Entfristungsklage; Beendigungsdatum; Abfindung; Zeugnis |
+| `/arbeitsrecht:entfristung-output-warnschriftsatz-laie` | Vollständige Klageschrift mit Pflicht-Disclaimer für Laien |
+
 ## Lerneffekt
 
 Ihr Praxisprofil unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/arbeitsrecht/CLAUDE.md` ist nicht statisch – es verbessert sich durch Nutzung. Skills weisen Sie hin, wenn eine Ausgabe auf einem Standardwert beruht, der angepasst werden sollte. Sie können die Einrichtung erneut ausführen, die Datei direkt bearbeiten oder einem Skill mitteilen, eine neue Position zu speichern.
