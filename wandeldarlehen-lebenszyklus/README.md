@@ -4,9 +4,7 @@ Vollständiger Workflow-Assistent für den Lebenszyklus eines Wandeldarlehens be
 
 ## Direkt-Download
 
-```
-https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wandeldarlehen-lebenszyklus.zip
-```
+[wandeldarlehen-lebenszyklus.zip herunterladen](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/wandeldarlehen-lebenszyklus.zip)
 
 ## Testakte
 
