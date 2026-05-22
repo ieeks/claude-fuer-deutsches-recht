@@ -2,105 +2,135 @@
 
 **Fiktiver Beispielfall** zur Demonstration der `entfristung-*`-Skills im Plugin `arbeitsrecht`.
 
-## Parteien
+---
 
-| Rolle | Partei |
-|---|---|
-| Arbeitnehmerin (Klägerin) | Sabine Vogt, Hermannstraße 201, 12049 Berlin-Neukölln |
-| Arbeitgeberin (Beklagte) | Stadtwerke Neukölln GmbH, Karl-Marx-Str. 82, 12043 Berlin, HRB 145231 B, AG Charlottenburg |
-| Personalleiter AG | Rüdiger Schönfeld |
-| Betriebsrat | Vorhanden (7 Mitglieder, Vorsitz: Fatima Öztürk) |
+## Sachverhalt
 
-## Arbeitsverhältnis
+Lena Vogt (geb. 12.09.1993, wohnhaft Erkstraße 48, 12043 Berlin) war vom 01. März 2024 bis
+28. Februar 2026 als Sachbearbeiterin im Bereich Kundenservice/Vertragsmanagement bei der
+Stadtwerke Neukölln GmbH (Britzer Damm 221, 12347 Berlin) beschäftigt. Der Arbeitsvertrag
+wurde ohne Sachgrund nach § 14 Abs. 2 TzBfG für 24 Monate befristet. Das monatliche
+Bruttogehalt betrug EUR 2.950,00 bei einer Vollzeittätigkeit von 40 Stunden pro Woche. Vogt
+hatte ihre Tätigkeit ordnungsgemäß aufgenommen und über die gesamte Laufzeit ohne
+Beanstandungen erfüllt.
+
+Die Vertragsunterzeichnung verlief vollständig elektronisch: Personalreferentin Birgit Schönfeld
+versandte den Arbeitsvertrag am 14. Februar 2024 per E-Mail als PDF-Anhang. Vogt druckte das
+Dokument zu Hause aus, unterzeichnete es handschriftlich, scannte es ein und sandte das
+Scan-PDF am 16. Februar 2024 per E-Mail zurück. Ein beidseitig original unterschriebenes
+Papierdokument existiert nicht. Schönfeld hatte Vogt zugesagt, sie erhalte „am ersten Tag ein
+Originalexemplar"; tatsächlich lag am 01. März 2024 im Einführungsordner kein solches Exemplar.
+Dieses Vorgehen begründet einen Schriftformverstoß nach § 14 Abs. 4 TzBfG i.V.m. § 126 BGB,
+mit der Folge, dass die Befristungsabrede nichtig ist und das Arbeitsverhältnis gemäß § 16
+Satz 1 TzBfG als auf unbestimmte Zeit geschlossen gilt.
+
+Ein weiteres Problemfeld ist die Vorbeschäftigung: Vogt war bereits vom 01. Juli 2021 bis
+30. September 2021 (3 Monate) als geringfügig beschäftigte Ferienaushilfskraft im Bereich
+Lager/Posteingang am Betriebshof Rudower Straße 14 tätig. Der Abstand zwischen dem Ende
+dieser Vorbeschäftigung (30.09.2021) und dem Beginn des neuen Vertrages (01.03.2024) beträgt
+2 Jahre und 5 Monate. Nach der BVerfG-Entscheidung vom 06. Juni 2018 (1 BvL 7/14) greift das
+Vorbeschäftigungsverbot des § 14 Abs. 2 Satz 2 TzBfG nicht absolut; ein institutioneller
+Rechtsmissbrauch setzt zumindest eine enge zeitliche und inhaltliche Verknüpfung voraus. Angesichts
+der verschiedenen Tätigkeiten und Einsatzorte ist dieser Aspekt ein Hilfsargument, das Hauptargument
+bleibt der Schriftformmangel.
+
+Mit E-Mail vom 09. Januar 2026 informierte Schönfeld Vogt, dass das Arbeitsverhältnis planmäßig
+zum 28. Februar 2026 auslaufen werde und kein Anschlussvertrag beabsichtigt sei. Vogt wandte
+sich daraufhin am 09. März 2026 an die beauftragte Rechtsanwaltskanzlei. Die Klagefrist nach
+§ 17 TzBfG (3 Wochen ab Vertragsende) läuft am 20. März 2026 ab; die Klage ist daher
+unverzüglich einzureichen. Vogt wünscht primär die Weiterbeschäftigung — im Kundencenter der
+Stadtwerke ist eine neue Stelle ausgeschrieben — hilfsweise Abfindung oder zumindest ein
+rechtskräftiges Feststellungsurteil.
+
+---
+
+## Eckdaten
 
 | Parameter | Wert |
 |---|---|
-| Beginn | 01.03.2024 |
-| Funktion | Sachbearbeiterin Kundenservice |
-| Vollzeit / Teilzeit | Vollzeit, 39 Std./Woche |
-| Bruttogehalt | EUR 2.980,00/Monat |
-| Vertragsart | Befristet ohne Sachgrund (§ 14 Abs. 2 TzBfG) |
-| Vertragsende laut AV | 28.02.2026 |
+| Aktenzeichen (intern) | VGT/2026/0309-ARB |
+| Gericht | Arbeitsgericht Berlin |
+| Klägerin | Lena Vogt, Erkstraße 48, 12043 Berlin |
+| Beklagte | Stadtwerke Neukölln GmbH, Britzer Damm 221, 12347 Berlin, HRB 145231 B |
+| Personalreferentin AG | Birgit Schönfeld |
+| Betriebsratsvorsitz | Fatima Öztürk (7 Mitglieder) |
+| Kanzlei | [Kanzleiname], [Anwältin: Rechtsanwältin Hanna Dressel] |
+| Beginn AV | 01.03.2024 |
+| Ende AV (befristet) | 28.02.2026 |
+| Vertragsart | Befristet ohne Sachgrund, § 14 Abs. 2 TzBfG |
+| Bruttogehalt | EUR 2.950,00 / Monat |
+| Fristende § 17 TzBfG | **20.03.2026** |
+| Streitwert | EUR 8.850,00 (3 × Monatsgehalt, § 42 Abs. 2 GKG) |
+| Verfahrensstand | Klageeinreichung ausstehend (Frist läuft) |
+| Vorbeschäftigung | 01.07.2021–30.09.2021 (Ferienaushilfe, Lager, anderer Standort) |
 
-## Kernproblem
+---
 
-Der Arbeitsvertrag wurde am **28.02.2024** von der Personalabteilung per **E-Mail** versandt:
-Vogt erhielt die PDF als Anhang, unterschrieb die ausgedruckte Version **handschriftlich** und
-schickte das **eingescannte PDF zurück per E-Mail**. Die AG hat **nie ein Originaldokument
-mit eigenhändiger Unterschrift** übersandt oder erhalten.
-
-**→ Möglicher Schriftformmangel § 14 Abs. 4 TzBfG i.V.m. § 126 BGB.**
-
-## Weiteres Problemfeld: Vorbeschäftigung
-
-Vogt war bereits vom **01.06.2021 bis 31.08.2021** (3 Monate) als **Ferienaushilfe** bei den
-Stadtwerken Neukölln beschäftigt — befristeter Vertrag, anderer Bereich (Postdienst).
-
-**→ Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG** — liegt Missbrauch vor?
-Zeitabstand: ca. 2 Jahre 7 Monate. BVerfG 2018: „sehr lange zurückliegend" (ca. 3 J.+)?
-Hier: knapp darunter — **streitig**, aber vertretbar angreifbar.
-
-## 3-Wochen-Frist § 17 TzBfG
-
-| Ereignis | Datum |
-|---|---|
-| Vertragsende (vereinbart) | 28.02.2026 |
-| Letzter Arbeitstag | 28.02.2026 |
-| Fristbeginn § 17 TzBfG | 28.02.2026 |
-| Fristablauf | **20.03.2026** (Freitag) |
-| Erstgespräch Kanzlei | 09.03.2026 |
-| Klageeinreichung | rechtzeitig bis 20.03.2026 ✓ |
-
-## Sachverhalt / Mandantennotiz (unstrukturiert)
-
-```
-Erstgespräch 09.03.2026, 11:00 Uhr, Telefonat (Mandantin aus dem Ausland?)
-Nein — Mandantin ist in Berlin, wollte nur per Telefon erst sprechen.
-
-Sabine Vogt, 36 J., geschieden, 1 Kind (8 J., Grundschule, bei ihr).
-Gehalt EUR 2.980 brutto, seit 01.03.2024 bei Stadtwerken Neukölln.
-
-Vertrag: Am 28. oder 29. Feb 2024 zugeschickt, per Mail. Dann ausgedruckt,
-unterschrieben, eingescannt, zurückgemailt. Vogt hat keine Originalversion
-mit der Unterschrift des Personalleiters erhalten — nur das PDF.
-
-"Ich hab nachgefragt ob das ok ist so, der Schönfeld hat gesagt ja das reicht."
-
-Stadtwerke haben ihr Ende Januar 2026 mitgeteilt: kein Folgevertrag.
-Kurze Mail von Schönfeld: "Wir verlängern leider nicht, viel Erfolg."
-Kein Aufhebungsvertrag, kein förmliches Kündigungsschreiben — Vertrag
-läuft einfach aus.
-
-Zur Ferienaushilfsstelle 2021: "Da war ich im Sommer kurz beim Postdienst,
-drei Monate, anderer Bereich, das hat doch nix damit zu tun?" — genau das
-ist die rechtliche Frage.
-
-Vogt möchte am liebsten weiterbeschäftigt werden — es gibt eine neue
-Stelle im Kundencenter die ausgeschrieben ist. Falls nicht: Abfindung oder
-zumindest Feststellungsurteil damit sie beim Arbeitsamt besser dasteht.
-
-Kostenbelehrung erteilt § 12a ArbGG.
-PKH möglicherweise: Nettoeinkommen ALG I ab März — PLH beantragen?
-Vollmacht unterschrieben (liegt vor, Original per Post).
-```
-
-## Anlagen in dieser Akte
+## Dateien in dieser Akte
 
 | Datei | Inhalt |
 |---|---|
-| `arbeitsvertrag_vogt_2024_per_email.txt` | Arbeitsvertrag (Abschrift des PDF-Anhangs), inkl. Befristungsklausel |
-| `email_uebermittlung_vertrag_feb_2024.txt` | E-Mail-Verlauf Übermittlung + Rücksendung des AV |
-| `email_schoenfeld_kein_folgevertrag_jan_2026.txt` | Mitteilung Personalleiter: kein Folgevertrag |
-| `arbeitsvertrag_ferienaushilfe_2021_auszug.txt` | Auszug Ferienaushilfe-Vertrag 2021 (Befristung, anderer Bereich) |
-| `mandantennotiz_erstgespraech_09-03-2026.txt` | Handschriftliche Notiz des Anwalts (Abschrift) |
-| `vollmacht_vogt.txt` | Unterschriebene Vollmacht |
+| [README.md](README.md) | Diese Übersichtsseite: Sachverhalt, Eckdaten, Dateiliste, Lernziele |
+| [mandantennotiz_erstgespraech_09-03-2026.md](mandantennotiz_erstgespraech_09-03-2026.md) | Strukturierte Kanzleinotiz zum Erstgespräch vom 09.03.2026 |
+| [mandantennotiz_erstgespraech_09-03-2026.txt](mandantennotiz_erstgespraech_09-03-2026.txt) | Rohabschrift der handschriftlichen Notiz (Original) |
+| [vollmacht_vogt.docx](vollmacht_vogt.docx) | Vollmacht Lena Vogt (DOCX-Fassung) |
+| [vollmacht_vogt.md](vollmacht_vogt.md) | Vollmacht Lena Vogt (MD-Vorschau) |
+| [vollmacht_vogt.txt](vollmacht_vogt.txt) | Vollmacht Lena Vogt (Rohabschrift) |
+| [arbeitsvertrag_vogt_2024_per_email.txt](arbeitsvertrag_vogt_2024_per_email.txt) | Arbeitsvertrag 2024 (Abschrift des per E-Mail übersandten PDF) |
+| [arbeitsvertrag_vogt_2024_befristung.docx](arbeitsvertrag_vogt_2024_befristung.docx) | Arbeitsvertrag 2024 als vollständiges DOCX mit allen Klauseln |
+| [arbeitsvertrag_vogt_2024_befristung.md](arbeitsvertrag_vogt_2024_befristung.md) | Arbeitsvertrag 2024 MD-Vorschau |
+| [arbeitsvertrag_ferienaushilfe_2021_auszug.txt](arbeitsvertrag_ferienaushilfe_2021_auszug.txt) | Auszug Ferienaushilfe-Vertrag 2021 (nur Seite 1, Seite 2 fehlt) |
+| [email_uebermittlung_vertrag_feb_2024.txt](email_uebermittlung_vertrag_feb_2024.txt) | E-Mail-Verlauf: Übermittlung und Rücksendung des AV (Feb. 2024) |
+| [email_schoenfeld_kein_folgevertrag_jan_2026.txt](email_schoenfeld_kein_folgevertrag_jan_2026.txt) | E-Mail-Verlauf: Mitteilung kein Anschlussvertrag (Jan. 2026) |
+| [klageschrift_vogt_arbg_berlin.docx](klageschrift_vogt_arbg_berlin.docx) | Klageschrift Befristungskontrollklage ArbG Berlin (DOCX) |
+| [klageschrift_vogt_arbg_berlin.md](klageschrift_vogt_arbg_berlin.md) | Klageschrift MD-Vorschau |
+| [aktenvermerk_schriftformpruefung.md](aktenvermerk_schriftformpruefung.md) | Rechtliche Analyse: Schriftformverstoß § 14 Abs. 4 TzBfG |
+| [betriebsrat_stellungnahme_feb2026.docx](betriebsrat_stellungnahme_feb2026.docx) | Stellungnahme des Betriebsrats zum Auslauf des Vertrages (DOCX) |
+| [betriebsrat_stellungnahme_feb2026.md](betriebsrat_stellungnahme_feb2026.md) | Betriebsrat-Stellungnahme MD-Vorschau |
+| [streitwert_annahmeverzug_berechnung.xlsx](streitwert_annahmeverzug_berechnung.xlsx) | Streitwert- und Annahmeverzugslohnberechnung (XLSX) |
+| [streitwert_annahmeverzug_berechnung.md](streitwert_annahmeverzug_berechnung.md) | Berechnungen MD-Vorschau |
+| [vergleichsentwurf_vogt_stadtwerke.docx](vergleichsentwurf_vogt_stadtwerke.docx) | Vergleichsentwurf (DOCX) |
+| [vergleichsentwurf_vogt_stadtwerke.md](vergleichsentwurf_vogt_stadtwerke.md) | Vergleichsentwurf MD-Vorschau |
+
+---
 
 ## Rechtliche Knackpunkte dieser Akte
 
-1. **Schriftformverstoß § 14 Abs. 4 TzBfG** — eingescannte Unterschrift per E-Mail = keine Schriftform (§ 126 BGB); elektronische Form bei Befristungsabrede ausgeschlossen (§ 14 Abs. 4 i.V.m. § 125 BGB); Rechtsfolge: **Vertrag gilt als unbefristet** (§ 16 Satz 1 TzBfG)
-2. **Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG** — 2021: 3 Monate Ferienaushilfe; Abstand 2 J. 7 M. — BVerfG 2018 (1 BvL 7/14): Verbot gilt nicht bei „sehr lange zurückliegender" Beschäftigung; grauer Bereich
-3. **3-Wochen-Frist § 17 TzBfG** — Frist läuft 20.03.2026 ab, Akte im grünen Bereich
-4. **Weiterbeschäftigung** — neue Stelle im Kundencenter ausgeschrieben
+1. **Schriftformverstoß § 14 Abs. 4 TzBfG** — Die Befristungsabrede bedarf nach § 14 Abs. 4
+   TzBfG der Schriftform i.S.d. § 126 BGB. Eine eingescannte Unterschrift, die per E-Mail
+   übersandt wird, erfüllt diese Anforderung nicht; die elektronische Form ist gemäß § 14
+   Abs. 4 TzBfG i.V.m. § 125 BGB ausdrücklich ausgeschlossen. Rechtsfolge: Die
+   Befristungsabrede ist nichtig; der Vertrag gilt nach § 16 Satz 1 TzBfG als auf
+   unbestimmte Zeit geschlossen.
+
+2. **Vorbeschäftigungsverbot § 14 Abs. 2 Satz 2 TzBfG** — Vogt war 2021 (3 Monate,
+   Ferienaushilfe, Lager/Posteingang) beim selben Arbeitgeber beschäftigt. Abstand 2 J. 5 M.
+   BVerfG 2018 (1 BvL 7/14): kein zwingender Verstoß bei sehr lange zurückliegender
+   Vorbeschäftigung; hier anderer Bereich, anderer Standort, anderer Vertragstyp → Hilfsargument.
+
+3. **3-Wochen-Frist § 17 TzBfG** — Frist läuft 20.03.2026 ab. Erstgespräch 09.03.2026 →
+   Klage muss noch diese Woche eingereicht werden.
+
+4. **Weiterbeschäftigungsantrag** — Neue Stelle im Kundencenter ausgeschrieben → Antrag auf
+   tatsächliche Weiterbeschäftigung bis zur rechtskräftigen Entscheidung (BAG GS 1/84).
+
+---
+
+## Lernziel / Was zeigt diese Akte
+
+Diese Akte demonstriert den vollständigen Ablauf einer Befristungskontrollklage nach TzBfG:
+
+- **Erstberatung unter Fristdruck**: Erkennen und Berechnen der 3-Wochen-Frist des § 17 TzBfG
+- **Schriftformprüfung § 14 Abs. 4 TzBfG**: Wie die rein digitale Vertragsunterzeichnung
+  (E-Mail + Scan) zur Unwirksamkeit der Befristungsabrede führt und was das bedeutet
+- **Vorbeschäftigungsverbot**: Abgrenzung nach BVerfG 2018, Hilfs- vs. Hauptargument
+- **Klageschrifterstellung**: Rubrum, Anträge, zweistufige Begründung (Schriftform primär,
+  Vorbeschäftigung subsidiär), Beweisangebote
+- **Prozesstaktik**: Weiterbeschäftigung vs. Abfindung, Vergleichsbereitschaft einschätzen
+- **Streitwertberechnung**: § 42 Abs. 2 GKG (Vierteljahresverdienst), Annahmeverzug § 615 BGB
+- **PKH-Antrag**: Einkommens- und Vermögenssituation ALG I, Erfolgsaussichten
+
+---
 
 ## Skills zum Durchspielen
 
@@ -108,21 +138,23 @@ Vollmacht unterschrieben (liegt vor, Original per Post).
 |---|---|
 | `entfristung-triage-was-will-user` | Einstieg, Abgrenzung KüSchK vs. Entfristung |
 | `entfristung-grundwarnung-drei-wochen-frist` | Fristberechnung 20.03.2026 |
-| `entfristung-schriftform-14-abs-4-erkennen` | KERNSKILL: E-Mail + eingescanntes PDF = Schriftformverstoß |
-| `entfristung-elektronische-signatur-vorsicht` | DocuSign-Frage, § 126a BGB vs. § 126 BGB |
-| `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | BVerfG 2018, 2 J. 7 M. Abstand |
+| `entfristung-schriftform-14-abs-4-erkennen` | **KERNSKILL**: E-Mail + Scan = Schriftformverstoß |
+| `entfristung-elektronische-signatur-vorsicht` | § 126a BGB vs. § 126 BGB |
+| `entfristung-sachgrundlos-14-abs-2-vorbeschaeftigung` | BVerfG 2018, 2 J. 5 M. Abstand |
 | `entfristung-rechtsfolge-16-tzbfg-unbefristet` | Vertrag gilt als unbefristet |
 | `entfristung-klageschrift-anwalt-baustein` | Klageschrift ArbG Berlin |
 | `entfristung-guetetermin-und-kammertermin-sprechzettel` | Gütertermin-Vorbereitung |
 | `entfristung-vergleichsverhandlung-checkliste` | Neue Stelle vs. Abfindung |
 
-## Einstieg in die Akte
+Einstieg: `/arbeitsrecht:entfristung-triage-was-will-user`  
+Kernbaustein: `entfristung-schriftform-14-abs-4-erkennen`
 
-```
-/arbeitsrecht:entfristung-triage-was-will-user
-```
-Dann weiter mit `entfristung-schriftform-14-abs-4-erkennen` — das ist der Kern dieser Akte.
+---
 
 ## Disclaimer
 
-Alle Personen, Firmen, Adressen, Beträge und Aktenzeichen sind frei erfunden. Übereinstimmungen mit realen Personen oder Unternehmen wären rein zufällig. Die Akte dient ausschließlich dem Testen der Skills und ist keine Rechtsberatung.
+Alle Personen, Firmen, Adressen, Beträge und Aktenzeichen sind frei erfunden. Übereinstimmungen
+mit realen Personen oder Unternehmen wären rein zufällig. Die Akte dient ausschließlich dem
+Testen und der Demonstration der Skills im Plugin `arbeitsrecht` und stellt keine Rechtsberatung
+dar. Für konkrete rechtliche Fragen wenden Sie sich an eine zugelassene Rechtsanwältin oder
+einen zugelassenen Rechtsanwalt.

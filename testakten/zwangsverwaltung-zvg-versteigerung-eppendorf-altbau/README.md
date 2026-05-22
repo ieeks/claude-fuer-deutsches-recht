@@ -1,35 +1,115 @@
-# Testakte ZVG-Versteigerung Eppendorf Altbau
+# Testakte: ZVG-Versteigerung Eppendorf-Altbau
 
-Fiktive Testakte für `zwangsverwaltung-zvg`. Der Fall spielt in Hamburg-Eppendorf und simuliert ein vermietetes Wohnungseigentum in einem alten Mehrfamilienhaus. Die Akte eignet sich für:
+Vollständige Übungsakte für das Zwangsversteigerungsverfahren nach ZVG – vom Anordnungsbeschluss bis zum Zuschlag und Teilungsplan. Der Fall spielt in Hamburg-Eppendorf und umfasst eine vermietete Eigentumswohnung in einem Gründerzeit-Altbau. Die Akte deckt die gesamte Verfahrensstrecke ab: ZVG-Portal-Recherche, Grundbuchanalyse, Verkehrswertgutachten, Terminvorbereitung, Biettermin, Zuschlagsbeschluss und Erlösverteilung.
 
-- ZVG-Portal-Recherche
-- Auswertung von Grundbuchauszug und Verkehrswertgutachten
-- Bewertung eines Bieterangebots
-- Vorbereitung der Teilnahme am Versteigerungstermin
-- Schnittstelle zwischen Zwangsverwaltung, Mietverwaltung und Zwangsversteigerung
+---
 
-## Fiktions- und Anonymisierungshinweis
+## Sachverhalt
 
-Diese Akte ist vollständig fiktiv. Sie wurde nur strukturell durch typische ZVG-Unterlagen inspiriert. Namen, Grundbuchblatt, Gemarkung, Flurstück, Straße, Aktenzeichen, Gerichtsdaten und Mieterdaten sind frei erfunden. Originalfotos und echte Lagebilder werden nicht übernommen; an diesen Stellen stehen Platzhalter.
+Jonas R. Albrecht (fiktiv) hinterlässt beim Tod seine Eigentumswohnung Nr. 9 im dritten Obergeschoss links des Altbau-Mehrfamilienhauses Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg. Die Wohnung gehört zur WEG Eppendorf Blatt 48291 (Flurstück 1842/7, 612 qm, MEA 39,20/1.000) und hat laut Teilungserklärung eine Wohnfläche von 95,30 qm. Das Gebäude wurde um 1890 errichtet; das Dachgeschoss wurde um 1994 ausgebaut.
 
-## Enthaltene Unterlagen
+Die Erbengemeinschaft – bestehend aus den Miterben Heinrich J. Albrecht und Sofie Albrecht-Wegener (beide fiktiv) – bedient die Grundschuld der Nordelbe Kreditbank AG (fiktiv) in Höhe von 520.000,00 EUR nicht mehr. Die Kreditbank erwirkt zunächst die Anordnung der Zwangsverwaltung (Az. 71 L 44/25, eingetragen 18.11.2025) und anschließend die Anordnung der Zwangsversteigerung (Az. 71 K 18/26, eingetragen 12.02.2026). Die Wohnung ist seit dem 01.11.2021 an L. Sommer (fiktiv) vermietet; die Nettokaltmiete beträgt seit Mai 2023 monatlich 1.320,00 EUR. Auffällig sind drei Klingelnamenschilder sowie der Briefkastenzusatz „Atelier Nordbogen" – die tatsächliche Nutzung bleibt ungeklärt.
 
-| Datei | Zweck |
-| --- | --- |
-| `00_hinweis_anonymisierung.md` | Fiktions- und Abgrenzungsvermerk |
-| `01_zvg_portal_rechercheprotokoll.md` | dokumentierte ZVG-Portal-Suche Hamburg/Eppendorf |
-| `02_terminsbekanntmachung.md` | fiktive Terminsbekanntmachung |
-| `03_grundbuchauszug_anonymisiert.md` | fiktiver Wohnungsgrundbuchauszug |
-| `04_verkehrswertgutachten_kurzfassung.md` | fiktive Gutachten-Kurzfassung ohne Fotos |
-| `05_mietvertrag_kurznotiz.md` | Mietvertrags- und Nutzungsnotiz |
-| `06_bieterangebot_bewertung.md` | Beispielbewertung eines Bieterangebots |
-| `07_versteigerungsteilnahme_checkliste.md` | Termin- und Sicherheitsleistungscheck |
-| `08_risikomatrix.csv` | strukturierte Risiken |
-| `09_bietlimit_rechenblatt.csv` | einfache Bietlimit-Rechnung |
-| `10_quality_gate.md` | Prüfpunkte vor Ausgabe |
+Der vom Gericht bestellte Sachverständige Dipl.-Ing. Thorsten Malkwitz (fiktiv) erstellt zum Stichtag 28.04.2026 ein Verkehrswertgutachten. Da eine Innenbesichtigung vom Mieter verweigert wird, stützt er sich auf Außenbesichtigung und Vergleichsdaten des Gutachterausschusses Hamburg. Der Verkehrswert wird auf 685.000,00 EUR festgesetzt; Abschläge für fehlende Innenbesichtigung (−25.000,00 EUR) und ungeklärte Nutzung (−10.000,00 EUR) sind eingerechnet. Die WEG hält eine Sonderumlage für Steigleitungen und Dachentwässerung im Raum; ein Beschluss hierüber liegt noch nicht vor.
 
-## Schnellstart
+Am 16.07.2026 findet der Versteigerungstermin vor Rechtspflegerin Sabine Tönnies (fiktiv) am Amtsgericht Hamburg statt. Drei Bieter erscheinen: Nordhafen Immobilien UG (fiktiv), Elke Sonnenberg (fiktiv) und BH Capital GmbH & Co. KG (fiktiv). Nach 15 Geboten erteilt die Rechtspflegerin der Nordhafen Immobilien UG den Zuschlag zum Bargebot von 534.000,00 EUR. Der Erlös übersteigt die 7/10-Grenze (479.500,00 EUR), sodass kein Versagungsgrund nach § 74a ZVG vorliegt. Der Teilungsplan weist nach Abzug von öffentlichen Lasten, WEG-Hausgeld und Verfahrenskosten einen Restbetrag an die betreibende Gläubigerin Nordelbe Kreditbank AG aus; ein Überschuss zugunsten der Schuldner verbleibt nicht.
 
-1. `/zwangsverwaltung-zvg:zvg-portal-recherche` auf `01_zvg_portal_rechercheprotokoll.md` anwenden.
-2. `/zwangsverwaltung-zvg:zvg-bieterangebot-bewertung` auf die Gesamtakte anwenden.
-3. `/zwangsverwaltung-zvg:zvg-versteigerungsteilnahme` zur Terminvorbereitung starten.
+---
+
+## Eckdaten
+
+| Merkmal | Wert |
+|---------|------|
+| **Aktenzeichen ZVG** | 71 K 18/26 |
+| **Aktenzeichen ZV** | 71 L 44/25 |
+| **Gericht** | Amtsgericht Hamburg, Abteilung 71 |
+| **Grundbuch** | Eppendorf Blatt 48291 |
+| **Flurstück / Fläche** | 1842/7, Gemarkung Eppendorf, 612 qm |
+| **MEA** | 39,20/1.000 |
+| **Wohnfläche WE Nr. 9** | 95,30 qm (laut TE) |
+| **Baujahr** | um 1890 (DG-Ausbau um 1994) |
+| **Adresse** | Eppendorfer Mühlenbogen 16 / Heilwigbogen 4, 20249 Hamburg |
+| **Schuldner** | Erbengemeinschaft Albrecht (fiktiv): Heinrich J. Albrecht + Sofie Albrecht-Wegener |
+| **Betreibende Gläubigerin** | Nordelbe Kreditbank AG (fiktiv) |
+| **Grundschuld** | 520.000,00 EUR (Abt. III Nr. 1) |
+| **Zwangssicherungshypothek WEG** | 38.400,00 EUR (Abt. III Nr. 2) |
+| **Mieter** | L. Sommer (fiktiv), seit 01.11.2021 |
+| **Nettokaltmiete aktuell** | 1.320,00 EUR/Monat (ab 01.05.2023) |
+| **Hausgeld WEG** | 512,00 EUR/Monat (inkl. 126,00 EUR Erhaltungsrücklage) |
+| **Verkehrswert (§ 74a ZVG)** | 685.000,00 EUR (Stichtag 28.04.2026) |
+| **7/10-Grenze** | 479.500,00 EUR |
+| **5/10-Grenze** | 342.500,00 EUR |
+| **Sicherheitsleistung** | 68.500,00 EUR |
+| **Versteigerungstermin** | 16.07.2026, 10:00 Uhr, Saal 214 |
+| **Höchstgebot / Zuschlag** | 534.000,00 EUR (Nordhafen Immobilien UG, fiktiv) |
+| **Gutachter** | Dipl.-Ing. Thorsten Malkwitz (fiktiv), Gutachtennr. 2026-HH-117 |
+| **Zwangsverwalter** | Ralf Benderoth (fiktiv), Benderoth & Kassel Immobilienverwaltung GmbH |
+
+---
+
+## Dateien in dieser Akte
+
+| Datei | Format | Inhalt |
+|-------|--------|--------|
+| [00_hinweis_anonymisierung.md](00_hinweis_anonymisierung.md) | MD | Fiktions- und Abgrenzungsvermerk, alle erfundenen Stammdaten |
+| [01_zvg_portal_rechercheprotokoll.md](01_zvg_portal_rechercheprotokoll.md) | MD | Dokumentierte ZVG-Portal-Suche Hamburg/Eppendorf mit Wiederholungsanweisung |
+| [02_terminsbekanntmachung.md](02_terminsbekanntmachung.md) | MD | Fiktive Terminsbekanntmachung (§ 39 ZVG): Objekt, Termin, Verkehrswert, Hinweise |
+| [03_grundbuchauszug_anonymisiert.md](03_grundbuchauszug_anonymisiert.md) | MD | Fiktiver Wohnungsgrundbuchauszug: Bestandsverzeichnis, Abt. I–III |
+| [04_verkehrswertgutachten_kurzfassung.md](04_verkehrswertgutachten_kurzfassung.md) | MD | Gutachten-Kurzfassung: Miettabellen, WEG, Abschläge, Ergebnis 685.000 EUR |
+| [05_mietvertrag_kurznotiz.md](05_mietvertrag_kurznotiz.md) | MD | Mietstruktur, besondere Abreden, Auffälligkeiten (Atelier Nordbogen) |
+| [06_bieterangebot_bewertung.md](06_bieterangebot_bewertung.md) | MD | Bewertung eines vorgerichtlichen Bieterangebots (515.000 EUR); Bietlimit 525.000 EUR |
+| [07_versteigerungsteilnahme_checkliste.md](07_versteigerungsteilnahme_checkliste.md) | MD | Termin-Checkliste: Sicherheitsleistung, Mitzunehmendes, Begriffe, harte Bietregel |
+| [08_risikomatrix.csv](08_risikomatrix.csv) | CSV | Strukturierte Risikoübersicht (Wahrscheinlichkeit / Auswirkung) |
+| [09_bietlimit_rechenblatt.csv](09_bietlimit_rechenblatt.csv) | CSV | Einfache Bietlimit-Kalkulation (Verkehrswert minus Risikoabschläge) |
+| [10_quality_gate.md](10_quality_gate.md) | MD | Vollständige Verfahrens-Prüfliste A–H vor Bieterentscheidung; Abbruchkriterien |
+| [11_geringstes_gebot_berechnung.md](11_geringstes_gebot_berechnung.md) | MD | Rechtliche Analyse des geringsten Gebots (§ 49 ZVG), Schutzgrenzen, Bietlimit-Abgrenzung |
+| [12_verkehrswertgutachten_vollstaendig.docx](12_verkehrswertgutachten_vollstaendig.docx) | DOCX | Vollständiges Gutachten: Vergleichswert (Sachwert/Ertragswert), 7 Kapitel, Risikohinweise |
+| [12_verkehrswertgutachten_vollstaendig.md](12_verkehrswertgutachten_vollstaendig.md) | MD | Markdown-Vorschau des Gutachtens |
+| [13_versteigerungstermin_protokoll.docx](13_versteigerungstermin_protokoll.docx) | DOCX | Terminprotokoll: Anwesende, Versteigerungsbedingungen, 15 Gebote, Zuschlag |
+| [13_versteigerungstermin_protokoll.md](13_versteigerungstermin_protokoll.md) | MD | Markdown-Vorschau des Terminprotokolls |
+| [14_zuschlagsbeschluss.docx](14_zuschlagsbeschluss.docx) | DOCX | Zuschlagsbeschluss mit Rubrum, Tenor, Gründen und Rechtsbehelfsbelehrung |
+| [14_zuschlagsbeschluss.md](14_zuschlagsbeschluss.md) | MD | Markdown-Vorschau des Zuschlagsbeschlusses |
+| [15_schuldnermitteilung.md](15_schuldnermitteilung.md) | MD | Schuldnermitteilung des Zwangsverwalters: Mietkonto, Hausgeld, WEG, Verwalterkosten |
+| [16_bietverzeichnis.xlsx](16_bietverzeichnis.xlsx) | XLSX | Chronologisches Bietverzeichnis: 15 Gebote, 3 Bieter, Deltas, Höchstgebot-Zusammenfassung |
+| [16_bietverzeichnis.md](16_bietverzeichnis.md) | MD | Markdown-Vorschau des Bietverzeichnisses |
+| [17_teilungsplan.xlsx](17_teilungsplan.xlsx) | XLSX | Teilungsplan §§ 109–145 ZVG: Rangklassen § 10 ZVG, Erlösverteilung, Formelblatt |
+| [17_teilungsplan.md](17_teilungsplan.md) | MD | Markdown-Vorschau des Teilungsplans |
+| [18_verkehrswert_ermittlung.xlsx](18_verkehrswert_ermittlung.xlsx) | XLSX | Zwei-Blatt-Kalkulation: Vergleichswert (Vergleichsdaten + Korrekturen) + Ertragswert (Plausibilisierung) |
+| [18_verkehrswert_ermittlung.md](18_verkehrswert_ermittlung.md) | MD | Markdown-Vorschau der Wertermittlung |
+
+---
+
+## Lernziele / Was zeigt diese Akte
+
+**Verfahrensstruktur:**
+- Zusammenspiel von Zwangsverwaltung (§§ 146 ff. ZVG) und Zwangsversteigerung (§§ 15 ff. ZVG) in einer Akte
+- Anordnungs- und Vollziehungsvoraussetzungen; Grundbuchvermerke nach §§ 19, 20 ZVG
+- Aufhebungs- und Einstellungsoptionen (§§ 30, 30a ZVG); Bedeutung von Terminstatus-Prüfungen
+
+**Wertermittlung:**
+- Vergleichswertverfahren vs. Ertragswertverfahren (ImmoWertV): Anwendungsvoraussetzungen, Verfahrenswahl
+- Abschlagslogik bei fehlender Innenbesichtigung und ungeklärter Nutzung
+- Schutzgrenzen §§ 74a, 85a ZVG: 7/10 und 5/10 des festgesetzten Verkehrswerts
+
+**Geringstes Gebot und bestehenbleibende Rechte:**
+- Abgrenzung geringstes Gebot (§ 49 ZVG) vom wirtschaftlichen Bietlimit
+- Bestehenbleibende Rechte (§ 52 ZVG): Rangverhältnisse, wirtschaftliche Belastung für Ersteher
+- Deckungsprinzip: Mindest-Bargebot muss Verfahrenskosten decken
+
+**Rangklassen und Teilungsplan:**
+- Rangklassen § 10 Abs. 1 Nr. 1–5 ZVG (öff. Lasten, WEG-Hausgeld, Verfahrenskosten, Grundpfandrechte)
+- 5 %-Grenze für WEG-Hausgeld (§ 10 Abs. 1 Nr. 2 ZVG): max. 34.250,00 EUR
+- Erlösverteilung in formular-basiertem Teilungsplan; Resterlös-Kaskade
+
+**Verfahrenspraxis und Taktik:**
+- Sicherheitsleistung: zulässige Formen (§ 67 ZVG), Rechtzeitigkeit
+- Biettermin-Dynamik: Schrittgebote, Dreimal-Regel, Zuschlagsvoraussetzungen
+- Checklisten-Denken: Quality Gate mit acht Prüfbereichen (A–H)
+
+---
+
+## Disclaimer
+
+Diese Akte ist vollständig fiktiv. Alle Personen, Unternehmen, Aktenzeichen, Grundbuchdaten, Adressen, IBANs und sonstigen Angaben sind frei erfunden. Übereinstimmungen mit realen Personen, Gesellschaften oder Verfahren sind zufällig und nicht beabsichtigt. Originale Fotos, Grundrisse und Karten sind nicht enthalten; entsprechende Platzhalter sind als solche gekennzeichnet.
+
+Die Inhalte dienen ausschließlich der Ausbildung und dürfen nicht als Rechtsberatung im Einzelfall verstanden werden. Für konkrete rechtliche Fragen zu Zwangsversteigerungsverfahren ist stets anwaltlicher Rat einzuholen.

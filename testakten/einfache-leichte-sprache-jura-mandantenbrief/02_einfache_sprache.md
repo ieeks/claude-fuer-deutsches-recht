@@ -1,64 +1,109 @@
-# Kurze Antwort
+# Mandantenbrief in Einfacher Sprache
 
-Sie können gegen den Bescheid vom Jobcenter Widerspruch einlegen.
+> **Kanzlei Muster & Partner**
+> Berliner Allee 47, 10115 Berlin
+> Telefon: 030 / 12 34 56-0
+> Datum: 12. Mai 2026
+> Aktenzeichen: KMP/SoR/2026/0438
 
-Dafür haben Sie 1 Monat Zeit.
+**Frau Gisela Neumann**
+Rosenweg 12
+13055 Berlin
 
-Bitte sagen Sie uns bis zum 20. Mai 2026:
-Sollen wir den Widerspruch für Sie einlegen?
+---
 
-# Was ist passiert?
+Sehr geehrte Frau Neumann,
 
-Sie haben einen Bescheid vom Jobcenter bekommen.
+vielen Dank für Ihr Vertrauen. Wir schreiben Ihnen wegen des Bescheids vom Jobcenter Berlin-Lichtenberg. Diesen Bescheid haben Sie am 3. Mai 2026 erhalten.
 
-Der Bescheid ist am 3. Mai 2026 bei Ihnen angekommen.
+---
 
-Wir haben den Bescheid kurz geprüft.
+## Was steht in dem Bescheid?
 
-Dabei ist uns aufgefallen:
-Das Jobcenter hat Ihre Nachweise zu den Heizkosten vielleicht nicht vollständig
-beachtet.
+Das Jobcenter hat entschieden, wie viel Geld Sie für Miete und Heizung bekommen. Diese Geldleistung heißt „Kosten der Unterkunft und Heizung".
 
-# Was können Sie tun?
+Das Jobcenter hat dabei Ihre Heizkosten nicht vollständig berücksichtigt. Sie haben dem Jobcenter im April 2026 Unterlagen zu Ihren Heizkosten geschickt. Darunter war:
 
-Sie können Widerspruch einlegen.
+- die Heizkostenabrechnung für das Jahr 2025,
+- die Vorauszahlungsmitteilung für das Jahr 2026.
 
-Widerspruch bedeutet:
-Sie sagen der Behörde:
-Ich bin mit dem Bescheid nicht einverstanden.
-Bitte prüfen Sie den Bescheid noch einmal.
+Das Jobcenter hat trotzdem nur einen Teil der Heizkosten anerkannt. Der Rest wurde ohne ausreichende Begründung gekürzt. Außerdem hat das Jobcenter Ihre Heizkostennachzahlung aus 2025 im Bescheid gar nicht erwähnt. Das halten wir für einen Fehler.
 
-Wir können den Widerspruch für Sie schreiben.
+---
 
-Wir können auch Akteneinsicht beantragen.
-Dann muss das Jobcenter uns zeigen, welche Unterlagen es benutzt hat.
+## Was sagt das Gesetz?
 
-# Frist
+Nach dem Sozialgesetzbuch (SGB II, § 22) müssen die tatsächlichen Wohnkosten übernommen werden — soweit sie angemessen sind. Das Bundessozialgericht hat außerdem entschieden: Wenn das Jobcenter keine klare Berechnung vorlegen kann, muss es die tatsächlichen Kosten zahlen. Eine einmalige Nachzahlung bei den Heizkosten muss nach dem Gesetz zusätzlich übernommen werden.
 
-Die Frist beträgt 1 Monat.
+Wir sind der Meinung: Das Jobcenter hat hier zwei Fehler gemacht.
 
-Die Frist beginnt, wenn Sie den Bescheid bekommen haben.
+1. Es hat die laufenden Heizkostenvorauszahlungen zu stark gekürzt.
+2. Es hat die Nachzahlung aus der Jahresabrechnung 2025 nicht berücksichtigt.
 
-Wenn die Frist abläuft, kann der Bescheid endgültig werden.
-Dann wird es schwerer, noch etwas dagegen zu tun.
+---
 
-# Bitte melden Sie sich
+## Was empfehlen wir Ihnen?
 
-Bitte melden Sie sich bis zum 20. Mai 2026 bei uns.
+Wir empfehlen: Legen Sie Widerspruch ein.
 
-Sagen Sie uns bitte:
-Sollen wir den Widerspruch einlegen?
+**Was bedeutet Widerspruch?**
+Sie sagen dem Jobcenter schriftlich: „Ich bin mit Ihrer Entscheidung nicht einverstanden. Bitte prüfen Sie den Bescheid noch einmal." Das Jobcenter muss dann seinen Bescheid erneut prüfen.
 
-# Schwere Wörter kurz erklärt
+Wir können den Widerspruch für Sie schreiben und einreichen. Wir können außerdem Akteneinsicht beantragen. Das bedeutet: Wir fordern das Jobcenter auf, uns alle Unterlagen zu zeigen, die es bei seiner Entscheidung benutzt hat.
 
-Widerspruch:
-Sie verlangen, dass die Behörde den Bescheid noch einmal prüft.
+---
 
-Bescheid:
-Ein offizieller Brief von einer Behörde.
+## Welche Frist gilt?
 
-Akteneinsicht:
-Wir dürfen die Unterlagen der Behörde ansehen.
+Die Widerspruchsfrist beträgt **einen Monat**. Sie beginnt ab dem Tag, an dem Sie den Bescheid erhalten haben (3. Mai 2026). Die Frist endet damit am **3. Juni 2026**.
 
-Frist:
-Eine Zeit, bis zu der man etwas tun muss.
+Wenn die Frist verstreicht, ohne dass Widerspruch eingelegt wurde, wird der Bescheid bestandskräftig. Das bedeutet: Die Entscheidung des Jobcenters gilt dann als endgültig. Es gibt nur sehr wenige Ausnahmen, um eine versäumte Frist nachträglich zu retten — und die Bedingungen dafür sind streng.
+
+---
+
+## Was müssen Sie jetzt tun?
+
+**Bitte melden Sie sich bis spätestens 20. Mai 2026 bei uns.**
+
+Teilen Sie uns mit, ob wir den Widerspruch für Sie einlegen sollen.
+
+Bitte schicken Sie uns außerdem folgende Unterlagen, falls Sie diese noch nicht eingereicht haben:
+
+- die vollständige Heizkostenabrechnung 2025 (Original oder Kopie),
+- die aktuelle Vorauszahlungsmitteilung für 2026,
+- Ihren Mietvertrag,
+- frühere Bescheide des Jobcenters zum selben Zeitraum.
+
+---
+
+## Was kostet das?
+
+Das Widerspruchsverfahren ist für Sie **kostenlos**, wenn Sie Beratungshilfe haben. Falls noch kein Beratungshilfeschein vorliegt, helfen wir Ihnen, diesen beim Amtsgericht Berlin-Mitte zu beantragen.
+
+---
+
+Mit freundlichen Grüßen
+
+**Kanzlei Muster & Partner GbR**
+Sabine Muster, Rechtsanwältin
+
+---
+
+## Schwere Wörter in diesem Brief — einfach erklärt
+
+| Wort | Bedeutung |
+|---|---|
+| **Bescheid** | Ein offizieller Brief einer Behörde, der eine Entscheidung enthält. |
+| **Jobcenter** | Das Amt, das Bürgergeld und Wohnkosten zahlt. |
+| **Widerspruch** | Sie sagen schriftlich: Ich bin nicht einverstanden. Bitte prüfen Sie noch einmal. |
+| **Widerspruchsfrist** | Die Zeit, die Sie haben, um Widerspruch einzulegen. Hier: ein Monat. |
+| **Bestandskraft** | Der Bescheid ist endgültig und kann fast nicht mehr geändert werden. |
+| **Akteneinsicht** | Ihr Anwalt darf die Unterlagen des Jobcenters einsehen. |
+| **Beratungshilfe** | Staatliche Unterstützung, damit Anwaltskosten nicht selbst gezahlt werden müssen. |
+| **Kosten der Unterkunft und Heizung (KdU)** | Das Geld, das das Jobcenter für Miete und Heizung zahlt. |
+| **SGB II** | Sozialgesetzbuch, zweites Buch — das Gesetz, das das Bürgergeld regelt. |
+| **Angemessenheit** | Das Jobcenter zahlt nur bis zu einer bestimmten Grenze. Was darüber liegt, gilt als „unangemessen". |
+
+---
+
+> **Hinweis:** Dieser Brief wurde nach den Grundsätzen der **Einfachen Sprache** (DIN SPEC 33429) vereinfacht. Zielgruppe: Mandantinnen und Mandanten mit eingeschränkter Lesekompetenz oder wenig juristischem Vorwissen. Die Fassung ersetzt nicht das juristische Originalschreiben.

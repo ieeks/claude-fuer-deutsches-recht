@@ -1,75 +1,228 @@
-# Worum geht es?
+# Vorschau: 03_leichte_sprache
 
-Sie haben einen Brief vom Jobcenter bekommen.
+> Lesbare Markdown-Vorschau der gleichnamigen DOCX-Datei. Massgeblich ist die DOCX-Originaldatei.
 
-Dieser Brief heißt:
-Bescheid.
+Brief in Leichter Sprache
 
-Der Bescheid ist vom 3. Mai 2026.
+Von: Kanzlei Muster & Partner, Berlin
 
-# Was bedeutet das?
+Datum: 12. Mai 2026
 
-Sie können etwas gegen den Bescheid tun.
+Für: Frau Gisela Neumann
 
-Das heißt:
+
+
+Worum geht es?
+
+
+Sie haben einen Brief
+
+vom Jobcenter bekommen.
+
+
+Dieser Brief heißt Bescheid.
+
+
+Der Bescheid ist
+
+vom 28. April 2026.
+
+
+Sie haben den Brief
+
+am 3. Mai 2026 bekommen.
+
+
+Was steht im Brief?
+
+
+Das Jobcenter hat entschieden:
+
+
+Sie bekommen Geld für Ihre Wohnung.
+
+
+Sie bekommen Geld für Ihre Heizung.
+
+
+Aber das Jobcenter hat
+
+nicht genug Geld gegeben.
+
+
+Warum ist das ein Problem?
+
+
+Sie haben dem Jobcenter
+
+Unterlagen gegeben.
+
+
+Die Unterlagen zeigen,
+
+wie viel Ihre Heizung kostet.
+
+
+Das Jobcenter hat die Unterlagen
+
+nicht richtig geprüft.
+
+
+Das Jobcenter hat
+
+zu wenig Geld gezahlt.
+
+
+Außerdem:
+
+Sie hatten eine Nachzahlung
+
+für die Heizung.
+
+
+Das Jobcenter hat diese Nachzahlung
+
+nicht bezahlt.
+
+
+Das ist falsch.
+
+
+Was können Sie tun?
+
+
 Sie können Widerspruch machen.
 
-Widerspruch heißt:
+
+Widerspruch bedeutet:
+
+
 Sie sagen dem Jobcenter:
+
+
 Ich bin nicht einverstanden.
 
-Bitte prüfen Sie den Bescheid noch einmal.
 
-# Warum kann ein Widerspruch sinnvoll sein?
+Bitte prüfen Sie noch einmal.
 
-Sie haben Unterlagen zu Ihren Heizkosten abgegeben.
 
-Vielleicht hat das Jobcenter diese Unterlagen nicht richtig geprüft.
+Was machen wir für Sie?
 
-Deshalb können wir Widerspruch für Sie machen.
 
-Wir können auch die Akte vom Jobcenter ansehen.
+Wir schreiben den Widerspruch für Sie.
 
-Das heißt:
-Wir prüfen die Unterlagen vom Jobcenter.
 
-# Wichtiges Datum
+Wir schicken den Widerspruch
 
-Bitte melden Sie sich bis zum:
+an das Jobcenter.
+
+
+Wir fragen auch:
+
+Zeigen Sie uns alle Unterlagen.
+
+
+Wichtige Frist
+
+
+Sie müssen bis zum
+
+3. Juni 2026
+
+Widerspruch machen.
+
+
+Eine Frist ist eine Zeit.
+
+Bis dahin muss etwas passieren.
+
+
+Wenn die Frist vorbei ist:
+
+Der Bescheid wird endgültig.
+
+Dann ist es schwer,
+
+noch etwas zu ändern.
+
+
+Was müssen Sie jetzt tun?
+
+
+Bitte melden Sie sich bei uns.
+
+
+Bitte melden Sie sich bis zum
 
 20. Mai 2026.
 
+
 Sagen Sie uns:
 
-Sollen wir den Widerspruch für Sie machen?
+Sollen wir den Widerspruch
 
-# Was passiert ohne Widerspruch?
+für Sie machen?
 
-Die Frist kann ablaufen.
 
-Dann wird der Bescheid vielleicht endgültig.
+Sie können uns anrufen:
 
-Dann ist es schwerer,
-etwas gegen den Bescheid zu tun.
+030 / 12 34 56-0
 
-# Schwere Wörter
+
+Kostet das etwas?
+
+
+Nein.
+
+
+Der Widerspruch kostet Sie nichts.
+
+Wenn Sie Beratungshilfe haben.
+
+
+Beratungshilfe bedeutet:
+
+Der Staat zahlt den Anwalt für Sie.
+
+
+Wenn Sie keine Beratungshilfe haben:
+
+Wir helfen Ihnen dabei.
+
+
+
+Schwere Wörter
+
 
 Bescheid:
+
 Ein offizieller Brief von einer Behörde.
 
+In dem Brief steht eine Entscheidung.
+
+
 Widerspruch:
-Sie sagen:
-Ich bin nicht einverstanden.
+
+Sie sagen: Ich bin nicht einverstanden.
+
+Bitte prüfen Sie noch einmal.
+
 
 Frist:
+
 Eine bestimmte Zeit.
+
 Bis dahin müssen Sie etwas tun.
 
-Akte:
-Das sind die Unterlagen beim Jobcenter.
 
-# Hinweis
+Beratungshilfe:
 
-Dieser Entwurf ist in Leichter Sprache formuliert.
+Der Staat zahlt die Anwaltskosten.
 
-Eine Prüfung durch Personen aus der Zielgruppe steht noch aus.
+
+
+Hinweis zur Leichten Sprache
+
+Dieser Text wurde nach den Regeln des Netzwerks Leichte Sprache geschrieben. Er wurde noch nicht von Menschen aus der Zielgruppe geprüft. Diese Prüfung ist bei echten Texten in Leichter Sprache Pflicht.
+
+Fiktive Lernakte – alle Personen und Aktenzeichen sind frei erfunden – ersetzt keine Rechtsberatung.
