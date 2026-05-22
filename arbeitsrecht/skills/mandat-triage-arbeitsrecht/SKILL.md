@@ -116,7 +116,10 @@ Arbeitsrechtliche Mandate sind fristen-kritisch — die Drei-Wochen-Frist § 4 K
 | Untersuchung Memo | `untersuchungs-memo` |
 | AGG Diskriminierung | (Skill agg-diskriminierung — perspektivisch) |
 | Befristung | (Skill befristung-tzbfg — perspektivisch) |
-| HinSchG Whistleblower | (Skill hinschg-whistleblower — perspektivisch) |
+| HinSchG Whistleblower | `hinschg-whistleblower-antwort` |
+| Massenentlassung | `massenentlassung-17-kschg` |
+| Mindestlohn / Zeiterfassung | `mindestlohn-arbeitszeit-erfassung` |
+| Aufhebungsvertrag mit Sperrzeit-Risiko | `aufhebungsvertrag-sperrzeit-prognose` |
 | AGG Diskriminierung + DSGVO | `agg-pruefung-bewerber-und-beschaeftigte` |
 
 ## DSGVO-Auskunftsersuchen — Parallel-Triage
