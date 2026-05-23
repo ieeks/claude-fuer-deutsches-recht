@@ -1,48 +1,284 @@
 ---
 name: energierecht-industriekunden
-description: "Prüft standortbezogene Versorgungskonzepte, Sondernetzentgelte, Entlastungen, Umlagen, Stromkostenkompensation und Messkonzepte."
+description: Industriekunden-Sonderregelungen § 19 Abs. 2 StromNEV Bandlast-Privileg 7000-Stunden-Konstellation. EEG-Umlage-Befreiung historisch BesAR jetzt KWKG-Strompreiskompensation EnEfG Energie-Effizienz-Pflicht. Sondernetzentgelt § 19 Abs. 1 atypisches Verbrauchs-Verhalten. Versorgung-Sicherheits-Klauseln Spitzenkappung Bandlast. Energie-Audit § 8 EDL-G. Carbon Border Adjustment Mechanism CBAM bei energie-intensiver Industrie. PPA Corporate Direct Plus zusaetzlich physische und finanzielle PPA-Strukturen. Reform-Linie 2024 Strompreisbremse-Aufhebung Industrie-Strompreis-Diskussion.
 ---
 
-# Industriekunden und Kostenoptimierung
+# Industriekunden — Sonderregelungen
 
 ## Zweck
 
-Dieser Skill macht aus Standortdaten eine prüfbare Kosten- und Compliance-Matrix für Letztverbraucher und Eigenerzeuger.
+Industriekunden mit hohem Stromverbrauch haben eine Reihe von Sonder-Privilegierungen und entsprechenden Pflichten. Dieser Skill systematisiert.
 
-## Wann verwenden
+## Eingaben
 
-- wenn ein neuer Fall im Bereich Energierecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- Mandant: Industriekunde
+- Stromverbrauch jährlich (MWh)
+- Vollbenutzungsstunden
+- Branche (energie-intensiv-Liste FFL?)
+- Bestehende Privilegierungen (BesAR-Bescheid, § 19 StromNEV-Bescheid)
+- Anlagen-Eigenerzeugung
 
-## Arbeitsweise
+## Schritt 1 — § 19 Abs. 2 Satz 2 StromNEV Bandlast-Privileg
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+### Tatbestand
 
-## Rückfragen, wenn unklar
+Reduzierung des Netzentgelts wenn
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+- **Vollbenutzungsstunden ≥ 7.000 h/Jahr** und
+- **Jahresverbrauch ≥ 10 GWh**
 
-## Ausgabeformat
+### Reduzierungs-Stufen
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+| Vollbenutzungsstunden | Netzentgelt-Anteil |
+|---|---|
+| 7.000 — 7.499 h | 20 % |
+| 7.500 — 7.999 h | 15 % |
+| ≥ 8.000 h | 10 % |
 
-## Typische Fehler vermeiden
+### Antragsverfahren
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+- **Antrag bis 30.09. für das Folgejahr** beim Netzbetreiber
+- BNetzA-Festlegung BK4-21-049 zu Anwendungs-Modalitäten
+- Bei Versäumnis: kein rückwirkender Anspruch
+
+### Voraussetzungen-Prüfung
+
+- Vergangener Verbrauch nachweisen
+- Prognose-Verbrauch realistisch
+- Bei Unterschreiten Rückforderungs-Risiko
+
+### Historischer Streit
+
+- BGH EnVR 7/14 zur Vorgänger-Norm: unzureichende parlamentarische Grundlage
+- Neufassung 2023
+- Rückforderungs-Welle bei Bestandsanlagen
+
+## Schritt 2 — § 19 Abs. 1 StromNEV atypisches Verbrauchs-Verhalten
+
+### Anwendungs-Bereich
+
+- Verbrauch außerhalb der Jahres-Spitzenzeiten
+- Last-Verschiebung nachgewiesen
+- Reduzierte Netzentgelte
+
+### Verhandlungs-Spielraum
+
+- Individuelles Netzentgelt mit Netzbetreiber
+- BNetzA-Genehmigungs-Vorbehalt
+- Häufig komplexere Tarif-Modelle
+
+## Schritt 3 — Strompreiskompensation (Carbon Leakage)
+
+### Hintergrund
+
+- Indirekte CO2-Kosten im Strompreis durch ETS
+- Energie-intensive Industrien (CO2-Leakage-Branchen) bekommen Kompensation
+- BMWK / BAFA als Behörde
+
+### Voraussetzungen
+
+- Branche auf FFL-Liste (Förderfähigkeits-Liste)
+- Stromintensität nachweisen
+- ETS-CO2-Preis-Bezug
+
+### Antragsverfahren
+
+- **Antrag jährlich bei BAFA**
+- Frist regelmäßig 30. April Folgejahr
+- Dokumentations-Pflicht umfangreich
+
+### Reform 2024/2025
+
+- Strompreiskompensation läuft fort, Volumen schrittweise sinkend
+- Industrie-Strompreis-Diskussion politisch (CO2-Differenzverträge Klimaschutzverträge CFD)
+
+## Schritt 4 — Klimaschutzverträge (Carbon Contracts for Difference, CCfD)
+
+### Konzept
+
+- Differenzvertrag zwischen Industrie und Bund
+- Bund garantiert CO2-Preis-Ergänzung wenn ETS-Preis unter Vereinbarung
+- Anreiz für Dekarbonisierung in energieintensiver Industrie
+
+### Förderaufruf 2023/2024
+
+- 4 Mrd. € erstes Förderaufrufs-Volumen
+- BAFA-Antrag
+- KMU-Bonus
+
+### Verzahnung
+
+- Mit Strompreiskompensation
+- Mit EEG/KWKG-Vermarktung
+
+## Schritt 5 — Energie-Audit § 8 EDL-G
+
+### Pflicht
+
+- Energie-intensive Unternehmen jährlich
+- Zertifikatsstelle BAFA-Zugang
+- Bußgeld bei Nicht-Durchführung
+
+### Audit-Inhalte
+
+- Verbrauchs-Analyse alle Standorte
+- Maßnahmen-Vorschläge
+- Wirtschaftlichkeits-Berechnungen
+
+### Befreiung
+
+- Bei Anwendung ISO 50001 + Audit-Verifikation
+- Reduziert Prüf-Last
+
+## Schritt 6 — EnEfG (Energie-Effizienzgesetz, seit 17.11.2023)
+
+### Pflichten Unternehmen ab 7,5 GWh/Jahr
+
+- Energie- oder Umwelt-Management-System
+- Plan zur Hebung wirtschaftlich-realisierbarer Endenergie-Einsparungen
+- Pflicht-Maßnahmen-Listen
+
+### Sanktionen
+
+- Bußgeld bis 100.000 € (Sanktionsstaffel BAFA)
+- Aufsichts-Anordnungen
+
+### Verzahnung mit GEG und ETS
+
+- Anrechnungs-Mechanismen
+- Maßnahmen-Plan integrierbar
+
+## Schritt 7 — PPA Corporate Direct
+
+### Strukturierungs-Varianten
+
+#### Physisches PPA
+
+- Strom-Lieferung Anlage → Industriekunde direkt
+- Bilanzkreis-Strukturen
+- On-Site (Anlage auf Industrie-Gelände) oder Off-Site
+
+#### Finanzielles PPA (Synthetic PPA)
+
+- Strom-Lieferung an Markt
+- Differenz-Zahlungen zwischen Festpreis und Marktpreis
+- Bilanz-rechtlich anders strukturiert
+
+### Vorteile Industrie
+
+- Langfristige Preis-Sicherheit
+- Grüner Strom-Nachweis (HKN-Lieferung)
+- ESG-Reporting CSRD-konform
+
+### Vorteile Anlagen-Betreiber
+
+- Vermarktungs-Sicherheit ohne Markt-Volatilität
+- EEG-Förderung-Verzicht möglich (Marktpreis-Vergütung)
+
+### Vertrags-Strukturen
+
+- Laufzeit typisch 10-15 Jahre
+- Take-or-Pay-Klauseln
+- Volumen-Toleranzbänder
+- Force-Majeure-Klauseln
+- Kreditrisiko-Absicherung
+
+## Schritt 8 — Eigenerzeugung und § 19 StromNEV
+
+### Eigenerzeugung-Privileg
+
+- Strom für Eigenverbrauch — vermiedene Netzentgelte
+- Bei Direktleitung vom Erzeuger zum Verbraucher (gleiches Grundstück / räumlicher Zusammenhang)
+
+### Doppelvermarktung-Verbot
+
+- EEG-geförderter Strom kann nicht zugleich Direktverbrauch + EEG-Förderung erhalten
+- § 27a EEG
+
+## Schritt 9 — CBAM (Carbon Border Adjustment Mechanism)
+
+### EU-Verordnung 2023/956
+
+- Stahl, Zement, Aluminium, Düngemittel, Strom, Wasserstoff
+- Importeur muss CBAM-Zertifikate kaufen
+- Anwendung ab 01.10.2023 Reporting; Zahlungs-Pflicht ab 01.01.2026
+
+### Implikationen für Industrie
+
+- Carbon Leakage-Schutz indirekt
+- Anpassung Lieferketten
+- Skill `lksg-csddd-lieferkettensorgfalt`
+
+## Schritt 10 — Streit-Konstellationen Industriekunden
+
+### Bei verweigerter Privilegierung
+
+- Bescheid prüfen
+- Widerspruch / Klage VG
+- Skill `energierecht-verfahren`
+
+### Bei Netzbetreiber-Streit § 19 StromNEV
+
+- Antrag rechtzeitig?
+- Voraussetzungen erfüllt?
+- BNetzA-Beschwerde § 31 EnWG
+- OLG-Beschwerde
+
+### Bei Strompreis-Streit
+
+- AGB-Kontrolle
+- Tarif-Anpassungs-Klausel
+- Schiedsverfahren
+
+### Bei CO2-/ETS-Bescheid
+
+- DEHSt-Bescheid
+- Klage VG Berlin (zentrale Zuständigkeit)
+- Skill `umweltrecht-emissionshandel-tehg`
+
+## Schritt 11 — Mandanten-Strategie
+
+### Erstgespräch
+
+1. Verbrauchsprofil und Vollbenutzungsstunden klären
+2. Branche FFL-Listen-Prüfung
+3. Bestehende Privilegierungen inventarisieren
+4. Liefer-Vertrags-Struktur
+5. Eigenerzeugung-Pläne
+
+### Fristen-Kalender
+
+- 30.09. § 19 StromNEV-Antrag
+- 30.04. Strompreiskompensation BAFA
+- Energie-Audit-Termin EDL-G
+- ETS-Berichts-Fristen
+
+### Strategie-Optimierung
+
+- PPA-Verhandlung mit langfristiger Preis-Sicherheit
+- Eigenerzeugung Solar / Wind / KWK
+- EnEfG-Pflichten erfüllen
+- CBAM-Compliance
+
+## Verzahnung
+
+- `energierecht-netz-speicher-zugang`
+- `energierecht-vertrieb-marktrollen`
+- `energierecht-eeg-kwkg-erzeugung`
+- `energierecht-projektfinanzierung` PPA-Strukturierung
+- `energierecht-transaktionen-dd` bei Erwerb Industrie
+- `umweltrecht-emissionshandel-tehg`
+- `esg-greenwashing-csrd`
+
+## Quellen
+
+- EnWG 2024 §§ 19, 27, 28, 65
+- StromNEV §§ 19 Abs. 1, Abs. 2 Satz 1, Abs. 2 Satz 2
+- EDL-G § 8
+- EnEfG 17.11.2023
+- EEG § 27a (Doppelvermarktung)
+- EU-CBAM-VO 2023/956
+- EU-ETS-Richtlinie aktualisiert 2023
+- BAFA-Merkblätter Strompreiskompensation und Klimaschutzverträge
+- BGH EnVR-Linien
+- BNetzA BK4-Festlegungen

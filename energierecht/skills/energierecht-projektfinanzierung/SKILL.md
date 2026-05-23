@@ -1,48 +1,300 @@
 ---
 name: energierecht-projektfinanzierung
-description: "Unterstützt Kreditgeber und Sponsoren bei PPA, EEG, BImSchG-Genehmigung, Direktvermarktung und Finanzierungsvoraussetzungen."
+description: Projektfinanzierung Energieanlagen PPA Power Purchase Agreement Strukturierung physisch finanziell synthetisch Corporate On-Site Off-Site. Foerderbescheide KfW BEW 442 Klimaschutzvertraege CCfD Carbon Contracts for Difference. EEG-Anlagen Bankenfaehigkeit Vermarktungs-Verzicht zugunsten PPA. Sicherheiten Forderungsabtretung Sicherungs-Uebereignung Vermarktungs-Sicherheit. Bonitaets-Pruefung Offtaker. Vertrags-Bausteine Take-or-Pay Volumen-Toleranzbaender Force-Majeure Anpassungs-Klauseln. Refinanzierung Sale-and-Leaseback steuer-optimal.
 ---
 
-# Erneuerbare-Energien-Projektfinanzierung
+# Projektfinanzierung Energie
 
 ## Zweck
 
-Dieser Skill erzeugt Bankability-Checklisten, Conditions Precedent, Dokumentenlücken und Risikovermerke für Projektfinanzierungen.
+Behandelt die Finanzierungs-Strukturierung von Energie-Projekten: Bank-Finanzierung, KfW-Förderung, PPA-Vermarktung, Sicherheiten-Konstruktion, Refinanzierung.
 
-## Wann verwenden
+## Eingaben
 
-- wenn ein neuer Fall im Bereich Energierecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- Projekt-Phase (Konzept, Planung, Realisierung, Betrieb)
+- Investitions-Volumen
+- Vermarktungs-Strategie (EEG / PPA / Eigenverbrauch / Markt)
+- Finanzierungs-Mix (Eigenkapital, Banken, Förderung)
+- Bonitäts-Lage Offtaker (PPA-Käufer)
+- Steuerliche Strukturierung-Pläne
 
-## Arbeitsweise
+## Schritt 1 — PPA (Power Purchase Agreement) Strukturierung
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+### Physisches PPA
 
-## Rückfragen, wenn unklar
+- Strom-Lieferung direkt Anlage → Käufer
+- Bilanzkreis-Strukturen aufzubauen
+- On-Site oder Off-Site
+- Mess- und Eichrecht beachten
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+### Finanzielles PPA (Synthetic / Virtual PPA)
 
-## Ausgabeformat
+- Strom geht in Markt
+- Differenz-Zahlung zwischen Festpreis und Marktpreis
+- Bilanz-rechtlich anders strukturiert
+- Häufig für internationale Mandanten
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### Corporate Direct PPA
 
-## Typische Fehler vermeiden
+- Industrie-Käufer langfristig
+- Vorteile beidseitig
+- Skill `energierecht-industriekunden`
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### Standard-Inhalte PPA
+
+```
+1. Vertragsdauer (10-20 Jahre)
+2. Liefer-Anlage Identifikation
+3. Strom-Mengen mit Volumen-Toleranzbändern
+4. Preis-Formel (fest / index-gekoppelt / hybrid)
+5. Take-or-Pay-Klauseln
+6. Force-Majeure-Definition
+7. Anpassungs-Klauseln (Markt, Recht, Steuer)
+8. Sicherheiten (Bank-Bürgschaften)
+9. Beendigungs-Modalitäten
+10. Streit-Klausel (Schiedsverfahren oft)
+11. Vertraulichkeits-Klausel
+```
+
+## Schritt 2 — Bank-Finanzierung Energie-Projekte
+
+### Project Finance vs. Corporate Finance
+
+- **Project Finance**: Anlage als alleinige Sicherheit; Non-Recourse oder Limited Recourse
+- **Corporate Finance**: Konzern haftet zusätzlich
+- Bei großen Projekten typisch Project Finance
+
+### Sicherheiten-Konstruktion
+
+- Sicherungs-Übereignung Anlagen-Bestandteile
+- Forderungs-Abtretung aus PPA / EEG-Vergütung
+- Verpfändung Gesellschaftsanteile
+- Konten-Verpfändung Projektgesellschaft
+- Step-In-Rechte bei Default
+
+### Kreditgeber-Standards (Lender Requirements)
+
+- DSCR (Debt Service Coverage Ratio) ≥ 1,2-1,4
+- Risiko-Reserven (Wartungs-Reserve, DSRA)
+- Wartungs-Verträge mit anerkannten Service-Anbietern
+- Versicherungs-Schutz
+- Regelmäßige Reporting-Pflichten
+
+### Typische Bank-Konsortien
+
+- KfW als Erstkredit-Geber
+- Mittelständische Banken (Sparkassen-Verbund)
+- Spezial-Energiebanken (UmweltBank, GLS Bank)
+- Internationale Banken bei Großprojekten
+
+## Schritt 3 — KfW-Förderprogramme
+
+### KfW 442 BEW (Bundesförderung effiziente Wärmenetze)
+
+- Module 1-3 (Studie / Investition / Betrieb)
+- Förderung gestaffelt nach EE-Anteil
+- Verzahnung mit kommunaler Wärmeplanung
+
+### KfW 269 EE Energie
+
+- Standard-EE-Anlagen-Investitionen
+- Zinsverbilligungen
+- Direkt-Förderzuschüsse
+
+### KfW 261 / 262 Energieeffizient Bauen / Sanieren
+
+- Gebäude-Energetik
+- Zinsverbilligung + Zuschuss
+
+### Klimaschutzverträge (CCfD)
+
+- BAFA als Behörde
+- 4 Mrd. € erstes Förderaufrufs-Volumen
+- Bevorzugung KMU
+- Differenzvertrag CO2
+
+### Voraussetzungen
+
+- Vor Vorhabens-Beginn
+- Innovations- oder Effizienz-Komponente
+- Realisierung in spezifizierter Zeit
+- Reporting-Pflichten
+
+### Rückforderungs-Risiko
+
+- Bei Verstoss gegen Auflagen
+- Rückforderung mit Zinsen
+- 10-Jahres-Rückblick möglich
+
+## Schritt 4 — Förder-Bescheid und Rechtsmittel
+
+### Bewilligungs-Bescheid
+
+- Verwaltungsakt
+- Klage VG bei Ablehnung
+- Skill `energierecht-verfahren`
+
+### Auflagen-Compliance
+
+- Dokumentations-Pflichten
+- Audit-Termine
+- Bei Verstoss Eilantrag möglich
+
+### Bei Widerruf
+
+- Aussetzungs-Antrag § 80 Abs. 5 VwGO
+- Frist eng
+
+## Schritt 5 — Sale-and-Leaseback
+
+### Konzept
+
+- Anlage wird an Bank / Leasing-Gesellschaft verkauft
+- Leasing-rück an Projektgesellschaft
+- Steueroptimierung
+- Liquiditäts-Effekt
+
+### Konditionen
+
+- Steuerliche Gestaltung wichtig
+- Leasing-Vertrag mit Optionen
+- Risiken bei Steuer-Reform
+
+### Sektor-Akzeptanz
+
+- Bei Wind / Solar etabliert
+- Bei innovativen Technologien fragwürdig
+
+## Schritt 6 — Bonitäts-Prüfung Offtaker
+
+### PPA-Käufer Risiko
+
+- Insolvenz Offtaker = Vermarktungs-Verlust Anlage
+- Long-term Verträge mit Industrie-Käufern üblich
+- Bonität A oder besser empfohlen
+
+### Sicherheiten gegen Käufer-Insolvenz
+
+- Bank-Bürgschaft Offtaker
+- Eltern-Garantie Mutter-Gesellschaft
+- Verbindungs-zu-Vermarktungs-Möglichkeit (Markt-Default)
+
+### Mehrere Offtaker
+
+- Risiko-Streuung
+- Komplexere Bilanzkreis-Strukturen
+
+## Schritt 7 — Stranded-Assets-Risiko
+
+### Definition
+
+- Anlage wird vorzeitig wirtschaftlich entwertet
+- Z.B. fossile Anlage durch CO2-Preis
+- Politik-Risiko
+
+### Mitigation
+
+- Förderung mit Bestandsschutz
+- Vertraglich abgesicherte Vermarktung
+- Diversifikation Portfolio
+
+### ESG-Aspekt
+
+- Banken-Politik: keine neuen fossilen Kredite
+- Insurance retreat (Versicherung)
+- Pension-Fund-Aspekte
+
+## Schritt 8 — Spezial-Finanzierungen
+
+### Bürgerwind / Bürgerenergie
+
+- Bürgerenergie-Gesellschaften
+- Privilegierungen in EEG-Ausschreibung
+- Crowd-Funding-Strukturen
+- Genossenschafts-Modelle
+
+### Mezzanine-Kapital
+
+- Hybride zwischen Eigen- und Fremd-Kapital
+- Höhere Zinsen, weicherer Rückgriff
+
+### Bond / Schuldschein
+
+- Bei großen Anlagen
+- Kapitalmarkt-Zugang
+- Wertpapier-Prospekt-Pflichten
+
+### Grüne Anleihen (Green Bonds)
+
+- Spezifische Ratings (CICERO, ISS-Oekom)
+- EU-Green-Bond-Standard ab 2024
+- ESG-Investoren
+
+## Schritt 9 — Steuerliche Aspekte
+
+### Anlagen-Abschreibung
+
+- AfA-Tabelle für Energie-Anlagen
+- Sonder-Abschreibungs-Optionen
+- Investitionsabzugsbetrag § 7g EStG
+
+### Investitionsabzugsbetrag
+
+- Mittelständische Investoren
+- Vor Anschaffung
+- Auflösungs-Pflicht bei nicht-Realisierung
+
+### Stromsteuer-Pflicht
+
+- Eigenstrom-Verbrauch
+- Stromsteuer-Vergütung Industrie
+- Skill `energierecht-industriekunden`
+
+### Umsatzsteuer Klein-Anlagen
+
+- Kleinunternehmer-Regelung
+- Pauschalierung möglich
+
+## Schritt 10 — Mandanten-Strategie
+
+### Projekt-Entwickler
+
+1. Finanzierungs-Mix optimieren
+2. PPA-Vermarktung vor Bau verhandeln
+3. KfW-/CCfD-Förderung beantragen
+4. Sicherheiten-Konstruktion mit Anwalt
+5. Closing-Termine straff
+
+### Bank / Kreditgeber
+
+1. DD-Standard hoch
+2. Sicherheiten-Bündel umfassend
+3. Reporting-Pflichten klar
+4. Step-In-Rechte sichern
+
+### Offtaker (PPA-Käufer)
+
+1. Bonitäts-Sicherheit Anlage
+2. Vermarktungs-Risiko verteilen
+3. ESG-Reporting CSRD-konform
+
+## Verzahnung
+
+- `energierecht-eeg-kwkg-erzeugung`
+- `energierecht-industriekunden` (PPA-Käufer)
+- `energierecht-transaktionen-dd` (Erwerb)
+- `energierecht-waerme-quartier` (BEW)
+- `europarecht-kompass` (Beihilfen)
+- `fachanwalt-bank-kapitalmarktrecht`
+- `corporate-kanzlei`
+
+## Quellen
+
+- EEG § 27a (Doppelvermarktungs-Verbot)
+- KfW-Förderrichtlinien 442, 269, 261, 262
+- Klimaschutzverträge-Programm BMWK / BAFA
+- EU-AGVO 651/2014
+- EU-Green-Bond-Standard 2023/2631
+- BFH zu Energie-Steuer und Abschreibung
+- ICMA Green Bond Principles
+- TLB / IF-Konzepte zu Project Finance Energie

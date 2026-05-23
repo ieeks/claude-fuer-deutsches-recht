@@ -1,48 +1,237 @@
 ---
 name: energierecht-netz-speicher-zugang
-description: "Prüft Netzzugang, Speicherzugang, Netzanschluss, Kundenanlage, geschlossenes Verteilernetz und besondere Anschlusskonstellationen."
+description: Netzanschluss EnWG § 17 EEG § 8 Verteilnetzbetreiber Pflichten Vorrang Netz-Engpass-Management § 13 EnWG Redispatch 2.0 Spitzenkappung. Netzentgelte BNetzA-Festlegung StromNEV GasNEV Anreizregulierung ARegV. Speicher-Doppelnutzungs-Privileg Vermeidungsverbot vermiedene Netzentgelte. Sondernetzentgelte Industrie § 19 StromNEV intensive Stromverbraucher. EU-Strommarkt-Reform 2024 Flexibilitaets-Mechanismen. Spielfelder Anschluss-Verweigerung Anschlusszusage Anschluss-Kosten Baukostenzuschuss.
 ---
 
-# Netz-, Speicher- und Anschlussregulierung
+# Netz- und Speicher-Zugang
 
 ## Zweck
 
-Dieser Skill klärt regulierte Infrastrukturzugänge und erstellt Anspruchs-, Rollen-, Mess- und Zuständigkeitsmatrizen.
+Behandelt Konflikte rund um Netzanschluss, Engpass-Management, Netzentgelte und Speicher-Sonderregelungen. Mandant typisch Erzeuger, Industriekunde, Speicher-Betreiber oder Netzbetreiber.
 
-## Wann verwenden
+## Eingaben
 
-- wenn ein neuer Fall im Bereich Energierecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- Anlagen-Typ und Leistung
+- Standort (Netzgebiet, Verteilnetz vs. Übertragungsnetz)
+- Aktueller Status (Antrag, Bestätigung, Ablehnung, Streit)
+- Anschluss-Kosten geltend gemacht
+- Netzentgelt-Festsetzung BNetzA für relevantes Jahr
+- Bilanzkreis und Marktrollen
 
-## Arbeitsweise
+## Schritt 1 — Netzanschluss-Anspruch
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+### § 17 EnWG / § 8 EEG
 
-## Rückfragen, wenn unklar
+- Anschluss-Pflicht Verteilnetzbetreiber für EE-Anlagen vorrangig § 8 EEG
+- Sonstige Anlagen § 17 EnWG, Verhältnismäßigkeits-Prüfung
+- Pflichtbestätigung mit Kosten-Schätzung binnen 8 Wochen
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+### Anschluss-Punkt
 
-## Ausgabeformat
+- Wirtschaftlich günstigster Punkt im technisch geeigneten Netzabschnitt
+- Bei Streit Sachverständigen-Verfahren
+- BNetzA-Festlegungen zu Anschluss-Standardisierung
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### Anschluss-Kosten und Baukostenzuschuss
 
-## Typische Fehler vermeiden
+- Erzeugungs-Anlagen: Anschluss-Kosten typisch Anschluss-Begehrender (Anlage); ab Anschluss-Punkt Netzbetreiber
+- Verbrauchs-Anlagen: Baukostenzuschuss nach NDAV / NAV
+- BGH-Linie zu Baukostenzuschuss-Höhe
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### Anschluss-Verweigerung
+
+- Nur bei wirtschaftlicher Unzumutbarkeit Netzbetreiber
+- "Wirtschaftliche Unzumutbarkeit" eng auszulegen — BNetzA-Maßstab
+- Bei Verweigerung: Beschwerde BNetzA § 31 EnWG, danach OLG-Beschwerde § 75 EnWG
+
+## Schritt 2 — Engpass-Management § 13 EnWG
+
+### Drei Stufen
+
+1. **Netzbezogene Maßnahmen** (Topologie-Wechsel, Spannungs-Anpassung)
+2. **Marktbezogene Maßnahmen** (Redispatch, Bilanzkreis-Intervention)
+3. **Notfall-Maßnahmen** (Abschaltungen)
+
+### Redispatch 2.0 (seit 01.10.2021)
+
+- **Alle Anlagen ab 100 kW** in Redispatch-Pflicht (auch EE-Anlagen!)
+- Einspeise-Management durch Netzbetreiber bei Engpass
+- Entschädigungs-Anspruch des Anlagen-Betreibers nach § 13a EnWG / § 15 EEG
+- Daten-Übermittlungspflicht (Netzbetreiber-Vorgabe)
+
+### Spitzenkappung § 11 Abs. 2 EnWG
+
+- Verteilnetzbetreiber darf bis 3 % der jährlichen Energiemenge wegkappen
+- Ohne Entschädigung
+- BNetzA-Festlegung BK6-21-301
+
+### Streitige Sachverhalte
+
+- Falsche Engpass-Berechnung
+- Diskriminierende Reihenfolge der Anlagen-Auswahl
+- Entschädigungs-Höhe
+
+## Schritt 3 — Netzentgelte und Anreizregulierung
+
+### ARegV (Anreizregulierungsverordnung)
+
+- Erlös-Obergrenze pro Netzbetreiber für 5-Jahres-Periode
+- BNetzA-Festsetzung
+- Effizienz-Werte als Vergleichsmaßstab
+- Q-Faktor (Qualitätszuschlag/-abzug)
+
+### StromNEV
+
+- Berechnungs-Methodik Netzentgelte
+- Netznutzungs-Entgelt für Endkunden
+- Differenzierung Last-Profil, Spitzen-Last, Jahreshöchst-Last
+
+### Gas: GasNEV
+
+- Analog Strom, mit Sonder-Mechanismen für Speicher / Saisonale Schwankungen
+
+### Streit BNetzA-Beschluss
+
+- Beschluss BK4/BK6/BK8/BK9 — verschiedene Beschlusskammern
+- Anhörungs-Beschluss → Festlegungs-Beschluss → Beschwerde OLG Düsseldorf § 75 EnWG
+- Frist ein Monat
+
+## Schritt 4 — Sondernetzentgelte Industrie § 19 StromNEV
+
+### § 19 Abs. 1 StromNEV
+
+- "Atypisches" Nutzungsverhalten
+- Reduzierte Netzentgelte für Last-Profile außerhalb der Last-Spitze
+
+### § 19 Abs. 2 Satz 1 StromNEV
+
+- "Stromintensive Verbraucher" — bestimmte Verbrauchsstunden
+- Reduzierung bis auf 20 % Standard-Entgelt
+
+### § 19 Abs. 2 Satz 2 StromNEV
+
+- "Bandlast-Privileg"
+- Verbrauch ≥ 7.000 Vollbenutzungs-Stunden + ≥ 10 GWh/Jahr
+- Ab 7.000 h: 20 % Entgelt; ab 7.500 h: 15 %; ab 8.000 h: 10 %
+- **Antragsfrist: 30.09. für Folgejahr** beim Netzbetreiber
+
+### Verfassungsrechtliche Probleme
+
+- BGH EnVR 7/14: § 19 Abs. 2 Satz 2 ohne ausreichende parlamentarische Grundlage (a.F.) — Neufassung 2023
+- BNetzA-Festlegung BK4-21-049 zu Anwendungs-Modalitäten
+
+### Streit-Konstellation
+
+- Antrag Sondernetzentgelt zurückgewiesen
+- Beschwerde BNetzA → OLG Düsseldorf
+- Skill `energierecht-industriekunden` für Detail
+
+## Schritt 5 — Speicher
+
+### Speicher-Doppelnutzungs-Privileg
+
+- Speicher ist gleichzeitig Verbraucher (Lade-Phase) und Erzeuger (Entlade-Phase)
+- **Vermeidungs-Vorschrift** § 118 EnWG: keine doppelte Netzentgelt-Belastung
+- Stand 2024: zeitlich befristete Privilegierung bis 2029 (in Reform)
+
+### Großspeicher
+
+- Anschluss an Übertragungsnetz möglich
+- Vermarktung als Regelenergie-Anbieter (Sekundärregelreserve, Minutenreserve, FCR)
+- Netzentgelt-Befreiung gemäß § 118 Abs. 6 EnWG
+
+### Heim-Speicher
+
+- Verteilnetz-Anschluss
+- Nutzung für Eigenverbrauch + Netzeinspeisung
+- Marktstammdatenregister-Eintrag
+
+### Wasserstoff-Speicher
+
+- Sondernormen Wasserstoff-Netz-Verordnung
+- Übergangsregelung Gasnetz-Mit-Nutzung
+- Förderung KfW BEW / Klimaschutzverträge
+
+## Schritt 6 — Bilanzkreis und Marktrollen
+
+### Bilanzkreis-Verantwortlicher (BKV)
+
+- Übernimmt Bilanzierung-Pflicht
+- ÜNB Bilanzkreis-Vertrag
+- Ausgleichsenergie bei Abweichungen
+
+### GPKE / GeLi-Gas-Prozesse
+
+- Standardisierte Marktrollen-Prozesse
+- BNetzA-Festlegung MaBiS / WiM
+
+### Marktstammdatenregister
+
+- Zentrale BNetzA-Datenbank
+- Eintragungs-Pflicht Anlagen / Marktakteure
+- § 5 MaStRV
+
+## Schritt 7 — EU-Bezug
+
+### EU-Strommarktordnung 1227/2011 (REMIT)
+
+- Markt-Transparenz, Insiderhandel-Verbot
+- Bilanzkreis-Daten-Übermittlung
+- BNetzA-Sanktionen bei REMIT-Verstoss
+
+### EU-Strommarkt-Reform 2024
+
+- Flexibilitäts-Mechanismen verstärken
+- Capacity-Markt-Optionen für Mitgliedstaaten
+
+### EuGH-Linie
+
+- C-718/18 zu Netzentgelten in Gas
+- C-718/19 zur Diskriminierungs-freiheit
+
+## Schritt 8 — Streit-Strategie
+
+### Bei Netzanschluss-Problem
+
+1. Schriftverkehr mit Netzbetreiber sortieren
+2. § 17 EnWG / § 8 EEG-Anspruch prüfen
+3. Wirtschaftlichkeits-Argument einbringen
+4. BNetzA-Beschwerde § 31 EnWG
+5. Vor OLG-Beschwerde (Frist 1 Monat ab BNetzA-Bescheid)
+
+### Bei Netzentgelt-Streit
+
+1. BNetzA-Festlegung studieren
+2. Maßstab Anreizregulierung
+3. Beschwerde BNetzA
+4. OLG-Beschwerde
+
+### Bei Engpass-Entschädigung
+
+1. Daten-Übermittlung verifizieren
+2. Entschädigung berechnen nach § 13a EnWG
+3. Klage VG bei strittig
+4. Skill `energierecht-verfahren`
+
+## Verzahnung
+
+- `energierecht-eeg-kwkg-erzeugung` — Erzeugungs-Anlagen
+- `energierecht-industriekunden` — § 19 StromNEV-Detail
+- `energierecht-verfahren` — BNetzA-Beschwerde
+- `energierecht-projektfinanzierung` — Speicher-Finanzierung
+
+## Quellen
+
+- EnWG 2024 §§ 8, 11, 13, 13a, 17, 31, 65, 75, 118
+- EEG 2023 § 8, § 15
+- StromNEV § 19
+- GasNEV
+- ARegV
+- NAV / NDAV
+- MaStRV § 5
+- BNetzA-Beschlüsse BK4 / BK6 / BK8 / BK9
+- BGH EnVR-Linien
+- OLG Düsseldorf VI-3 Kart-Verfahren
+- EuGH C-718/18, C-718/19
+- EU REMIT 1227/2011
+- EU-Strommarktordnung 2019/943 + Reform 2024

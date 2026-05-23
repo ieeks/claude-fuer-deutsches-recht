@@ -1,48 +1,256 @@
 ---
 name: energierecht-emobility-wasserstoff
-description: "Prüft Ladeinfrastruktur, Netzanschluss, Marktrollen, Wasserstoff-Markteintritt, Power-to-Gas und synergetische Infrastruktur."
+description: Ladeinfrastruktur LSV Ladesaeulenverordnung AFIR Alternative Fuels Infrastructure Regulation 2023/1804 Eichrecht Messstellenbetrieb. Wasserstoff-Hochlauf RED III Erneuerbarkeits-Kriterien Elektrolyseure Foerderung KfW Klimaschutzvertraege Carbon Contracts for Difference. H2-Netz Aufbau Wasserstoff-Stammnetz Bundesnetzentwicklungsplan Gasnetz-Umstellung. THG-Quote § 37a BImSchG Verguetung Ladestrom Anrechnungs-Mechanismus. CO2-Bepreisung BEHG. eMobilitaets-Foerderung Ladeinfrastruktur Schnelllader Privatladestation Wallbox.
 ---
 
-# E-Mobility, Wasserstoff und Power-to-Gas
+# E-Mobilität und Wasserstoff
 
 ## Zweck
 
-Dieser Skill verbindet Energie-, Infrastruktur-, Bau-, Vergabe- und Regulierungsfragen bei neuen Energietechnologien.
+Behandelt die beiden Wachstums-Felder Ladeinfrastruktur (E-Mobilität) und Wasserstoff-Wirtschaft. Recht ist im starken Wandel — RED III, AFIR, BEHG, KSchV-CCfD.
 
-## Wann verwenden
+## Eingaben
 
-- wenn ein neuer Fall im Bereich Energierecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- Mandant (Ladeinfrastruktur-Betreiber, H2-Projektgesellschaft, Industrie, Versorger)
+- Projekt-Phase (Konzept, Genehmigung, Aufbau, Betrieb)
+- Standort und Anschluss-Werte
+- Förderprogramme angefragt / beantragt
+- Verzahnung mit Strombezug und Erzeugung
 
-## Arbeitsweise
+## Schritt 1 — Ladeinfrastruktur Recht-Rahmen
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+### LSV (Ladesäulenverordnung) 2023
 
-## Rückfragen, wenn unklar
+- Mindest-Standards Ladesäulen öffentlich
+- Roaming-Pflicht: jeder Ladepunkt mit Drittanbietern abrechnungsfähig
+- Mess- und Eichrecht: Pflicht zur geeichten Messung pro Ladevorgang
+- Authentifizierungs-Optionen (App, RFID, Kreditkarte ab 2024)
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+### AFIR (Alternative Fuels Infrastructure Regulation, VO 2023/1804)
 
-## Ausgabeformat
+- EU-Verordnung seit 13.04.2024 in Kraft
+- Mindest-Dichte Ladepunkte je Streckenkilometer (TEN-T-Korridore)
+- Schnelllade-Park-Standards
+- Bedienungs-Vereinheitlichung
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### Mess- und Eichrecht
 
-## Typische Fehler vermeiden
+- Mess- und Eichgesetz (MessEG)
+- Geeichte Messung Kilowattstunden pro Ladevorgang
+- Sonderregelungen Eich-Übergang
+- BMR (Bundesamt für Messwesen) Aufsicht
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+## Schritt 2 — Ladeinfrastruktur-Förderung
+
+### Förderprogramme
+
+- **KfW-Förderung Wallbox privat** historisch (ausgelaufen 2024)
+- **BMVI / BMDV-Förderung** öffentliche Ladesäulen Schnelllader
+- **Bundesförderung Ladeinfrastruktur II** (LIS II)
+- **Länderprogramme** (Bayern, NRW, BW spezifisch)
+
+### Antragsverfahren
+
+- Vor Vorhabensbeginn
+- Antragsformulare BAFA / BAV
+- Beleg-Pflichten
+
+### Compliance
+
+- Mindest-Betriebs-Dauer (typisch 5 Jahre)
+- Roaming-Pflicht (AFIR)
+- Daten-Übermittlung Ladevorgänge
+
+## Schritt 3 — Standortwahl Ladeinfrastruktur
+
+### Genehmigungs-Bedarf
+
+- Bauantrag bei größeren Anlagen
+- Stellplatz-Anrechnung Bauordnungsrecht
+- Verkehrsrechtliche Anordnungen
+
+### Netzanschluss
+
+- Anschluss-Werte oft hoch (Schnelllader 150-350 kW)
+- Stationäre Speicher als Last-Glättung
+- Netzentgelt-Optimierung
+
+### Eigentums-/Pacht-Verhältnisse
+
+- Standorte häufig auf Pachtbasis
+- Tankstellen-Konstellationen mit klassischem Mineralöl-Anbieter
+- Parkhaus-/Supermarkt-Standorte
+
+## Schritt 4 — THG-Quote § 37a BImSchG
+
+### Konzept
+
+- Treibhausgas-Minderungs-Quote für Kraftstoff-Lieferanten
+- Ladestrom (E-Auto) wird angerechnet
+- Vermarktung der Quote über THG-Quoten-Pool-Anbieter
+
+### Anwendung
+
+- Anlagen-Betreiber öffentlicher Ladepunkte
+- Privater Wallbox-Betreiber (über Pool-Anbieter)
+- Erstattungs-Beträge variabel je Marktlage
+
+### Verwaltungsverfahren
+
+- UBA als Behörde
+- Antragsfristen jährlich
+- Skill `umweltrecht-emissionshandel-tehg` bei größeren Strukturen
+
+## Schritt 5 — Wasserstoff-Wirtschaft
+
+### Hierarchie der Wasserstoff-Erzeugungs-Pfade
+
+- **Grüner H2**: Elektrolyse mit erneuerbarem Strom → RED III-konform
+- **Türkiser H2**: Methan-Pyrolyse mit Kohlenstoff-Sequestrierung
+- **Blauer H2**: Erdgas-Reformierung mit CCS (Carbon Capture and Storage)
+- **Grauer H2**: Konventionelle Methan-Reformierung (nicht förderfähig)
+
+### RED III Erneuerbarkeits-Kriterien
+
+- Direkte Verbindung zwischen Elektrolyseur und EE-Anlage
+- Oder: Stundengleichheit (ab 2030 strenger)
+- Oder: Bilanzkreis-Methode mit zusätzlichkeit
+- Delegierter Akt EU 2023/1184 als Konkretisierung
+
+### Förderung Elektrolyseure
+
+- **KfW BEW** im Wärme-Bezug
+- **EEG-Innovationsausschreibung** für Hybrid-Anlagen
+- **Klimaschutzverträge (CCfD)** Differenzvertrag für Wasserstoff-Produzenten
+- **Wasserstoff-Beschleunigungs-Gesetz** geplant
+
+### Antragsverfahren
+
+- BAFA als Hauptbehörde
+- Förder-Dokumentation umfangreich
+- Audit-Pflichten
+
+## Schritt 6 — H2-Netz und H2-Stammnetz
+
+### Wasserstoff-Stammnetz § 28r EnWG
+
+- Bundesweites H2-Stammnetz
+- Kombination Neu-Bau und Erdgas-Netz-Umstellung
+- Genehmigung Bundesfachplanung
+
+### Hochlauf-Phase (Wasserstoff-Hochlaufgesetz)
+
+- Übergangsweise Erdgas-Anteil im H2-Netz möglich
+- Förderung Aufbau-Phase
+
+### Bundesnetzentwicklungsplan H2 (BNEP)
+
+- 4-Jahres-Zyklus
+- Bedarfs-Identifikation
+- BNetzA-Festlegung
+
+## Schritt 7 — H2-Anlagen-Genehmigung
+
+### BImSchG-Genehmigung
+
+- Elektrolyseure > 10 MW: § 4 BImSchG förmliches Verfahren
+- Druckwasserstoff-Speicher
+- Sicherheits-Anforderungen ATEX-Richtlinie
+
+### Bauleitplanung-Bezug
+
+- Wasserstoff-Tankstellen-Standorte
+- Industrielle H2-Anlagen
+- Konflikte mit Wohnbebauung
+
+### Strom-Bezug
+
+- Direktversorgung aus EE-Anlage bevorzugt
+- PPA-Struktur
+- Bilanzkreis-Strukturen
+
+## Schritt 8 — Förderung-Konkurrenz
+
+### Klimaschutzverträge (Carbon Contracts for Difference)
+
+- Differenzvertrag zwischen Bund und Industrie
+- Anreiz für Dekarbonisierung
+- Auch für H2-Produzenten / -Verbraucher
+
+### Industrie-Strompreis-Diskussion
+
+- Politisch fortlaufend
+- Skill `energierecht-industriekunden`
+
+### Wasserstoff-Importe
+
+- H2-Strategie Bundesregierung sieht erhebliche Importe
+- Internationale Lieferverträge
+- Anrechnungs-Mechanismus RED III
+
+## Schritt 9 — BEHG (Brennstoffemissionshandel)
+
+### Anwendungs-Bereich
+
+- Verkehr und Wärme (außer ETS-pflichtig)
+- CO2-Preis ansteigend (2024: 45 €/t)
+- Quote für Brennstoffe-Lieferant
+
+### Folge für E-Mobilität
+
+- Indirekter Preis-Druck auf Verbrennungs-Pkw
+- E-Auto wirtschaftlich attraktiver
+
+### Folge für Wasserstoff
+
+- Grauer / blauer H2 indirekt CO2-belastet
+- Grüner H2 begünstigt
+
+## Schritt 10 — Mandanten-Strategie
+
+### Ladeinfrastruktur-Betreiber
+
+1. Standortwahl strategisch
+2. AFIR-Compliance sicherstellen
+3. Mess- und Eichrecht
+4. Förder-Programm beantragen
+5. THG-Quoten-Optimierung
+
+### H2-Projektgesellschaft
+
+1. RED III-Konformität für grünen H2
+2. Strom-Bezug PPA / EE-Anlage direkt
+3. BImSchG-Genehmigung vorbereiten
+4. KfW BEW / CCfD beantragen
+5. Industrie-Abnehmer-Vertrag absichern
+
+### Industrie-Mandant
+
+1. H2-Versorgungs-Vertrag mit Lieferant
+2. CCfD-Beteiligung
+3. CBAM-Aspekte
+4. Skill `energierecht-industriekunden`
+
+## Verzahnung
+
+- `energierecht-eeg-kwkg-erzeugung` (Elektrolyseure-Strom)
+- `energierecht-netz-speicher-zugang` (Anschluss Ladeinfrastruktur)
+- `energierecht-projektfinanzierung` (KfW BEW / CCfD)
+- `energierecht-industriekunden` (H2-Abnehmer)
+- `umweltrecht-immissionsschutz-bimschg` (BImSchG-Verfahren)
+- `umweltrecht-emissionshandel-tehg` (ETS / BEHG)
+
+## Quellen
+
+- EnWG §§ 17, 28r ff. (H2-Netz), 42a
+- LSV (Ladesäulenverordnung 2023)
+- AFIR VO (EU) 2023/1804
+- MessEG / MessEV
+- BImSchG §§ 4, 37a
+- BEHG
+- RED III Richtlinie 2023/2413/EU + delegierter Akt 2023/1184
+- BAFA / KfW Förderrichtlinien
+- Klimaschutzvertrags-Programm BMWK
+- H2-Stammnetz-Beschluss BNetzA
+- UBA THG-Quoten-Verwaltung
+- BVerwG-/EuGH-Linien zu E-Mobilität (begrenzt)

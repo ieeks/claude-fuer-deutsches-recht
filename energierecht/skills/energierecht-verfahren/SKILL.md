@@ -1,48 +1,275 @@
 ---
 name: energierecht-verfahren
-description: "Führt Ausgangs-, Widerspruchs-, Klage-, Eil- und zivilrechtliche Verfahren mit Fristen, Anträgen und Anlagen."
+description: Behoerden-Verfahren Klage BNetzA-Beschwerde § 31 EnWG OLG-Beschwerde § 75 EnWG OLG Duesseldorf zustaendig. Klage VG bei BImSchG-Genehmigung BVerwG bei NABEG-Vorhaben erste Instanz. Eilantrag § 80 Abs. 5 VwGO bei Anordnungen. Frist eng meist ein Monat. Beweisangebote Sachverstaendigen-Gutachten Energie-Berater. EnSiG-Notlage Eilrechtsschutz. Stellungnahme im Bauleitplan-Verfahren als Trager oeffentlicher Belange. Foerderwiderruf-Verfahren BAFA-Bescheid Klage VG. EEG-Vergutungsstreit Klage VG Standort Anlage Bundessozialrichts-Linien.
 ---
 
-# Verwaltungs- und Gerichtsverfahren Energie
+# Verfahren — Behörden und Gerichte
 
 ## Zweck
 
-Dieser Skill baut prozessfähige Aktenkarten, Rechtsbehelfsprüfungen, Behördenbriefe und Schriftsatzgerüste.
+Behandelt das gesamte Verfahrens-Spektrum im Energierecht: BNetzA-Beschwerden, Klage VG / OVG / BVerwG, Eilanträge, Stellungnahmen. Frist-Management zentral.
 
-## Wann verwenden
+## Eingaben
 
-- wenn ein neuer Fall im Bereich Energierecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- Verfahrens-Typ (BNetzA-Beschwerde, Klage, Eilantrag, Stellungnahme, Schiedsverfahren)
+- Mandanten-Rolle (Antragsteller, Antragsgegner, Beteiligter)
+- Konkretes Verfahren (Az., Behörde, Vorhaben)
+- Frist-Lage
+- Streitwert
 
-## Arbeitsweise
+## Schritt 1 — BNetzA-Beschwerde § 31 EnWG
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+### Statthaftigkeit
 
-## Rückfragen, wenn unklar
+- Entscheidungen BNetzA in Energie-Regulierungs-Sachen
+- Z.B. Netzentgelt-Festlegung, Markt-Festlegungen, Genehmigungs-Versagung
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+### Frist § 75 EnWG
 
-## Ausgabeformat
+- **Ein Monat** ab Zustellung Beschluss
+- Bei mehreren Beteiligten gegen ältesten Zustellungs-Zeitpunkt
+- Strikt — keine Wiedereinsetzung außer Sonderfälle
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### Adressat: OLG Düsseldorf
 
-## Typische Fehler vermeiden
+- Spezialisierte Kartellsenate
+- Ausschließliche Zuständigkeit bundesweit
+- VI-3 Kart und weitere Senate
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### Inhalt der Beschwerde
+
+- Anfechtungs-Antrag oder Verpflichtungs-Antrag
+- Begründung mit konkreten Beanstandungen
+- Beweisangebote (oft Sachverständige)
+
+### Verfahrensablauf
+
+- Schriftverkehr
+- Mündliche Verhandlung
+- Beschluss oder Urteil
+
+### Rechtsmittel weiter
+
+- Rechtsbeschwerde zum BGH (Kartellsenat KZR)
+- Bei Grundsatzfragen oder Diskrepanzen zu anderen OLG
+
+## Schritt 2 — Verwaltungsgerichtliche Klage
+
+### Anwendungs-Bereiche
+
+- BImSchG-Genehmigungs-Versagung (Verpflichtungsklage)
+- Aufsichts-Anordnungen (Anfechtungsklage)
+- BAFA-Förder-Versagung (Verpflichtungsklage)
+- DEHSt-Bescheide bei Emissionshandel
+
+### Zuständigkeit
+
+- VG am Behörden-Sitz
+- Bei mehreren Behörden Verbund
+
+### Klagefrist § 74 VwGO
+
+- Ein Monat ab Bekanntgabe
+- Bei Widerspruch-Verfahren ein Monat ab Widerspruchs-Bescheid
+- Wiedereinsetzung in den vorigen Stand möglich
+
+### Eilantrag § 80 Abs. 5 VwGO
+
+- Bei sofortiger Vollziehung
+- Aussetzungs-Anordnung
+- Spezial-Skill `eilantrag-80-abs-5-vwgo` im `fachanwalt-verwaltungsrecht`
+
+## Schritt 3 — NABEG / EnLAG / BBPlG-Verfahren
+
+### Erstinstanz BVerwG
+
+- Bei Klage gegen NABEG-Planfeststellung
+- Bei EnLAG-Vorhaben
+- § 50 Abs. 1 Nr. 6 VwGO
+
+### Klagefrist eng
+
+- 1 Monat ab Zustellung (verkürzt gegenüber Standard)
+- Auch Eilantrag-Frist eng
+
+### Beweisangebote
+
+- Sachverständige zu Naturschutz, Lärm, Stromtransport
+- Plan-Alternativen aufzeigen
+
+### BVerwG-Linien
+
+- BVerwG 4 C 3.10
+- BVerwG 9 A 5.20
+- Klima-Berücksichtigung in Planung
+
+## Schritt 4 — Stellungnahme im Bauleitplan-Verfahren
+
+### Stadtwerk als Träger öffentlicher Belange
+
+- Beteiligungs-Pflicht in Bauleitplanung
+- Frist meist 1 Monat
+- Bei Versäumnis: Plan vom Stadtwerk-Belang ausgenommen
+
+### Inhalte Stellungnahme
+
+- Versorgungs-Sicherheit
+- Trassen-Bedarfe
+- Netzanschluss-Möglichkeiten
+- Wärmeplanung-Verzahnung
+
+### Folgen Stellungnahme
+
+- Plan-Inhalte angepasst oder
+- Konflikt-Lösung im Verfahren
+- Bei Konflikt-Persistenz: Bewertung in Abwägung
+
+## Schritt 5 — Förderwiderruf-Verfahren
+
+### BAFA / KfW Widerruf
+
+- Bei Verstoss Auflagen Bewilligungs-Bescheid
+- Anhörung
+- Widerrufs-Bescheid
+- Klage VG
+
+### Strategie
+
+- Auflagen-Compliance dokumentieren
+- Bei drohendem Widerruf vorab gegen-steuern
+- Anwalt einbinden vor Widerruf
+
+### Rückforderungs-Höhe
+
+- Gesamt-Förderung
+- Verzinsung 5 Prozent + Basiszinssatz
+- Bei vorsätzlich auch Bußgeld
+
+## Schritt 6 — EEG-Vergütungsstreit
+
+### Konstellation
+
+- Netzbetreiber zahlt EEG-Vergütung nicht
+- BNetzA-Beschwerde § 31 EnWG (bei Tarif-Streit)
+- Klage VG bei Sachverhalts-Streit
+- Klage Zivilgericht bei reinem Zahlungs-Streit
+
+### Streit-Punkte typisch
+
+- Anlagen-Identität (MaStR)
+- Inbetriebnahme-Zeitpunkt
+- Vergütungs-Berechnung
+- Doppelvermarktungs-Verbot
+
+### Beweis-Anforderungen
+
+- Anlagen-Dokumentation
+- MaStR-Eintragung
+- Direktvermarktungs-Verträge
+- Bilanzkreis-Mitschnitt
+
+## Schritt 7 — Eilrechtsschutz
+
+### § 80 Abs. 5 VwGO
+
+- Bei sofortiger Vollziehung Behörden-Anordnung
+- Aussetzungs-Antrag
+
+### § 123 VwGO einstweilige Anordnung
+
+- Bei Verpflichtungs-Sachen
+- Bei drohendem irreversiblen Schaden
+
+### EnSiG-Notlage
+
+- Sondernormen Energie-Sicherheits-Gesetz
+- Bei Krisen-Zeiten
+- Eingeschränkte Aussetzbarkeit
+
+## Schritt 8 — Schiedsverfahren
+
+### PPA-Streitigkeiten
+
+- Häufig Schieds-Klausel im Vertrag
+- DIS-Schiedsgerichts-Ordnung
+- ICC-Schiedsgerichts-Ordnung bei internationalen Konstellationen
+
+### Vorteile
+
+- Vertraulichkeit
+- Spezial-Schiedsrichter
+- Schnelle Verfahrens-Dauer
+
+### Nachteile
+
+- Hohe Kosten
+- Begrenzte Anfechtbarkeit
+- Anwalts-Kosten höher
+
+## Schritt 9 — Bußgeld-/Sanktions-Verfahren
+
+### BNetzA-Sanktionen
+
+- Bei Verstoss MaStRV
+- Bei REMIT-Verstoss
+- Bei Bilanzkreis-Pflichtverletzungen
+
+### BAFA-Sanktionen
+
+- EnEfG-Verstoss
+- Strompreiskompensation-Verstoss
+
+### Strafverfolgung
+
+- Bei Bilanzkreis-Manipulation
+- Bei Energie-Diebstahl
+
+## Schritt 10 — Mandanten-Strategie
+
+### Erstgespräch bei Verfahrens-Bezug
+
+1. Frist klären (oft ein Monat)
+2. Verfahrens-Typ identifizieren
+3. Beweisbedarf ermitteln
+4. Erfolgsaussichten realistisch einschätzen
+5. Streitwert Verfahrens-Kosten ableiten
+
+### Bei BNetzA-Beschwerde
+
+- Fachanwältin Energierecht oder Spezial-Kanzlei
+- OLG Düsseldorf-Erfahrung
+- Sachverständige frühzeitig benennen
+
+### Bei VG-Klage
+
+- Tatsachen-Sammlung umfassend
+- Sachverständigen-Vorbereitung
+- Eilantrag-Prüfung parallel
+
+### Bei BVerwG-Erst-Instanz
+
+- Sehr hohe Anforderungen Schriftsatz
+- Klima-/Naturschutz-Argumentation
+- Skill `klimaklagen-verbandsklage-umwrg`
+
+## Verzahnung
+
+- `energierecht-eeg-kwkg-erzeugung` (Vergütungsstreit)
+- `energierecht-netz-speicher-zugang` (Netzentgelt-Streit)
+- `energierecht-projektfinanzierung` (Förderbescheid)
+- `klimaklagen-verbandsklage-umwrg` (Umweltverband-Klage)
+- `eilantrag-80-abs-5-vwgo` (Eilrechtsschutz)
+- `fachanwalt-verwaltungsrecht`
+
+## Quellen
+
+- EnWG §§ 31, 75
+- VwGO §§ 50, 74, 80, 123
+- BImSchG
+- EEG / KWKG
+- DIS-Schiedsgerichts-Ordnung
+- ICC Rules
+- BGH KZR-Linie
+- OLG Düsseldorf VI-3 Kart-Verfahren
+- BVerwG-Linien (4 C 3.10, 9 A 5.20)
+- BVerfG 1 BvR 2656/18

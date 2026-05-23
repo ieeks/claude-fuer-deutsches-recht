@@ -1,48 +1,285 @@
 ---
 name: energierecht-transaktionen-dd
-description: "Prüft Datenräume, Projektunterlagen, Genehmigungen, Verträge, Umlagen, Netzzugang, PPA und Energierisiken in Transaktionen."
+description: Energie-Transaktionen Asset Deals Share Deals MA bei Erzeugungs-Anlagen Wind Solar Hydro KWK Wärmenetze Stromvertrieb-Portfolios. Due Diligence Energie-spezifisch EEG-Verguetungs-Anspruch MaStR-Eintrag Pruefung BImSchG-Genehmigung Erweiterung Repowering-Potenzial Anschluss-Punkt Wechsel. Wartungs-Vertrage PPA-Bestand. Beihilfen-Pruefung De-minimis. Strompreiskompensation-Rueckforderungs-Risiko. Vor-Insolvenz-Verkauf Distressed-Energy-Asset. Bewertungs-Methodik DCF mit anzulegendem Wert Marktpreis-Forecast LCOE-Vergleich.
 ---
 
-# Energierechtliche Transaktions-Due-Diligence
+# Energie-Transaktionen und Due Diligence
 
 ## Zweck
 
-Dieser Skill liefert DD-Scope, Findings, Q&A, Red-Flag-Report und Closing-Risiken für Energieprojekte und Energieunternehmen.
+Behandelt M&A im Energie-Sektor: Asset Deal (Anlagen), Share Deal (Projekt-/Erzeugungs-Gesellschaft), Portfolio-Transfer (Stromvertrieb, Kundenbestand). Inkl. Distressed-Asset-Verkauf.
 
-## Wann verwenden
+## Eingaben
 
-- wenn ein neuer Fall im Bereich Energierecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- Transaktions-Gegenstand (Anlage, Gesellschaft, Portfolio)
+- Verkäufer-/Käufer-Konstellation
+- Transaktions-Phase (Letter of Intent, DD, SPA-Verhandlung, Closing)
+- Anlagen-Stand (Inbetriebnahme, Förderung, Vertrags-Bindungen)
+- Aktive Verfahren bei BNetzA / BAFA / Gerichten
 
-## Arbeitsweise
+## Schritt 1 — Asset vs. Share Deal
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+### Asset Deal
 
-## Rückfragen, wenn unklar
+- Einzel-Übertragung Anlage(n), Verträge, Genehmigungen
+- Verträge müssen einzeln auf Käufer überführt werden
+- Genehmigungen über § 16 BImSchG Wechsel-Anzeige
+- EEG-Vergütung über § 33 EEG-Wechsel
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+### Share Deal
 
-## Ausgabeformat
+- Gesellschafts-Anteile gehen über
+- Verträge und Genehmigungen bleiben bei Gesellschaft
+- Häufig einfacher zu strukturieren
+- Aber: Steuerliche und haftungsrechtliche Erbschaft
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### Wahl-Kriterien
 
-## Typische Fehler vermeiden
+- Bei Einzel-Anlage häufig Asset Deal
+- Bei Portfolio mit vielen Anlagen Share Deal
+- Steuerliche Optimierung (Anschaffungs-Kosten, Abschreibungen)
+- Haftungs-Verteilung (Asset Deal sauberer)
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+## Schritt 2 — Due Diligence Energie-spezifisch
+
+### Technical DD
+
+- Anlagen-Zustand, Wartungs-Historie
+- Restlaufzeit-Schätzung
+- Service-Verträge
+
+### Regulatory DD
+
+- **EEG-Vergütungs-Anspruch** und Restlaufzeit
+- **MaStR-Eintrag** korrekt und aktuell
+- **BImSchG-Genehmigung** und Auflagen-Compliance
+- **Repowering-Potenzial** und Genehmigungs-Lage
+- **Anschluss-Punkt** Bestand und Erweiterungs-Möglichkeit
+
+### Commercial DD
+
+- **PPA-Bestand** Laufzeiten Konditionen
+- **Strompreis-Forecast** Sensitivitäten
+- **Wartungs-Verträge** und Kostenstruktur
+- **Versicherungs-Status**
+
+### Legal DD Schwerpunkte
+
+- **Grundstücks-Verträge** (Eigentum, Pacht, Nießbrauch, Dienstbarkeiten)
+- **Anschluss-Vertrag Netzbetreiber**
+- **Förder-Bescheide** und Auflagen
+- **Streitigkeiten** anhängig
+- **Wartungs-/Pacht-/PPA-Verträge**
+
+### Tax DD
+
+- Strom-Steuer-Pflicht
+- Bewertung Anlagen-Vermögen
+- Sonderabschreibungs-Möglichkeiten
+- Eigenstromsteuer-Pflicht
+
+### ESG DD
+
+- CSRD-Berichts-Konformität
+- Naturschutz-Compliance
+- Sozial-Aspekte (Bürger-Beteiligung)
+
+## Schritt 3 — EEG-Vergütungs-Anspruch im Asset Deal
+
+### § 33 EEG Wechsel
+
+- Anlagen-Betreiber kann wechseln
+- Vergütungs-Anspruch geht auf Käufer über
+- MaStR-Aktualisierung Pflicht binnen Monat
+
+### Bedingungen Übergang
+
+- Anlage und Stand-Ort bleiben gleich
+- Vergütungs-Höhe und -Dauer unverändert
+- Bei Repowering: Re-Zulassung erforderlich
+
+### Risiken Käufer
+
+- Vergangenheits-Verstöße des Verkäufers können auf Vergütung wirken
+- BNetzA-Prüfung möglich
+- Garantien im SPA erforderlich
+
+## Schritt 4 — Distressed-Asset-Verkauf
+
+### Insolvenz-Konstellation
+
+- Anlage in Insolvenz des Verkäufers
+- Insolvenz-Verwalter veräußert
+- BGH II ZB zur Insolvenz-Anlage-Verkauf
+
+### Anfechtungs-Risiko
+
+- Bei Verkauf in Insolvenz-Nähe § 133 InsO
+- Skill `vorsatzanfechtung-133-inso` im Insolvenzrecht-Plugin
+- Gleichwertigkeits-Prüfung Verkaufs-Preis
+
+### Bewertungs-Komplexitäten
+
+- Anlagen-Wert in Insolvenz häufig deutlich reduziert
+- Zukunftserlöse mit Risiko-Aufschlag diskontiert
+- LCOE-Vergleich (Levelized Cost of Energy)
+
+## Schritt 5 — Beihilfen-Prüfung
+
+### Förder-Bescheide
+
+- KfW BEW, Klimaschutzverträge, Ausschreibungs-Zuschläge
+- Übertragung auf Käufer prüfen
+- Häufig Genehmigungs-Pflicht durch Behörde
+
+### De-minimis-Grenze
+
+- EU-Beihilfenrecht
+- Bei mehreren Förderungen kumulieren
+- 200.000 € in 3 Jahren (allgemein)
+
+### EU-AGVO 651/2014
+
+- Allgemeine Gruppenfreistellungs-Verordnung
+- Häufige Rechtsgrundlage Förderungen Energiebereich
+- Auflagen-Compliance dokumentieren
+
+### Rückforderungs-Risiko
+
+- Bei Beihilfen-Verstoss EU-Kommission
+- Verzinsung bis 10 Jahre rückwirkend
+- Skill `europarecht-kompass`
+
+## Schritt 6 — Strompreiskompensation-Rückforderungs-Risiko
+
+### Konstellation
+
+- Bei Strompreiskompensation-Empfänger Verkauf an Käufer
+- Voraussetzungen müssen weitergeführt werden (Branche, Stromintensität)
+- Bei nicht-Weiterführung Rückforderung BAFA
+
+### SPA-Klausel
+
+- Indemnification für Rückforderungs-Fälle
+- Pflicht zur Weiterführung Bedingungen
+
+## Schritt 7 — Bewertungs-Methodik
+
+### DCF-Methode
+
+- Frei-Cashflow-Diskontierung
+- Anzulegender Wert / Marktpreis-Forecast als Einnahmen
+- Wartungs-Kosten, Steuern, Försterung-Aufwendungen
+- WACC-Bestimmung mit Risiko-Aufschlag
+
+### LCOE-Vergleich
+
+- Levelized Cost of Energy
+- Vergleich mit Alternativ-Anlagen
+- Investitions-Entscheidung
+
+### Sensitivitäten
+
+- Strompreis-Volatilität
+- Anlagen-Verfügbarkeit
+- Regulierungs-Risiken (Förder-Änderung)
+
+### Multiple-Methode
+
+- Bei Portfolio-Transaktionen
+- € pro installierte MW
+- € pro EBITDA
+
+## Schritt 8 — SPA-Struktur (Share Purchase Agreement)
+
+### Garantien Verkäufer
+
+- Eigentum unbelastet
+- Anlagen funktionsfähig
+- EEG-Vergütung Bestand
+- MaStR-Eintrag korrekt
+- BImSchG-Compliance
+- Keine offenen Verfahren
+
+### Garantie-Erfüllungs-Zeitraum
+
+- Typisch 24 bis 36 Monate
+- Verlängert bei Steuer-Sachverhalten
+
+### Indemnification
+
+- Spezifische Sachverhalte (z.B. Strompreiskompensation)
+- Haftungs-Höchstgrenze
+
+### Conditions Precedent
+
+- BNetzA-Anzeige § 33 EEG
+- BImSchG-Wechsel-Anzeige § 16
+- Förder-Bescheid-Übertragung
+- Kartellamts-Freigabe
+- ggf. § 12 BauGB-Übertragungs-Genehmigung
+
+### Closing-Procedure
+
+- Vor-Closing Bedingungen erfüllt
+- Übertragungs-Akte
+- Zahlungs-Abwicklung
+
+## Schritt 9 — Kartellrechtliche Aspekte
+
+### Marktbeherrschungs-Anmeldung
+
+- Bei größeren Energieanlagen-Transaktionen
+- Bundeskartellamt 9. Beschlussabteilung Energie
+- Anmeldeschwelle BKartA
+
+### EU-Anmeldepflicht
+
+- Bei größerem Volumen EU-Kommission
+- Phase-I- und Phase-II-Verfahren
+
+## Schritt 10 — Mandanten-Strategie
+
+### Verkäufer
+
+1. Vendor DD durchführen
+2. Garantie-Risiken minimieren
+3. Indemnification-Klauseln verhandeln
+4. Tax-Optimierung
+5. Closing-Zeitplan straff
+
+### Käufer
+
+1. Sorgfältige DD mit Energie-Spezialisten
+2. Bewertungs-Sensitivitäten
+3. Garantie-Forderungen
+4. Conditions Precedent klar
+5. Integrations-Plan vorbereiten
+
+### Investor / PE
+
+1. Portfolio-Aufbau Logik
+2. Bei mehreren Anlagen Plattform-Strategie
+3. Skalen-Vorteile (Wartung, Vermarktung)
+4. Exit-Strategie 5-7 Jahre
+
+## Verzahnung
+
+- `energierecht-eeg-kwkg-erzeugung`
+- `energierecht-projektfinanzierung`
+- `energierecht-industriekunden` (Strompreiskompensation)
+- `vorsatzanfechtung-133-inso` (Distressed)
+- `europarecht-kompass` (Beihilfen)
+- `corporate-kanzlei` / `grosskanzlei-corporate-ma` für M&A-Standards
+
+## Quellen
+
+- EEG § 33 (Anlagen-Wechsel)
+- BImSchG § 16
+- MaStRV § 5
+- UmwG / GmbHG / AktG für Share Deals
+- EU-AGVO 651/2014
+- EU-Beihilfen-Verfahrens-Verordnung 2015/1589
+- BGH II ZB zu Insolvenz-Asset-Deals
+- BFH zu Energie-Steuer-Behandlung
+- Bundeskartellamt-Praxis Energie-Fusionen

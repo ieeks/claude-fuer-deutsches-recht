@@ -1,48 +1,274 @@
 ---
 name: energierecht-wettbewerb
-description: "Prüft energierechtlich geprägte Online- und Offline-Handlungen auf UWG-, GWB- und sektorspezifische Konformität."
+description: Wettbewerbsrecht-Bezug Energierecht Marktbeherrschungs-Verfahren BNetzA-Missbrauchskontrolle § 33 EnWG Preis-Missbrauch § 19 GWB. Bundeskartellamt-Verfahren Strom-Gas-Fusionen 9. Beschlussabteilung. EU-Wettbewerbsrecht Beihilfen Art. 107 AEUV De-minimis-Verordnung AGVO. Sektor-Untersuchung Bundeskartellamt Strom Gas Fernwaerme. Konzern-Verbund-Klauseln Entflechtungs-Vorschriften EnWG § 6-10 Vertikale Entflechtung. EuGH-Linie zu Energie-Wettbewerb. Strompreiskompensation als Beihilfe Verpflichtung Notifizierung Bruessel. Marktbeherrschung Kommunaler Versorger.
 ---
 
-# Energie und Wettbewerb
+# Wettbewerb und Beihilfen im Energierecht
 
 ## Zweck
 
-Dieser Skill bewertet Claims, Marktauftritte, Kooperationen, Preisaktionen und Konflikte im Wettbewerbsumfeld der Energiewirtschaft.
+Behandelt wettbewerbsrechtliche Aspekte im Energie-Bereich: Marktbeherrschung, BNetzA-Missbrauchskontrolle, Kartellamts-Fusionen, EU-Beihilfen, Entflechtungs-Vorschriften.
 
-## Wann verwenden
+## Eingaben
 
-- wenn ein neuer Fall im Bereich Energierecht aufgenommen oder sortiert werden muss
-- wenn Dokumente, Fristen, Zuständigkeiten und Risiken in eine belastbare Arbeitskarte gehören
-- wenn ein erster Vertrags-, Behörden-, Schriftsatz-, DD- oder Projektentwurf gebraucht wird
+- Mandant (Versorger, Netzbetreiber, Industrie, Behörde)
+- Verfahrens-Anlass (Fusion, Marktbeherrschungs-Vorwurf, Beihilfen-Streit, Sektor-Untersuchung)
+- Behörde involviert (Bundeskartellamt, BNetzA, EU-Kommission, BAFA)
+- Marktanteil / Konzern-Struktur
+- Beihilfen-Bestand
 
-## Arbeitsweise
+## Schritt 1 — Marktbeherrschungs-Prüfung EnWG § 33
 
-1. **Mandat und Rolle klären.** Erfasse Mandantentyp, Gegner oder Behörde, Projektphase, Fristen, wirtschaftliches Ziel, Dokumentenbestand und gewünschtes Ergebnis. Wenn eine Information fehlt, frage knapp nach und schlage zugleich einen sinnvollen Simulationswert vor.
-2. **Quellenlage sichern.** Trenne Mandantenangaben, Verträge, Bescheide, Behördenkorrespondenz, technische Unterlagen, Tabellen, Registerdaten und Internetquellen. Markiere jede unsichere Tatsache.
-3. **Rechtsrahmen aufbauen.** Prüfe die einschlägigen Normen, Behördenzuständigkeiten, Verfahren, Fristen, Zustimmungs- und Genehmigungserfordernisse. Zitiere Rechtsprechung nur, wenn Gericht, Datum, Aktenzeichen und Fundstelle plausibel sind.
-4. **Workflow führen.** Erstelle eine klare Aufgabenkarte mit Ampel, nächster Handlung, Verantwortlichem, Deadline, Risiko und benötigten Nachweisen. Nutze die Vorlagen aus `assets/templates`, wenn sie passen.
-5. **Entwurf oder Prüfung liefern.** Gib eine nutzbare Arbeitsfassung aus: Vertrag, Checkliste, Matrix, Schriftsatzgerüst, Behördenbrief, DD-Finding, Projektplan oder Mandantenmail.
-6. **Qualitätstor.** Prüfe, ob Zahlen nachgerechnet, Zuständigkeiten validiert, Anlagen benannt, Fristen kontrolliert und offene Annahmen sichtbar sind. Bei echten Mandatsdaten: immer Berufsrecht, Datenschutz, Mandatsgeheimnis und interne Freigaben beachten.
+### Tatbestand
 
-## Rückfragen, wenn unklar
+- Marktbeherrschende Stellung
+- Missbrauchs-Tatbestände § 19 GWB analog
+- BNetzA-Zuständigkeit für Netz-Bereich; Bundeskartellamt für Lieferanten-Bereich
 
-- Welche Rolle hat der Mandant und welches Ergebnis soll erreicht werden?
-- Welche Frist, welcher Bescheid, welcher Vertrag oder welcher Projektmeilenstein ist kritisch?
-- Welche Dokumente liegen vor und welche fehlen offensichtlich?
-- Soll mit echten Daten, geschwärzten Daten oder Simulation gearbeitet werden?
+### Typische Konstellationen
 
-## Ausgabeformat
+- **Übertragungs-Netzbetreiber** als Monopolist
+- **Verteilnetzbetreiber** als regionaler Monopolist
+- **Konzern-Verbund** (Stadtwerk-Lieferant + Stadtwerk-Netzbetreiber)
+- **Speicher- / Gas-Speicher-Anbieter** mit hoher regionaler Konzentration
 
-- Kurzlage in fünf Sätzen
-- Ampelmatrix mit Risiken, Fristen und Verantwortlichkeiten
-- konkreter nächster Arbeitsschritt mit benötigten Anlagen
-- Entwurf oder Prüfmatrix im Markdown-Format
-- offene Annahmen und Review-Hinweise
+### Missbrauchs-Verbot
 
-## Typische Fehler vermeiden
+- Preis-Missbrauch (überhöhte Preise)
+- Konditionen-Missbrauch (Diskriminierung)
+- Lieferungs-Verweigerung
 
-- Keine pauschalen Rechtsfolgen ohne Sachverhaltsanker.
-- Keine Frist ohne Zugang, Datum, Fristbeginn, Fristende und Rechtsgrundlage.
-- Keine Zahlen ohne Einheit, Zeitraum, Quelle und Rechenweg.
-- Keine Online-Fundstelle ohne Abrufdatum und Quellenqualität.
-- Keine produktive Weitergabe vertraulicher Daten ohne Governance-Prüfung.
+### Verfahren
+
+- BNetzA-Festlegung / Klage OLG Düsseldorf
+- Bundeskartellamt-Verfahren mit Sektor-Untersuchung
+- Skill `energierecht-verfahren`
+
+## Schritt 2 — Bundeskartellamt-Verfahren Energie
+
+### 9. Beschlussabteilung
+
+- Spezialisiert auf Energie-Wirtschaft
+- Sektor-Untersuchungen
+- Fusions-Kontrolle Energie-Märkte
+- Missbrauchs-Verfahren
+
+### Sektor-Untersuchungen Bestand
+
+- Strompreis-Bildung
+- Gasversorgung-Endkunden
+- Fernwärme-Markt (jüngst 2023/2024)
+- Wasserstoff (laufend)
+
+### Fusions-Kontrolle
+
+- Anmeldepflicht ab Umsatz-Schwellen
+- Bei Konzern-Konsolidierung Energie-Unternehmen
+- Phase-I- und Phase-II-Verfahren
+- Verbots-Entscheidung möglich (E.ON / Innogy umstritten)
+
+### Aktuelle Praxis
+
+- Kommunal-/Stadtwerk-Verbund häufig prüfungs-bedürftig
+- Bei Erneuerbaren-Portfolio-Aufbau
+
+## Schritt 3 — EU-Wettbewerbsrecht
+
+### Art. 101 AEUV Kartellverbot
+
+- Bei Lieferanten-/Vertriebs-Absprachen
+- Wartungs-Konsortien
+- PPA-Konsortien
+
+### Art. 102 AEUV Marktbeherrschungs-Missbrauch
+
+- Bei dominantem Netzbetreiber
+- Bei dominantem Energie-Lieferanten
+
+### Anwendungs-Praxis
+
+- Großverfahren EU-Kommission gegen Gaz de France, ENEL etc.
+- Diskriminierungs-Vorwürfe
+- Aufnahme von Auflagen statt Geldbuße
+
+## Schritt 4 — EU-Beihilfen Art. 107 AEUV
+
+### Tatbestand
+
+- Staatliche Leistung
+- Selektive Begünstigung
+- Wettbewerbs-Verfälschung
+- Handels-Beeinträchtigung
+
+### Energie-typische Beihilfen
+
+- **EEG-Förderung** (als Beihilfe akzeptiert)
+- **Strompreiskompensation Industrie** (Carbon Leakage)
+- **KfW BEW**
+- **Klimaschutzverträge (CCfD)**
+- **Konzessionsabgabe-Reduktion**
+
+### Verfahren
+
+- Notifizierung EU-Kommission
+- AGVO 651/2014 als Vereinfachung
+- De-minimis-VO
+- Bei Verstoss Rückforderung mit Zinsen
+
+### EU-Kommissions-Linien
+
+- Beihilfen für CO2-Reduktion grundsätzlich akzeptiert
+- Aber: Zusätzlichkeit muss nachweisbar sein
+- Bei "Free-Rider"-Effekt Rückforderung
+
+## Schritt 5 — Entflechtungs-Vorschriften §§ 6-10 EnWG
+
+### Hintergrund
+
+- Vertikale Integration Netz und Lieferung problematisch
+- EU-Richtlinien fordern Entflechtung
+- Verschiedene Modelle (ITO, OU, ISO)
+
+### ITO-Modell (Independent Transmission Operator)
+
+- Netz-Gesellschaft mit Eigenständigkeit
+- Konzern-Verbund mit Lieferanten möglich, aber strenge Trennung
+- Insbesondere für TenneT, 50Hertz, Amprion, TransnetBW (Übertragungs-Netzbetreiber)
+
+### Verteilnetz-Entflechtung § 8 EnWG
+
+- Buchhalterische / Organisatorische Trennung
+- Bei kleineren Verteilnetzbetreibern Befreiung möglich
+
+### Mess- und Markt-Entflechtung
+
+- MsbG (Messstellenbetriebs-Gesetz)
+- Strikte Trennung Messstellen-Betreiber vom Lieferanten
+
+### Streit-Verfahren
+
+- BNetzA-Anordnungen zur Entflechtungs-Compliance
+- Klage OLG Düsseldorf
+
+## Schritt 6 — Strompreiskompensation als Beihilfe
+
+### Hintergrund
+
+- Kompensation indirekter ETS-CO2-Kosten
+- EU-Leitlinien Beihilfen für Carbon Leakage (CL)
+- Bewilligungs-Bescheid BAFA
+
+### EU-Notifizierungs-Pflicht
+
+- Programm-Genehmigung EU-Kommission
+- Aktuelle Verlängerung bis 2030 (mit Anpassungen)
+- Ressourcen-/Substitut-Kompensation reduziert
+
+### Bei Verstoss
+
+- Rückforderung mit Zinsen
+- Bei systematischer Verletzung EU-Verfahren
+
+## Schritt 7 — Kommunaler Versorger und Marktbeherrschung
+
+### Sonderkonstellation
+
+- Stadtwerk = Lieferant + (oft) Verteilnetzbetreiber + (oft) Erzeugungs-Anlagen
+- Vertikale Integration in lokalem Markt
+- Marktbeherrschungs-Position möglich
+
+### Konzessions-Vergabe
+
+- Eigene Vergabe an eigene Tochter-Gesellschaft?
+- Wettbewerbs-Verfahren erforderlich
+- Konkurrenten-Klage möglich
+- Skill `energierecht-energievertraege`
+
+### Re-Kommunalisierung
+
+- Übernahme von Privatlieferanten durch Kommune
+- Wettbewerbs-Aspekt
+- BGH-Linien
+
+## Schritt 8 — Fernwärme-Sektor-Untersuchung Bundeskartellamt
+
+### Hintergrund
+
+- 2023/2024 Untersuchung wegen Energie-Krise
+- Frage: marktbeherrschende Stellung Fernwärme-Versorger?
+- Preisanpassungs-Praxis prüfbar
+
+### Mögliche Folgen
+
+- Auflagen zu Preisanpassungs-Klauseln
+- Anschluss-Pflicht-Modifikationen
+- Sondernormen-Vorschlag
+
+## Schritt 9 — Wasserstoff-Markt-Aufbau
+
+### Spezielle Wettbewerbs-Themen
+
+- Anfangs natürliche Monopol-Strukturen
+- Förder-getriebene Anlagen
+- Beihilfen-Genehmigung erforderlich
+
+### EU-Bezug
+
+- IPCEI (Important Projects of Common European Interest) Wasserstoff
+- Hy2Tech-, Hy2Use-Initiativen
+- Beihilfen-Notifizierung gesammelt
+
+### Klimaschutzverträge
+
+- EU-Genehmigung im Programm
+- Einzel-Bewilligungs-Sicherheit
+
+## Schritt 10 — Mandanten-Strategie
+
+### Versorger / Netzbetreiber
+
+1. Marktanteil-Analyse
+2. Entflechtungs-Compliance
+3. Bei großem Konzern Fusions-Anmeldepflicht
+4. Beihilfen-Bezug dokumentieren
+
+### Industrie-Kunde
+
+1. Strompreiskompensation-Antrag rechtzeitig
+2. CCfD-Beteiligung prüfen
+3. CBAM-Compliance
+4. Skill `energierecht-industriekunden`
+
+### Kommune
+
+1. Konzessions-Vergabe wettbewerbs-konform
+2. Beihilfen-Aspekte bei Stadtwerk
+3. Re-Kommunalisierung mit Rechtsberatung
+
+### Behörde
+
+1. Sektor-Untersuchungs-Beteiligung
+2. Beihilfen-Notifizierung sicherstellen
+
+## Verzahnung
+
+- `energierecht-verfahren` (BNetzA / OLG Düsseldorf)
+- `energierecht-vertrieb-marktrollen`
+- `energierecht-industriekunden` (Strompreiskompensation)
+- `europarecht-kompass` (EU-Beihilfen)
+- `fachanwalt-internationales-wirtschaftsrecht`
+
+## Quellen
+
+- EnWG §§ 6-10, 33
+- GWB §§ 18, 19, 32
+- AEUV Art. 101, 102, 107, 108
+- EU-AGVO 651/2014
+- EU-De-minimis-VO 1407/2013
+- EU-Beihilfen-Verfahrens-VO 2015/1589
+- EU-Leitlinien Beihilfen Klima- und Umweltschutz 2022
+- Bundeskartellamt Sektor-Untersuchungen Energie
+- BNetzA-Festlegungen Entflechtung
+- BGH KZR-Linie
+- OLG Düsseldorf VI-3 Kart
+- EuGH-Linien zu Energie-Wettbewerb
