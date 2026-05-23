@@ -119,14 +119,14 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 **Symptom**: BGH zitieren, aber nur aus einem Kommentar entnommen.
 
 **Korrektur**:
-- Original lesen, oder kennzeichnen: „Zitiert nach Müller, NJW 2024, 765."
+- Original lesen, oder kennzeichnen: „Zitiert nach Müller in NJW 2024 Seite 765."
 
 ### Fehler 14: Lehrbuch-Plagiat
 
 **Symptom**: Du übernimmst Formulierungen wörtlich ohne Anführungszeichen.
 
 **Korrektur**:
-- Eigene Formulierung **mit Beleg**: „So Müller, JZ 2024, 765."
+- Eigene Formulierung **mit Beleg**: „So Müller in JZ 2024 Seite 765."
 - Bei wörtlicher Wiedergabe: Anführungszeichen + Fundstelle.
 
 ---
@@ -173,7 +173,7 @@ Diese Liste hilft Dir, **bevor Du anfängst zu schreiben** und **beim Endcheck**
 
 **Korrektur**:
 - Jede Sachverhalts-Tatsache ist relevant, soweit nicht bewiesen ist, dass sie unwesentlich ist.
-- Bei strafrechtlicher Schuld: §§ 20, 21 StGB prüfen.
+- Bei strafrechtlicher Schuld: §§ 20 und 21 StGB prüfen.
 
 ### Fehler 20: Kein Hilfsweise-Aufbau
 

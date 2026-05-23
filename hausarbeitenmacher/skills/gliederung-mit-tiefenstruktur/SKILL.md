@@ -101,7 +101,7 @@ A. Strafbarkeit T wegen Diebstahl gemäß § 242 StGB
 | **V** ertrag | Erfüllungsanspruch | § 433 II BGB usw. |
 | **C** ulpa in contrahendo | Vorvertragliches Verschulden | § 280 I iVm § 311 II BGB |
 | **G** eschäftsführung ohne Auftrag | echte / unechte GoA | §§ 677 ff. BGB |
-| **D** inglich | Eigentums-/Besitzansprüche | §§ 985, 1004 BGB |
+| **D** inglich | Eigentums-/Besitzansprüche | §§ 985 und 1004 BGB |
 | **D** elikt | Unerlaubte Handlung | §§ 823 ff. BGB |
 | **B** ereicherung | Leistungs-/Eingriffskondiktion | §§ 812 ff. BGB |
 
@@ -142,7 +142,7 @@ A. Anspruch A gegen B auf Kaufpreis aus § 433 II BGB
       3. Wirksamkeit (AGB-Kontrolle? Sittenwidrigkeit?)
    II. Anspruch nicht erloschen
       1. Erfüllung
-      2. Rücktritt B (§ 437 Nr. 2, §§ 323, 326 BGB)
+      2. Rücktritt B (§ 437 Nr. 2 sowie §§ 323 und 326 BGB)
          a) Mangel
             aa) Vereinbarte Beschaffenheit
             bb) Übliche Beschaffenheit

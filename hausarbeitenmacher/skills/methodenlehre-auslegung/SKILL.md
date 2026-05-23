@@ -75,8 +75,8 @@ Auslegung ist das Herz jeder Hausarbeit. Wer nur subsumiert ohne auszulegen, kan
 
 - Wenn mehrere Auslegungen denkbar sind, ist die zu wählen, die verfassungs-konform ist
 - BVerfG-Linie: bei Grundrechts-Eingriffen
-- BVerfGE 49, 304 (Zugang zur Rechtsprechung)
-- BVerfGE 88, 145 (Steuer-rechtliche Auslegung)
+- BVerfGE Band 49 Seite 304 (Zugang zur Rechtsprechung)
+- BVerfGE Band 88 Seite 145 (Steuer-rechtliche Auslegung)
 
 **Beispiel**: § 1004 BGB analog bei Persönlichkeitsrecht — der allgemeine Persönlichkeitsrechts-Schutz (Art. 2 Abs. 1 iVm Art. 1 Abs. 1 GG) wirkt mittelbar auf das Zivilrecht ein.
 
@@ -102,7 +102,7 @@ Wenn der Wortlaut nicht passt, der Zweck aber die Anwendung verlangt:
 ### Analogie
 
 - **Voraussetzungen**: planwidrige Lücke + Vergleichbarkeit der Sachverhalte
-- BVerfGE 71, 354 — Voraussetzungen Analogie
+- BVerfGE Band 71 Seite 354 — Voraussetzungen Analogie
 - BGH-Linien zu Einzel-Analogien
 
 **Beispiel**: § 985 BGB analog auf Daten — wenn man Daten als „Sache" im weiteren Sinne versteht.

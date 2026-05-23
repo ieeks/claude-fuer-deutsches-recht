@@ -117,7 +117,7 @@ Welches Gesetz erlaubt den Eingriff?
 ### Art. 1 GG — Menschenwürde
 
 - Absoluter Schutz, keine Abwägung
-- BVerfGE 75, 369 (Bertolt-Brecht-Lied)
+- BVerfGE Band 75 Seite 369 (Bertolt-Brecht-Lied)
 - Schranken sind verfassungs-immanent
 
 ### Art. 2 I GG — Allgemeine Handlungsfreiheit
@@ -130,7 +130,7 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Drei Sphären: Intimsphäre, Privatsphäre, Sozialsphäre
 - Mittelbare Drittwirkung im Zivilrecht (BGB-Anspruch auf Unterlassung)
-- BVerfGE 99, 185 zu Werbung mit Lichtbild
+- BVerfGE Band 99 Seite 185 zu Werbung mit Lichtbild
 
 ### Art. 3 GG — Gleichheit
 
@@ -148,7 +148,7 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Meinung vs. Tatsachenbehauptung
 - Schmähkritik nicht geschützt
-- BVerfGE 90, 241 (Holocaust-Leugnung)
+- BVerfGE Band 90 Seite 241 (Holocaust-Leugnung)
 
 ### Art. 6 GG — Ehe und Familie
 
@@ -160,7 +160,7 @@ Welches Gesetz erlaubt den Eingriff?
 
 - Versammlung: mindestens zwei Personen mit gemeinsamem Zweck
 - Im Freien vs. in Räumen
-- BVerfGE 69, 315 (Brokdorf)
+- BVerfGE Band 69 Seite 315 (Brokdorf)
 
 ### Art. 9 GG — Vereinigungs-Freiheit
 
@@ -169,7 +169,7 @@ Welches Gesetz erlaubt den Eingriff?
 ### Art. 12 GG — Berufs-Freiheit
 
 - Beruf-Wahl + Beruf-Ausübung
-- Drei-Stufen-Theorie (BVerfGE 7, 377 Apotheker-Urteil):
+- Drei-Stufen-Theorie (BVerfGE Band 7 Seite 377 Apotheker-Urteil):
   - 1. Stufe: Berufsausübungs-Regelung
   - 2. Stufe: subjektive Berufswahl-Schranke
   - 3. Stufe: objektive Berufswahl-Schranke
@@ -179,7 +179,7 @@ Welches Gesetz erlaubt den Eingriff?
 - Schutzbereich: Eigentum + Erbrecht
 - Schranke: Inhalts- und Schranken-Bestimmung Art. 14 I 2 GG
 - Enteignung Art. 14 III GG (Schwellen-Wert; Entschädigung)
-- BVerfGE 58, 300 (Nassauskiesung)
+- BVerfGE Band 58 Seite 300 (Nassauskiesung)
 
 ### Art. 16a GG — Asyl
 
@@ -191,7 +191,7 @@ Welches Gesetz erlaubt den Eingriff?
 ### Mittelbare Drittwirkung
 
 - Grundrechte wirken im Zivilrecht **mittelbar** durch Generalklauseln (§ 138 BGB, § 242 BGB, § 826 BGB)
-- BVerfGE 7, 198 (Lüth-Urteil) — Klassiker
+- BVerfGE Band 7 Seite 198 (Lüth-Urteil) — Klassiker
 - Auslegungs-Methode: verfassungs-konform
 
 ### Unmittelbare Drittwirkung

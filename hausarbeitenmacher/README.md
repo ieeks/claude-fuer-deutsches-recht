@@ -146,6 +146,10 @@ Wenn die Aufgabenstellung mehrdeutig ist, frage zuerst die Lehrkraft. Wenn die B
 
 **Das Plugin ist Dein Lern-Begleiter, kein Spickzettel.**
 
+## ⚠️ Vorsicht: hiermit bitte nicht mogeln im Studium
+
+Das Plugin ist ein **Lern- und Trainingswerkzeug** für Studierende, Tutor/-innen und Lehrkräfte. Es ist ausdrücklich **nicht** dafür gedacht, irgendeinen vom Plugin generierten Text (Subsumtion, Gliederungs-Vorschlag, Argumentations-Skizze, Probe-Gutachten) **als eigene Leistung** in einer Hausarbeit, Seminararbeit, Klausur, Aktenklausur, mündlichen Prüfung oder im juristischen Vorbereitungsdienst einzureichen. Das wäre ein **Täuschungsversuch** im Sinne der jeweiligen Prüfungsordnung der Universitäten bzw. § 14 JAG NRW / § 12 JAPO Bayern / vergleichbarer Vorschriften der anderen Länder. Folge ist regelmäßig **Nichtbestehen, Aberkennung der Prüfung oder disziplinarrechtliche Konsequenzen**. Der erlaubte Lernweg: erst selbst denken und schreiben, dann mit dem Plugin gegenprüfen, hinterfragen und verbessern lassen.
+
 ## Verbotenes (Eigen-Einschränkung)
 
 Das Plugin

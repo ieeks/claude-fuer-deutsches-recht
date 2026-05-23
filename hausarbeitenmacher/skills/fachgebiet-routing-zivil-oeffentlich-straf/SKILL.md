@@ -66,7 +66,7 @@ Hausarbeiten haben oft Schwerpunkte mit Neben-Aspekten:
 
 - Mittelbare Grundrechts-Wirkung im Zivilrecht
 - Z.B. AGG-Diskriminierung im Mietverhältnis
-- BVerfGE 7, 198 (Lüth-Urteil) als Linie
+- BVerfGE Band 7 Seite 198 (Lüth-Urteil) als Linie
 
 ## Schritt 3 — Hilfsfragen
 

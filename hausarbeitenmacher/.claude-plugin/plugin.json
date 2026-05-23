@@ -1,7 +1,7 @@
 {
   "name": "hausarbeitenmacher",
-  "version": "0.2.0",
-  "description": "Didaktisches Plugin fuer juristische Hausarbeiten und Seminararbeiten im Jurastudium. Fuehrt Studierende sokratisch durch die Loesung in Zivilrecht oeffentlichem Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Fragt zu Beginn nach der Lehrkraft und entwickelt Adressaten-Strategie ohne Schleimerei. Bei Seminararbeit Modus-Wechsel zum wissenschaftlichen Aufsatz mit eigener These. Strikt lernfoerdernd nicht zum Abschreiben: das Plugin stellt Fragen gibt Strukturen Schemata Methodenhinweise Zitierweise aber liefert keine fertigen Loesungen sondern fuehrt zu eigenstaendiger Subsumtion. Behutsam-frech-wertschaetzender Dialog-Stil am Rande. Geeignet fuer GuP Anfaengeruebung Fortgeschrittenenuebung Examenshausarbeit und Seminararbeit.",
+  "version": "6.0.0",
+  "description": "Didaktisches Plugin fuer juristische Hausarbeiten und Seminararbeiten. Fuehrt sokratisch durch Zivilrecht oeffentliches Recht Strafrecht mit Ausfluegen in Europarecht und Rechtstheorie. Adressaten-Strategie ohne Schleimerei. Liefert keine fertigen Loesungen sondern fuehrt zur eigenen Subsumtion.",
   "license": "Apache-2.0 OR MIT",
   "author": {
     "name": "Klotzkette"

@@ -99,7 +99,7 @@ Annahme: 30-Seiten Anfänger-Übung Zivilrecht, 8 Wochen Bearbeitungszeit.
 
 **Bevor Du anfängst**, formuliere klar:
 
-- **Was möchte ich aus dieser Hausarbeit lernen?** (z.B. „Subsumtion an §§ 433, 434 BGB, AGB-Prüfung, Bereicherungsrecht")
+- **Was möchte ich aus dieser Hausarbeit lernen?** (z.B. „Subsumtion an §§ 433 und 434 BGB, AGB-Prüfung, Bereicherungsrecht")
 - **Welche Fertigkeiten möchte ich verbessern?** (Gutachten-Stil, Methoden-Argumentation, Literatur-Recherche)
 - **Welches sind die fünf wichtigsten Lehrmeinungen, die ich verstehen möchte?**
 

@@ -88,7 +88,7 @@ hart ausfallen, als sittenwidrig zu qualifizieren ist.
 
 **Nach herrschender Meinung** [Nachweis: Sprau, in:
 Palandt/Grüneberg, 84. Aufl. 2025, § 826 BGB Rn. 4;
-BGH NJW 2024, 1245 Rn. 24] ist „Sittenwidrigkeit" eng
+BGH NJW 2024 Seite 1245 Rn. 24] ist „Sittenwidrigkeit" eng
 auszulegen. Erforderlich ist ein besonders verwerfliches
 Verhalten, das gegen das Anstandsgefühl aller billig
 und gerecht Denkenden verstößt.
@@ -101,7 +101,7 @@ Argumente:
 
 **Eine Mindermeinung** [Nachweis: Wagner, in:
 MüKo BGB, 9. Aufl. 2025, § 826 BGB Rn. 17; Müller,
-NJW 2024, 765, 770] möchte die Schwelle der
+NJW 2024 Seite 765 mit 770] möchte die Schwelle der
 Sittenwidrigkeit absenken und auch unverhältnismäßige
 wirtschaftliche Schadens-Verfolgung erfassen.
 

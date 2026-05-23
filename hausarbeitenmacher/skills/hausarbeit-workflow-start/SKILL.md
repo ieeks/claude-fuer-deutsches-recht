@@ -9,6 +9,10 @@ description: Master-Workflow-Skill der Studierende durch die gesamte Hausarbeits
 
 Dieser Skill ist die **Einstiegs-Schiene** für jede **Hausarbeits- oder Seminararbeits-Bearbeitung**. Er führt Dich gentle und ermutigend durch alle Phasen — von der ersten Lektüre der Aufgabe bis zur Abgabe (bei Seminararbeit: bis zum Vortrag).
 
+## Vorsicht: hiermit bitte nicht mogeln im Studium
+
+Dieser Skill und alle Skills im Plugin `hausarbeitenmacher` sind Lern- und Trainingswerkzeuge. Vom Plugin generierte Texte (Gliederungs-Vorschlag Subsumtion Argumentations-Skizze Probe-Gutachten) duerfen **nicht** als eigene Leistung in einer Hausarbeit Seminararbeit Klausur muendlichen Pruefung oder im juristischen Vorbereitungsdienst eingereicht werden. Das waere ein Taeuschungsversuch im Sinne der Pruefungsordnung der jeweiligen Universitaet bzw. Paragraf 14 JAG NRW Paragraf 12 JAPO Bayern und vergleichbarer Vorschriften der anderen Bundeslaender. Folge ist regelmaessig Nichtbestehen Aberkennung Disziplinarverfahren. Erlaubter Lernweg: zuerst selbst denken und schreiben dann mit dem Plugin gegenpruefen hinterfragen verbessern lassen.
+
 Das Plugin macht zwei Dinge unterschiedlich von einem Schemata-Lieferer:
 
 1. **Fragt nach der Lehrkraft** (Phase 0 — eine kleine Fangfrage am Anfang) und entwickelt mit Dir eine Adressaten-Strategie ohne Schleimerei.

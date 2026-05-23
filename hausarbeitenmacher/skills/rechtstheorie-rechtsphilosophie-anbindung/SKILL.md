@@ -62,7 +62,7 @@ Es gibt überpositives Recht, das jeden positiven Norm-Setzungs-Anspruch begrenz
 
 #### Anwendung in Deutschland
 
-- **Mauerschützen-Prozesse** (BVerfGE 95, 96; BGH-Linie nach 1989)
+- **Mauerschützen-Prozesse** (BVerfGE Band 95 Seite 96; BGH-Linie nach 1989)
 - **Radbruch'sche Formel** als Korrektur extremer positiv-rechtlicher Verbrechen
 
 ### Hermeneutische Rechtstheorie
@@ -196,11 +196,11 @@ Folgende: ...
 
 ### Beispiel 1: § 138 BGB-Sittenwidrigkeit
 
-> „Der Begriff der Sittenwidrigkeit § 138 I BGB wirft die rechtstheoretische Frage auf, ob er moralisch-objektiv oder gesellschaftlich-konventional zu verstehen ist. Eine rein positivistische Sicht stellt auf die Rechtsprechungs-Linie ab, die die Wertvorstellungen des billig und gerecht Denkenden konkretisiert (BGH NJW 1983, 222). Eine naturrechtliche Lesart würde objektive Wert-Verstöße erfassen. Die wohl herrschende Meinung [Nachweis] verbindet beides: konkretisiert über die Rechtsprechungs-Linie, mit Wertungs-Bezug. Im konkreten Fall ..."
+> „Der Begriff der Sittenwidrigkeit § 138 I BGB wirft die rechtstheoretische Frage auf, ob er moralisch-objektiv oder gesellschaftlich-konventional zu verstehen ist. Eine rein positivistische Sicht stellt auf die Rechtsprechungs-Linie ab, die die Wertvorstellungen des billig und gerecht Denkenden konkretisiert (BGH NJW 1983 Seite 222). Eine naturrechtliche Lesart würde objektive Wert-Verstöße erfassen. Die wohl herrschende Meinung [Nachweis] verbindet beides: konkretisiert über die Rechtsprechungs-Linie, mit Wertungs-Bezug. Im konkreten Fall ..."
 
 ### Beispiel 2: Mauerschützen-Verfahren
 
-> „Die Anwendung des Strafgesetzes auf die Mauerschützen-Fälle warf grundsätzlich die Frage auf, ob die Tötung an der Mauer auch dann strafbar ist, wenn sie nach DDR-Recht gerechtfertigt war. BVerfG und BGH haben hierauf mit Bezug zur Radbruch'schen Formel reagiert (BVerfGE 95, 96; BGHSt 39, 1; BGH NStZ 1993, 537). Danach kann positiv-gesetztes Recht durch das Übermaß seines Unrechts seine Geltung verlieren..."
+> „Die Anwendung des Strafgesetzes auf die Mauerschützen-Fälle warf grundsätzlich die Frage auf, ob die Tötung an der Mauer auch dann strafbar ist, wenn sie nach DDR-Recht gerechtfertigt war. BVerfG und BGH haben hierauf mit Bezug zur Radbruch'schen Formel reagiert (BVerfGE Band 95 Seite 96; BGHSt Band 39 Seite 1; BGH NStZ 1993 Seite 537). Danach kann positiv-gesetztes Recht durch das Übermaß seines Unrechts seine Geltung verlieren..."
 
 ## Schritt 8 — Reflexions-Aufgaben für Dich
 

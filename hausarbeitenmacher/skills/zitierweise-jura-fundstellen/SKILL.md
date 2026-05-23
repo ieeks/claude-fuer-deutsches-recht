@@ -34,7 +34,7 @@ Jede juristische Aussage, die nicht trivial ist (nicht: „A hat eine Willenserk
 ### BGH
 
 ```
-BGH, Urteil vom 12. März 2024 — VIII ZR 56/23, NJW 2024, 2018, 2020 Rn. 24.
+BGH, Urteil vom 12. März 2024 — VIII ZR 56/23 in NJW 2024 Seite 2018 mit Folgeseite 2020 Rn. 24.
 ```
 
 Bestandteile:
@@ -42,13 +42,13 @@ Bestandteile:
 - Entscheidungsform (Urteil / Beschluss)
 - Datum (12.03.2024)
 - Aktenzeichen (VIII ZR 56/23)
-- Fundstelle (NJW 2024, 2018) — Anfangsseite
+- Fundstelle (NJW 2024 Seite 2018) — Anfangsseite
 - Konkrete Stelle (2020) oder Randnummer (Rn. 24)
 
 ### BVerfG
 
 ```
-BVerfG, Urteil vom 24. März 2021 — 1 BvR 2656/18 (Klimaschutz), BVerfGE 157, 30, 55 Rn. 76.
+BVerfG, Urteil vom 24. März 2021 — 1 BvR 2656/18 (Klimaschutz) in BVerfGE Band 157 Seite 30 mit Folgeseite 55 Rn. 76.
 ```
 
 ### EuGH
@@ -60,13 +60,13 @@ EuGH, Urteil vom 6. Oktober 2020 — C-66/18, ECLI:EU:C:2020:792 Rn. 87 (Kommiss
 ### Untergerichts-Entscheidungen
 
 ```
-OLG München, Urteil vom 14. Juli 2023 — 31 U 4521/22, ZIP 2023, 1842, 1845.
+OLG München, Urteil vom 14. Juli 2023 — 31 U 4521/22 in ZIP 2023 Seite 1842 mit Folgeseite 1845.
 ```
 
 ### BVerwG
 
 ```
-BVerwG, Urteil vom 18. November 2024 — 4 C 1.24, BVerwGE 159, 22, 35 Rn. 42.
+BVerwG, Urteil vom 18. November 2024 — 4 C 1.24 in BVerwGE Band 159 Seite 22 mit Folgeseite 35 Rn. 42.
 ```
 
 ### Online-Datenbank-Fundstellen (Beck-online, juris)
@@ -75,7 +75,7 @@ Bei nicht-veröffentlichten oder nur online-verfügbaren Entscheidungen:
 
 ```
 BGH, Beschluss vom 15. Mai 2024 — IX ZB 12/24, juris Rn. 17.
-LG Hamburg, Urteil vom 8. April 2024 — 327 O 123/23, BeckRS 2024, 8421 Rn. 24.
+LG Hamburg, Urteil vom 8. April 2024 — 327 O 123/23 in BeckRS 2024 Nr. 8421 Rn. 24.
 ```
 
 ## Schritt 3 — Kommentare zitieren
@@ -119,7 +119,7 @@ Schiemann, in: Staudinger, BGB, 2024, § 985 BGB Rn. 67.
 ### NJW
 
 ```
-Müller, NJW 2024, 1245, 1248.
+Müller in NJW 2024 Seite 1245 mit Folgeseite 1248.
 ```
 
 Bestandteile:
@@ -132,7 +132,7 @@ Bestandteile:
 ### Aufsatz mit Mit-Autoren
 
 ```
-Müller/Schmidt, JuS 2024, 567, 570.
+Müller/Schmidt in JuS 2024 Seite 567 mit Folgeseite 570.
 ```
 
 ### Aufsatz mit Titel
@@ -140,13 +140,13 @@ Müller/Schmidt, JuS 2024, 567, 570.
 In der ersten Erwähnung lang:
 
 ```
-Müller, „Die Drittwirkung des Allgemeinen Persönlichkeitsrechts im Mietrecht", JZ 2024, 765.
+Müller, „Die Drittwirkung des Allgemeinen Persönlichkeitsrechts im Mietrecht" in JZ 2024 Seite 765.
 ```
 
 Bei wiederholter Erwähnung kurz:
 
 ```
-Müller, JZ 2024, 765, 768.
+Müller in JZ 2024 Seite 765 mit Folgeseite 768.
 ```
 
 ## Schritt 5 — Lehrbücher zitieren
@@ -189,7 +189,7 @@ Wessels/Beulke/Satzger, Strafrecht Allgemeiner Teil, 53. Auflage, 2024, Rn. 645.
 ### Großkommentare
 
 ```
-Stein/Jonas/Schumann, ZPO, 22. Auflage, Band 3, 2024, § 130d Rn. 24.
+Stein/Jonas/Schumann, ZPO, 22. Auflage Band 3 (2024) § 130d Rn. 24.
 ```
 
 ### Mehrbändige Werke
@@ -217,8 +217,8 @@ www.verfassungsblog.de/klimaschluss-folgen (abgerufen am 14.07.2024).
 Wenn mehrere Quellen für eine Aussage:
 
 ```
-Vgl. BGH, NJW 2024, 1245, 1248 Rn. 24; BVerfGE 157, 30, 55 Rn. 76;
-Grüneberg, in: Palandt/Grüneberg, § 433 BGB Rn. 12; Müller, NJW 2024, 1245, 1248;
+Vgl. BGH in NJW 2024 Seite 1245 mit Folgeseite 1248 Rn. 24; BVerfGE Band 157 Seite 30 mit Folgeseite 55 Rn. 76;
+Grüneberg, in: Palandt/Grüneberg, § 433 BGB Rn. 12; Müller in NJW 2024 Seite 1245 mit Folgeseite 1248;
 Medicus/Lorenz, Schuldrecht II, 19. Aufl. 2024, § 35 II Rn. 17.
 ```
 
@@ -237,13 +237,13 @@ Reihenfolge:
 
 ❌ „BGH NJW 2024" — keine Anfangsseite
 
-✅ „BGH, NJW 2024, 1245" — Anfangsseite präzise
+✅ „BGH in NJW 2024 Seite 1245" — Anfangsseite präzise
 
 ### Fehler 2: Fehlende konkrete Stelle
 
-❌ „BGH NJW 2024, 1245"
+❌ „BGH NJW 2024 ohne Seitenangabe"
 
-✅ „BGH NJW 2024, 1245, 1248" oder „... 1245 Rn. 24"
+✅ „BGH NJW 2024 Seite 1245 mit Folgeseite 1248" oder „... Seite 1245 Rn. 24"
 
 ### Fehler 3: Falscher Bearbeiter-Name
 

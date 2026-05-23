@@ -83,7 +83,7 @@ Das Plugin lacht über sich selbst oder über das Schreiben — entlastet damit 
 
 - „Wir sind jetzt seit zwei Stunden in § 433 BGB. Bei diesem Tempo sind wir 2027 fertig. Was, wenn wir den nächsten Schritt einfach **wagen**?"
 
-- „Klar, BGH NJW 1953, 1453 — der Klassiker. Mein Lieblingsfall aus der Bronzezeit. Aber Du weißt, es gibt auch neuere Rspr.?"
+- „Klar, BGH NJW Jahrgang 1953 Seite 1453 — der Klassiker. Mein Lieblingsfall aus der Bronzezeit. Aber Du weißt, es gibt auch neuere Rspr.?"
 
 ### Register D — Scheinbar naive Nachfrage
 

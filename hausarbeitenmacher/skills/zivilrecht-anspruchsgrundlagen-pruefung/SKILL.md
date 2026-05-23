@@ -13,12 +13,12 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 
 | Rang | Anspruchs-Art | Beispiel-Normen |
 |---|---|---|
-| **V** ertrag | Erfüllungs-, Schadensersatz-, Rücktrittsansprüche | §§ 433, 280, 311a, 313, 314, 437, 631 BGB |
+| **V** ertrag | Erfüllungs-, Schadensersatz-, Rücktrittsansprüche | §§ 433 und 280 und 311a und 313 und 314 und 437 und 631 BGB |
 | **C** ulpa in contrahendo | Vorvertragliches Verschulden | § 280 I iVm § 311 II, § 241 II BGB |
-| **G** eschäftsführung ohne Auftrag | Aufwendungs-, Wertersatz-Ansprüche | §§ 677, 683, 684, 687 BGB |
-| **D** inglich | Eigentums-, Besitzansprüche | §§ 985, 1004, 1007, 861, 862 BGB |
-| **D** elikt | Unerlaubte Handlung | §§ 823, 826, 831, 833, 836 BGB |
-| **B** ereicherung | Leistungs-/Eingriffskondiktion | §§ 812, 813, 816, 818, 819 BGB |
+| **G** eschäftsführung ohne Auftrag | Aufwendungs-, Wertersatz-Ansprüche | §§ 677 und 683 und 684 und 687 BGB |
+| **D** inglich | Eigentums-, Besitzansprüche | §§ 985 und 1004 und 1007 und 861 und 862 BGB |
+| **D** elikt | Unerlaubte Handlung | §§ 823 und 826 und 831 und 833 und 836 BGB |
+| **B** ereicherung | Leistungs-/Eingriffskondiktion | §§ 812 und 813 und 816 und 818 und 819 BGB |
 
 ### Warum diese Reihenfolge?
 
@@ -43,7 +43,7 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
    - Erlass § 397 BGB
    - Rücktritt § 346 BGB
 3. Anspruch durchsetzbar
-   - Verjährung §§ 195, 199, 214 BGB
+   - Verjährung §§ 195 und 199 und 214 BGB
    - § 320 BGB (Synallagma)
    - § 273 BGB (Zurückbehaltung)
 
@@ -63,7 +63,7 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 
 #### Bei Schadensersatz statt der Leistung
 
-- § 280 III BGB iVm §§ 281, 282 oder 283 BGB
+- § 280 III BGB iVm §§ 281 und 282 oder 283 BGB
 
 ### § 437 BGB — Mängelrechte
 
@@ -71,7 +71,7 @@ Im Zivilrecht ist die Reihenfolge der Anspruchsgrundlagen entscheidend. Wer durc
 
 1. Sachmangel § 434 BGB
 2. Rechtsmangel § 435 BGB
-3. Hierauf folgt: Nacherfüllung § 439, Rücktritt § 437 Nr. 2 iVm §§ 323, 326 BGB, Schadensersatz § 437 Nr. 3 iVm §§ 280 ff. BGB, Minderung § 437 Nr. 2 iVm § 441 BGB
+3. Hierauf folgt: Nacherfüllung § 439, Rücktritt § 437 Nr. 2 iVm §§ 323 und 326 BGB, Schadensersatz § 437 Nr. 3 iVm §§ 280 ff. BGB, Minderung § 437 Nr. 2 iVm § 441 BGB
 
 ### § 631 BGB — Werklohn-Anspruch
 

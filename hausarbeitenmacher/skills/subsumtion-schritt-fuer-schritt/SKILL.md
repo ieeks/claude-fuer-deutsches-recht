@@ -157,7 +157,7 @@ Bei mehreren Merkmalen: Wiederhole den Vier-Schritte-Zyklus für jedes Merkmal.
 
 ❌ „Damit liegt ein Kaufvertrag vor."
 
-✅ „Damit liegen ein Angebot und eine Annahme vor. Folglich ist nach §§ 145, 147 BGB ein Vertrag zustande gekommen. Ein Kaufvertrag (§ 433 BGB) liegt vor, weil ..."
+✅ „Damit liegen ein Angebot und eine Annahme vor. Folglich ist nach §§ 145 und 147 BGB ein Vertrag zustande gekommen. Ein Kaufvertrag (§ 433 BGB) liegt vor, weil ..."
 
 ### Fehler 4: Ergebnis-Vorausnahme
 

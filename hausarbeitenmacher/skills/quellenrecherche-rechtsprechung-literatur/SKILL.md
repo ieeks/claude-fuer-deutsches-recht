@@ -206,7 +206,7 @@ Wenn Du keine Online-Quelle für eine Aussage hast: **lies das Buch in der Bibli
 
 ### Beste Praxis
 
-Lese die **Originalquelle** und zitiere sie. Wenn das nicht geht, mache klar: „Zitiert nach Müller, JZ 2024, 765 (Sekundär-Zitat)".
+Lese die **Originalquelle** und zitiere sie. Wenn das nicht geht, mache klar: „Zitiert nach Müller in JZ 2024 Seite 765 (Sekundär-Zitat)".
 
 ## Schritt 8 — Aktualität prüfen
 

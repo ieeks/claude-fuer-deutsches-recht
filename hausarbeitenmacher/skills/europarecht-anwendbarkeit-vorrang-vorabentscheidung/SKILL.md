@@ -150,7 +150,7 @@ Wenn Du argumentierst: „Hier könnte ein Vorabentscheidungs-Verfahren nach Art
 ### Wettbewerbsrecht
 
 - AGB / Mitbewerberverhältnis-Schutz UWG
-- Kartellrecht Art. 101, 102 AEUV
+- Kartellrecht Art. 101 und 102 AEUV
 - Beihilfen Art. 107 ff. AEUV
 
 ### Antidiskriminierungs-Recht
@@ -195,17 +195,17 @@ Wenn Du argumentierst: „Hier könnte ein Vorabentscheidungs-Verfahren nach Art
 
 - BVerfG anerkennt EU-Vorrang grundsätzlich
 - Solange EU eigenständige Grundrechts-Sicherung gewährleistet
-- BVerfGE 73, 339 (Solange II)
+- BVerfGE Band 73 Seite 339 (Solange II)
 
 ### Identitäts-Kontrolle
 
 - BVerfG kontrolliert EU-Recht auf Vereinbarkeit mit der Verfassungs-Identität (Art. 79 III GG)
-- BVerfGE 123, 267 (Lissabon-Urteil)
+- BVerfGE Band 123 Seite 267 (Lissabon-Urteil)
 
 ### Ultra-Vires-Kontrolle
 
 - BVerfG kontrolliert EU-Akte auf Befugnis-Überschreitung
-- BVerfGE 154, 17 (PSPP-Urteil)
+- BVerfGE Band 154 Seite 17 (PSPP-Urteil)
 
 ## Hilfsfragen für Deine Reflexion
 
