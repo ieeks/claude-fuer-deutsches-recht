@@ -1,6 +1,6 @@
 ---
 name: konzerninsolvenz-koordination
-description: Pruefraster Konzerninsolvenz nach §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO Koordinations-Verfahren § 269d InsO. Anwendungsbereich verbundene Unternehmen § 290 HGB. Antrag des herrschenden Unternehmens oder der Mehrheit der Schuldner-Verfahren. Konzern-Verwalter § 269e InsO mit Koordinations-Funktion ohne Verwalter-Pflichten einzelner Verfahren. Konzern-Glaeubigerausschuss. Koordinations-Plan § 269h InsO mit Stimmrecht je nach Plan-Wirkung. Schnittstelle Eigenverwaltung StaRUG. EuInsVO bei grenz-ueberschreitender Konzern-Insolvenz Art. 56 ff. Hauptverfahren und Sekundaerverfahren-Kooperation.
+description: Pruefraster Konzerninsolvenz nach §§ 269a-269i InsO Konzern-Gerichtsstand § 3a InsO Gruppen-Folgeverfahren § 3d InsO Koordinations-Verfahren § 269d InsO. Konzernbegriff § 18 AktG verbundene Unternehmen § 15 AktG insolvenz-rechtliche Unternehmens-Gruppe § 3e InsO. Antrag des herrschenden Unternehmens oder der Mehrheit der Schuldner-Verfahren. Konzern-Verwalter § 269e InsO mit Koordinations-Funktion ohne Verwalter-Pflichten einzelner Verfahren. Konzern-Glaeubigerausschuss. Koordinations-Plan § 269h InsO bindet nur zustimmende Verwalter kein Mehrheits-Zwang. Schnittstelle Eigenverwaltung StaRUG. EuInsVO bei grenz-ueberschreitender Konzern-Insolvenz Art. 56 ff. Hauptverfahren und Sekundaerverfahren-Kooperation.
 ---
 
 # Konzerninsolvenz — Koordination
@@ -20,12 +20,25 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 
 ## Schritt 1 — Anwendungsbereich
 
-### Verbundene Unternehmen § 290 HGB
+### Konzernbegriff § 18 AktG (Anker)
 
-- **Mutter und Tochter** mit beherrschender Stellung
+- **Unterordnungs-Konzern** § 18 Abs. 1 AktG — herrschendes und ein oder mehrere abhängige Unternehmen unter einheitlicher Leitung
+- **Gleichordnungs-Konzern** § 18 Abs. 2 AktG — rechtlich selbständige Unternehmen unter einheitlicher Leitung ohne Abhängigkeits-Verhältnis
+- **Abhängigkeit** § 17 AktG (Vermutung bei Mehrheits-Beteiligung)
+- **Verbundene Unternehmen** § 15 AktG (Oberbegriff: in Mehrheits-Besitz, abhängige/herrschende, Konzern-Unternehmen, wechselseitig beteiligte, Vertrags-Teile)
+
+### Konsolidierungs-Kreis § 290 HGB (rechnungs-legungs-rechtlich)
+
+- **Mutter und Tochter** mit beherrschender Stellung (Control-Konzept seit BilMoG 2009)
 - **Mehrheitsbeteiligung** über 50 Prozent
 - **Stimmrechts-Mehrheit**
 - **Bestellrechts-Mehrheit Organe**
+- Achtung: § 290 HGB ist Konsolidierungs-Norm, nicht Konzern-Definition — für Insolvenz-Konzern-Begriff primär § 18 AktG
+
+### Insolvenz-rechtlicher Konzern-Begriff
+
+- **§ 3e InsO** Legaldefinition Unternehmens-Gruppe (Mehrheit Schuldner + einheitliche Leitung + nicht-bloss übergehende wirtschaftliche Bedeutung)
+- Anlehnung an § 18 AktG — aber eigenständige Definition für InsO-Zwecke
 
 ### Praktische Beispiele
 
@@ -134,14 +147,16 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 
 ### Abstimmung
 
-- Pro Gesellschaft eigene Abstimmung
-- **Mehrheit Gläubiger** pro Gesellschaft
-- **Werbe-Treuhand** für Gläubiger durch Konzern-Verwalter
+- **Keine Abstimmung im klassischen Sinn wie Insolvenz-Plan** — Koordinations-Plan ist **kein** Insolvenz-Plan iSd §§ 217 ff. InsO
+- **Zustimmung** der beteiligten Insolvenz-Verwalter / Schuldner in Eigenverwaltung erforderlich (§ 269h Abs. 1 InsO)
+- **Pro Gesellschaft** Zustimmung des jeweiligen Verwalters mit Pflicht zur Beachtung des Plans (§ 269i InsO)
+- **Gläubigerausschuss** kann Stellungnahme abgeben
+- Plan bindet nur die zustimmenden Beteiligten — **kein Mehrheits-Zwang** gegen ablehnende Verwalter
 
 ### Bestätigung
 
-- Beschluss durch Konzern-Gericht
-- Bindungs-Wirkung für teilnehmende Gesellschaften
+- Beschluss durch Koordinations-Gericht (§ 269f InsO) nach Anhörung der Beteiligten
+- Bindungs-Wirkung nur für Gesellschaften deren Verwalter zugestimmt haben
 
 ## Schritt 8 — Wirtschaftliche Verflechtungen prüfen
 
@@ -317,7 +332,8 @@ Bei Insolvenz mehrerer verbundener Unternehmen sind §§ 269a ff. InsO seit 21.4
 
 ## Quellen
 
-- InsO §§ 3a 3d 15a 22a 269a-269i 270 270d
+- InsO §§ 3a 3d 3e 15a 22a 269a-269i 270 270d
+- AktG §§ 15 17 18
 - HGB § 290
 - BGB § 613a
 - EuInsVO VO (EU) 2015/848 Art. 56-77

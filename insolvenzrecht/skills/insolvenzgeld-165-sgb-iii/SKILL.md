@@ -261,14 +261,14 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 
 ### Widerspruch BA-Bescheid
 
-- **Ein Monat** ab Bekanntgabe
+- **Ein Monat** ab Bekanntgabe, § 84 Abs. 1 SGB X i. V. m. §§ 78 ff. SGG
 - Begründung
 - An BA selbst
 
 ### Klage SG
 
 - Bei Widerspruchs-Bescheid abgelehnt
-- Drei Monate Klage-Frist
+- **Ein Monat** Klage-Frist § 87 Abs. 1 SGG (drei Monate wäre § 88 SGG Untätigkeitsklage)
 - PKH-Antrag empfohlen → Skill `pkh-erfolgsaussicht-pruefen`
 
 ### Häufige Streit-Punkte
@@ -286,10 +286,14 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 - Restbetrag Lohn (über Beitrags-Bemessungs-Grenze) Arbeitnehmer selbst
 - Skill `glaeubigerantrag-pruefung`
 
-### Rang
+### Rang (wichtige Korrektur)
 
-- Lohn-Forderungen aus den letzten sechs Monaten vor Eröffnung sind **Massa-Verbindlichkeiten** § 55 Abs. 2 InsO
-- Davor sind Insolvenz-Forderungen § 38 InsO mit Quoten-Risiko
+- **Lohn-Forderungen aus der Zeit VOR Eröffnung** sind grundsätzlich **einfache Insolvenz-Forderungen** § 38 InsO mit Quoten-Risiko — auch wenn sie aus den letzten Monaten stammen
+- **Masseverbindlichkeiten** sind nur:
+  - Lohn aus **fortbestehendem** Arbeitsverhältnis NACH Verfahrens-Eröffnung → § 55 Abs. 1 Nr. 2 InsO
+  - im Eröffnungs-Verfahren begründete Lohn-Ansprüche bei starkem vorläufigen Verwalter mit Verfügungs-Befugnis → § 55 Abs. 2 InsO
+- Für Rückstände aus den drei Monaten vor Insolvenz-Ereignis greift das Insolvenzgeld § 165 SGB III; die Forderung selbst geht auf die BA über (§ 169 SGB III) und wird als § 38 InsO-Forderung angemeldet
+- § 55 Abs. 2 InsO hilft NICHT pauschal für die "letzten sechs Monate vor Eröffnung" — das ist ein verbreiteter Irrtum
 
 ## Verzahnung mit anderen Skills
 
@@ -306,12 +310,13 @@ in 2026) liegt EUR 3.500 darunter — voller Anspruch
 - Insolvenz-Verwalter-Bescheinigungs-Anforderung
 - Bei Streit: Widerspruchs-/Klage-Vorbereitung
 - Vor-Finanzierungs-Beratung
-- Frist im Fristenbuch (zwei Monate Antrag ein Monat Widerspruch drei Monate Klage)
+- Frist im Fristenbuch (zwei Monate Antrag, ein Monat Widerspruch, ein Monat Klage)
 
 ## Quellen
 
 - SGB III §§ 165 167 169 170 173 324
 - SGB IV § 7
+- SGG §§ 87 88; SGB X § 84
 - InsO §§ 26 38 55 174
 - BSG-Linien zu Insolvenzgeld
 - Standes-Vorgaben Insolvenz-Verwalter zu Lohn-Bescheinigung

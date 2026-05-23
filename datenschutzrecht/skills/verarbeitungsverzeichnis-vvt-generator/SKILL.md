@@ -1,6 +1,6 @@
 ---
 name: verarbeitungsverzeichnis-vvt-generator
-description: Erstellung Verzeichnis von Verarbeitungstaetigkeiten (VVT) nach Art. 30 DSGVO. Inhalts-Pflichten getrennt fuer Verantwortlichen (Abs. 1) und Auftragsverarbeiter (Abs. 2). Pflicht-Bereich Beschaeftigtenzahl Art. 30 Abs. 5 DSGVO 250 Schwelle Ausnahmen besondere Kategorien systematische Verarbeitung. Inhalts-Elemente Name Verantwortlicher Zwecke Kategorien Betroffener Kategorien Datenkategorien Empfaenger Drittlandtransfer Loeschfristen TOMs. Automatisierte Extraktion aus AVV-Bestand und DSFA. Aenderungs-Management bei Prozess-Updates. Pflicht zur Vorlage bei Aufsichtsbehoerde § 30 Abs. 4 DSGVO. Schnittstelle zu DSFA und AVV-Pruefung.
+description: Erstellung Verzeichnis von Verarbeitungstaetigkeiten (VVT) nach Art. 30 DSGVO. Inhalts-Pflichten getrennt fuer Verantwortlichen (Abs. 1) und Auftragsverarbeiter (Abs. 2). Pflicht-Bereich Beschaeftigtenzahl Art. 30 Abs. 5 DSGVO 250 Schwelle Ausnahmen besondere Kategorien systematische Verarbeitung. Inhalts-Elemente Name Verantwortlicher Zwecke Kategorien Betroffener Kategorien Datenkategorien Empfaenger Drittlandtransfer Loeschfristen TOMs. Rechtsgrundlage ist NICHT Pflichtfeld nach Art. 30 sondern empfohlen. Automatisierte Extraktion aus AVV-Bestand und DSFA. Aenderungs-Management bei Prozess-Updates. Pflicht zur Vorlage bei Aufsichtsbehoerde Art. 30 Abs. 4 DSGVO. Schnittstelle zu DSFA und AVV-Pruefung.
 ---
 
 # VVT — Verzeichnis von Verarbeitungstätigkeiten
@@ -76,7 +76,7 @@ d) **Allgemeine Beschreibung TOMs**
 
 - **Schriftform** ausreichend
 - **Elektronisch** häufiger (Excel CRM-Modul Datenschutz-Software)
-- **Vorlage** bei Aufsichtsbehörde auf Anforderung § 30 Abs. 4 DSGVO
+- **Vorlage** bei Aufsichtsbehörde auf Anforderung Art. 30 Abs. 4 DSGVO
 
 ### Empfohlene Struktur
 
@@ -94,7 +94,9 @@ Verarbeitungs-Tätigkeit Nr. [N]:
 Zweck der Verarbeitung:
 [Konkrete Beschreibung]
 
-Rechtsgrundlage (Art. 6 / 9 DSGVO):
+Rechtsgrundlage (Art. 6 / 9 DSGVO) — EMPFOHLEN
+(Art. 30 fordert das nicht ausdrücklich, ist aber
+für Aufsichtsbehörden-Prüfung sehr hilfreich):
 [Rechtsgrundlage]
 
 Kategorien Betroffener:
@@ -201,7 +203,7 @@ TOMs:
 - **Fachbereich** für inhaltliche Aktualisierung
 - **IT** für TOMs-Bestätigung
 
-## Schritt 8 — Verzahnung mit AVV § 28 DSGVO
+## Schritt 8 — Verzahnung mit AVV Art. 28 DSGVO
 
 ### Auftragsverarbeitung in VVT
 

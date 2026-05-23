@@ -110,6 +110,12 @@ Unter EUR 8.000: erhöhtes Risiko
 Über EUR 16.000: kein Sperrzeit-Risiko (auch wenn Tarif höher zahlt)
 ```
 
+### Hinweis Steuer Fünftelregelung
+
+- **Seit 2025** durch das Wachstumschancen-Gesetz **kein LSt-Abzug** mehr durch Arbeitgeber nach der Fünftelregelung (§ 34 EStG)
+- Vergünstigung wird **nur noch im Veranlagungs-Verfahren** durch das Finanzamt gewährt
+- Liquiditäts-Effekt: zunächst voller LSt-Abzug, Rückerstattung erst mit Steuerbescheid
+
 ## Schritt 4 — Ruhenszeit § 158 SGB III
 
 ### Tatbestand
@@ -120,9 +126,10 @@ Unter EUR 8.000: erhöhtes Risiko
 
 ### Berechnung
 
-- **Abfindung** abzüglich **Freibetrag (typisch ca. EUR 7.500)**
-- **Gewerblicher Anteil** mit Faktor
-- **Letztes Brutto-Monatsgehalt** mit Faktor je nach Lebensalter und Beschäftigungs-Dauer
+- **Anrechnungs-Betrag** der Abfindung nach § 158 Abs. 2 SGB III (alters- und beschäftigungsdauer-abhängiger Vomhundert-Satz, **kein pauschaler Freibetrag** wie früher EUR 7.500 — gilt nicht mehr)
+- Anrechnungs-Quote sinkt mit Lebensalter und Betriebszugehörigkeit
+- **Letztes Brutto-Monatsgehalt** als Divisor zur Bestimmung der Ruhens-Dauer
+- Höchst-Ruhenszeit: ein Jahr
 
 ### Konsequenz
 
@@ -133,13 +140,12 @@ Unter EUR 8.000: erhöhtes Risiko
 
 ```
 Abfindung: EUR 30.000
-Freibetrag: EUR 7.500
-Anrechnungs-Betrag: EUR 22.500
 Letztes Brutto-Monatsgehalt: EUR 4.000
 
-Ruhens-Zeit (Faktor je nach Alter Beschäftigungs-Dauer):
-Faktor 0.50 (mittlerer Lebensalter):
-22.500 / 4.000 × 0.50 = ca. 2.8 Monate Ruhenszeit
+Ruhens-Zeit nach § 158 Abs. 2 SGB III
+(Vomhundert-Satz je nach Alter und Beschäftigungs-Dauer):
+Anrechnungs-Quote 50 v. H. (mittleres Lebensalter):
+30.000 × 0,50 / 4.000 = ca. 3,75 Monate Ruhenszeit
 
 Bei zusätzlicher Sperrzeit: weitere 12 Wochen
 Gesamt: ca. 6 Monate ALG-Verschiebung
@@ -261,14 +267,14 @@ der Fünftelregelung § 34 EStG sind eingehalten.
 
 ### Widerspruch
 
-- **Ein Monat** ab Bekanntgabe § 84 SGG
+- **Ein Monat** ab Bekanntgabe, § 84 Abs. 1 SGB X (Vorverfahren §§ 78 ff. SGG)
 - Vorlage Beweismittel wichtiger Grund
 - Sozialauswahl-Argumentation
 
 ### Klage SG
 
 - Bei Widerspruchs-Bescheid abgelehnt
-- Drei Monate Klage-Frist § 87 SGG
+- **Ein Monat** Klage-Frist § 87 Abs. 1 SGG (drei Monate wäre § 88 SGG Untätigkeitsklage)
 - Skill `pkh-erfolgsaussicht-pruefen`
 
 ## Schritt 8 — Verzahnung mit anderen Skills
@@ -324,7 +330,8 @@ und die Empfehlung verstanden habe."
 ## Quellen
 
 - SGB III §§ 158 159
-- SGG §§ 84 87
+- SGG §§ 87 88
+- SGB X § 84
 - KSchG §§ 9 10
 - EStG §§ 24 34
 - BSG B 11 AL 47/00 R B 7 AL 14/10 R B 11 AL 50/06 R

@@ -231,6 +231,40 @@ Bei Insolvenz wird der Geschäftsführer regelmäßig nach §§ 15a 15b InsO in 
 - Dokumentation Sicher-stellen (Buchhaltung Banken Verträge)
 - Sachverhalts-Memo vorbereiten
 
+## Schritt 11a — Deckungs-Konzepte Inside / Outside / Side-A
+
+### Inside-Coverage (Side-B)
+
+- **Eigenschäden der Gesellschaft** gegen Geschäftsführer / Vorstand
+- Klassische Innen-Haftung: Gesellschaft klagt eigene Organe (§ 43 GmbHG, § 93 AktG)
+- In Insolvenz: **Insolvenz-Verwalter als Vermögens-Verwalter** der Gesellschaft
+- Häufigster Anwendungs-Fall: § 15b InsO Klage Insolvenz-Verwalter
+- Versicherungs-Nehmer = Gesellschaft erhält Deckung für ihren eigenen Anspruch
+
+### Outside-Coverage (Side-C bei AG / Side-B bei GmbH)
+
+- **Dritt-Ansprüche** gegen Geschäftsführer / Vorstand
+- Gläubiger Lieferanten Banken Arbeitnehmer Sozialversicherungs-Träger Finanzamt
+- Klassische Außen-Haftung: § 823 Abs. 2 BGB iVm § 15a InsO
+- Strafrechtlich-zivilrechtliche Mischfälle
+- Bei börsen-notierten AGs: zusätzlich Kapitalanleger-Klagen (Entity-Coverage)
+
+### Side-A-Coverage (persönlicher Schutz Organ)
+
+- **Schutz des Organs persönlich** wenn Gesellschaft nicht entschädigt
+- Praktisch relevant bei: **Insolvenz der Gesellschaft** weil Gesellschaft Selbstbehalt / Eigenanteil nicht mehr aufbringen kann
+- Auch bei rechtlichem Entschädigungs-Verbot (z.B. wissentliche Pflichtverletzung Gesellschaft gegenüber)
+- **Kein oder reduzierter Selbstbehalt** typisch
+- **Separate Versicherungs-Summe** zusätzlich zur Haupt-Police möglich (Excess-Side-A)
+- In Insolvenz-Konstellation entscheidend — Innen-Verhältnis Gesellschaft/Organ bricht weg
+
+### Praktische Konsequenz für Insolvenz-Mandat
+
+- Side-A-Klausel prüfen ob vorhanden
+- Bei fehlender Side-A — persönliches Vermögens-Risiko Geschäftsführer hoch
+- Bei vorhandener Side-A — Direkt-Anspruch des Organs gegen Versicherer auch in Insolvenz
+- **Gesellschafter-Beschluss / Anstellungs-Vertrag** auf Entschädigungs-Klausel prüfen (Indemnification)
+
 ## Schritt 12 — Vertrags-Optimierung
 
 ### Bei aktueller Police-Erneuerung

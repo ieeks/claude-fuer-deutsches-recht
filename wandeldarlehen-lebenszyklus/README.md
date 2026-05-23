@@ -46,12 +46,12 @@ Phase A — Erstellung
 
 Phase B — Beurkundung und Unterzeichnung
   └─ Beurkundungserfordernis → Form (Textform/Schriftform/Notariell)
-     → DocuSign-Unterzeichnung → Gesellschafterbeschluss (Absicht)
-     → KYC/AML
+     → Formfehler-Heilungs-Timeline → DocuSign-Unterzeichnung
+     → Gesellschafterbeschluss (Absicht) → KYC/AML
 
 Phase C — Wandelereignisse und Wandlungsberechnung
-  └─ Eingang Wandlungserklärung → Trigger-Prüfung (Qualified Financing /
-     Maturity / Liquidation) → Wandlungspreis-Berechnung
+  └─ Eingang Wandlungserklärung → Trigger-Dispatcher → Trigger-Prüfung
+     (Qualified Financing / Maturity / Liquidation) → Wandlungspreis-Berechnung
      → Cap-Table Pre/Post → Dokumente-Extraktion
      → Ausschluss-Prüfung → Mehrere WD → Kommunikation
 
@@ -76,21 +76,23 @@ Phase D — Gesellschafterbeschluss und Notar
 | `einsprachige-vertragsfassung-de` | Einsprachige DE-Fassung, identischer materieller Inhalt |
 | `vertraulichkeit-und-sprachklausel` | § 8 Vertraulichkeit, Sprachklausel, DIS-Schiedsklausel, salvatorische Klausel |
 
-### Phase B — Beurkundung und Unterzeichnung (5 Skills)
+### Phase B — Beurkundung und Unterzeichnung (6 Skills)
 
 | Slug | Beschreibung |
 |---|---|
 | `beurkundungserfordernis-pruefung` | § 15 GmbHG, zweistufige Konstruktion, OLG München 31 Wx 79/16, Heilungsklausel |
 | `textform-vs-schriftform-vs-notariell` | § 126b/§ 126/§ 128 BGB, Formstufen, DocuSign-Praxis |
+| `formfehler-heilungs-timeline` | Form-Stufen § 126b/§ 126/§ 128 BGB, Heilung durch nachfolgende Beurkundung § 15 Abs. 4 S. 2 GmbHG, Insolvenz-Risiko-Fenster |
 | `unterzeichnung-elektronisch-docusign` | Authentifizierung, Audit Trail, zehn Jahre Archivierung § 147 AO |
 | `gesellschafterbeschluss-vorbereiten` | Grundsatzbeschluss Kapitalerhöhungsbereitschaft, § 51 GmbHG |
 | `kyc-aml-geldwaesche` | GwG KYC, wirtschaftlich Berechtigte, PEP, Sanktionslisten EU/OFAC/UN |
 
-### Phase C — Wandelereignisse und Wandlungsberechnung (10 Skills)
+### Phase C — Wandelereignisse und Wandlungsberechnung (11 Skills)
 
 | Slug | Beschreibung |
 |---|---|
 | `wandelereignis-eingang` | Eingang Wandlungserklärung, Vier-Augen-Prüfung, Eingangsbestätigung |
+| `wandelereignis-trigger-dispatcher` | Master-Logik bei parallelen Triggern, Prioritäts-Regelung, Cap-Table-Simulation, MFN-Kaskade |
 | `wandlungspruefung-trigger-qualified-financing` | Schwellentest, MIN-Methode Cap/Discount/Rundenpreis |
 | `wandlungspruefung-trigger-maturity` | Laufzeitablauf, Fall-back-Bewertung, Wahlrecht Lender |
 | `wandlungspruefung-trigger-liquidation` | Exit/Trade Sale/IPO, Liquidationspräferenz, Wahlrecht |

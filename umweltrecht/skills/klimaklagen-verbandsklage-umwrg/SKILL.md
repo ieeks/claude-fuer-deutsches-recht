@@ -217,9 +217,10 @@ Klimaklagen sind seit BVerfG 1 BvR 2656/18 (Klimabeschluss 24.3.2021) das wichti
 - Hoge Raad 20.12.2019 — Staat zur Klimaschutz-Erhöhung verpflichtet
 - Vorbild für deutsche Klage-Initiativen
 
-### KlimaSeniorinnen v. Schweiz (EGMR)
+### Verein KlimaSeniorinnen Schweiz u. a. v. Schweiz (EGMR)
 
-- EGMR 9.4.2024 — Grundrechts-Verletzung durch unzureichende Klimapolitik
+- EGMR Große Kammer, Urteil vom 9.4.2024, Application No. **53600/20**
+- Grundrechts-Verletzung Art. 8 EMRK durch unzureichende Klimapolitik
 - Konvention der EMRK-Bezug auch für Deutschland
 
 ### Shell-Klage (Niederlande)
@@ -285,7 +286,8 @@ Es wird beantragt:
 
 ## Quellen
 
-- UmwRG §§ 1 2 3
+- UmwRG §§ 1 2 3 4e (UmwRG-Novelle 2023)
+- KSG (Bundes-Klimaschutzgesetz; Novelle 2021 BGBl. I 2021, S. 3905)
 - UVPG §§ 7 16
 - BImSchG § 5
 - BNatSchG § 34
@@ -294,7 +296,7 @@ Es wird beantragt:
 - BVerfG 1 BvR 2656/18 (Klimabeschluss)
 - BVerwG 4 C 11/06 7 C 13/17
 - EuGH C-664/15 Protect Natur, C-243/15 Brown Bear
-- EGMR KlimaSeniorinnen 9.4.2024
+- EGMR Verein KlimaSeniorinnen Schweiz, App. No. 53600/20, 9.4.2024
 - Hoge Raad Urgenda 20.12.2019
 - Aarhus-Konvention
 - Schlacke Umweltrecht

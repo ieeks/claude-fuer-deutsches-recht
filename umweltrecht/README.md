@@ -26,6 +26,9 @@ Dieses Plugin ist **vollständig freistehend**. Es erwartet keine anderen Plugin
 - `umweltrecht-bussgeld-sanktionen` - Bußgeld, Sanktionen und Anhörung
 - `umweltrecht-transaktionen-dd` - Umweltrechtliche Transaktions-Due-Diligence
 - `umweltrecht-compliance-schulung` - Compliance, Beauftragte und Schulung
+- `klimaklagen-verbandsklage-umwrg` - Klimaklagen, Verbandsklage UmwRG, EGMR Klima-Seniorinnen
+- `lksg-csddd-lieferkettensorgfalt` - Lieferkettensorgfalt LkSG und CSDDD-Richtlinie (EU) 2024/1760
+- `esg-greenwashing-csrd` - ESG-Greenwashing, CSRD-Umsetzung, ESRS, UWG-Werbung
 
 ## Vorlagen
 

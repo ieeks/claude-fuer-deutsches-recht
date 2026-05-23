@@ -1,6 +1,6 @@
 ---
 name: joint-controller-vereinbarung
-description: Pruefraster Gemeinsame Verantwortlichkeit nach Art. 26 DSGVO. Abgrenzung zur Auftragsverarbeitung Art. 28 DSGVO und zur separaten Verantwortlichkeit. EuGH-Linie C-25/17 Zeugen Jehovas C-40/17 Fashion ID Like-Button C-210/16 Wirtschaftsakademie zur weiten Auslegung gemeinsamer Verantwortung. Pflicht-Vereinbarung Transparenz gegenueber Betroffenen Kontakt-Stelle. Inhalt Aufgaben-Verteilung Informations-Pflichten Betroffene Rechte Wahrnehmung. Haftung gesamtschuldnerisch Art. 82 Abs. 4 DSGVO mit Rueck-griff. Praxis-Beispiele Konzern Plattformen Konsortien Social-Plugin Veranstalter.
+description: Pruefraster Gemeinsame Verantwortlichkeit nach Art. 26 DSGVO. Abgrenzung zur Auftragsverarbeitung Art. 28 DSGVO und zur separaten Verantwortlichkeit. EuGH-Linie C-25/17 Zeugen Jehovas C-40/17 Fashion ID Like-Button C-210/16 Wirtschaftsakademie C-252/21 Meta Platforms zur weiten Auslegung gemeinsamer Verantwortung. Pflicht-Vereinbarung Transparenz gegenueber Betroffenen Kontakt-Stelle. Inhalt Aufgaben-Verteilung Informations-Pflichten Betroffene Rechte Wahrnehmung. Haftung gesamtschuldnerisch Art. 82 Abs. 1 iVm Abs. 4 DSGVO mit Rueck-griff. Bussgeld separat pro Verantwortlichem Art. 83 DSGVO. Praxis-Beispiele Konzern Plattformen Konsortien Social-Plugin Veranstalter.
 ---
 
 # Gemeinsame Verantwortlichkeit Art. 26 DSGVO
@@ -59,9 +59,11 @@ Bei vielen Konstellationen sind mehrere Akteure gemeinsam für eine Verarbeitung
 - Bezogen auf Erhebung und Übermittlung
 - Nicht für nachgelagerte Facebook-Verarbeitung
 
-#### C-617/19 Estado regulador (28.4.2022)
+#### C-252/21 Meta Platforms Ireland (4.7.2023)
 
-- Verkettung mehrerer Akteure mit gemeinsamem Ziel
+- Bestätigt weite Auslegung der gemeinsamen Verantwortlichkeit
+- Wettbewerbsbehörden dürfen DSGVO-Konformität inzident prüfen
+- Verarbeitungs-Verantwortung beim Plattform-Betreiber für cross-service-Datenzusammenführung
 
 ### Indizien gemeinsame Verantwortlichkeit
 
@@ -151,24 +153,26 @@ Bei vielen Konstellationen sind mehrere Akteure gemeinsam für eine Verarbeitung
 - **Beendigungs-Regelungen**
 - **Datenfluss-Beschreibung**
 
-## Schritt 5 — Haftung Art. 82 Abs. 4 DSGVO
+## Schritt 5 — Haftung Art. 82 Abs. 1 i. V. m. Abs. 4 DSGVO
 
 ### Gesamtschuldnerische Außen-Haftung
 
-- **Beide Verantwortliche** haften gegenüber Betroffenen
+- **Beide Verantwortliche** haften gegenüber Betroffenen nach Art. 82 Abs. 1 i. V. m. Abs. 4 DSGVO
+- Art. 82 Abs. 4 DSGVO regelt die Mehrheits-Haftung mehrerer Verantwortlicher, **nicht den Anspruch dem Grunde nach** (der folgt aus Abs. 1)
 - Betroffener kann sich Schaden bei jedem holen
 - Effektiver Schutz Betroffener
 
 ### Innen-Verhältnis
 
-- **Rückgriff** möglich nach Vereinbarung
+- **Rückgriff** möglich nach Vereinbarung, Art. 82 Abs. 5 DSGVO
 - Bei Verschuldens-Anteil
 - Versicherung-Übernahme
 
-### Bei Bußgeld
+### Bei Bußgeld Art. 83 DSGVO
 
-- Behörde adressiert beide
-- Quote der Verantwortung
+- Wichtig: Bußgelder werden **separat pro Verantwortlichem** verhängt — keine gesamtschuldnerische Bußgeld-Haftung
+- Jeder Verantwortliche haftet für eigenes Verschulden, eigenen Jahresumsatz, eigene Wiederholungs-Last
+- Quote der Verantwortung pro Akteur
 
 ## Schritt 6 — Information Betroffener
 
@@ -292,7 +296,9 @@ TOMs in Anhang 2.
 § 7 Bußgeld und Haftung
 
 7.1 Außenhaftung: V1 und V2 haften gesamtschuldnerisch
-nach Art. 82 Abs. 4 DSGVO.
+nach Art. 82 Abs. 1 i. V. m. Abs. 4 DSGVO. Bußgelder
+nach Art. 83 DSGVO werden separat pro Verantwortlichem
+verhängt.
 
 7.2 Innenhaftung: V1 und V2 tragen Schäden im
 Innen-Verhältnis entsprechend ihrer Verantwortung-
@@ -377,11 +383,11 @@ Anhang 3: Innenhaftungs-Quote
 
 ## Quellen
 
-- DSGVO Art. 26 28 82
-- EuGH C-25/17 Zeugen Jehovas
-- EuGH C-40/17 Fashion ID
-- EuGH C-210/16 Wirtschaftsakademie
-- EuGH C-617/19 Estado regulador
+- DSGVO Art. 26 28 82 83
+- EuGH C-25/17 Zeugen Jehovas (10.7.2018)
+- EuGH C-40/17 Fashion ID (29.7.2019)
+- EuGH C-210/16 Wirtschaftsakademie (5.6.2018)
+- EuGH C-252/21 Meta Platforms Ireland (4.7.2023)
 - EDSA Guidelines 7/2020 zu Verantwortliche und Auftragsverarbeiter
 - BfDI-Informationen
 - DSK Kurzpapier

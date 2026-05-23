@@ -21,22 +21,37 @@ Die Vorsatzanfechtung ist die häufigste und längste Anfechtungs-Art. Mandanten
 
 ### Voraussetzungen
 
-a) **Rechts-Handlung** des Schuldners in den letzten **10 Jahren** vor Antrag
+a) **Rechts-Handlung** des Schuldners innerhalb der maßgeblichen Anfechtungs-Frist (4 oder 10 Jahre — siehe unten) vor Antrag
 
 b) **Vorsatz Schuldner** zur Gläubiger-Benachteiligung
 
 c) **Kenntnis Vertragspartner** des Vorsatzes
 
-### Frist-Spezifikation (seit Reform 22.4.2017)
+### Frist-Spezifikation (seit MoMiG-Folge-Reform 5.4.2017, in Kraft 22.4.2017)
 
-- **Vor 22.4.2017** — 10 Jahre
-- **Nach Reform** — 10 Jahre für unentgeltliche Verträge
-- **Nach Reform** — **4 Jahre** für entgeltliche Verträge mit kongruenter Leistung § 133 Abs. 2 InsO
+**ZUERST PRÜFEN: Welcher Tatbestand?**
+
+- **4 Jahre — § 133 Abs. 2 InsO**: Deckungs- oder Befriedigungs-Handlungen, die dem Gläubiger **kongruent** eine Sicherung oder Befriedigung gewährt haben (z.B. Fälligkeits-Zahlung Lieferant, planmäßige Tilgung Bank-Kredit, vertraglich vereinbarte Sicherheits-Bestellung)
+- **10 Jahre — § 133 Abs. 1 InsO**: alle anderen Rechts-Handlungen mit Gläubiger-Benachteiligungs-Vorsatz, insbesondere **Vermögens-Verschiebungen** (Schenkungen, Verkauf unter Wert, Übertragung auf nahe-stehende Personen, inkongruente Deckungen, Vermögens-Ausgliederungen)
+- **Vor 22.4.2017** — einheitlich 10 Jahre für alle Tatbestände (Alt-Fälle)
+- **Unentgeltliche Leistungen** — separater Tatbestand § 134 InsO (4 Jahre)
+
+### Praktische Erst-Sortierung
+
+| Sachverhalt | Frist | Norm |
+|---|---|---|
+| Kongruente Fälligkeits-Zahlung | 4 Jahre | § 133 Abs. 2 |
+| Vorzeitige Tilgung (inkongruent) | 10 Jahre | § 133 Abs. 1 |
+| Verkauf unter Wert an Dritte | 10 Jahre | § 133 Abs. 1 |
+| Übertragung auf Familie | 10 Jahre | § 133 Abs. 1 (+ § 138) |
+| Schenkung | 4 Jahre | § 134 InsO |
+| Bestellung Sicherheit nach Schuldgrund | 10 Jahre | § 133 Abs. 1 (inkongruent) |
 
 ### Beweislast Insolvenz-Verwalter
 
 - Schuldner-Vorsatz und Gläubiger-Kenntnis darzulegen
 - **Indizien-Beweis** zentral
+- Bei § 133 Abs. 2 (4-Jahres-Frist) zusätzliche **Kenntnis-Vermutung**: nur wenn Gläubiger drohende Zahlungs-Unfähigkeit kannte
 
 ## Schritt 2 — Vorsatz des Schuldners
 
@@ -194,9 +209,10 @@ Schuldner zahlt sofort bei Lieferung.
 
 ### Abgrenzung § 133 InsO
 
-- **§ 133** länger (10 / 4 Jahre)
-- **§ 133** strenger (Vorsatz erforderlich)
-- **§ 133 plus § 130/131** parallel möglich
+- **§ 133 Abs. 1** — 10 Jahre Rückblick, Vermögens-Verschiebungs- und Inkongruenz-Tatbestände
+- **§ 133 Abs. 2** — 4 Jahre Rückblick, kongruente Deckungs-/Befriedigungs-Handlungen
+- Beide strenger als §§ 130/131: Vorsatz erforderlich, dafür deutlich längere Frist
+- **§ 133 plus § 130/131** parallel möglich — Insolvenz-Verwalter wählt stärkste Norm
 
 ### Strategie Insolvenz-Verwalter
 

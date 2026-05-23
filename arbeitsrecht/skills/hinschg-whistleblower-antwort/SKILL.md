@@ -1,6 +1,6 @@
 ---
 name: hinschg-whistleblower-antwort
-description: Pruefraster Hinweisgeberschutz-Gesetz (HinSchG) seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Anwendungsbereich Beschaeftigte zehn bis 49 Plicht (Konzern-Loesung moeglich) ab 50 Pflicht interner Meldekanal § 12 HinSchG. Meldungsschutz § 33 HinSchG Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim BfJ bei BaFin BAFin SektoralBehoerden § 19 ff. HinSchG. Geschuetzte Verstoesse § 2 HinSchG Strafbarkeit Verstoss gegen direkt anwendbares Unionsrecht. Vergeltungs-Verbot Kuendigung Versetzung Disziplinar. Schadensersatz § 37 HinSchG. Bei Repressalie Beweislast Arbeitgeber. Bussgelder § 40 HinSchG bis EUR 50000.
+description: Pruefraster Hinweisgeberschutz-Gesetz (HinSchG) seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Anwendungsbereich Beschaeftigte ab 50 Pflicht interner Meldekanal § 12 HinSchG. Meldungsschutz § 33 HinSchG Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim BfJ § 19 ff. HinSchG bei BaFin oder anderen sektoralen Aufsichtsbehoerden. Interne Meldewege § 7 und § 16 HinSchG Verfahrensregeln § 17 HinSchG. Geschuetzte Verstoesse § 2 HinSchG Strafbarkeit Verstoss gegen direkt anwendbares Unionsrecht. Vergeltungs-Verbot Kuendigung Versetzung Disziplinar. Schadensersatz § 37 HinSchG. Bei Repressalie Beweislast Arbeitgeber. Bussgelder § 40 HinSchG bis EUR 50000.
 ---
 
 # HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung
@@ -50,7 +50,7 @@ Seit 2.7.2023 ist das HinSchG in Kraft (Umsetzung EU-RL 2019/1937). Dieses Skill
 #### Wahlrecht zwischen internem und externem Kanal
 
 - **Intern** beim Arbeitgeber gemäß § 12 ff.
-- **Extern** BfJ § 19 ff. oder sektorale Aufsicht (BaFin BKartA)
+- **Extern** BfJ § 19 ff. oder sektorale Aufsicht (BaFin, BKartA)
 - **Öffentlichkeit** § 32 nur bei strikten Voraussetzungen (keine Reaktion frühere Meldungen, unmittelbare Gefahr, Vergeltungs-Gefahr, Schaden für Allgemeinheit)
 
 #### Empfehlung Mandant
@@ -218,7 +218,9 @@ Seit 2.7.2023 ist das HinSchG in Kraft (Umsetzung EU-RL 2019/1937). Dieses Skill
 ```
 An die interne Hinweisgebermeldestelle der [Unternehmen]
 
-Meldung gem. § 17 HinSchG vom [Datum]
+Meldung gem. § 7 i. V. m. § 16 HinSchG vom [Datum]
+(§ 17 HinSchG regelt das nachfolgende
+Meldestellen-Verfahren, nicht die Meldung selbst)
 
 Hiermit melde ich folgenden Sachverhalt:
 

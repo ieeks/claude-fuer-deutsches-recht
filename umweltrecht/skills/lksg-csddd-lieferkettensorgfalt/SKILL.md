@@ -1,13 +1,13 @@
 ---
 name: lksg-csddd-lieferkettensorgfalt
-description: Pruefraster Lieferkettensorgfalt nach LkSG (seit 1.1.2023) und EU-CSDDD (VO 2024/1760 anwendbar ab 2027 mit Schwellen-Phasing). Anwendungsbereich Unternehmen mit Sitz Deutschland und Mitarbeitern ab 1000 (LkSG) bzw. EU-Schwellenwerte CSDDD. Sorgfaltspflichten Risikomanagement Grundsatzerklaerung Risiko-Analyse jaehrlich anlassbezogen Praeventionsmassnahmen Abhilfemassnahmen Beschwerdemechanismus § 8 LkSG Dokumentation Berichterstattung. Erweiterte Pflichten zu mittelbaren Zulieferern bei substantiierter Kenntnis. Sanktionen § 24 LkSG Zwangsgeld Bussgeld bis EUR 800000 oder 2 Prozent Konzernumsatz. BAFA-Aufsicht. Schadensersatz § 11 LkSG Verbandsklagerecht.
+description: Pruefraster Lieferkettensorgfalt nach LkSG (seit 1.1.2023) und EU-CSDDD (Richtlinie 2024/1760 Umsetzungsfrist 26.7.2026 anwendbar ab 2027 mit Schwellen-Phasing). Anwendungsbereich Unternehmen mit Sitz Deutschland und Mitarbeitern ab 1000 (LkSG) bzw. EU-Schwellenwerte CSDDD. Sorgfaltspflichten Risikomanagement Grundsatzerklaerung Risiko-Analyse jaehrlich anlassbezogen Praeventionsmassnahmen Abhilfemassnahmen Beschwerdemechanismus § 8 LkSG Dokumentation Berichterstattung. Erweiterte Pflichten zu mittelbaren Zulieferern bei substantiierter Kenntnis. Sanktionen § 24 LkSG Zwangsgeld Bussgeld bis EUR 800000 oder 2 Prozent Konzernumsatz. BAFA-Aufsicht. § 11 LkSG Prozessstandschaft Gewerkschaften und NGOs.
 ---
 
 # LkSG und CSDDD — Lieferkettensorgfalt
 
 ## Zweck
 
-Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden EU-weit ab 2027 mit CSDDD verschaerft. Dieses Skill bedient Compliance-Aufbau und Verstoss-Verteidigung.
+Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden EU-weit ab 2027 mit der CSDDD (Richtlinie (EU) 2024/1760, Umsetzungsfrist 26.7.2026) verschaerft. Dieses Skill bedient Compliance-Aufbau und Verstoss-Verteidigung.
 
 ## Eingaben
 
@@ -30,9 +30,13 @@ Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden
 - **Konzern-Betrachtung** Mutter-Tochter aggregiert
 - **Auch ausländische Mütter** mit deutscher Niederlassung über Schwelle
 
-### EU-CSDDD VO 2024/1760
+### EU-CSDDD Richtlinie (EU) 2024/1760
 
-| Phase | Schwellen-Anforderung |
+- **Rechtsnatur:** Richtlinie (nicht Verordnung) — nationale Umsetzung erforderlich
+- **Umsetzungsfrist** der Mitgliedstaaten: **26.7.2026**
+- Deutschland muss LkSG entsprechend anpassen / ablösen
+
+| Phase Anwendung | Schwellen-Anforderung |
 |---|---|
 | 2027 | Über 5000 Beschäftigte und Umsatz > EUR 1,5 Mrd. weltweit |
 | 2028 | Über 3000 Beschäftigte und Umsatz > EUR 900 Mio |
@@ -172,9 +176,10 @@ Lieferketten-Sorgfaltspflichten sind seit 2023 deutsches Recht (LkSG) und werden
 
 ### Schadensersatz nach allgemeinen Regeln
 
-- **§ 11 LkSG keine eigene zivilrechtliche Haftung**
-- **Aber Aktivlegitimation Verbände** für Betroffene
-- Allgemeine Schadensersatz-Normen bleiben
+- **§ 11 LkSG begründet KEINE eigene zivilrechtliche Anspruchs-Grundlage** (§ 3 Abs. 3 LkSG)
+- **§ 11 LkSG regelt Prozessstandschaft**: Gewerkschaften und NGOs können mit Ermächtigung des Betroffenen dessen Ansprüche im eigenen Namen einklagen (kein eigenes Verbandsklage-Recht)
+- Allgemeine Schadensersatz-Normen (§ 823 BGB, deliktische Konzern-Haftung, ggf. ausländisches Recht) bleiben unberührt
+- CSDDD Art. 29 wird hier später eine **eigene zivilrechtliche Haftung** einführen
 
 ## Schritt 6 — Verteidigung bei Vorwurf
 
@@ -342,7 +347,7 @@ verabschiedet und wird jaehrlich aktualisiert.
 ## Quellen
 
 - LkSG §§ 3 4 5 6 7 8 9 10 11 22 24
-- EU-CSDDD VO 2024/1760
+- Richtlinie (EU) 2024/1760 CSDDD (Umsetzungsfrist 26.7.2026)
 - ILO-Konventionen 138 182
 - Minamata-Übereinkommen
 - Stockholmer Übereinkommen POPs

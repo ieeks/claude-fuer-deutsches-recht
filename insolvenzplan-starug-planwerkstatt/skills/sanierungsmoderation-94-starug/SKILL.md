@@ -1,6 +1,6 @@
 ---
 name: sanierungsmoderation-94-starug
-description: Sanierungsmoderation nach § 94 StaRUG durch gerichtlich bestellten Moderator. Anwendungsbereich vor Restrukturierungs-Antrag bei drohenden Liquiditaets-Engpaessen unstreitigen wirtschaftlich gefaehrdeten Lagen. Aufgaben Moderator vermitteln zwischen Schuldner und Glaeubigern Sanierungs-Konzept ausarbeiten Verhandlungen begleiten. Vertraulichkeit Pflicht. Verfahrens-Dauer drei Monate Verlaengerung. Vergleich §§ 96-99 StaRUG Bestaetigung durch Restrukturierungs-Gericht. Verzahnung StaRUG-Restrukturierungs-Verfahren bei Erfolg. Bei Misserfolg Verweisung Insolvenz-Antrag. Praeventives Werkzeug Krise-Beratung. Schnittstelle BGH IX ZR 250/15 Anfechtungs-Risiko bei Vergleich Bargeschaeft-Privileg.
+description: Sanierungsmoderation nach § 94 StaRUG durch gerichtlich bestellten Moderator. Anwendungsbereich vor Restrukturierungs-Antrag bei drohenden Liquiditaets-Engpaessen unstreitigen wirtschaftlich gefaehrdeten Lagen. Aufgaben Moderator vermitteln zwischen Schuldner und Glaeubigern Sanierungs-Konzept ausarbeiten Verhandlungen begleiten. Vertraulichkeit Pflicht § 97 StaRUG. Verfahrens-Dauer drei Monate § 94 Abs. 2 StaRUG. Sanierungsvergleich § 97 StaRUG Bestaetigung § 100 StaRUG durch Restrukturierungs-Gericht. Verzahnung StaRUG-Restrukturierungs-Verfahren bei Erfolg. Bei Misserfolg Verweisung Insolvenz-Antrag. Praeventives Werkzeug Krise-Beratung. Schnittstelle BGH IX ZR 250/15 Anfechtungs-Risiko bei Vergleich Bargeschaeft-Privileg.
 ---
 
 # Sanierungsmoderation § 94 StaRUG
@@ -96,25 +96,25 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 - **Keine Zwangs-Befugnisse** gegenüber Gläubigern
 - Reine Moderations- und Berater-Rolle
 
-## Schritt 5 — Verfahrens-Dauer § 96 Abs. 3 StaRUG
+## Schritt 5 — Verfahrens-Dauer § 94 Abs. 2 StaRUG
 
 - **Drei Monate** Standard-Dauer
-- **Verlängerung** durch Gericht-Beschluss möglich
+- **Verlängerung** auf bis zu sechs Monate durch Gericht-Beschluss möglich
 - **Aufhebung** bei offensichtlicher Aussichts-Losigkeit oder Antrags-Rücknahme
 
-## Schritt 6 — Vergleichs-Bestätigung § 97 StaRUG
+## Schritt 6 — Sanierungsvergleich § 97 StaRUG und Bestätigung § 100 StaRUG
 
 ### Bei Erfolg
 
-- Sanierungs-Vergleich zwischen Schuldner und Gläubigern
-- **Bestätigung durch Restrukturierungs-Gericht** § 97 StaRUG
-- Wirkung: anfechtungs-frei nach § 90 StaRUG
+- **Sanierungs-Vergleich** zwischen Schuldner und Gläubigern, § 97 StaRUG (Inhalt, Form, Wirkung)
+- **Bestätigung durch Restrukturierungs-Gericht** auf Antrag, § 100 StaRUG
+- Wirkung: Anfechtungs-Privileg nach § 90 StaRUG bei späterer Insolvenz
 
 ### Anfechtungs-Privileg § 90 StaRUG
 
-- Gerichtlich bestätigte Vergleichs-Vereinbarung anfechtungs-frei in späterer Insolvenz
-- Schutz-Wirkung
-- Bargeschäfts-Privileg § 142 InsO ergänzend
+- Bestätigter Sanierungs-Vergleich (§ 100 StaRUG) bzw. Restrukturierungs-Plan ist im Umfang des § 90 StaRUG anfechtungs-privilegiert
+- Schutz-Wirkung gegen Vorsatz-Anfechtung § 133 InsO
+- Bargeschäfts-Privileg § 142 InsO bleibt ergänzend anwendbar
 
 ### Vergleichs-Inhalte typisch
 
@@ -173,9 +173,9 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 
 ### Abschluss-Phase
 
-1. **Bestätigungs-Antrag** beim Gericht § 97 StaRUG
+1. **Bestätigungs-Antrag** beim Gericht § 100 StaRUG
 2. **Anhörung** Gläubiger
-3. **Bestätigungs-Beschluss**
+3. **Bestätigungs-Beschluss** § 100 Abs. 2 StaRUG
 4. **Umsetzung** Sanierungs-Maßnahmen
 
 ## Schritt 9 — Bei Misserfolg
@@ -272,7 +272,7 @@ Die Sanierungsmoderation ist ein vorinsolvenzliches präventives Werkzeug nach �
 
 ## Quellen
 
-- StaRUG §§ 94 95 96 97 90
+- StaRUG §§ 94 95 96 97 100 90
 - InsO §§ 17 18 19 142
 - BGH IX ZR 250/15 Vorsatz-Anfechtung
 - IDW S 6 (Sanierungs-Fähigkeit)

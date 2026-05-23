@@ -1,6 +1,6 @@
 ---
 name: dsb-bestellungspflicht-pruefung
-description: Pruefraster Bestellungspflicht Datenschutzbeauftragten. EU-Pflichten Art. 37 DSGVO oeffentliche Stelle Kerntaetigkeit umfangreiche regelmaessige Ueberwachung Kerntaetigkeit umfangreiche Verarbeitung besondere Kategorien. Deutsche Erweiterung § 38 BDSG ab 20 Personen die staendig mit automatisierter Verarbeitung beschaeftigt sind. Anforderungen DSB Art. 38 DSGVO Unabhaengigkeit Ressourcen-Pflicht Kenntnisse. Aufgaben Art. 39 DSGVO Beratung Pruefung. Externe vs. interne Bestellung. Interessens-Konflikt-Pruefung BGH II ZR 230/17 zur Zusammenfassbarkeit Datenschutz-Beauftragter und Geschaeftsfuehrer. Bussgelder Art. 83 DSGVO bei Nicht-Bestellung. Meldung Aufsichtsbehoerde.
+description: Pruefraster Bestellungspflicht Datenschutzbeauftragten. EU-Pflichten Art. 37 DSGVO oeffentliche Stelle Kerntaetigkeit umfangreiche regelmaessige Ueberwachung Kerntaetigkeit umfangreiche Verarbeitung besondere Kategorien. Deutsche Erweiterung § 38 BDSG ab 20 Personen die staendig mit automatisierter Verarbeitung beschaeftigt sind. Anforderungen DSB Art. 38 DSGVO Unabhaengigkeit Ressourcen-Pflicht Kenntnisse. Aufgaben Art. 39 DSGVO Beratung Pruefung. Externe vs. interne Bestellung. Interessens-Konflikt-Pruefung EuGH C-453/21 X-FAB Dresden zur Unvereinbarkeit von DSB-Funktion und leitender Verarbeitungs-Verantwortung. Bussgelder Art. 83 DSGVO bei Nicht-Bestellung. Meldung Aufsichtsbehoerde.
 ---
 
 # DSB-Bestellungspflicht und -Anforderungen
@@ -64,9 +64,9 @@ Häufige Lücke in Unternehmen: Pflicht zur DSB-Bestellung wird nicht erkannt. D
 
 ### "Personen" im Sinne § 38 BDSG
 
-- Beschäftigte plus Auftragsverarbeiter Personal das mitwirkt
-- Bei Teilzeit auch zählend
-- Selbstständige nicht direkt
+- Mitgezählt werden **eigene Beschäftigte** des Verantwortlichen (Voll- und Teilzeit, Aushilfen, Auszubildende, Werkstudenten, freie Mitarbeiter mit Datenzugriff)
+- **Auftragsverarbeiter-Personal zählt NICHT mit** — dieses gehört zum Auftragsverarbeiter, der selbst die DSB-Pflicht prüft
+- Entscheidend ist die Ständigkeit der automatisierten Verarbeitung, nicht das Beschäftigungs-Volumen
 
 ### Kombination
 
@@ -143,8 +143,9 @@ Häufige Lücke in Unternehmen: Pflicht zur DSB-Bestellung wird nicht erkannt. D
 
 #### Geschäftsführer / Vorstand
 
-- **EuGH C-453/21** X-FAB Dresden: Geschäftsführer-Funktion und DSB-Funktion **unvereinbar**
-- BGH II ZR 230/17 — ähnliche Linie
+- **EuGH C-453/21** X-FAB Dresden (9.2.2023): Eine Person darf nicht gleichzeitig DSB sein und Zwecke/Mittel der Verarbeitung festlegen — Geschäftsführer-Funktion und DSB-Funktion strukturell **unvereinbar**
+- BAG 9 AZR 461/19 (5.12.2019) zur internen Stellung des DSB und Kündigungsschutz
+- ErwGr 97 DSGVO zur Unabhängigkeits-Anforderung
 - Strikte Trennung erforderlich
 
 #### IT-Leitung
@@ -306,10 +307,10 @@ e) **Anlaufstelle Aufsichtsbehörde** für Fragen Beratung
 
 ## Quellen
 
-- DSGVO Art. 37 38 39 83
+- DSGVO Art. 37 38 39 83; ErwGr 97 DSGVO
 - BDSG §§ 5 6 38
-- EuGH C-453/21 X-FAB Dresden
-- BGH II ZR 230/17
+- EuGH C-453/21 X-FAB Dresden (9.2.2023)
+- BAG 9 AZR 461/19 (5.12.2019)
 - BfDI Praxis-Empfehlungen
 - DSK Kurzpapier
 - GDD und BvD Standards

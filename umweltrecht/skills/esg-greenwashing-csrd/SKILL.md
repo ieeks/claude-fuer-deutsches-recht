@@ -30,8 +30,9 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 
 ### Deutsche Umsetzung
 
-- CSR-RUG (CSR-Richtlinien-Umsetzungsgesetz)
-- §§ 289b ff. HGB Nachhaltigkeitsbericht
+- **Stand:** Das **CSR-RUG** (CSR-Richtlinien-Umsetzungsgesetz, 2017) setzt die alte NFRD um — NICHT die CSRD
+- Das **CSRD-Umsetzungsgesetz** (CSRD-UG) ist als Referentenentwurf vorgelegt, die fristgerechte Umsetzung wurde von Deutschland nicht eingehalten
+- Vorläufige Anwendung: §§ 289b ff. HGB i. d. F. des CSR-RUG bleiben formell in Kraft, CSRD-Anforderungen wirken aber für berichtspflichtige Unternehmen über unmittelbare Geltung der ESRS
 - Integriert in Lagebericht ggf.
 
 ### Befreiung
@@ -134,17 +135,17 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
   - Bio-basiert
   - Recycelt
 
-### BGH I ZR 252/22 — Klimaneutral
+### BGH I ZR 252/22 — "klimaneutral" (Katjes, 27.6.2024)
 
 - **Mehrdeutige Aussage** "klimaneutral"
 - **Pflicht zur Substantiierung** im Werbe-Kontext
-- **Konkrete Erläuterung** Methodik erforderlich
-- **Reduktions- vs. Kompensations-Anteile** offen-legen
+- **Konkrete Erläuterung** Methodik erforderlich (Reduktions- vs. Kompensations-Anteile)
+- Aussage muss in der Werbung selbst aufgeklärt werden, Verweis auf externe Quelle reicht nicht
 
-### BGH I ZR 53/23 — Klimaneutral-Versprechen
+### BGH I ZR 53/23 — Folge-Entscheidung (27.6.2024)
 
-- Folge-Entscheidung
-- Verschärfung der Substantiierungs-Pflicht
+- Parallel-Entscheidung
+- Verschärfung der Substantiierungs-Pflicht auf Werbe-Mittel-Ebene
 
 ### Bundeskartellamt-Verfahren
 
@@ -305,14 +306,15 @@ ESG-Reporting (CSRD) ist seit 2024 für viele Unternehmen Pflicht. Gleichzeitig 
 
 ## Quellen
 
-- CSRD-RL 2022/2464
-- HGB §§ 289b–289e 315b 315c
-- EU-Taxonomie-VO 2020/852
-- SFDR VO 2019/2088
+- CSRD-RL (EU) 2022/2464
+- Delegierte Verordnung (EU) 2023/2772 (ESRS Set 1)
+- HGB §§ 289b–289e 315b 315c (i. d. F. CSR-RUG; CSRD-UG ausstehend)
+- EU-Taxonomie-VO (EU) 2020/852
+- SFDR VO (EU) 2019/2088
 - UWG §§ 5 6
-- BGH I ZR 252/22, I ZR 53/23
+- BGH I ZR 252/22 (Katjes, 27.6.2024)
+- BGH I ZR 53/23 (27.6.2024)
 - Bundeskartellamt Sektor-Untersuchung Greenwashing
-- ESRS Standards (delegierte Rechtsakte)
 - ISO 14064 14067
 - GHG-Protocol
 - SBTi
