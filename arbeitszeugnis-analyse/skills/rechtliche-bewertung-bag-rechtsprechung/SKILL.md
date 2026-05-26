@@ -13,6 +13,12 @@ Die Beweislastverteilung ist einer der wichtigsten Aspekte für die anwaltliche 
 
 Der Anspruch auf Berichtigung eines inhaltlich falschen oder unvollständigen Zeugnisses ergibt sich aus § 109 GewO in Verbindung mit dem allgemeinen Unterlassungsanspruch. Die Klage auf Berichtigung ist vor dem Arbeitsgericht zu erheben und unterliegt keiner kurzen Ausschlussfrist — wohl aber einer Verwirkung, wenn das Zeugnis jahrelang ohne Beanstandung hingenommen wurde.
 
+Die höchstrichterliche Rechtsprechung zur durchschnittlichen Beurteilung ist verfestigt: das BAG hat die Beweislastverteilung bei der Note „befriedigend“ mehrfach bestätigt und bekräftigt, dass empirische Erhebungen über tatsächlich erteilte Zeugnisnoten den Maßstab nicht verschieben. Auch wenn statistisch betrachtet die Mehrheit der Zeugnisse heute mit Note 2 oder besser ausgestellt wird, bleibt die Beweislast fixiert auf den Streitpunkt „unter“ oder „über“ Note 3. Die Tatsachen der Leistungserbringung trägt jeweils die Partei, die die abweichende Note begehrt.
+
+Zur Schlussformel und zu Auslassungssignalen ist die Rechtsprechung diffus, aber tendenziell wohlwollensfreundlich: das BAG verlangt nicht zwingend die vollständige Dreiteilige Schlussformel, sieht aber das vollständige Fehlen oder die deutlich abweichende Ausgestaltung als Rügegrund. Bei Codeworten und Geheimsprache gilt: jede Formulierung, die das berufliche Fortkommen unnötig erschwert, verstößt gegen das Wohlwollensgebot, auch wenn die Aussage wahr ist. Der Arbeitnehmer kann daher die Berichtigung verlangen, ohne die Wahrheit der kodierten Aussage zu bestreiten.
+
+Der Anspruch auf das Zeugnis verjährt nach der regelmäßigen Verjährungsfrist nach §§ 195, 199 BGB: drei Jahre, beginnend mit dem Schluss des Jahres, in dem das Zeugnis ausgestellt oder verlangt wurde. Praktisch bedeutsamer ist die Verwirkung: bei zweijähriger Untaetigkeit nach Zeugnisempfang kann das Berichtigungsverlangen je nach Einzelfall scheitern, auch wenn die Verjährungsfrist nicht abgelaufen ist.
+
 ## Geheimcode-Regeln (Rechtliche Ebene)
 
 | Rechtsproblem | Rechtsgrundlage | Handlungsempfehlung |
@@ -23,6 +29,12 @@ Der Anspruch auf Berichtigung eines inhaltlich falschen oder unvollständigen Ze
 | Arbeitnehmer will besser als Note 3 | Arbeitnehmer trägt Beweislast | BAG 9 AZR 632/13 |
 | Geheimcodeformeln in Zeugnis | Anspruch auf wohlwollendes Zeugnis | Berichtigung verlangen |
 | Zeugnis nach BAG-Recht zu berichtigen | § 109 GewO | Klage ArbG, kein Fristproblem |
+| Codewort verstösst gegen Wohlwollen, auch wenn wahr | BAG-Linie zu § 109 GewO | Berichtigung verlangen |
+| Schlussformel fehlt teilweise | BAG-Linie zu § 109 GewO | Ergänzung verlangen |
+| Drift im selben Themenbereich | Wohlwollensgebot | Aufwertung der schwachen Sätze verlangen |
+| Streitwert Berichtigungsklage | Rechtsprechung Landesarbeitsgerichte | ein Monatsbruttogehalt |
+| Verjährung des Berichtigungsanspruchs | §§ 195, 199 BGB | drei Jahre ab Schluss des Jahres |
+| Verwirkung trotz nicht abgelaufener Verjährung | Treu und Glauben § 242 BGB | Berichtigung innerhalb weniger Monate stellen |
 
 ## Beispiele
 
@@ -35,6 +47,12 @@ Der Anspruch auf Berichtigung eines inhaltlich falschen oder unvollständigen Ze
 **Beispiel 4 – Geheimcode als Wahrheitspflicht-Verstoß:** Ein Zeugnis enthält „Wir wünschen ihm alles Gute" ohne Bedauern und ohne Dank. Der Arbeitnehmer war nachweislich beliebt und leistungsstark. Das Weglassen des Bedauerns ist ein Wahrheitspflicht-näher Tatbestand, der eine Berichtigung begründen kann.
 
 **Beispiel 5 – Auskunftspflicht des Arbeitgebers:** In manchen Fällen kann der Arbeitnehmer verlangen, dass der Arbeitgeber erklärt, warum bestimmte Formulierungen gewählt wurden. Das setzt voraus, dass der Arbeitnehmer eine plausible Berichtigung konkret benannt hat.
+
+**Beispiel 6 – Codewort als Wohlwollensverstoss:** Ein Zeugnis enthält bei einem Buchhalter ohne Kassentätigkeit die explizite Aussage „war ehrlich und korrekt“. Die Aussage ist wahr, aber sie erschwert das Fortkommen, weil sie den Verdacht weckt, die Erwähnung der Ehrlichkeit sei nicht selbstverständlich. Berichtigung durch Streichung dieses Satzes ist nach Wohlwollensgebot zu verlangen — unabhängig von der Wahrheitsfrage.
+
+**Beispiel 7 – Drift-Berichtigung:** Ein Zeugnis enthält im Fachbereich eine Maximalformulierung (Note 1) und im Bereich Lernbereitschaft einen Standardsatz (Note 3). Der Arbeitnehmer kann die Aufwertung der schwachen Sätze auf das Niveau der starken Sätze verlangen, soweit er die entsprechenden Leistungen substantiiert. Eine „uneinheitliche“ Bewertung ohne Tatsachengrund verstösst gegen das Wohlwollensgebot.
+
+**Beispiel 8 – Streitwert und Vertretungspflicht:** Die Streitwertfestsetzung folgt der staendigen Praxis: ein Monatsbruttogehalt, unabhängig von der Anzahl der beanstandeten Sätze. Eine anwaltliche Vertretung ist im ersten Rechtszug vor dem Arbeitsgericht möglich, aber nicht erforderlich. In komplexen Berichtigungsfällen mit mehreren beanstandeten Punkten ist sie ratsam, weil die Wortlautformulierung des Klageantrags entscheidend ist.
 
 ## Ausgabeformat
 

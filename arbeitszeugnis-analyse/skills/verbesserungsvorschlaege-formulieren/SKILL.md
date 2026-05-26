@@ -23,6 +23,11 @@ Bei der Schlussformel sind Verbesserungen durch Ergänzung fehlender Elemente m�
 | „nach Anweisung" | durch Eigenverantwortung ersetzen | „eigenverantwortlich und selbstständig" |
 | Kein Bedauern | Bedauern voranstellen | „Wir bedauern es sehr, Herrn X zu verlieren" |
 | „korrekt" (Verhalten) | auf „stets einwandfrei" aufwerten | „Sein Verhalten war stets einwandfrei" |
+| „zeigte hohe Lernbereitschaft" | Verb und Steigerer aufwerten | „bildete sich stets eigeninitiativ und mit grossem Erfolg fort" |
+| „fand gute neue Ideen" | Verb und Adjektiv aufwerten | „entwickelte stets hervorragende innovative Loesungsansaetze" |
+| „war in der Lage, Konflikte zu bewaeltigen" | Faehigkeit zu Tatsache | „loeste Konflikte stets souveraen und mit Augenmass" |
+| „geschaetzter Ansprechpartner" | Steigerung ergaenzen | „aeusserst geschaetzter und gefragter Ansprechpartner" |
+| Drift im Themenbereich Fachkenntnisse plus Lernbereitschaft | Beide Bereiche auf gleiches Niveau heben | Spitzensatz bleibt, schwacher Satz wird aktiv aufgewertet |
 
 ## Beispiele
 
@@ -50,6 +55,21 @@ Begründung: Reihenfolge korrigiert (Vorgesetzte zuerst); „korrekt" zu „stet
 Original: Kein Wort zur Belastbarkeit bei einem Projektleiter.
 Vorschlag: „Auch in arbeitsintensiven Phasen behielt Herr Wagner stets die Übersicht und arbeitete unter hohem Druck zuverlässig und souverän."
 Begründung: Fehlendes Belastbarkeits-Element ergänzt, grüne Formel verwendet.
+
+**Beispiel 6 – Drift-Aufwertung Lernbereitschaft:**
+Original: „Herr Beispiel nahm in eigener Initiative regelmäßig erfolgreich an internen und externen Weiterbildungsseminaren teil."
+Vorschlag: „Herr Beispiel bildete sich über eigeninitiativ ergriffene und durchgehend erfolgreich abgeschlossene interne wie externe Weiterbildungen kontinuierlich auf höchstem fachlichen Niveau fort."
+Begründung: Verb „nahm teil" wird zu „bildete sich fort"; „regelmäßig" (Frequenz, kein Steigerer) wird zu „durchgehend" (Standardsteigerer); Erfolgskomponente und Niveauaussage ergänzt. Note rutscht von 3 auf 1.
+
+**Beispiel 7 – Drift-Aufwertung Innovation:**
+Original: „Herr Beispiel war Neuem gegenüber aufgeschlossen, fand gute neue Ideen und innovative Ansätze."
+Vorschlag: „Herr Beispiel entwickelte stets aus eigener Initiative hervorragende, das Unternehmen messbar voranbringende innovative Lösungsansätze."
+Begründung: Verb „fand" (passiv, glucksmäßig) wird zu „entwickelte" (aktiv, leistungsbasiert); „gut" wird zu „hervorragend"; Steigerer „stets" plus konkrete Wirkungsaussage ergänzt.
+
+**Beispiel 8 – Drift-Aufwertung Sozialverhalten:**
+Original: „Herr Beispiel war in der Lage, Konflikte erfolgreich zu bewältigen."
+Vorschlag: „Herr Beispiel löste Konflikte stets souverän, mit Augenmaß und zur Zufriedenheit aller Beteiligten."
+Begründung: „war in der Lage" (theoretische Fähigkeit) wird zu „löste" (tatsächliche Handlung); Steigerer „stets" plus drei Qualifizierer.
 
 ## Ausgabeformat
 

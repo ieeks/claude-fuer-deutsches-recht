@@ -16,7 +16,7 @@ Das Plugin richtet sich an Arbeitnehmer, die ihr eigenes Zeugnis verstehen oder 
 
 1. ZIP herunterladen (Link oben).
 2. Claude Code → **Customize Plugins** → **Install from .zip** → Datei wählen.
-3. Fertig. Alle 25 Skills sind sofort verfügbar.
+3. Fertig. Alle 28 Skills sind sofort verfügbar.
 
 ## Ampelsystem
 
@@ -32,7 +32,7 @@ Rote Signale entstehen durch: das Wort „bemüht", Einschränkungen wie „im W
 
 ## Enthaltene Skills
 
-Die 25 Skills sind alphabetisch geordnet:
+Die 28 Skills sind alphabetisch geordnet:
 
 | Skill | Funktion |
 |---|---|
@@ -43,18 +43,21 @@ Die 25 Skills sind alphabetisch geordnet:
 | `/arbeitszeugnis-analyse:geheimcode-katalog` | Zentraler Referenzkatalog aller Standardformulierungen mit Ampelzuordnung |
 | `/arbeitszeugnis-analyse:gesamtnoten-aggregation` | Aggregation der Einzelbewertungen zur gewichteten Gesamtnote |
 | `/arbeitszeugnis-analyse:gruen-flaggen-katalog` | Katalog aller grünen Signale: Superlative, vollständige Formeln, Note 1-2 |
+| `/arbeitszeugnis-analyse:klage-strategie-zeugnisberichtigung` | Vom Befund zur Klage: Berichtigungsverlangen, Klageantrag, Beweislast, Streitwert |
 | `/arbeitszeugnis-analyse:leitende-positionen-zeugnisse` | Führungskräfte-Zeugnisse: Mitarbeiterführung, Strategie, Loyalität |
 | `/arbeitszeugnis-analyse:leistungsbeurteilung-analyse` | Arbeitsqualität, Arbeitsbereitschaft, Belastbarkeit, Eigeninitiative |
 | `/arbeitszeugnis-analyse:muster-arbeitszeugnis-gemischte-noten` | Schulungsmuster mit Schaufenster-Pattern: 1er- und 3er-Sätze gemischt, vollständige Drift-Analyse |
 | `/arbeitszeugnis-analyse:muster-arbeitszeugnis-mit-roten-flaggen` | Schulungsbeispiel mit gemischten Bewertungen und vollständiger Analyse |
 | `/arbeitszeugnis-analyse:muster-arbeitszeugnis-note-1` | Vollständiges Musterzeugnis Note 1 — alle Bausteine grün |
 | `/arbeitszeugnis-analyse:negationen-und-auslassungen-erkennen` | Fehlende Pflichtaussagen als versteckte Negativsignale erkennen |
+| `/arbeitszeugnis-analyse:negative-codeworte-katalog` | Erweiterter Katalog negativer Codeworte: Alkohol, Krankheit, Diebstahl, Konflikte, Loyalität |
 | `/arbeitszeugnis-analyse:notenrelevante-saetze-identifizieren` | Trennung notenrelevanter Sätze von neutralen Aufgabenbeschreibungen |
 | `/arbeitszeugnis-analyse:orange-flaggen-katalog` | Schwache positive Formulierungen, Note 3, fehlende Steigerungen |
 | `/arbeitszeugnis-analyse:rechtliche-bewertung-bag-rechtsprechung` | § 109 GewO, BAG-Rechtsprechung, Beweislast, Zeugnisklage |
 | `/arbeitszeugnis-analyse:rote-flaggen-katalog` | Klassische Warnsignale: „bemüht", „im Großen und Ganzen", Note 4-5 |
 | `/arbeitszeugnis-analyse:satzweise-notenmatrix` | Satz-für-Satz-Notenzuweisung von eins bis fünf mit Themenbereich — Datenbasis für Drift |
 | `/arbeitszeugnis-analyse:schlussformel-bewertung` | Bedauern, Dank, Zukunftswünsche — Vollständigkeit und Formulierungsstärke |
+| `/arbeitszeugnis-analyse:steigerungsadverbien-katalog` | Vollständige Referenzliste der Steigerer mit Notenwirkung — echte, scheinbare und negative Adverbien |
 | `/arbeitszeugnis-analyse:verbesserungsvorschlaege-formulieren` | Konkrete Textvorschläge zur Aufwertung von roten und orangen Formulierungen |
 | `/arbeitszeugnis-analyse:verhaltensbeurteilung-analyse` | Verhalten zu Vorgesetzten, Kollegen, Kunden; Reihenfolge und Euphemismen |
 | `/arbeitszeugnis-analyse:widerspruechliche-bewertungen` | Widersprüche zwischen Leistungs-, Verhaltensteil und Schlussformel |
@@ -78,15 +81,19 @@ Für eine vollständige Analyse empfiehlt sich die Reihenfolge:
 1. `zeugnis-ueberblick-extraktion` — Kopfdaten prüfen
 2. `zeugnisart-erkennung` — Zeugnistyp bestimmen
 3. `notenrelevante-saetze-identifizieren` — Sätze kategorisieren
-4. `satzweise-notenmatrix` — Note eins bis fünf pro Satz mit Themenzuordnung
-5. `zufriedenheitsformel-decodierung` — Kernformel decodieren
-6. `leistungsbeurteilung-analyse` + `verhaltensbeurteilung-analyse` — Detailanalyse
-7. `schlussformel-bewertung` — Schlussformel bewerten
-8. `negationen-und-auslassungen-erkennen` — Auslassungen prüfen
-9. `bereichs-drift-detektor` — Schaufenster-Pattern prüfen
-10. `widerspruechliche-bewertungen` — Block-Widersprüche prüfen
-11. `ampelsystem-tabellenausgabe` — Gesamttabelle
-12. `gesamtnoten-aggregation` — Gesamtnote berechnen, inkl. Drift-Penalty
+4. `steigerungsadverbien-katalog` — Adverbien tabellieren und Notenwirkung bestimmen
+5. `satzweise-notenmatrix` — Note eins bis fünf pro Satz mit Themenzuordnung
+6. `zufriedenheitsformel-decodierung` — Kernformel decodieren
+7. `leistungsbeurteilung-analyse` + `verhaltensbeurteilung-analyse` — Detailanalyse
+8. `schlussformel-bewertung` — Schlussformel bewerten
+9. `negationen-und-auslassungen-erkennen` — Auslassungen prüfen
+10. `negative-codeworte-katalog` — Geheimcodes für Alkohol, Krankheit, Diebstahl, Konflikte, Loyalität prüfen
+11. `bereichs-drift-detektor` — Schaufenster-Pattern prüfen
+12. `widerspruechliche-bewertungen` — Block-Widersprüche prüfen
+13. `ampelsystem-tabellenausgabe` — Gesamttabelle
+14. `gesamtnoten-aggregation` — Gesamtnote berechnen, inkl. Drift-Penalty
+15. `verbesserungsvorschlaege-formulieren` — Aufwertungs-Rewrites pro Satz
+16. `rechtliche-bewertung-bag-rechtsprechung` + `klage-strategie-zeugnisberichtigung` — vom Befund zur Klage
 
 ## Rechtsgrundlagen
 
