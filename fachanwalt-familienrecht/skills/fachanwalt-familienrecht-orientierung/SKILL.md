@@ -63,7 +63,7 @@ description: Orientierung im Familienrecht — FAO-Voraussetzungen Fachanwaltsbe
 
 ## Schnittstellen zu anderen Plugins
 
-- **kanzlei-cowork** für Fristenbuch Timesheet Versand-Vor-Check.
+- **kanzlei-allgemein** für Fristenbuch Timesheet Versand-Vor-Check.
 - **methodenlehre-buergerliches-recht** und **zitierweise-deutsches-recht** als Hausstandards.
 
 ## Hinweis

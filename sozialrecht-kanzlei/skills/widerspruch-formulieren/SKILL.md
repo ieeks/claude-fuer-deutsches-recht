@@ -61,7 +61,7 @@ Drei Tage vor Fristablauf Vorfrist setzen über den Skill `fristenbuch-sozialrec
 
 ## Versand-Check
 
-Vor Versand der Skill `versand-vor-check` aus dem Plugin `kanzlei-cowork`. Prüft PDF Inhalt Signatur Empfängeradresse und Anlagenvollständigkeit.
+Vor Versand der Skill `versand-vor-check` aus dem Plugin `kanzlei-allgemein`. Prüft PDF Inhalt Signatur Empfängeradresse und Anlagenvollständigkeit.
 
 ## Hinweis Aussetzung der Vollziehung
 

@@ -68,4 +68,4 @@ description: Orientierung im Informationstechnologierecht — FAO Voraussetzunge
 - **ki-governance** für KI-VO und AIA.
 - **gewerblicher-rechtsschutz** bei Markenrecht IT-Branding.
 - **vertragsrecht** bei SaaS-/Cloud-AGB-Prüfung.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.

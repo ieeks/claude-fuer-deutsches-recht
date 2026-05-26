@@ -76,6 +76,6 @@ description: Orientierung im Sozialrecht und Fachanwaltschaft nach FAO § 11. SG
 ## Schnittstellen
 
 - **`sozialrecht-kanzlei`** für operative Mandatsführung.
-- **`kanzlei-cowork`** für Fristen und Versand.
+- **`kanzlei-allgemein`** für Fristen und Versand.
 - **`fachanwalt-arbeitsrecht`** bei Sperrzeit Arbeitslosengeld und Schwerbehinderung im Arbeitsverhältnis.
 - **`fachanwalt-medizinrecht`** bei medizinischer Begutachtung.

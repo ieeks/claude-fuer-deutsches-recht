@@ -70,4 +70,4 @@ description: Orientierung im Transport- und Speditionsrecht — FAO Voraussetzun
 - **gesellschaftsrecht** bei Spediteur-Gesellschaft.
 - **fachanwalt-internationales-wirtschaftsrecht** bei grenzüberschreitenden Transporten.
 - **fachanwalt-versicherungsrecht** bei Transportversicherung.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.

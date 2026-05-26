@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-orientierung
-description: Orientierung im Verkehrsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Verkehrsunfall mit Personen- und Sachschaden Schadensregulierung Versicherung Haftpflicht Kasko Bussgeld Fahrerlaubnis OWi-Verfahren Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-cowork und ggf. fachanwalt-versicherungsrecht fachanwalt-strafrecht.
+description: Orientierung im Verkehrsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Verkehrsunfall mit Personen- und Sachschaden Schadensregulierung Versicherung Haftpflicht Kasko Bussgeld Fahrerlaubnis OWi-Verfahren Verkehrsstrafrecht (§§ 315c 316 StGB). Schnittstelle Plugin kanzlei-allgemein und ggf. fachanwalt-versicherungsrecht fachanwalt-strafrecht.
 ---
 
 # Fachanwalt für Verkehrsrecht — Orientierung
@@ -57,6 +57,6 @@ description: Orientierung im Verkehrsrecht — FAO Voraussetzungen Normen typisc
 
 ## Schnittstellen
 
-- **kanzlei-cowork** Fristenbuch Timesheet.
+- **kanzlei-allgemein** Fristenbuch Timesheet.
 - **fachanwalt-versicherungsrecht** bei Versicherungsstreit.
 - **fachanwalt-strafrecht** bei Verkehrsstrafrecht.

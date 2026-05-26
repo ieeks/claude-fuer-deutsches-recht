@@ -67,5 +67,5 @@ description: Orientierung im Migrationsrecht — FAO Voraussetzungen Normen typi
 
 - **rechtsberatungsstelle** bei pro-bono-Beratungsstellen.
 - **fachanwalt-verwaltungsrecht** bei VG-Verfahren.
-- **kanzlei-cowork** Notfristen Versand.
+- **kanzlei-allgemein** Notfristen Versand.
 - **fachanwalt-strafrecht** bei Ausweisung nach Straftat.

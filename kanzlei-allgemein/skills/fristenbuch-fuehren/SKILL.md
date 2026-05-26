@@ -11,7 +11,7 @@ Jede Kanzlei muss ein Fristenbuch führen — die Versäumung einer Notfrist ist
 
 ## Zentralablage
 
-`~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/fristenbuch.yaml`
+`~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/fristenbuch.yaml`
 
 ```yaml
 - mandat-az: 2026/0042

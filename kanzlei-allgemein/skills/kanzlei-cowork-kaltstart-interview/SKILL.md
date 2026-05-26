@@ -1,13 +1,13 @@
 ---
 name: kanzlei-cowork-kaltstart-interview
-description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erfragt Kanzleiprofil (Solo / Sozietaet / GmbH / Partnerschaft) Rechtsgebiete-Mix Sekretariat (vorhanden Stellen) Aktenstruktur-Konvention beA-Profil Versandwege Buchhaltungssoftware (DATEV Lexware sevDesk RA-MICRO Advoware) Vorgehensweise Fristenbuch und Tagesbrief Honorarpraxis (RVG / Vereinbarung) Mahnpraxis Mandantenstamm-Pflege Geburtstags- und Weihnachtsverteiler. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/CLAUDE.md."
+description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erfragt Kanzleiprofil (Solo / Sozietaet / GmbH / Partnerschaft) Rechtsgebiete-Mix Sekretariat (vorhanden Stellen) Aktenstruktur-Konvention beA-Profil Versandwege Buchhaltungssoftware (DATEV Lexware sevDesk RA-MICRO Advoware) Vorgehensweise Fristenbuch und Tagesbrief Honorarpraxis (RVG / Vereinbarung) Mahnpraxis Mandantenstamm-Pflege Geburtstags- und Weihnachtsverteiler. Schreibt Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md."
 ---
 
-# /kanzlei-cowork:kanzlei-cowork-kaltstart-interview
+# /kanzlei-allgemein:kanzlei-cowork-kaltstart-interview
 
 ## Ablauf
 
-1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/CLAUDE.md` prüfen.
+1. Konfigurationsdatei `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/CLAUDE.md` prüfen.
 2. Falls vorhanden ohne Platzhalter: bestätigen.
 3. Andernfalls Interview unten durchführen.
 
@@ -29,7 +29,7 @@ description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erf
 ### 3. Aktenstruktur
 
 - **Aktennummernsystem** (z. B. `<Jahr>/<lfd. Nr.>` oder `<Rechtsgebiet>-<Jahr>-<Nr>`)
-- **Verzeichnis-Konvention** unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/mandate/<az>/`
+- **Verzeichnis-Konvention** unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandate/<az>/`
 - **Standardunterordner** wie `01_stammdaten 02_korrespondenz 03_schriftsaetze 04_anlagen 05_fristen 06_honorar`
 
 ### 4. beA und Versandwege
@@ -74,9 +74,9 @@ description: "Kaltstart-Interview fuer das generische Kanzlei-Cowork-Plugin. Erf
 
 Profil wird geschrieben. Nächste sinnvolle Skills:
 
-- `/kanzlei-cowork:fristenbuch-fuehren` — Hauptfristen pflegen
-- `/kanzlei-cowork:sekretariats-tagesbrief` — Tagesbrief morgens
-- `/kanzlei-cowork:versand-vor-check` — vor jedem Versand
+- `/kanzlei-allgemein:fristenbuch-fuehren` — Hauptfristen pflegen
+- `/kanzlei-allgemein:sekretariats-tagesbrief` — Tagesbrief morgens
+- `/kanzlei-allgemein:versand-vor-check` — vor jedem Versand
 
 ## Rechtlicher Rahmen
 

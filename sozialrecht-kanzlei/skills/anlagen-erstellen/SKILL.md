@@ -74,4 +74,4 @@ K6   Mietvertrag mit Anlagen
 
 ## Versand
 
-Vor Versand der Skill `versand-vor-check` aus dem Plugin `kanzlei-cowork`.
+Vor Versand der Skill `versand-vor-check` aus dem Plugin `kanzlei-allgemein`.

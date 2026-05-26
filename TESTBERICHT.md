@@ -45,8 +45,8 @@ Für Drittnutzer rechtsunsicher (keine explizite Lizenzgewährung).
 ### Rang 3 — 9 Skills referenzieren Output-Dateien mit Umlauten (beA-Konflikt)
 
 Das Plugin `anlagen-zu-schriftsaetzen` fordert explizit „**Datei-Benennung beA-tauglich: keine Umlaute**". Mehrere Skills produzieren aber Output-Dateinamen mit Umlauten:
-- `kanzlei-cowork/skills/mandantenakte-anlegen/SKILL.md`: Standardordner `03_schriftsätze/`
-- `kanzlei-cowork/skills/versand-vor-check/SKILL.md`, `bea-versand-pruefen`, `posteingang-ausgang`: Pfad `mandate/<az>/03_schriftsätze/`
+- `kanzlei-allgemein/skills/mandantenakte-anlegen/SKILL.md`: Standardordner `03_schriftsätze/`
+- `kanzlei-allgemein/skills/versand-vor-check/SKILL.md`, `bea-versand-pruefen`, `posteingang-ausgang`: Pfad `mandate/<az>/03_schriftsätze/`
 - `fluggastrechte/skills/ticket-und-fluginformationen-erfassen/SKILL.md`: `nächste-schritte.md`
 - `fluggastrechte/skills/ausnahmen-aussergewoehnliche-umstaende-pruefen/SKILL.md`: `außergewöhnlich-prüfung.md`
 - `fortbestehensprognose/skills/ausloesendes-ereignis-erfassen/SKILL.md`: `auslösendes-ereignis.yaml`
@@ -54,13 +54,13 @@ Das Plugin `anlagen-zu-schriftsaetzen` fordert explizit „**Datei-Benennung beA
 - `fortbestehensprognose/skills/stundungsanfrage-glaeubiger/SKILL.md`: `stundungsanfrage-<gläubiger>.docx`
 - `liquiditaetsplanung/skills/liquiditaetsvorschau-3-6-12-monate/SKILL.md`: `liquiditäts-artefakt-<Firma>-KW<t>.md`
 - `liquiditaetsplanung/skills/liquiditaetsvorschau-3wochen/SKILL.md`: gleiches Template
-- `kanzlei-cowork/skills/fristenbuch-fuehren/SKILL.md`: `fristen-übersicht.md`
+- `kanzlei-allgemein/skills/fristenbuch-fuehren/SKILL.md`: `fristen-übersicht.md`
 - `kanzlei-builder-hub/skills/playbook-aus-eigenen-daten/SKILL.md`: `kündigungsschutz-arbeitnehmer.playbook.md` / `.fristen.yaml`
 - `immobilienrechtspraxis/skills/vertragserstellung-musterbasiert/SKILL.md`: `Manuelle_Prüfung.md`
 
 ### Rang 4 — Cross-Plugin-Abhängigkeiten nicht dokumentiert
 
-`sozialrecht-kanzlei` referenziert `kanzlei-cowork/versand-vor-check`. `fortbestehensprognose` referenziert `liquiditaetsplanung/liquiditaetsvorschau-3-6-12-monate`. **Plugin-Manifests** enthalten kein `dependencies`-Feld. User installiert Solo-Plugin und wundert sich, dass Skill-Verweis ins Leere geht.
+`sozialrecht-kanzlei` referenziert `kanzlei-allgemein/versand-vor-check`. `fortbestehensprognose` referenziert `liquiditaetsplanung/liquiditaetsvorschau-3-6-12-monate`. **Plugin-Manifests** enthalten kein `dependencies`-Feld. User installiert Solo-Plugin und wundert sich, dass Skill-Verweis ins Leere geht.
 
 ### Rang 5 — `fundstellenglattzieher` (kanzlei-builder-hub) hat 6× Verweis auf nicht existente `references/zitierweise.md`
 
@@ -107,7 +107,7 @@ Stichprobe zeigt 49/52 mit `https://github.com/Klotzkette/claude-fuer-deutsches-
 
 Bei 17 Light-Touch-`fachanwalt-*` macht das Sinn (nur 1 Orientierungs-Skill). Aber **12 weitere Plugins** mit mehreren Skills haben keinen Kaltstart-Interview-Setup-Skill:
 - `liquiditaetsplanung` (3 Skills)
-- `fortbestehensprognose` (15 Skills) — **hat tatsaechlich einen**, aber `kanzlei-cowork`, `mietrecht`, `verfassungsrecht`, `immobilienrechtspraxis`, `tabellenreview-3d`... — Inkonsistenz.
+- `fortbestehensprognose` (15 Skills) — **hat tatsaechlich einen**, aber `kanzlei-allgemein`, `mietrecht`, `verfassungsrecht`, `immobilienrechtspraxis`, `tabellenreview-3d`... — Inkonsistenz.
 
 ### Rang 15 — `prozessrecht/skills/anpassen/SKILL.md` mit 1794 Bytes verdächtig kurz
 
@@ -147,7 +147,7 @@ Ein einmaliger Sweep über Skills mit Umlauten in Backtick-Filenamen: `03_schrif
 In Skills die `references/zitierweise.md` aufrufen: ersetzen durch "Hauszitierweise: nach den Vorgaben des Plugins `zitierweise-deutsches-recht` (gesondert empfohlen)" — dann ist der Skill auch in Solo-Installation kohärent.
 
 ### 4. `dependencies`-Liste in Plugin-Manifests einführen (Aufwand: 2 h)
-Erweitern um Feld `recommended_companions: ["kanzlei-cowork", "zitierweise-deutsches-recht"]`. Cowork ignoriert das Feld, aber Mensch-Reader sieht die Abhängigkeiten.
+Erweitern um Feld `recommended_companions: ["kanzlei-allgemein", "zitierweise-deutsches-recht"]`. Cowork ignoriert das Feld, aber Mensch-Reader sieht die Abhängigkeiten.
 
 ### 5. CI-Hook gegen broken Pfad-Verweise (Aufwand: 1 h)
 `scripts/validate-plugin-structure.mjs` um Check erweitern, der jeden Backtick-Pfad gegen tatsächlich existierende Dateien prüft. Verhindert Wiederkehr der bisher gefixten Bugs.
@@ -165,10 +165,10 @@ Bei jedem Release-Tag (z. B. v2.1.0) alle 52 `plugin.json` automatisch auf diese
 Ein einziges `fachanwaltschaften-orientierung`-Plugin mit 17 Sub-Skills (`fachanwalt-orientierung-familienrecht`, …). Marketplace-Last drastisch reduziert, Maintenance einfacher.
 
 ### 10. Kaltstart-Interview-Skill für Mehr-Skill-Plugins nachziehen (Aufwand: 2 h)
-`kanzlei-cowork`, `mietrecht`, `verfassungsrecht`, `tabellenreview-3d`, `immobilienrechtspraxis` haben mehrere Skills, aber keinen Setup-Skill. Standardvorlage existiert (z. B. aus `sozialrecht-kanzlei`).
+`kanzlei-allgemein`, `mietrecht`, `verfassungsrecht`, `tabellenreview-3d`, `immobilienrechtspraxis` haben mehrere Skills, aber keinen Setup-Skill. Standardvorlage existiert (z. B. aus `sozialrecht-kanzlei`).
 
 ### 11. Plugin-Bundles im Marketplace einführen (Aufwand: 1 h)
-Marketplace-Eintrag pro thematisches Bundle: "Sozialrechtskanzlei-Komplett" = `sozialrecht-kanzlei + kanzlei-cowork + zitierweise-deutsches-recht + methodenlehre-buergerliches-recht`. Solo-Installation eines Bundles statt vier einzelner Plugins.
+Marketplace-Eintrag pro thematisches Bundle: "Sozialrechtskanzlei-Komplett" = `sozialrecht-kanzlei + kanzlei-allgemein + zitierweise-deutsches-recht + methodenlehre-buergerliches-recht`. Solo-Installation eines Bundles statt vier einzelner Plugins.
 
 ### 12. Mietspiegel-Skill konkret aufwerten (Aufwand: 2 h)
 Statt nur Verweis-Trampolin: konkrete Schritt-für-Schritt-Anleitung "Adresse eingeben → richtigen Mietspiegel finden → Spanne ablesen → ortsuebliche Vergleichsmiete bestimmen". Der Reference-Inhalt liegt schon vor.

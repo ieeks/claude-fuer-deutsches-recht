@@ -145,7 +145,7 @@ Präzise Fragen z. B.:
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt; alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulässig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über **ELSTER** (Mein ELSTER — Nachrichtenfunktion) an Finanzamt; alternativ Briefpost oder Telefax. **beA an Finanzamt seit 6.12.2024 unzulässig** (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
 
 ## Anschluss
 

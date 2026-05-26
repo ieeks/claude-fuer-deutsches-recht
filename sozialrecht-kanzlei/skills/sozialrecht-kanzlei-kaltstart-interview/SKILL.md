@@ -83,4 +83,4 @@ Profil wird geschrieben. Nächste sinnvolle Skills:
 
 ## Hinweise
 
-Dieses Plugin ist Werkzeug der zugelassenen Anwaltschaft. Mandantenkommunikation bleibt anwaltliche Verantwortung. Anlagen vor Versand sichten. Vor jedem Versand der `versand-vor-check` aus dem Plugin `kanzlei-cowork`.
+Dieses Plugin ist Werkzeug der zugelassenen Anwaltschaft. Mandantenkommunikation bleibt anwaltliche Verantwortung. Anlagen vor Versand sichten. Vor jedem Versand der `versand-vor-check` aus dem Plugin `kanzlei-allgemein`.

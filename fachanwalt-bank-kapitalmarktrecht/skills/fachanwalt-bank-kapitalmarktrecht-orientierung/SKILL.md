@@ -67,5 +67,5 @@ description: Orientierung im Bank- und Kapitalmarktrecht — FAO Voraussetzungen
 
 - **gesellschaftsrecht** bei M&A und Kapitalmaßnahmen.
 - **regulatorisches-recht** bei BaFin-Aufsicht.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.
 - **insolvenzrecht** bei Anfechtung.

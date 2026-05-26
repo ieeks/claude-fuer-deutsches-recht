@@ -59,6 +59,6 @@ description: Orientierung im Bau- und Architektenrecht — FAO Voraussetzungen N
 
 ## Schnittstellen
 
-- **kanzlei-cowork** für Fristen Versand.
+- **kanzlei-allgemein** für Fristen Versand.
 - **fachanwalt-vergaberecht** bei öffentlichen Bauaufträgen.
 - **fachanwalt-verwaltungsrecht** bei Bauleitplanung und Bauordnungsrecht.

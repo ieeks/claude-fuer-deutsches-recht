@@ -65,5 +65,5 @@ description: Orientierung im Urheber- und Medienrecht — FAO Voraussetzungen No
 
 - **gewerblicher-rechtsschutz** bei Markenrecht.
 - **verlagsredaktion** bei Verlagsverträgen.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.
 - **fachanwalt-it-recht** bei Onlineplattformen.

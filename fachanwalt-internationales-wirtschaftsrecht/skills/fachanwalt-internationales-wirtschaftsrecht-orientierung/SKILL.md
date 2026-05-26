@@ -70,4 +70,4 @@ description: Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetz
 - **gesellschaftsrecht** bei grenzüberschreitenden M&A.
 - **regulatorisches-recht** bei BaFin-Aufsicht Außenhandel.
 - **fachanwalt-vergaberecht** bei grenzüberschreitender Vergabe.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.

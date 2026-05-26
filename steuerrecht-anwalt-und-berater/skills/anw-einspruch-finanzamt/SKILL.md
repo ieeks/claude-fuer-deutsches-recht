@@ -1,6 +1,6 @@
 ---
 name: anw-einspruch-finanzamt
-description: Entwirft begruendeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO; ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO. Vier-Tage-Fiktion § 122 Abs. 2 AO (seit 01.01.2025 PostModG). Begruendung Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO. Schreibvorlage Adressat Aktenzeichen Antrag Begruendung. Antrag auf Aussetzung der Vollziehung § 361 Abs. 2 AO und Akteneinsicht § 364 AO inkludiert. Schnittstellen anw-steuerbescheid-analyse anw-aussetzung-vollziehung kanzlei-cowork.
+description: Entwirft begruendeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO; ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO. Vier-Tage-Fiktion § 122 Abs. 2 AO (seit 01.01.2025 PostModG). Begruendung Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO. Schreibvorlage Adressat Aktenzeichen Antrag Begruendung. Antrag auf Aussetzung der Vollziehung § 361 Abs. 2 AO und Akteneinsicht § 364 AO inkludiert. Schnittstellen anw-steuerbescheid-analyse anw-aussetzung-vollziehung kanzlei-allgemein.
 ---
 
 # Einspruch beim Finanzamt
@@ -157,5 +157,5 @@ Mit freundlichen Grüßen
 
 ## Versand
 
-Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren). Vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über **ELSTER** (Mein ELSTER — sicheres Verfahren der Finanzverwaltung) oder ERiC; alternativ Briefpost oder Telefax. **beA ist seit 6.12.2024 unzulässig** gegenüber Finanzbehoerden (§ 87a Abs. 1 S. 2 AO n.F. nach JStG 2024) — Einspruch per beA wäre formunwirksam und würde die Einspruchsfrist nicht wahren (vgl. instanzgerichtlich etwa Nds. FG, Beschl. v. 12.2.2026 – 2 K 152/25; Zitat vor Übernahme in juris/beck-online verifizieren). Vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
 Zitierweise nach `zitierweise-deutsches-recht` v3.0 (Az.-Marker, Hierarchie + Chronologie).

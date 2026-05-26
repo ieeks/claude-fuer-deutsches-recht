@@ -66,4 +66,4 @@ description: Orientierung im Agrarrecht — FAO Voraussetzungen Normen typische 
 
 - **fachanwalt-erbrecht** bei Hofübergabe.
 - **fachanwalt-verwaltungsrecht** bei Förderbescheiden.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.

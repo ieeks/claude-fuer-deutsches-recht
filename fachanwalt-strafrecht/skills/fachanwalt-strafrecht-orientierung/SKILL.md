@@ -68,7 +68,7 @@ description: Orientierung im Strafrecht — FAO-Voraussetzungen Normen typische 
 ## Schnittstellen
 
 - **aktenaufbereiter-strafrecht** für Aktenaufbereitung.
-- **kanzlei-cowork** für Fristenbuch und Versand.
+- **kanzlei-allgemein** für Fristenbuch und Versand.
 
 ## Hinweis
 

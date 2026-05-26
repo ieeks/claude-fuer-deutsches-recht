@@ -61,6 +61,6 @@ description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Ma
 
 ## Schnittstellen
 
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.
 - **steuerrecht-anwalt-und-berater** bei Erbschaftsteuer.
 - **gesellschaftsrecht** bei Unternehmensnachfolge.

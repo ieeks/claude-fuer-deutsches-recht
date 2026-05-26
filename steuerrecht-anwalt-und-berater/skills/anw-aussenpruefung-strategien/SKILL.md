@@ -88,7 +88,7 @@ description: Anwaltliche Begleitung einer Aussenpruefung (Betriebspruefung) nach
 - **Teilnahme** Mandant Steuerberater Anwalt.
 - **Protokoll** mit allen Vereinbarungen — bei Einvernehmen über Sachverhalte rechtlich relevant.
 - **Tatsächliche Verständigung** über Sachverhaltsfragen § 88 AO iVm BFH-Rspr. möglich (nicht: Verständigung über Recht).
-- **Schlussbesprechungsprotokoll** in der Mandantenakte (`kanzlei-cowork`).
+- **Schlussbesprechungsprotokoll** in der Mandantenakte (`kanzlei-allgemein`).
 
 ### Phase 5 — Prüfungsbericht (§ 202 AO)
 

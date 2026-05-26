@@ -1,6 +1,6 @@
 # Fachanwalt Sozialrecht
 
-Light-Touch-Plugin Fachanwalt für Sozialrecht nach FAO § 11. Orientierung, Widerspruch, SGB-II-Bescheid, Erwerbsminderungsrente. Schnittstellen zu `sozialrecht-kanzlei` und `kanzlei-cowork`.
+Light-Touch-Plugin Fachanwalt für Sozialrecht nach FAO § 11. Orientierung, Widerspruch, SGB-II-Bescheid, Erwerbsminderungsrente. Schnittstellen zu `sozialrecht-kanzlei` und `kanzlei-allgemein`.
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

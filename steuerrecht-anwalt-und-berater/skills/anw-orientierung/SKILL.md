@@ -62,7 +62,7 @@ Dieser Skill ist die Einstiegs-Orientierung fuer **alle Anwaeltinnen und Anwaelt
 ## Schnittstellen
 
 - **`stb-`-Skills im selben Plugin** fuer Steuerberater-spezifische Workflows (BWA-/SuSa-/Bilanzpruefung, Liquiditaetsvorschau).
-- **`kanzlei-cowork`** für Fristen, Versand, Aktenführung.
+- **`kanzlei-allgemein`** für Fristen, Versand, Aktenführung.
 - **`fachanwalt-handels-gesellschaftsrecht`** bei Tax-Aspekten der Unternehmensberatung.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Steuerforderungen in der Insolvenz.
 

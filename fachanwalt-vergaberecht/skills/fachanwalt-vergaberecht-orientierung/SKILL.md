@@ -68,4 +68,4 @@ description: Orientierung im Vergaberecht — FAO Voraussetzungen Normen typisch
 - **fachanwalt-bau-architektenrecht** bei Bauaufträgen.
 - **regulatorisches-recht** bei Beihilferecht.
 - **gesellschaftsrecht** bei Bieterkonsortien.
-- **kanzlei-cowork** Notfristen Versand.
+- **kanzlei-allgemein** Notfristen Versand.

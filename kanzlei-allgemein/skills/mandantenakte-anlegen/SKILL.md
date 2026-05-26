@@ -26,7 +26,7 @@ oder
 
 ## Verzeichnisstruktur
 
-Unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/mandate/<az>/`:
+Unter `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandate/<az>/`:
 
 ```
 01_stammdaten/
@@ -124,7 +124,7 @@ Bei Mandaten die unter GwG fallen (z. B. Immobilientransaktionen Bargeldgeschäf
 
 ## Mandantenstamm-Eintrag
 
-In `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-cowork/mandantenstamm.yaml`:
+In `~/.claude/plugins/config/claude-fuer-deutsches-recht/kanzlei-allgemein/mandantenstamm.yaml`:
 
 ```yaml
 - mandant-id: M-00874

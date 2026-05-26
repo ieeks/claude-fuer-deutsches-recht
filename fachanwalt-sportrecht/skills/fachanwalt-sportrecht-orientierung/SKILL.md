@@ -70,4 +70,4 @@ description: Orientierung im Sportrecht — FAO Voraussetzungen Normen typische 
 - **gesellschaftsrecht** bei Profisport-Gesellschaften (Kapitalgesellschaften e. V.).
 - **arbeitsrecht** bei Spielerverträgen.
 - **fachanwalt-internationales-wirtschaftsrecht** bei internationalen Sport-Schiedsverfahren.
-- **kanzlei-cowork** Fristen Versand.
+- **kanzlei-allgemein** Fristen Versand.

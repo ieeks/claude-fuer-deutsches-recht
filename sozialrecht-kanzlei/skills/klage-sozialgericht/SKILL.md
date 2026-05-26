@@ -86,4 +86,4 @@ Bei wirtschaftlicher Bedürftigkeit: PKH nach § 73a SGG iVm §§ 114 ff. ZPO. V
 
 ## Versand
 
-Über beA — vor Versand der Skill `versand-vor-check` aus `kanzlei-cowork`.
+Über beA — vor Versand der Skill `versand-vor-check` aus `kanzlei-allgemein`.

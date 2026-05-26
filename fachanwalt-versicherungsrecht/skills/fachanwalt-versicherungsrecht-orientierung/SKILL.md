@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-orientierung
-description: Orientierung im Versicherungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VVG (Versicherungsvertragsgesetz) VAG (Versicherungsaufsichtsgesetz) Berufsunfaehigkeit Krankenversicherung Lebensversicherung Sach- und Haftpflichtversicherung D-und-O-Versicherung. Schnittstelle zu kanzlei-cowork und fachanwalt-verkehrsrecht.
+description: Orientierung im Versicherungsrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. VVG (Versicherungsvertragsgesetz) VAG (Versicherungsaufsichtsgesetz) Berufsunfaehigkeit Krankenversicherung Lebensversicherung Sach- und Haftpflichtversicherung D-und-O-Versicherung. Schnittstelle zu kanzlei-allgemein und fachanwalt-verkehrsrecht.
 ---
 
 # Fachanwalt für Versicherungsrecht — Orientierung
@@ -58,6 +58,6 @@ description: Orientierung im Versicherungsrecht — FAO Voraussetzungen Normen t
 
 ## Schnittstellen
 
-- **kanzlei-cowork** für Fristen und Versand.
+- **kanzlei-allgemein** für Fristen und Versand.
 - **fachanwalt-verkehrsrecht** bei Kfz-Haftpflicht.
 - **fachanwalt-medizinrecht** bei Krankenversicherung.

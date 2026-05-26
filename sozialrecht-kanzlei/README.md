@@ -1,6 +1,6 @@
 # Sozialrecht-Kanzlei
 
-Vollassistenz für die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagenerstellung. Spezialisiert auf Bürgergeld SGB II SGB IX Schwerbehinderung Pflege Hilfsmittel (Rollstuhl Hörhilfe Vorlesekraft) Eingliederungshilfe SGB VIII Schulbegleitung. Fristenbuch und PKH. Funktioniert allein; empfohlenes Begleitplugin kanzlei-cowork (Skill versand-vor-check für Versandkontrolle Fristenbuch Mandantenakte).
+Vollassistenz für die sozialrechtliche Kanzlei: Bescheidanalyse Widerspruch Klage zum Sozialgericht Eilantrag Akteneinsicht Anlagenerstellung. Spezialisiert auf Bürgergeld SGB II SGB IX Schwerbehinderung Pflege Hilfsmittel (Rollstuhl Hörhilfe Vorlesekraft) Eingliederungshilfe SGB VIII Schulbegleitung. Fristenbuch und PKH. Funktioniert allein; empfohlenes Begleitplugin kanzlei-allgemein (Skill versand-vor-check für Versandkontrolle Fristenbuch Mandantenakte).
 
 ## ⬇️ Direkt-Download (einzelnes ZIP)
 

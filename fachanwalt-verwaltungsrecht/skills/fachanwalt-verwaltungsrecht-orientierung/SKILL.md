@@ -61,6 +61,6 @@ description: Orientierung im Verwaltungsrecht — FAO Voraussetzungen Normen typ
 
 ## Schnittstellen
 
-- **kanzlei-cowork** für Fristen Versand.
+- **kanzlei-allgemein** für Fristen Versand.
 - **fachanwalt-migrationsrecht** bei Ausländerrecht.
 - **sozialrecht-kanzlei** Abgrenzung Sozialgericht vs. Verwaltungsgericht.

@@ -68,6 +68,6 @@ description: Orientierung im Arbeitsrecht und Fachanwaltschaft nach FAO § 10. I
 ## Schnittstellen
 
 - **`arbeitsrecht`** für operative Mandatsführung, Vorlagen.
-- **`kanzlei-cowork`** für Fristen und Versand.
+- **`kanzlei-allgemein`** für Fristen und Versand.
 - **`fachanwalt-sozialrecht`** bei Schnittstellen zur Arbeitslosenversicherung und Sperrzeit.
 - **`fachanwalt-insolvenz-sanierungsrecht`** bei Betriebsübergang § 613a BGB und Insolvenz.

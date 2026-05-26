@@ -94,4 +94,4 @@ Nach Urteil des FG: Revision an BFH (§ 115 FGO) wenn zugelassen oder Nichtzulas
 
 ## Versand
 
-Über beA — vor Versand `versand-vor-check` aus `kanzlei-cowork`.
+Über beA — vor Versand `versand-vor-check` aus `kanzlei-allgemein`.
