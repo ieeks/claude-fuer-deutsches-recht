@@ -20,6 +20,16 @@ Die URL ist stabil und zeigt immer auf die neueste Version. Alle weiteren Plugin
 
 > **Hinweis:** Für den ZIP-Upload muss das Archiv direkt `.claude-plugin/plugin.json`, `skills/`, `assets/` und `references/` im ZIP-Root enthalten. **Nicht** das komplette Repository-ZIP aus „Code → Download ZIP“ verwenden.
 
+### Zum Ausprobieren: Testakten (separat)
+
+Fiktive Mandatsakten zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **Vogt ./. Stadtwerke (Befristungskontrollklage)** | [testakte-befristungskontrollklage-vogt-stadtwerke.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-befristungskontrollklage-vogt-stadtwerke.zip) |
+| **Weber ./. TechLogix (Kuendigungsschutzklage)** | [testakte-kuendigungsschutzklage-weber-techlogix.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-kuendigungsschutzklage-weber-techlogix.zip) |
+
+
 
 ## Für wen ist das Plugin
 

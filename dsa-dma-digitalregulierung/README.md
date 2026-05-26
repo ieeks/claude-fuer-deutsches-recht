@@ -2,6 +2,15 @@
 
 Plugin für die anwaltliche Praxis im Recht der digitalen Märkte und Dienste.
 
+### Zum Ausprobieren: Testakte (separat)
+
+Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separater Download:
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| **Bayerische Baustube / Meissner (DSA/DMA)** | [testakte-dsa-dma-bayrische-baustube-meissner.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-dsa-dma-bayrische-baustube-meissner.zip) |
+
+
 ## Abgedeckte Rechtsakte
 
 | Kürzel | Verordnung / Gesetz | Stoßrichtung |
