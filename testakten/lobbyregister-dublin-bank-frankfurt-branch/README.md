@@ -33,6 +33,17 @@ Muss, darf oder soll die Bank im Lobbyregister einmal oder zweimal erscheinen?
 | [12_finanzaufwendungen_deutschland.csv](12_finanzaufwendungen_deutschland.csv) | Kostenaufteilung Dublin/Frankfurt/Berlin |
 | [13_vorstandsbeschluss_public_policy.md](13_vorstandsbeschluss_public_policy.md) | Board-Minutes und Freigabeproblem |
 | [14_finalcheck_arbeitsblatt.md](14_finalcheck_arbeitsblatt.md) | Qualitaetsgate fuer den Wizard |
+| [15_emailthread_dublin_frankfurt_chaos.eml](15_emailthread_dublin_frankfurt_chaos.eml) | E-Mail-Thread Dublin/Frankfurt mit widerspruechlicher interner Haltung |
+| [16_portal_screenshot_abschrift_dublin.md](16_portal_screenshot_abschrift_dublin.md) | Abschrift des Dublin-Portalentwurfs |
+| [17_portal_screenshot_abschrift_frankfurt_abgebrochen.md](17_portal_screenshot_abschrift_frankfurt_abgebrochen.md) | Abgebrochener Zweitentwurf fuer Frankfurt |
+| [18_telefonnotiz_rfs_vorfrage.md](18_telefonnotiz_rfs_vorfrage.md) | Telefonnotiz zur unverbindlichen RfS-Vorfrage |
+| [19_meeting_notes_bmf_terminvorbereitung.md](19_meeting_notes_bmf_terminvorbereitung.md) | BMF-Terminvorbereitung mit Offenlegungsproblem |
+| [20_offenlegungssaetze_varianten.md](20_offenlegungssaetze_varianten.md) | Gute und schlechte Offenlegungssaetze |
+| [21_interne_risikoampel.xlsx.md](21_interne_risikoampel.xlsx.md) | MD-Vorschau einer Risikoampel |
+| [21_interne_risikoampel.csv](21_interne_risikoampel.csv) | Rohdaten Risikoampel als CSV |
+| [22_kalendereinladung_bundestag.ics](22_kalendereinladung_bundestag.ics) | Kalendereinladung fuer Bundestagstermin |
+| [23_datenschutz_personenfreigabe.md](23_datenschutz_personenfreigabe.md) | Freigaben betrauter Personen fuer Registerdaten |
+| [24_kostenstellen_mapping_dublin_frankfurt.md](24_kostenstellen_mapping_dublin_frankfurt.md) | Kostenstellenmapping Dublin/Frankfurt/Berlin |
 
 ## Lernziel
 

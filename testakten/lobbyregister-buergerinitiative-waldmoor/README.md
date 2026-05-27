@@ -20,6 +20,17 @@ Die Buergerinitiative Waldmoor 2030 wendet sich gegen eine Bundesfernstrassen-Tr
 | [07_freiwillige_registrierung_vermerk.md](07_freiwillige_registrierung_vermerk.md) | Strategie freiwillige Registrierung |
 | [08_kodex_leitfaden_ehrenamt.md](08_kodex_leitfaden_ehrenamt.md) | Kontaktleitfaden fuer Ehrenamtliche |
 | [09_finalcheck.md](09_finalcheck.md) | Qualitaetsgate |
+| [10_whatsapp_export_kernteam.txt](10_whatsapp_export_kernteam.txt) | WhatsApp-Export mit echten Widerspruechen im Kernteam |
+| [11_email_mdb_buero_nachfrage.eml](11_email_mdb_buero_nachfrage.eml) | Rueckfrage eines MdB-Bueros zu Registerstatus und Finanzierung |
+| [12_gutachten_rechnung_planungsbuero.csv](12_gutachten_rechnung_planungsbuero.csv) | Rechnungsdaten fuer Gutachten und Kartenanhang |
+| [13_flyertext_alt_neu.md](13_flyertext_alt_neu.md) | Alter und korrigierter Flyertext |
+| [14_spendenkonflikt_windpark.md](14_spendenkonflikt_windpark.md) | Vermerk zur problematischen Windpark-Spende |
+| [15_netzwerk_liste_rohdaten.csv](15_netzwerk_liste_rohdaten.csv) | Rohdaten zu Rollen im offenen Netzwerk |
+| [16_registerentwurf_freiwillig.json](16_registerentwurf_freiwillig.json) | Entwurf einer freiwilligen Registrierung |
+| [17_anhoerung_statement_entwurf.md](17_anhoerung_statement_entwurf.md) | Statement fuer die oeffentliche Anhoerung |
+| [18_presseanfrage_lokalzeitung.txt](18_presseanfrage_lokalzeitung.txt) | Presseanfrage zur Finanzierung |
+| [19_antwortentwurf_presse.md](19_antwortentwurf_presse.md) | Antwortentwurf an die Lokalzeitung |
+| [20_finalcheck_redteam.md](20_finalcheck_redteam.md) | Red-Team-Notiz zur Kampagnenphase |
 
 ## Lernziel
 

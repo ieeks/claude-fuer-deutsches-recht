@@ -23,6 +23,17 @@ Die Spreebogen Regulatory GmbH betreut zwei Mandanten zum geplanten Wasserstoffb
 | [10_kodex_kontaktleitfaden.md](10_kodex_kontaktleitfaden.md) | Offenlegungssaetze und No-Gos |
 | [11_rfs_rueckfrage_auftraggeber.md](11_rfs_rueckfrage_auftraggeber.md) | Rueckfrage zu Hauptauftraggeber/Unterauftrag |
 | [12_finalcheck.md](12_finalcheck.md) | Qualitaetsgate |
+| [13_emailauftrag_korrektur_mandant.eml](13_emailauftrag_korrektur_mandant.eml) | Mandanten-E-Mail zur zu breiten Auftraggeberformulierung |
+| [14_interner_slack_export.txt](14_interner_slack_export.txt) | Interner Chat-Export mit Zuordnungschaos |
+| [15_event_einladung_fassung_1_falsch.md](15_event_einladung_fassung_1_falsch.md) | Falsch versandte Einladung mit Branchenbehauptung |
+| [16_event_einladung_fassung_2_korrigiert.md](16_event_einladung_fassung_2_korrigiert.md) | Korrigierte Einladung |
+| [17_invoice_opengrid.csv](17_invoice_opengrid.csv) | Rechnungen OpenGrid mit Logistik- und Inhaltsanteilen |
+| [18_stakeholder_mapping_opengrid.csv](18_stakeholder_mapping_opengrid.csv) | Stakeholder-Mapping des Unterauftragnehmers |
+| [19_registerentwurf_agentur.json](19_registerentwurf_agentur.json) | Registerentwurf fuer die Agentur |
+| [20_registerdiff_alt_neu.md](20_registerdiff_alt_neu.md) | Diff zwischen zu breiter und sauberer Registerformulierung |
+| [21_quartalskalender.ics](21_quartalskalender.ics) | Kalenderdaten fuer Quartalsupload und Unterauftragsreview |
+| [22_anlagenverzeichnis.md](22_anlagenverzeichnis.md) | Anlagenverzeichnis der Registerakte |
+| [23_finalcheck_redteam.md](23_finalcheck_redteam.md) | Red-Team-Notiz zu verbleibenden Risiken |
 
 ## Lernziel
 
