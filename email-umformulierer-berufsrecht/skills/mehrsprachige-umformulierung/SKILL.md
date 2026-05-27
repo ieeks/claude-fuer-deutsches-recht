@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-umformulierung
-description: "Hoeflickeitsformeln und Anreden fuer internationale berufliche Korrespondenz in Englisch, Franzoesisch, Italienisch und Spanisch. Mit berufsrechtlichem Kontext fuer grenzueberschreitende anwaltliche Kommunikation."
+description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Pruefraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialitaet Zielkultur. Output: umformulierte Version mit Erklaerung sprachlicher Besonderheiten. Abgrenzung: nicht fuer rein deutsche Korrespondenz."
 ---
 
 # Mehrsprachige Umformulierung

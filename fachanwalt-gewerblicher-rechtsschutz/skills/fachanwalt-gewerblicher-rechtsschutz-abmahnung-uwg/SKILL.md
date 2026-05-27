@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
-description: "UWG-Abmahnung §§ 8 ff. UWG: Aktivlegitimation § 8 Abs. 3 (Mitbewerber, qualifizierte Wirtschaftsverbände, Verbraucherverbände, Kammern). Verbotstatbestände §§ 3a Rechtsbruch, 4 Mitbewerberschutz, 5 Irreführung, 6 vergleichende Werbung, 7 Spam/Belästigung. Strafbewehrte Unterlassungserklärung Hamburger Brauch. Aufwendungsersatz § 13 Abs. 3 UWG. Missbrauch § 8c UWG. Einstweilige Verfügung Dringlichkeit § 12 UWG. Verjährung 6 Monate § 11 UWG. Schriftsatzvorlagen Abmahnung, UE, eV-Antrag."
+description: "UWG-Abmahnung pruefen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Pruefraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht fuer Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung)."
 ---
 
 ## Mandantenfragen beim Kaltstart

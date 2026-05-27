@@ -1,6 +1,6 @@
 ---
 name: email-eingangsanalyse
-description: "Liest den Eingangstext einer E-Mail und identifiziert emotionale Trigger wie Schimpfwoerter, Grossbuchstaben, Ausrufezeichen-Ketten, persoenliche Angriffe, Sarkasmus und Drohgesten. Bewertet den Konfliktgrad als gering, mittel oder hoch."
+description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Pruefraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht fuer die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz)."
 ---
 
 # E-Mail-Eingangsanalyse

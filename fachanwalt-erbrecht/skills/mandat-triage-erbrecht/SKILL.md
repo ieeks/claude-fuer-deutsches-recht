@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-erbrecht
-description: Strukturierte Eingangs-Abfrage fuer erbrechtliche Mandate. Klaert Vorgang (Pflichtteil Erbschein Testamentsanfechtung Erbauseinandersetzung Erbenhaftung Vermaechtnis Erbschaftsausschlagung Erbschaftsteuer Testamentsvollstreckung) Stand (Erblasser lebt noch — Beratung / Erblasser verstorben — Abwicklung) Familienverhaeltnisse Verfuegungen letzter Wille. Fristen Ausschlagung sechs Wochen § 1944 BGB Pflichtteils-Verjaehrung drei Jahre § 2332 BGB Erbschaftsteuer-Anzeige drei Monate § 30 ErbStG. Eskalation Telefon-Sofort bei laufender Ausschlagungsfrist drohender Erbenhaftung Mandantengefahr. Routing zu pflichtteil-berechnen.
+description: "Erbrechtsmandat schnell einordnen und Sofortmassnahmen bestimmen. §§ 1922 1944 2303 BGB §§ 342 ff. FamFG. Pruefraster: Erbfolge Testament Ausschlagungsfrist Pflichtteil Nachlassinsolvenz. Output: Triage-Memo Sofortmassnahmen Fristen-Ampel. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Erbrecht

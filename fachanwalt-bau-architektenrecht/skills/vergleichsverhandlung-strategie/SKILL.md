@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Privates Baurecht, Architekten- und Ingenieurrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Pruefraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten."
 ---
 
 # Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht

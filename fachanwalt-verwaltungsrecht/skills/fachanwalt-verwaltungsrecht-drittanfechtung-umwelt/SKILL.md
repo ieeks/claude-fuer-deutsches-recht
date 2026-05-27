@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-drittanfechtung-umwelt
-description: "Drittanfechtung umweltrechtlicher Genehmigung BImSchG. Klagebefugnis § 42 VwGO Schutznorm-Theorie. Nachbar-Anfechtung Wohngebiet. Subjektive Rechte aus § 5 BImSchG. UVP-Pflicht. Workflow Anfechtungs-Klage VG."
+description: "Drittanfechtung umweltrechtlicher Genehmigungen (BImSchG, BauGB) durch Nachbarn oder Umweltverband: Klagebefugnis und materielle Gruende pruefen. Normen: § 42 Abs. 2 VwGO (Schutznorm-Theorie), § 5 BImSchG (Nachbarschutz), UmwRG (Verbandsklage), UVP-Pflicht. Pruefraster: Klagebefugnis Dritter, drittschuetzende Normen, UVP-Fehler, Verbandsklage. Output Klageschrift-Entwurf, Klagebefugungs-Gutachten. Abgrenzung: BImSchG-Genehmigung Betreiber siehe energieanlagen-bimschg-genehmigung-verfahren; Bauleitplanung Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo."
 ---
 
 # Drittanfechtung Umwelt-Genehmigung

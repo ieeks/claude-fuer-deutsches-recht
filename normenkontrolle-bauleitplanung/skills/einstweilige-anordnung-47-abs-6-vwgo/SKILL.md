@@ -1,6 +1,6 @@
 ---
 name: einstweilige-anordnung-47-abs-6-vwgo
-description: Pruefung und Erstellung eines Eilantrags Paragraf 47 Abs. 6 VwGO im Normenkontrollverfahren gegen Bebauungsplan. Vollzugsfolgenabwaegung als Massstab. Antragsbefugnis wie im Hauptsacheverfahren. Eilbeduerftigkeit erforderlich. Folgenabwaegung nach Massstab BVerfG zur einstweiligen Anordnung. Erfolgsaussichten der Hauptsache als Indiz. Aussetzung des Vollzugs des Bebauungsplans als Folge. Praktisch relevant wenn Baugenehmigung bereits beantragt oder erteilt droht. Streitwert halbe Hauptsache. Anordnung gegen die Stadt Vollzugs-Untersagung gegen Bauherren Baustopp. Glaubhaftmachung durch eidesstattliche Versicherungen und Sachverstaendigenstellungnahmen. Verhaeltnis zu Drittklage gegen Baugenehmigung mit Sofortvollzug.
+description: "Mandant hat Normenkontrollantrag eingereicht und moechte Vollzug des Bebauungsplans bis zur Entscheidung stoppen. § 47 Abs. 6 VwGO einstweilige Anordnung. Pruefraster: Vollzugsfolgenabwaegung als Massstab Eilbeduerftigkeit Baugenehmigung beantragt Antragsbefugnis Aussetzung Vollzug B-Plan Glaubhaftmachung. Output: Eilantrag § 47 Abs. 6 VwGO Schriftsatz. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache) und jahresfrist-47-abs-2-vwgo (Frist beachten)."
 ---
 
 # Einstweilige Anordnung § 47 Abs. 6 VwGO

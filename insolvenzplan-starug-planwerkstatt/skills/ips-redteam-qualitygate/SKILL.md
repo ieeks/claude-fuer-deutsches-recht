@@ -1,6 +1,6 @@
 ---
 name: ips-redteam-qualitygate
-description: "Sucht Fehler im Plan: unvollständige Angaben, Bewertungswiderspruch, Gruppenmissbrauch, fehlende Anlagen, unbestimmte Klauseln und Bestätigungsrisiken."
+description: "Insolvenzplan oder StaRUG-Plan vor Einreichung aus Gegnersicht und Gerichtssicht pruefen. §§ 231 245 251 InsO Versagungsgruende § 64 StaRUG. Pruefraster: Vollstaendigkeit Bewertungswiderspruch Gruppenmissbrauch fehlende Anlagen unbestimmte Klauseln Bestaetigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: Quality Gate fuer alle ips-Skills."
 ---
 
 # Red Team und Quality Gate

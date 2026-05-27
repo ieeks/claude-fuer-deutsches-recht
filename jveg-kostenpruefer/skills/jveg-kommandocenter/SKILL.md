@@ -1,6 +1,6 @@
 ---
 name: jveg-kommandocenter
-description: Startet die JVEG-Kostenpruefung und trennt Rolle, Anspruchsart, Frist, Belege, Rechenweg und gewuenschten Output. Erstellt eine Kostenlandkarte fuer den gesamten Pruefvorgang.
+description: "Navigationszentrum fuer alle JVEG-Kostenpruefer-Skills: Weiterleitung je Personenkategorie und Verfahrensschritt. Normen: JVEG. Pruefraster: Einordnung Personenkategorie, aktueller Verfahrensschritt, Delegierung. Output: Navigationshinweis zum richtigen JVEG-Skill. Abgrenzung: kein inhaltlicher Berechnungs-Skill."
 ---
 
 # JVEG-Kommandocenter

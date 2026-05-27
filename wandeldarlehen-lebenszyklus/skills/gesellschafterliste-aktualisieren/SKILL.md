@@ -1,6 +1,6 @@
 ---
 name: gesellschafterliste-aktualisieren
-description: "Aktualisierte Gesellschafterliste nach § 40 GmbHG mit fortlaufenden Nummern, neuem Lender-Eintrag nach Kapitalerhoehung, Bestaetigung Geschaeftsfuehrung, Notar-Bestaetigung. Gutglaubenswirkung nach § 16 GmbHG und Frist zur Einreichung beim Handelsregister. Transparenzregister-Meldepflicht § 19 GwG."
+description: "Gesellschafterliste nach Kapitalerhohung durch Wandlung aktualisieren und beim Handelsregister einreichen. § 40 GmbHG Gesellschafterliste § 16 GmbHG Legitimationswirkung. Pruefraster: neue Gesellschafter Anteile Stammnummern Notar Einreichungsfrist. Output: aktualisierte Gesellschafterliste Einreichungsschreiben. Abgrenzung: nicht fuer Cap-Table-Kalkulation (cap-table-update-pre-post)."
 ---
 
 # Gesellschafterliste aktualisieren (§ 40 GmbHG)

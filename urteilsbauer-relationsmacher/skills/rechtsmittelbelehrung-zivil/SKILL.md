@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelbelehrung-zivil
-description: "Erstellt die Rechtsmittelbelehrung nach Paragrafen 232 ZPO 511 ff ZPO 567 ff ZPO. Berufung gegen Endurteile des AG ueber 600 Euro Beschwer Frist ein Monat ab Zustellung Berufungsbegruendung weitere zwei Monate sofortige Beschwerde gegen Beschluesse Frist zwei Wochen. Beschwerdewert Pruefung. Form Schriftform Anwaltszwang vor LG OLG."
+description: "Rechtsmittelbelehrung nach §§ 232 ff., 511 ff., 567 ff. ZPO korrekt formulieren: Richter muss Belehrung an Urteil oder Beschluss anfuegen. Normen: § 232 ZPO (Belehrungspflicht), § 511 ZPO (Berufung), § 567 ZPO (sofortige Beschwerde). Pruefraster: Berufung gegen Endurteile AG ueber 600 EUR Beschwer, Frist 1 Monat, Berufungsbegruendung 2 Monate; sofortige Beschwerde 2 Wochen; Beschwerdewert; Anwaltszwang. Output Rechtsmittelbelehrung-Entwurf passend zum Entscheidungstyp. Abgrenzung: Tenorierung siehe tenor-bauen-zivil; Berufungsfestigkeit siehe berufungsfest-pruefen."
 ---
 
 # Rechtsmittelbelehrung Zivil

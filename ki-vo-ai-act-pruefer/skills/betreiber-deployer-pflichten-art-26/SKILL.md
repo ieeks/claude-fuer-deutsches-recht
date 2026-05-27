@@ -1,6 +1,6 @@
 ---
 name: betreiber-deployer-pflichten-art-26
-description: "Pflichten von Betreibern (Deployers) von Hochrisiko-KI nach Art. 26 KI-VO: bestimmungsgemaesze Verwendung menschliche Aufsicht sicherstellen Eingaberelevanz Protokollaufbewahrung. Grundrechte-Folgenabschaetzung Art. 27 KI-VO fuer oeffentliche Stellen und bestimmte Privatbetreiber."
+description: "Unternehmen oder Behoerde setzt eingekauftes Hochrisiko-KI-System ein und fragt: Welche Pflichten haben wir als Betreiber? Art. 26 KI-VO Betreiber-Pflichten. Pruefraster: bestimmungsgemaesze Verwendung menschliche Aufsicht Art. 14 sicherstellen Eingabedaten-Relevanz Protokollaufbewahrung Abweichungsmeldung an Anbieter. Grundrechte-Folgenabschaetzung Art. 27 fuer oeffentliche Stellen und Private bei Risikobereichen. Output: Betreiber-Compliance-Checkliste und Folgenabschaetzungs-Muster. Abgrenzung zu output-betreiber-checkliste-und-folgenabschaetzung (fertige Vorlagen)."
 ---
 
 # Betreiber-Pflichten (Deployer) — Art. 26 und 27 KI-VO

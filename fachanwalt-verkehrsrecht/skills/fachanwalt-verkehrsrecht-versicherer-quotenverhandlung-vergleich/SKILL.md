@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich
-description: "Kfz-Versicherer-Verhandlung Unfallregulierung Mitverschuldensquote § 254 BGB. Vorgerichtliche Korrespondenz Schmerzensgeld-Tabelle Hacks. Gerichtlicher Vergleich § 278 Abs. 6 ZPO. Mediation bei Personenschaden mit Schwerstverletzung. Workflow Schadensanzeige Quotenermittlung Vergleichsverhandlung."
+description: "Versicherer hat Regulierung angeboten und Anwalt verhandelt Quotenerhöhung oder Vergleich. Versicherer-Verhandlung Unfallregulierung. Pruefraster: Mitverschuldensquote § 254 BGB vorgerichtliche Korrespondenz Schmerzensgeld-Tabellen gerichtlicher Vergleich § 278 Abs. 6 ZPO Mediation Personenschaden. Output: Verhandlungspaket und Vergleichsentwurf. Abgrenzung zu fachanwalt-verkehrsrecht-unfallregulierung-quoten (Berechnung) und vergleichsverhandlung-strategie (Strategie)."
 ---
 
 # Versicherer-Verhandlung / Quotenstreit im Verkehrsrecht

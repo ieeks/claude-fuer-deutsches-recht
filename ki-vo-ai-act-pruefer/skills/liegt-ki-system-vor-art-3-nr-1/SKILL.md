@@ -1,6 +1,6 @@
 ---
 name: liegt-ki-system-vor-art-3-nr-1
-description: "KERNSKILL: Prueft ob ein KI-System im Sinne von Art. 3 Nr. 1 KI-VO vorliegt. Maschinengestuetztes System mit Autonomiegrad das aus Eingaben Ausgaben wie Vorhersagen Inhalte Empfehlungen oder Entscheidungen generiert. Abgrenzung zu regelbasierter Software. Leitlinien Kommission Februar 2025."
+description: "Erster Schritt jeder KI-VO-Pruefung: Unternehmen fragt ob die eigene Software oder Anwendung ueberhaupt ein KI-System nach der KI-VO ist und ob die Verordnung gilt. Art. 3 Nr. 1 KI-VO Definition KI-System. Pruefraster: maschinengesteuertes System Autonomiegrad Inferenz aus Eingaben Ausgaben Vorhersagen Inhalte Empfehlungen Entscheidungen. EU-Kommissions-Leitlinien Februar 2025. Output: Einordnungsentscheidung mit Begruendung. Abgrenzung zu abgrenzung-konventionelle-software-vs-ki-system (Grenzfaelle) und triage-ki-vo-vorpruefung (Einstiegsinterview)."
 ---
 
 # Liegt ein KI-System vor? — Art. 3 Nr. 1 KI-VO

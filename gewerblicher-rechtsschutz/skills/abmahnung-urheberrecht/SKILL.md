@@ -1,6 +1,6 @@
 ---
 name: abmahnung-urheberrecht
-description: "Prüfung und Erstellung urheberrechtlicher Abmahnungen nach § 97a UrhG; modifizierte Unterlassungserklärung; Deckelung der Abmahnkosten im privaten Bereich (§ 97a Abs. 3 UrhG); Filesharing-Praxis; Lizenzanalogie-Schadensersatz (§ 97 Abs. 2 UrhG). Lädt bei urheberrechtlichen Abmahnungen, Unterlassungs- erklärungen, Filesharing-Fällen oder Schadensersatzforderungen nach UrhG."
+description: "Urheber oder Lizenznehmer erhielt unerlaubte Nutzung (Bild Text Video) oder Mandant erhielt Abmahnung wegen Urheberrechtsverletzung. § 97a UrhG Abmahnung und Unterlassung. Pruefraster: modifizierte Unterlassungserklaerung Deckelung Abmahnkosten § 97a Abs. 3 UrhG im privaten Bereich Filesharing-Praxis Lizenzanalogie § 97 Abs. 2 UrhG Schadensersatz. Output: Abmahnungsentwurf oder Reaktions-Memo auf erhaltene Abmahnung. Abgrenzung zu unterlassungsverlangen (MarkenG UWG PatG) und verletzungs-triage (Erstentscheidung)."
 ---
 
 # Urheberrechtliche Abmahnung – § 97a UrhG

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-abnahme-mit-vorbehalt
-description: "Abnahme § 640 BGB foermlich konkludent fiktiv. Vorbehalt § 640 Abs. 3 BGB bei bekannten Maengeln und Vertragsstrafenanspruch § 341 Abs. 3 BGB. Wirkungen Abnahme Faelligkeit Werklohn § 641 BGB Gefahruebergang § 644 BGB Verjaehrungsbeginn § 634a BGB Beweislastumkehr. VOB/B § 12 foermliche Abnahme Begehungsprotokoll. Einbehalt § 641 Abs. 3 BGB doppelter Maengelbeseitigungsaufwand. BGH VII ZR 244/12."
+description: "Abnahme des Bauwerks unter Vorbehalt von Maengeln erklaeren: Maengelvorbehalt, Sicherungsrechte. Normen: §§ 640 641 BGB, § 12 VOB/B. Pruefraster: Abnahmeprotokoll, Maengelruege, Vorbehalt-Wirkung, Gefahruebergang. Output: Abnahmeerklaerung mit Maengelvorbehalt. Abgrenzung: nicht vollstaendige Abnahmeverweigerung."
 ---
 
 # Abnahme mit Vorbehalt

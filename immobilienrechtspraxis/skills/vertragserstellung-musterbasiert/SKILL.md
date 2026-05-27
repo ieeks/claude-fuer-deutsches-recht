@@ -1,6 +1,6 @@
 ---
 name: vertragserstellung-musterbasiert
-description: Erstellt immobilienrechtliche Vertraege strikt auf Basis hausinterner Mustervertraege und Term Sheets. Kernregel ist Klauselschutz — vorgegebene Musterklauseln werden NICHT umformuliert. KI fuellt nur markierte Platzhalter und Variablen, erzeugt projektspezifische Anlagen und protokolliert jede Abweichung vom Muster mit Begruendung. Geeignet fuer Mietvertraege (Wohnraum und Gewerbe), Kaufvertraege ueber Immobilien, Bestellung von Grunddienstbarkeiten, Erbbaurechte, Verwaltervertraege nach WEG und Asset-Management-Vertraege. Ausgabe ist .docx auf Muster-Layout mit Aenderungsprotokoll und Hinweisen wo manuelle Pruefung zwingend ist (zB Genehmigungserfordernisse Vorkaufsrechte oeffentlich-rechtliche Lasten).
+description: "Immobilienrechtliche Vertraege auf Musterbasis erstellen: Kaufvertrag, Mietvertrag, WEG-Beschluss. Normen: §§ 433 ff. 535 ff. 873 BGB, WEG, GrEStG. Pruefraster: Musterauswahl, Anpassung an Sachverhalt, Notarerfordernis. Output: Vertragsentwurf auf Musterbasis. Abgrenzung: nicht individuelle Vertragspruefung."
 ---
 
 # Vertragserstellung musterbasiert

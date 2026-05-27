@@ -1,6 +1,6 @@
 ---
 name: versorgungsordnung-und-betriebsvereinbarung-drafting
-description: "Volltext-Templates fuer Versorgungsordnungen und Betriebsvereinbarungen (Duesseldorfer Schule) der betrieblichen Altersversorgung: Anpassungsklauseln nach Paragraph 16 BetrAVG Spaetehenklauseln (BAG 3 AZR 174/13) Hinterbliebenenversorgung Unverfallbarkeit und Widerrufsvorbehalte fuer Konzerne."
+description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einfuehrung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Pruefraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschaeftsfuehrervertrag."
 ---
 
 # Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)

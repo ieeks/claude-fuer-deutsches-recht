@@ -1,6 +1,6 @@
 ---
 name: frachtfuehrerhaftung-pruefen
-description: "Pruefraster fuer Frachtfuehrerhaftung — Abgrenzung CMR fuer grenzueberschreitenden Strassenverkehr vs. HGB-Frachtrecht §§ 407 ff. HGB fuer innerstaatlich oder Schiene-Wasser. Haftungstatbestaende Verlust Beschaedigung Lieferfristueberschreitung Haftungshoechstgrenzen SDR Art. 23 CMR und § 431 HGB qualifiziertes Verschulden Art. 29 CMR § 435 HGB Wegfall Haftungsbeschraenkung Verjaehrung ein Jahr drei Jahre bei Vorsatz."
+description: "Frachtfuehrerhaftung fuer Verlust oder Beschaedigung des Gutes nach HGB pruefen. Normen: §§ 425 427 428 HGB. Pruefraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtfuehrerhaftungs-Pruefergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB."
 ---
 
 # Frachtführer-Haftung prüfen

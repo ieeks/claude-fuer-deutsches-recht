@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-closing-bible-archiv
-description: "Closing Bible und Archiv: Erstellt Closing Bible, Versionierung, Signaturketten, Registerbelege und Deal-Archiv fuer M&A-Transaktionen. Prueft Vollstaendigkeit aller Closing-Dokumente und Anlagen gemaess Deliverables-Checkliste im SPA."
+description: "Closing Bible und Deal-Archiv nach M&A-Closing erstellen: Mandant oder Partner benoetigt vollstaendige Vertragsdokumentation mit Signaturketten, Registerbelegen, Notarbestaetigungen und Anlagen. Normen: SPA Deliverables-Checkliste, § 15 GmbHG, § 130 AktG. Pruefraster Vollstaendigkeit aller Closing-Dokumente, Versionierung, Zugriffsrechte. Output Closing Bible (PDF/ZIP), Deal-Memo, Archivierungsprotokoll. Abgrenzung: Vorstufe ist signing-closing-conditions; fuer Handelsregisteranmeldungen siehe gesellschaftsrecht-register."
 ---
 
 # Closing Bible und Archiv

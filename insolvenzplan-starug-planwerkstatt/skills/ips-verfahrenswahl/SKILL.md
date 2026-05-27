@@ -1,6 +1,6 @@
 ---
 name: ips-verfahrenswahl
-description: "Vergleicht Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG, außergerichtliche Einigung und Regelabwicklung mit Warnschwellen."
+description: "Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und aussergerichtliche Einigung vergleichen. §§ 270 270d InsO §§ 29 42 StaRUG. Pruefraster: Zahlungsunfaehigkeit Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung mit Bedingungen Risikoampel. Abgrenzung: nicht fuer Detailplanung der gewaehlten Route."
 ---
 
 # Verfahrenswahl und Routenentscheidung

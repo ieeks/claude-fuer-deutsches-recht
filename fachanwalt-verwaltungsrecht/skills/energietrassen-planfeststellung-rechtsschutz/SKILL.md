@@ -1,6 +1,6 @@
 ---
 name: energietrassen-planfeststellung-rechtsschutz
-description: Klagen Drittbetroffener Anlieger Umweltverbaende gegen Planfeststellungs-Beschluss Stromtrassen Erdgas-Pipelines LNG-Terminals Wasserstoff-Stammnetz nach EnLAG BBPlG NABEG WindSeeG LNG-Beschleunigungsgesetz. Erstinstanz BVerwG verkuerzte Klagefrist 1 Monat. UmwRG-Verbandsklage Klimaschluss BVerfG 1 BvR 2656/18 LNG-Streit BVerwG-Linie. Aarhus-Konvention. Eilrechtsschutz § 80 Abs. 5 VwGO bei sofortiger Vollziehung. Entwidmung Bahnflaechen § 23 AEG § 38 BauGB. Erdkabel-Vorrang.
+description: "Rechtsschutz gegen Planfeststellungsbeschluss fuer Strom- und Gastrassen klagen: Anlieger oder Umweltverband klagt gegen Netzausbau. Normen: § 43 EnWG, BBPlG, NABEG, EnLAG, LNG-Beschleunigungsgesetz; BVerwG als Erstinstanz. Pruefraster: Klagebefugnis, verkuerzte Klagefrist 1 Monat, UmwRG-Verbandsklage, Aarhus-Konvention, Erdkabel-Vorrang. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: BImSchG-Anlagen siehe energieanlagen-bimschg-genehmigung-verfahren; Planfeststellung allgemein VwVfG siehe schriftsatzkern-substantiierung."
 ---
 
 # Energietrassen — Planfeststellung und Rechtsschutz

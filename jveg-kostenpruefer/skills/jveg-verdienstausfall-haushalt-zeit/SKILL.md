@@ -1,6 +1,6 @@
 ---
 name: jveg-verdienstausfall-haushalt-zeit
-description: Trennt Verdienstausfall, Haushaltsfuehrungsnachteile und Zeitversaeumnis nach §§ 20 bis 22 JVEG, verhindert Doppelberechnung und berechnet Selbstaendigenansprueche.
+description: "Verdienstausfall und Zeitversaeumnis nach §§ 20 ff. JVEG fuer Zeugen und Sachverstaendige berechnen. Normen: §§ 20 21 22 JVEG. Pruefraster: tatsaechlicher Verdienstausfall, Stundensatz, Haushaltsfuehrung. Output: Verdienstausfall-Berechnung JVEG. Abgrenzung: nicht Sachverstaendigenverguetung."
 ---
 
 # JVEG-Verdienstausfall-Haushalt-Zeit

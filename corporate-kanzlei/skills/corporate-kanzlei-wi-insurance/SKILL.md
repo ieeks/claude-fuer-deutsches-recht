@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-wi-insurance
-description: "W&I-Versicherung (Warranty & Indemnity Insurance): Strukturiert und prueft W&I-Policen im M&A-Prozess. Kaeufer-Policy vs. Verkaefer-Policy, Underwriting-Prozess, No-Claims Declaration, Deckungsluecken, Enhanced Disclosure. Praxis UK, DE."
+description: "W&I-Versicherung (Warranty & Indemnity Insurance) strukturieren und pruefen: M&A-Berater braucht Policen-Analyse oder Underwriting-Vorbereitung. Normen: SPA Reps & Warranties, VVG, englisches Insurance-Recht (Lloydserfahrung). Pruefraster: Kaeufer- vs. Verkaeufer-Policy, Underwriting-Prozess, No-Claims-Declaration, Deckungsluecken, Enhanced-Disclosure. Output Policy-Review-Memo, Gap-Analyse Deckung vs. SPA-Exposure, Underwriting-Information-Pack. Abgrenzung: SPA-Reps siehe spa-apa-entwurf; Disclosure Schedules siehe disclosure-schedules."
 ---
 
 # W&I-Versicherung (Warranty & Indemnity Insurance)

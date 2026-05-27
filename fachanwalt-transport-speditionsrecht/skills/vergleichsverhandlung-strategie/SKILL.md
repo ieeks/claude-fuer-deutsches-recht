@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Transport-, Speditions- und Logistikrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Vergleichsverhandlung im Transport- und Speditionsrecht strategisch vorbereiten: BATNA, Angebotsstrategie. Normen: §§ 779 BGB, § 278 ZPO. Pruefraster: Forderungshoehe, Haftungslimits, Vergleichsspielraum. Output: Vergleichsverhandlungs-Strategie Transport. Abgrenzung: nicht ADSP-Schiedsverfahren."
 ---
 
 # Vergleichsverhandlung und Einigung im Transport-, Speditions- und Logistikrecht

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-rechtsformwahl
-description: "Rechtsformwahl fuer Unternehmensgruendung. Vergleicht GmbH UG GbR OHG KG GmbH und Co KG AG PartG PartG mbB gGmbH eK nach Haftung Mindestkapital Notarpflicht Steuer Buchfuehrungspflicht Sozialversicherung Reputation Investorentauglichkeit Komplexitaet. Mit Entscheidungsmatrix und Schluesselfragen. MoPeG 2024 mit eGbR-Eintragung."
+description: "Rechtsformwahl fuer Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE im Vergleich. Normen: GmbHG, AktG, PartGG, HGB, SE-VO. Pruefraster: Haftung, Steuern, Kapital, Mitbestimmung, Borsenreife. Output: Rechtsformvergleich-Matrix mit Empfehlung. Abgrenzung: nicht Gruendungsunterlagen (separate Skills je Rechtsform)."
 ---
 
 # Rechtsformwahl

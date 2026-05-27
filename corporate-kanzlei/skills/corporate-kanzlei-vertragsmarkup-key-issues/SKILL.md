@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-vertragsmarkup-key-issues
-description: "Vertragsmarkup und Key Issues: Erstellt juristischen Markup fuer M&A-Vertraege und Key-Issues-Memos. Identifiziert kritische Abweichungen vom Marktstandard in SPA, SHA, NDA, LOI. Normen: §§ 305 ff. BGB, Marktstandard DE/UK."
+description: "Juristischen Markup fuer M&A-Vertraege und Key-Issues-Memo erstellen: Gegenpartei hat SPA/SHA/NDA/LOI-Entwurf uebersandt und muss kommentiert werden. Normen: §§ 305 ff. BGB (AGB-Kontrolle im B2B), Marktstandard DE/UK M&A. Pruefraster: Abweichungen vom Marktstandard, kritische Klauseln (MAC, Indemnification, Reps Survival), Red-Lines vs. Nice-to-have. Output Markup mit Kommentaren, Key-Issues-Memo, Verhandlungs-Prioritaetenliste. Abgrenzung: SPA-Ersterstellung siehe spa-apa-entwurf; AGB-Pruefung allgemein siehe Vertragsrecht-Plugin."
 ---
 
 # Vertragsmarkup und Key Issues

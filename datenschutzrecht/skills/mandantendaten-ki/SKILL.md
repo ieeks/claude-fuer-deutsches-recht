@@ -1,6 +1,6 @@
 ---
 name: mandantendaten-ki
-description: "Begleitet Rechtsanwälte und Berufsgeheimnisträger bei der datenschutz- und berufsrechtlich konformen Nutzung von KI-Diensten und externen IT-Dienstleistern für die Verarbeitung von Mandantendaten. Lädt bei Fragen zu § 203 StGB, anwaltlicher Verschwiegenheit (§ 43a BRAO), AVV und KI-Systemen."
+description: "Datenschutzkonforme Verwendung von Mandantendaten beim Einsatz von KI-Tools in der Kanzlei pruefen. Art. 5 6 DSGVO BRAO § 43a Verschwiegenheit. Pruefraster: Rechtsgrundlage Zweckbindung Vertraulichkeit Anwaltsprivileg AVV KI-Anbieter. Output: Compliance-Memo Nutzungsempfehlung. Abgrenzung: nicht fuer allgemeine KI-VO-Fragen (ki-verordnung-compliance)."
 ---
 
 # Mandantendaten und KI-Dienstleister (§ 203 StGB, Art. 28 DSGVO)

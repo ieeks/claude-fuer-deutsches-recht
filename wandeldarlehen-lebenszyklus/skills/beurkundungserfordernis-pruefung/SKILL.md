@@ -1,6 +1,6 @@
 ---
 name: beurkundungserfordernis-pruefung
-description: "Pruefung nach § 15 Abs. 3 und Abs. 4 GmbHG: Beurkundungsbeduerftig wenn unbedingte oder bedingte Anteilsabtretung Bestandteil ist; nicht beurkundungsbeduerftig wenn nur schuldrechtliche Verpflichtung mit nachgelagerter Kapitalerhoehung (zweistufige Konstruktion). BGH II ZR 76/79 und BGH II ZR 256/08. OLG Muenchen 31 Wx 79/16. Heilungsklausel und Trennungsprinzip."
+description: "Beurkundungserfordernis fuer Wandeldarlehen und Kapitalerhohung pruefen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Pruefraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formpruefungs-Memo mit Empfehlung. Abgrenzung: nicht fuer Textform-Fragen (textform-vs-schriftform-vs-notariell)."
 ---
 
 # Beurkundungserfordernis-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-foerderung-vergabe
-description: "Foerderrecht Verkehrsinfrastruktur: GVFG Bundesanteil Laenderanteil BVWP. Vergaberecht oeffentliche Auftraege: GWB §§ 97 ff. VgV UVgO. EU-Schwellenwerte. Ruegepflicht § 160 GWB. Vergabekammer Sofortzuschlags-Verbot. Zuwendungsrecht BHO BNBV. Nebenbestimmungen Zweckbindungsfristen."
+description: "Foerderrecht und Vergabe fuer Verkehrsinfrastruktur-Projekte: Kommune oder Vorhabentraeger beantragt GVFG-Mittel oder schreibt oeffentlichen Auftrag aus. Normen: GVFG (Bundesanteil und Laenderanteil), BHO §§ 23 und 44 (Zuwendungsrecht), GWB §§ 97 ff., VgV, UVgO (Vergaberecht). Pruefraster: Foerderfaehigkeit nach BVWP, EU-Schwellenwerte, Ruegepflicht § 160 GWB, Vergabekammer, Zuwendungsbescheid Nebenbestimmungen, Zweckbindungsfristen. Output Foerderantrag-Pruefung, Vergabe-Kurzgutachten. Abgrenzung: Planfeststellung Bau siehe verkehr-infrastrukturrecht-planfeststellung; Vergaberecht detail siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Foerderrecht und Vergabe — Verkehrsinfrastruktur

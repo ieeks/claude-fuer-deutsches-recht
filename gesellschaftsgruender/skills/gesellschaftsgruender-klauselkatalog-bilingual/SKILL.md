@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-klauselkatalog-bilingual
-description: "Volltextliche Standardklauseln Deutsch und Englisch fuer GmbH-Satzung und SHA. Stimmbindungs-Vorrangklausel Golden-Share-StaRUG-Veto Sperrminoritaets-Klausel BSG-fest Drag- und Tag-Along Liquidation Preference Anti-Dilution Vesting Bad-Leaver Koppelungsklausel nachvertragliches Wettbewerbsverbot Karenzentschaedigung. Mit Sprachvorrang-Klausel und BGH-/BSG-Belegen."
+description: "Klauselkatalog fuer GmbH-Satzung und SHA in Deutsch und Englisch: Standardklauseln fuer internationale Investoren. Normen: GmbHG, BGB. Pruefraster: Drag-Along, Tag-Along, Liquidationspräferenzen, Leaver-Klauseln. Output: Klauselkatalog bilinguale Fassung. Abgrenzung: nicht vollstaendiger Gesellschaftsvertrag."
 ---
 
 # Klauselkatalog bilingual DE/EN

@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-zeugen-polizei-strategie
-description: "Zeugen-Strategie bei Polizeibeamten im OWi-Verfahren. Aussage-Konstanz Protokoll vs. HV. Erinnerungsfaehigkeit bei Routine-OWi. Fragerecht § 240 StPO i.V.m. § 71 OWiG. Vorhalt frueherer Aussage. Sachverstaendiger zur Aussage-Glaubwuerdigkeit. Zeugen-Vorbereitung."
+description: "Zeugen-Strategie gegenueber Polizeibeamten im OWi-Verfahren: Polizeibeamter als einziger Zeuge in der HV. Normen: § 240 StPO i.V.m. § 71 OWiG (Fragerecht), §§ 373 ff. StPO (Zeugenvernehmung). Pruefraster: Aussage-Konstanz (Protokoll vs. HV), Erinnerungsfaehigkeit Routine-OWi, Vorhalt frueherer Aussage, Sachverstaendiger Aussage-Glaubwuerdigkeit. Output Fragenkatalog fuer Polizeizeugen-Vernehmung, Strategie-Memo. Abgrenzung: Fahreridentifizierung siehe verkehrsowi-fahreridentifizierung; HV-Gesamt siehe verkehrsowi-hauptverhandlung-amtsgericht."
 ---
 
 # Polizeibeamten als Zeugen im OWi-Verfahren

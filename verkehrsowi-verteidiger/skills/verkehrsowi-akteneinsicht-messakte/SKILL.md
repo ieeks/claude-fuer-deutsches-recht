@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-akteneinsicht-messakte
-description: "Akteneinsicht im OWi-Verfahren nach § 49 OWiG i.V.m. § 147 StPO. Vollstaendige Messakte anfordern: Eichschein Schulungsnachweis Messprotokoll Rohmessdaten Beschilderungsplan. BVerfG NJW 2021 455 zu Rohmessdaten. Verweigerung und Beschwerde. Elektronische Messakte."
+description: "Vollstaendige Messakte im OWi-Verfahren anfordern und pruefen: Pflichtverteidigung benoetigt Rohmessdaten und Eichunterlagen. Normen: § 49 OWiG i.V.m. § 147 StPO (Akteneinsicht), BVerfG NJW 2021 455 (Rohmessdaten-Recht). Pruefraster: Eichschein, Schulungsnachweis Messbeamter, Messprotokoll, Rohmessdaten, Beschilderungsplan vollstaendig. Output Akteneinsichts-Antrag, Checkliste fehlende Unterlagen, Beschwerde bei Verweigerung. Abgrenzung: Beweisverwertung siehe verkehrsowi-beweisverwertung-standardisiert; Messverfahren Details siehe verkehrsowi-messverfahren-geschwindigkeit."
 ---
 
 # Akteneinsicht und Messakte im OWi-Verfahren

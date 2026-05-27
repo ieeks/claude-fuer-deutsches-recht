@@ -1,6 +1,6 @@
 ---
 name: pruefer-uebergabe-paket
-description: "Schnuert das vollstaendige Pruefer-Paket nach Abschluss eines Wuerfellaufs — Excel-Wuerfel-Datei aus Skill `excel-multi-sheet-export` PDF-Bericht aus `pdf-bericht-erzeugen` Belegketten-CSV aus `belegkette-rueckverfolgung` Audit-Trail-Auszug aus `audit-trail-protokoll` Prompt-Versionen aus `prompt-versionierung` Widerspruchsbericht aus `kreuzblatt-konsistenzpruefung` Ampel-Aggregat aus `risikoampel-aggregation` Pruefer-Flag-Arbeitsliste. Erzeugt ein ZIP-Paket plus Begleitschreiben. Pflichtschritt vor Mandatsabnahme. Ohne Pruefer-Unterschrift kein Versand an Mandant."
+description: "Uebergabepaket fuer Prueferwechsel im 3D-Review zusammenstellen: aktueller Stand, offene Positionen. Normen: §§ 174 ff. InsO. Pruefraster: Fortschrittsstand, kritische Punkte, Dokumentation. Output: Uebergabedokument fuer naechsten Pruefer. Abgrenzung: nicht Audit-Trail."
 ---
 
 # /tabellenreview-3d:prüfer-übergabe-paket

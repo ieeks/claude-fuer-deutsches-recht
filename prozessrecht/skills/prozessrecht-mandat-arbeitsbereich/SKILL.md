@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-mandat-arbeitsbereich
-description: "Verwaltet Mandatsarbeitsbereiche für Mehrmandat-Kanzleien — anlegen, auflisten, wechseln, abschließen oder vom aktiven Mandat lösen. Lädt, wenn der Nutzer einen neuen Mandatsarbeitsbereich anlegen, das aktive Mandat wechseln, Mandate auflisten, ein Mandat archivieren oder nur auf Kanzleiebene arbeiten möchte."
+description: "Digitaler Arbeitsbereich fuer Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Pruefraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill."
 ---
 
 # Mandatsarbeitsbereich

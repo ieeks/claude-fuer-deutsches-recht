@@ -1,6 +1,6 @@
 ---
 name: europarecht-vorlageverfahren-art-267
-description: "Entwickelt Vorlagefragen, Entscheidungserheblichkeit, letztinstanzliche Vorlagepflicht und Verfahrensstrategie."
+description: "Vorabentscheidungsersuchen nach Art. 267 AEUV vorbereiten oder Vorlagepflicht eines nationalen Gerichts pruefen. Art. 267 AEUV Vorabentscheidungsverfahren. Pruefraster: Vorlagepflicht acte-clair-Doktrin Vorlagefrage Formulierung Aussetzung nationale Verfahrensposition. Output: Vorlagefragentwurf Vorlage-Memo. Abgrenzung: nicht fuer Klagen unmittelbar beim EuGH (europarecht-klagearten-eugh)."
 ---
 
 # Vorlageverfahren Art. 267 AEUV

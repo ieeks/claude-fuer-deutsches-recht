@@ -1,6 +1,6 @@
 ---
 name: aktenintake-zivil
-description: "Strukturiert eine eingehende Zivilakte vor der ersten Pruefung: Klagschrift mit Antraegen Streitwert Sachvortrag Beweisangeboten Anlagen Zustellnachweis Klageerwiderung Replik Duplik Schriftsatznachreichungen Beweisbeschluss Protokolle muendliche Verhandlung Sachverstaendigengutachten Zeugenaussagen. Erstellt Aktenuebersicht mit Datum Verfasser Inhalt Bezugnahmen Bewertung. Mit Tabellen-Template Pruefliste fuer Hinweispflichten Schnittstelle zur Relation."
+description: "Eingehende Zivilakte vor erster Pruefung strukturieren: Richter oder Referendar erhalt neue Akte und muss Ueberblick gewinnen. Normen: § 313 ZPO (Urteilsinhalt), § 286 ZPO (freie Beweiswuerdigung), § 139 ZPO (richterliche Hinweispflicht). Pruefraster: Klagschrift mit Antraegen, Streitwert, Sachvortrag, Beweisangebote, Anlagen, Zustellung, Klageerwiderung, Replik, Beweisbeschluss, Protokolle, Gutachten. Output Aktenuebersicht-Tabelle, Pruefliste Hinweispflichten, Schnittstelle zur Relation. Abgrenzung: Detailpruefung Zulaessigkeit siehe zulaessigkeit-pruefen; Relationserstattung siehe relation-zivil."
 ---
 
 # Aktenintake Zivilprozess

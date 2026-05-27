@@ -1,6 +1,6 @@
 ---
 name: mandat-erstgespraech-normenkontrolle
-description: Strukturiertes Erstgespraech fuer Normenkontroll-Mandat gegen Bebauungsplan Flaechennutzungsplan oertliche Bauvorschrift. Aufnahme Mandantenbetroffenheit Eigentum Nachbarschaft Belang. Pruefung der vier Zulaessigkeitssaeulen statthaftigkeit Antragsbefugnis Antragsfrist Rechtsschutzbeduerfnis. Vorlaeufige Erfolgsaussichten anhand erste Plan-Sichtung Bekanntmachung Begruendung. Kosten-Aufklaerung RVG-Wahlmandat Streitwert nach Streitwertkatalog Verwaltungsgerichtsbarkeit Nr 9.8.1. Mandantenchronologie der Beteiligung am Aufstellungsverfahren als Schluesselgrundlage fuer Ruegefristen Paragraf 215 BauGB. Aktenanlage und Dokumentation. Entscheidung Hauptsache versus Eilantrag Paragraf 47 Abs. 6 VwGO. Mandatsannahme oder Ablehnung mit Begruendung.
+description: "Grundstueckseigentuemer oder Nachbar kommt wegen Bebauungsplan oder FNP in die Kanzlei. Erstgespraech Normenkontrollmandat. Pruefraster: Mandantenbetroffenheit Antragsbefugnis § 47 Abs. 2 VwGO Antragsfrist Statthaftigkeit Erstpruefung Plan-Unterlagen vorlaeufige Erfolgsaussichten Kostenaufklaerung RVG Streitwert. Output: Erstgespraechen-Protokoll Mandatsannahme-Empfehlung Fallplan. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptschriftsatz) und jahresfrist-47-abs-2-vwgo."
 ---
 
 # Erstgespräch Normenkontroll-Mandat

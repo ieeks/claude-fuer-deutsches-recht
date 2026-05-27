@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-auswerten
-description: Systematische Auswertung der beigezogenen Verwaltungs- oder Gerichtsakte — chronologische Sichtung Identifikation entscheidungserheblicher Aktenstuecke (Antrag Bescheid Widerspruch medizinische Gutachten Sachverstaendigenstellungnahmen Aktenvermerke). Erzeugt Aktenchronik Aktenliste mit Bewertung pro Eintrag (entscheidend / hilfreich / neutral / belastend) Widerspruechen zwischen Aktenteilen und Pruefkatalog fuer Folgeschriftsatz. Anschluss an Skill `widerspruch-formulieren` oder `klage-sozialgericht`.
+description: "Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch fuer Widerspruch oder Klage auswerten. § 25 SGB X § 120 SGG. Pruefraster: chronologische Sichtung Identifikation entscheidungserheblicher Aktenstuecke Widersprueche zwischen Aktenteilen Beweislage. Output: Aktenchronik Aktenliste mit Bewertung pro Eintrag (entscheidend/hilfreich/neutral/belastend) und Pruefkatalog fuer Folgeschriftsatz. Abgrenzung zu akteneinsicht-anfordern (Antrag) und bescheidanalyse (Bescheid-Fokus)."
 ---
 
 # Akteneinsicht auswerten

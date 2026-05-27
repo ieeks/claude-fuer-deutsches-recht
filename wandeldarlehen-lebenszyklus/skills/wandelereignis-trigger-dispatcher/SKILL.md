@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-trigger-dispatcher
-description: Master-Logik fuer Wandelereignis-Erkennung bei mehreren parallelen Triggern. Pruefung Reihenfolge Qualified Financing Maturity Liquidation Exit. Bei Parallelitaet Pruefung Vertrags-Klausel auf Prioritaets-Regelung typisch First-To-Close First-To-Trigger oder Bieter-Wahl MIN-Preis-Regel. Cap-Table-Simulation pre-post fuer alle Trigger-Optionen mit Vergleichs-Rechnung. Insolvenz-Sonderfall bei Maturity-Trigger Quoten-Berechnung. MFN-Kaskade bei mehreren Lender unterschiedlichem Cap. Beratung Lender vs. Gesellschaft. Schnittstelle einzelne Trigger-Skills. BGH II ZR 256/08 Heliad-Linie zur Beurkundungs-Pruefung im Wandlungsablauf.
+description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Pruefraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungspruefung-trigger-*."
 ---
 
 # Master-Dispatcher Wandelereignis

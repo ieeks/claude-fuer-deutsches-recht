@@ -1,6 +1,6 @@
 ---
 name: gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg
-description: "Persönliche Geschäftsführerhaftung bei Krisenversagen: § 43 GmbHG, § 93 AktG, Business Judgment Rule in der Krise, Beweislastumkehr nach § 93 Abs. 2 S. 2 AktG, Subsidiarität StaRUG/InsO, Enthaftungsstrategien."
+description: "Geschaeftsfuehrerhaftung bei Krisenversagen pruefe und begrenzen: GF oder Berater will Haftungsrisiken einschaetzen und Enthaftungsstrategien entwickeln. Normen: § 43 GmbHG (Sorgfaltspflicht), § 93 AktG (Vorstandshaftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr). Pruefraster: Business Judgment Rule in der Krise, Beweislastumkehr, Enthaftungsstrategien (BJR-Dokumentation, Sanierungsberater). Output Haftungsrisiko-Analyse, Enthaftungs-Memo, Aktionsplan. Abgrenzung: Dokumentation siehe dokumentationspflicht-und-protokollierung-geschaeftsfuehrung; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Geschäftsführerhaftung — § 43 GmbHG und § 93 AktG in der Krise

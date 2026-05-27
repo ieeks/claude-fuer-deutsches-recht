@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-wandeldarlehen
-description: "Erstgespraech-Triage fuer Wandeldarlehen: Rechtsform (GmbH oder UG), Beteiligte, vorhandener Gesellschafterbeschluss zur Kapitalerhoehung, Sprachen-Stack (bilingual DE/EN oder nur DE) und erwartete Wandelereignisse (Finanzierungsrunde, Exit, Maturity). Ergebnis ist ein strukturierter Mandatssteckbrief und Empfehlung des naechsten Skill-Schritts."
+description: "Wandeldarlehensmandat einordnen Verfahrensroute bestimmen und erste Prioritaeten setzen. §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Vertragstyp SAFE Convertible Note Laufzeit Wandlungsereignisse offene Punkte. Output: Mandatssteckbrief Routen-Empfehlung Datenliste. Abgrenzung: Triage und Einstieg; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Wandeldarlehen – Erstgespräch

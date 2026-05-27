@@ -1,6 +1,6 @@
 ---
 name: jveg-uebernachtung-aufwand
-description: Prueft Tagegeld, notwendige Uebernachtung und Aufwandsentschaedigung nach §§ 11 bis 12 JVEG mit BRKG-Anknuepfung, Belegpflicht und gerichtlichen Obergrenzen.
+description: "Uebernachtungs- und Verpflegungskosten nach JVEG berechnen: Pauschalen und Einzelnachweise. Normen: § 6 JVEG. Pruefraster: Uebernachtungserfordernis, Hotelkosten, Verpflegungspauschalen. Output: Uebernachtungskosten-Nachweis JVEG. Abgrenzung: nicht Fahrtkosten § 5 JVEG."
 ---
 
 # JVEG-Uebernachtung-Aufwand

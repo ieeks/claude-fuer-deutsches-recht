@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Abmahnung, Antrag eV, Unterlassungsklage, Loeschungsklage Marke: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette MarkenG UWG PatG DesignG, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau. BGH Goldbaerenbarren Wagenfeld-Leuchte."
+description: "Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Pruefraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht fuer aussergerichtliche Abmahnungen."
 ---
 
 # Schriftsatzkern und Substantiierung im Marken-, Patent-, Design- und Wettbewerbsrecht

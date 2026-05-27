@@ -1,6 +1,6 @@
 ---
 name: us-counterfeit-und-customs-cbp
-description: "US-Counterfeit-Enforcement: Trademark Counterfeiting Act 18 U.S.C. § 2320, CBP Recordation 19 C.F.R. § 133, IPR e-Recordation, Lanham Act § 34 Injunctive Relief, § 35 Treble Damages und Statutory Damages, Attorney Fees Octane Fitness 572 U.S. 545. Laedt, wenn der Nutzer 'US Counterfeit', 'CBP Recordation', 'Lanham Act enforcement' oder 'US Produktpiraterie' sagt."
+description: "US-Counterfeit-Enforcement und CBP-Recordation: Luxusmarke will gefaelschte Ware in den USA stoppen. Normen: 18 U.S.C. § 2320 (Trademark Counterfeiting Act), 19 C.F.R. § 133 (CBP Recordation), Lanham Act § 34 (Injunctive Relief), § 35 (Statutory/Treble Damages). Pruefraster: IPR e-Recordation bei CBP, Enforcement-Strategie, Schadensersatz-Berechnung, Attorney Fees (Octane Fitness Standard). Output CBP-Recordation-Unterlagen, Enforcement-Strategie-Memo, Schadensersatz-Berechnungs-Template. Abgrenzung: EU-Zoll siehe produktpiraterie-und-zoll; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # US Counterfeit Enforcement und CBP Recordation

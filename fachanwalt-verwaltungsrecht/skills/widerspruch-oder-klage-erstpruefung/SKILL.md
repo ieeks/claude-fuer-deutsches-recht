@@ -1,6 +1,6 @@
 ---
 name: widerspruch-oder-klage-erstpruefung
-description: Entscheidungsraster Widerspruchsverfahren vs. direkte Klage. Prueft Statthaftigkeit Anfechtungs- Verpflichtungs- Leistungs- oder Feststellungsklage Vorverfahrenspflicht § 68 VwGO landesrechtliche Abschaffung (in mehreren Bundeslaendern entfallen) Klagebefugnis § 42 Abs. 2 VwGO Klagefrist ein Monat § 74 VwGO Vorlaeufige Rechtsschutz § 80 § 80a § 123 VwGO aufschiebende Wirkung sofortige Vollziehung. Erstellt Vorabbewertung Erfolgsaussicht Streitwert nach § 52 GKG. Verweist auf richtigen Antragstyp und Folge-Skill.
+description: "Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Pruefraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Widerspruch oder Klage — Erstprüfung

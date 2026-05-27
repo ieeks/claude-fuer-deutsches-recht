@@ -1,6 +1,6 @@
 ---
 name: datenpanne-meldung
-description: "Begleitet Verantwortliche und Berater bei der Prüfung der Meldepflicht nach Art. 33 DSGVO (72-Stunden-Frist an Aufsichtsbehörde) und der Benachrichtigungspflicht nach Art. 34 DSGVO (betroffene Personen), einschließlich Dokumentation. Lädt bei Datenpannen, Sicherheitsvorfällen, unberechtigten Zugriffen und Datenverlust."
+description: "Datenpanne nach Art. 33 34 DSGVO melden wenn Sicherheitsverletzung personenbezogener Daten vorliegt. Art. 33 34 DSGVO Meldepflichten § 65 BDSG. Pruefraster: Meldepflicht 72-Stunden-Frist Schwere Risikobewertung Behordenmeldung Betroffenenbenachrichtigung Dokumentation. Output: Meldeschreiben an Aufsichtsbehoerde Betroffenenbenachrichtigung Dokumentationsprotokoll. Abgrenzung: nicht fuer praeventive Massnahmen (dsfa-erstellung)."
 ---
 
 # Datenpannen-Meldung (Art. 33/34 DSGVO)

@@ -1,6 +1,6 @@
 ---
 name: vertikale-preisbindung-vbe-vo
-description: "Vertikale Preisbindung und Vertikal-GVO (EU) 2022/720: Hardcore-Beschraenkungen Art. 4, Mindestpreise verboten, unverbindliche Preisempfehlung zulässig, Dual-Pricing nach DSA, Marktanteilsschwelle 30 Prozent. Laedt, wenn der Nutzer 'Preisbindung', 'Vertikal-GVO', 'Mindestpreis Händler', 'UPE Empfehlung' oder 'Preisempfehlung verboten' sagt."
+description: "Vertikale Preisbindung und Vertikal-GVO-Compliance fuer Haendlervertraege: Hersteller oder Haendler will UPE oder Mindestpreise im Vertriebsnetz einsetzen. Normen: Art. 4 lit. a Vertikal-GVO (EU) 2022/720 (Hardcore-Beschraenkung Mindestpreis), Art. 2 (Freistellung), § 1 GWB, EuGH Prestige-Linie. Pruefraster: Verbotene Mindestpreise, zulaessige unverbindliche Preisempfehlungen, Dual Pricing nach DSA, Marktanteilsschwelle 30%. Output Compliance-Memo, UPE-Vertragsklausel-Entwurf. Abgrenzung: Selektivvertrieb Plattformverbot siehe selektiver-vertrieb-coty; AGB siehe agb-haendlervertrag-luxus."
 ---
 
 # Vertikale Preisbindung und Vertikal-GVO

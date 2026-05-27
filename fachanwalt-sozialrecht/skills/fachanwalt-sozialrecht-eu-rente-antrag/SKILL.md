@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-eu-rente-antrag
-description: "Renten-Antrag bei Auslands-Beschaeftigung VO EU 883/2004 Sozialversicherungs-Koordinierung. Antrag im Wohnsitzland Weiterleitung. Berechnung Pro-rata-temporis-Rente. Auslands-Zahlung Bestimmungen. Workflow Antrag DRV Auslands-Aktenfuehrung Klage."
+description: "Versicherter mit Beschaeftigungszeiten im EU-Ausland fragt nach Rente und wie die auslaendischen Zeiten angerechnet werden. VO (EG) 883/2004 Sozialversicherungskoordinierung. Pruefraster: Antragstellung im Wohnsitzland Weiterleitung Pro-rata-temporis-Rente DRV Auslandsrente Zahlungsweg ins Ausland. Output: Workflow Rentenantrag mit EU-Auslandsbezug inkl. Dokumente. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (rein inlaendisch) und fachanwalt-internationales-wirtschaftsrecht-orientierung."
 ---
 
 # EU-Rente-Antrag

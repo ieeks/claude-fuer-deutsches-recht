@@ -1,6 +1,6 @@
 ---
 name: ips-vergleichsrechnung
-description: "Erstellt die Vergleichsrechnung für Insolvenzplan und StaRUG mit Planfall, Alternativszenario, fairer Beteiligung, Sicherheitenwerten und Schlechterstellungscheck."
+description: "Vergleichsrechnung als Herzstuck des Plans erstellen: Planfall gegen Ohne-Plan-Szenario je Gruppe oder Klasse. §§ 220 229 InsO § 6 Abs. 2 StaRUG Schlechterstellungsverbot. Pruefraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe Annahmenkennzeichnung. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht fuer integrierte Finanzplanung."
 ---
 
 # Vergleichsrechnung

@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-anpassen
-description: "Praxisprofil gezielt anpassen, ohne das komplette Interview zu wiederholen. Auslöser: Nutzer möchte eine bestimmte Einstellung ändern (z.B. Aufsichtsbehörde, AVV-Dealbreaker, Systemliste), oder ein Skill hat eine Standardeinstellung gemeldet, die nicht passt."
+description: "Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstaetigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Pruefraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht fuer Neuerstellung von Dokumentation."
 ---
 
 # Customize – Praxisprofil anpassen

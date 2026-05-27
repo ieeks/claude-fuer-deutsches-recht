@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-mod-erklaerung
-description: "Modifizierte Unterlassungserklaerung Abgrenzung von vorformulierter Erklaerung. Hamburger Brauch Vertragsstrafe Bestimmung im Streitfall durch Gericht. Reichweite konkrete Verletzungsform vs Kerntheorie. Ablehnung weitergehender Anerkenntnisse Auskunft Kostenuebernahme Schadensersatz dem Grunde nach. Wiederholungsgefahr beseitigen ohne Anerkenntnis. Negative Feststellungsklage als Alternative."
+description: "Modifizierte Unterlassungserklaerung als Alternative zur strafbewehrten UE pruefen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Pruefraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Pruefprotokoll. Abgrenzung: nicht fuer vollstaendige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-pruefen)."
 ---
 
 # Modifizierte Unterlassungserklärung im Urheberrecht

@@ -1,6 +1,6 @@
 ---
 name: jveg-anspruchsberechtigung
-description: Klaert, ob Zeuge, Dritter, Sachverstaendiger, Dolmetscher, Uebersetzer, Protokollperson oder ehrenamtlicher Richter nach JVEG anspruchsberechtigt ist.
+description: "Anspruchsberechtigung nach JVEG pruefen: Sachverstaendiger, Zeuge, Dolmetscher, Anwalt. Normen: §§ 1 2 JVEG. Pruefraster: Personenkategorie, Beauftragung durch Gericht, Verfahrensart. Output: Pruefergebnis Anspruchsberechtigung JVEG. Abgrenzung: nicht Verguetungsberechnung."
 ---
 
 # JVEG-Anspruchsberechtigung

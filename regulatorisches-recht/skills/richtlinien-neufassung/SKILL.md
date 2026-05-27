@@ -1,6 +1,6 @@
 ---
 name: richtlinien-neufassung
-description: "Richtlinien-Neufassung – erstellt einen markierten Entwurf einer internen Richtlinie, der eine identifizierte Compliance-Lücke schließt. Laden, wenn eine Richtlinie nach einem Diff oder einer Gap-Analyse überarbeitet werden soll."
+description: "Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Pruefraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg. Output: neue Richtlinie Implementierungshinweise. Abgrenzung: nicht fuer Anpassung bestehender Richtlinien (regulatorisches-recht-anpassen)."
 ---
 
 # Richtlinien-Neufassung

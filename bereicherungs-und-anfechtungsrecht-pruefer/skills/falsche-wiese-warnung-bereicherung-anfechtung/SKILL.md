@@ -1,6 +1,6 @@
 ---
 name: falsche-wiese-warnung-bereicherung-anfechtung
-description: "Typische Falschverortungen: Vertrag statt Bereicherung gewaehlt, Bereicherung statt Anfechtung, AnfG statt InsO und umgekehrt. Warnt vor den haeufigsten systematischen Fehlern."
+description: "Typische Falschverortungen erkennen: Vertrag statt Bereicherung, Bereicherung statt Anfechtung, AnfG statt InsO. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Abgrenzungsmatrix, haeufige systematische Fehler, Weiterleitung. Output: Warnhinweis mit korrekter Weiterleitung zum richtigen Regelungskreis. Abgrenzung: kein eigener Anspruchsguetachter, nur Navigationshilfe."
 ---
 
 # Falsche-Wiese-Warnung: Bereicherung und Anfechtung

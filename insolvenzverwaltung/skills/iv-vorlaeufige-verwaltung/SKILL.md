@@ -1,6 +1,6 @@
 ---
 name: iv-vorlaeufige-verwaltung
-description: "Vorläufige Insolvenzverwaltung mit Sicherungsmaßnahmen Zustimmungsvorbehalt Kassensturz Banken Post Drittschuldner Betrieb und Tagessteuerung bis zur Eröffnung."
+description: "Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Pruefraster: Beschlussumfang Zustimmungsvorbehalt Postsperre Bankensicherung Drittschuldneranschreiben Kommunikation. Output: Tagesplan Sicherungsprotokoll Kommunikationsschreiben. Abgrenzung: nicht fuer laufendes Regelverfahren (iv-regelverfahren-eroeffnung)."
 ---
 
 # Vorläufige Insolvenzverwaltung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-pflichtteilsergaenzung-2325
-description: "Pflichtteilsergaenzungsanspruch § 2325 BGB bei Schenkungen 10 Jahre vor Erbfall. Abschmelzung pro Jahr 10 Prozent BGH IV ZR 132/12. Ehegattenschenkung Fristbeginn erst nach Tod § 2325 Abs. 3 BGB. Niederstwertprinzip § 2325 Abs. 2 BGB. Auskunftsstufenklage § 254 ZPO. Workflow Schenkungs-Recherche Berechnung Klage."
+description: "Pflichtteilsergaenzungsanspruch nach § 2325 BGB berechnen wenn Erblasser Schenkungen gemacht hat. § 2325 BGB Pflichtteilsergaenzung § 2329 BGB. Pruefraster: Schenkung innerhalb 10 Jahre Abschmelzung Wertbestimmung Auskunftsanspruch Verjährung. Output: Ergaenzungsberechnung Klageentwurf. Abgrenzung: nicht fuer einfachen Pflichtteilsanspruch (fachanwalt-erbrecht-pflichtteilsberechnung)."
 ---
 
 # Pflichtteilsergänzungsanspruch § 2325 BGB

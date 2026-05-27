@@ -1,6 +1,6 @@
 ---
 name: iv-berichte-gericht-glaeubiger
-description: "Berichte an Insolvenzgericht Gläubigerausschuss und Gläubigerversammlung. Erstellt Zwischenbericht Sachstandsbericht Beschlussvorlage und Ampelbericht."
+description: "Zwischenberichte Sachstandsberichte und Beschlussvorlagen fuer Insolvenzgericht Glaeubiger­ausschuss und Glaeubiger­versammlung erstellen. §§ 58 66 79 InsO Berichtspflichten. Pruefraster: Stichtag Massestand Tabelle Verwertung Prozesse Personal Steuern Risiken. Output: strukturierter Bericht Entscheidungsvorlage Ampelbericht. Abgrenzung: nicht fuer Schlussbericht und Schlussrechnung (iv-verteilung-schlussrechnung)."
 ---
 
 # Berichte an Gericht und Gläubigerorgane

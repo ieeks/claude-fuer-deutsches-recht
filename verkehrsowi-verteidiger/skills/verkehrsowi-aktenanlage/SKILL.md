@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-aktenanlage
-description: "Aktenanlage im OWi-Verkehrsmandat. Struktur: Bussgeldbescheid Messakte Korrespondenz Fristen Hauptverhandlung. Fristen-Uebersicht Tabelle. Beweismittelverzeichnis Messgeraet Eichschein. Excel-Templates."
+description: "Akte im Verkehrs-OWi-Mandat anlegen und strukturieren: Neues Mandat Bussgeldbescheid oder Fahrverbot-Drohung. Normen: § 46 OWiG i.V.m. StPO, § 66 OWiG (Pflichtinhalt Bussgeldbescheid), § 67 OWiG (Einspruch). Pruefraster: Bussgeldbescheid, Messakte, Korrespondenz, Fristen, HV-Termin, Beweismittelverzeichnis (Messgeraet, Eichschein). Output Aktenstruktur, Fristen-Uebersicht-Tabelle, Beweismittelverzeichnis. Abgrenzung: Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte; Einspruchsfrist siehe verkehrsowi-fristen-einspruch."
 ---
 
 # Aktenanlage OWi-Mandat

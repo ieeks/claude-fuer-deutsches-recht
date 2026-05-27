@@ -1,6 +1,6 @@
 ---
 name: jahresfrist-47-abs-2-vwgo
-description: Berechnung und Sicherung der Jahresfrist Paragraf 47 Abs. 2 S. 1 VwGO im Normenkontrollverfahren gegen Bebauungsplan. Fristbeginn mit ortsueblicher Bekanntmachung des Plans nach Paragraf 10 Abs. 3 BauGB. Bekanntmachung im Amtsblatt der Gemeinde oder ortsueblich substituierter Form. Fehlerhafte Bekanntmachung loest keinen Fristbeginn aus. Wiedereinsetzung Paragraf 60 VwGO nur bei unverschuldeter Versaeumung. Heilung durch ergaenzendes Verfahren Paragraf 214 Abs. 4 BauGB setzt neue Frist in Lauf nach erneuter Bekanntmachung. Parallel ist die Ruegefrist Paragraf 215 BauGB von einem Jahr fuer Verfahrensfehler zu beachten. Beide Fristen separat im Fristenkalender mit Vorfrist eintragen. Eilantrag Paragraf 47 Abs. 6 VwGO innerhalb Hauptfrist statthaft.
+description: "Mandant moechte Normenkontrollantrag stellen und Anwalt prueft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahresfrist Normenkontrolle. Pruefraster: Fristbeginn ortsuebliche Bekanntmachung § 10 Abs. 3 BauGB fehlerhafte Bekanntmachung kein Fristbeginn Wiedereinsetzung § 60 VwGO ergaenzendes Verfahren § 214 Abs. 4 BauGB setzt neue Frist. Ruegefrist § 215 BauGB ein Jahr parallel. Output: Fristberechnung Normenkontrolle und Fristenbuch-Eintrag. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und planerhaltung-214-215-baugb."
 ---
 
 # Jahresfrist § 47 Abs. 2 VwGO

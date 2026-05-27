@@ -1,6 +1,6 @@
 ---
 name: buyout-im-ma-deal-asset-vs-share
-description: "Pension Liabilities in M&A-Transaktionen: Asset Deal vs Share Deal Paragraph-613a-BGB-Haftungsuebergang ABC-Klauseln in SPAs Garantien Freistellungen Indemnities W-und-I-Versicherung Pension-Due-Diligence und Carve-out-Pensionsstrukturen fuer Konzern-Transaktionen."
+description: "Betriebliche Altersversorgung im M-und-A-Deal strukturieren: Haftungsuebernahme bei Asset- vs. Share-Deal. Normen: §§ 4 28 BetrAVG, UmwG. Pruefraster: Haftungsuebergang, Versorgungsverpflichtungen, PSV-Haftung, Bilanzrisiken. Output: Haftungsanalyse bAV M-und-A-Deal. Abgrenzung: nicht laufende bAV-Verwaltung."
 ---
 
 # Pension Buyout im M&A-Deal — Asset vs. Share Deal

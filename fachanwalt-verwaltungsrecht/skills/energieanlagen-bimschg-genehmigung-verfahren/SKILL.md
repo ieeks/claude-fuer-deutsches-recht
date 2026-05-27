@@ -1,6 +1,6 @@
 ---
 name: energieanlagen-bimschg-genehmigung-verfahren
-description: BImSchG-Genehmigung Energieanlagen Wind Biogas Biomasse Wasserkraft Wasserstoff-Elektrolyseur foermliches Verfahren § 10 BImSchG vereinfachtes Verfahren § 19 BImSchG. Antragsunterlagen Schallgutachten Schattenwurfprognose saP Naturschutz BMUV-Hinweise. Anlagen-Klassifizierung 4. BImSchV. Drittbetroffene Klage TA Laerm Verkehrssicherungs-Pflicht. EuGH-Linie zu UVP-Verträglichkeitspruefung. Eilantrag § 80 Abs. 5 VwGO bei sofortiger Vollziehung. Verbandsklage UmwRG. Verzahnung mit energierecht-Plugin Bauleitplanung-Aspekte.
+description: "BImSchG-Genehmigung fuer Energieanlagen (Wind, Biogas, Biomasse, Wasserstoff-Elektrolyseur) begleiten: Vorhabentraeger beantragt Genehmigung oder Drittbetroffener klagt dagegen. Normen: §§ 4 und 10 und 19 BImSchG (foermliches/vereinfachtes Verfahren), 4. BImSchV, TA Laerm, UmwRG (Verbandsklage). Pruefraster: Antragsunterlagen (Schallgutachten, Schattenwurf, saP), Drittanfechtung, UVP-Pflicht EuGH-Linie, Eilantrag § 80 Abs. 5 VwGO. Output Antragsunterlagen-Pruefung, Klageschrift-Entwurf oder Widerspruch. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Energieanlagen-BImSchG-Genehmigung-Verfahren

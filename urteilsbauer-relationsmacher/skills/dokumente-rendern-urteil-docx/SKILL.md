@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-urteil-docx
-description: "Rendert ein vollstaendiges Zivilurteil als DOCX (und optional PDF via soffice) im offiziellen Gerichtslayout: Aktenzeichen oben rechts Gerichtsbezeichnung zentriert IM NAMEN DES VOLKES Urteil-Bezeichnung Parteien Anwaelte Spruchkoerper Verhandlungstermin Tenor mit Einrueckung Tatbestand Entscheidungsgruende Rechtsmittelbelehrung Unterschriftenzeile. Verwendet python-docx und die Vorlage assets render_urteil.py."
+description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Pruefraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Tenor, Tatbestand, Entscheidungsgruende, Rechtsmittelbelehrung, Unterschriftenzeile. Output DOCX-Datei (und optional PDF) nach deutschem Gerichtsstandard. Abgrenzung: Inhalt des Urteils schreiben siehe entscheidungsgruende-zivil-schreiben, tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil."
 ---
 
 # Urteil rendern - DOCX und PDF im Gerichtslayout

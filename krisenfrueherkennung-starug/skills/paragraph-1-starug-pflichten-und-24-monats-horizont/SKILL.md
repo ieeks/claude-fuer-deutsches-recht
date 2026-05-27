@@ -1,6 +1,6 @@
 ---
 name: paragraph-1-starug-pflichten-und-24-monats-horizont
-description: "§ 1 StaRUG: gesetzliche Krisenfrüherkennungspflicht, 24-Monats-Planungshorizont als bindender Standard, Adressatenkreis nach Rechtsform, Abgrenzung zu § 18 InsO drohende Zahlungsunfähigkeit, Haftungsfolgen bei Pflichtverletzung."
+description: "§ 1 StaRUG Krisenfrueherkenungspflicht und 24-Monats-Horizont erklaeren und umsetzen: GF oder Berater fragt was StaRUG konkret verlangt. Normen: § 1 StaRUG (Frueherkennungspflicht GmbH/AG), § 18 InsO (drohende ZU als StaRUG-Zugang). Pruefraster: Adressatenkreis nach Rechtsform, 24-Monats-Planungshorizont als Standard, Abgrenzung § 18 InsO, Haftungsfolgen bei Pflichtverletzung. Output § 1-StaRUG-Compliance-Memo, Umsetzungsplan Fruehwarnsystem. Abgrenzung: System-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # § 1 StaRUG — Krisenfrüherkennungspflicht und 24-Monats-Horizont

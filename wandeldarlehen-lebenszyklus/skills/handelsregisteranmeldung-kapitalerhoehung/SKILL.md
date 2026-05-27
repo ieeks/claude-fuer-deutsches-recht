@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-kapitalerhoehung
-description: "Anmeldung der Kapitalerhoehung an das Handelsregister durch den Notar nach § 57 GmbHG. Erforderliche Unterlagen, Bearbeitungsdauer zwei bis acht Wochen, Folge-Anmeldung Transparenzregister nach § 19 GwG. Pruefung durch Registergericht und haeuFige Beanstandungsgruende."
+description: "Handelsregisteranmeldung nach Kapitalerhohung durch Wandlung vorbereiten. § 57 GmbHG Anmeldepflicht §§ 54 55 GmbHG Kapitalerhohung. Pruefraster: Anmeldungsinhalt Unterlagen Notar Einreichungspflicht Eintragungsvoraussetzungen. Output: Anmeldungsentwurf Unterlagencheckliste. Abgrenzung: nicht fuer Gesellschafterliste (gesellschafterliste-aktualisieren)."
 ---
 
 # Handelsregisteranmeldung Kapitalerhöhung

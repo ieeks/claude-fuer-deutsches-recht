@@ -1,6 +1,6 @@
 ---
 name: streitwert-igr-berechnen
-description: Pruefraster fuer die Streitwertbemessung im gewerblichen Rechtsschutz (Marken Patent Design UWG Urheber). Senatspraxis OLG Hamburg LG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf. Beruecksichtigt wirtschaftlichen Wert der Klagemarke / Schutzrechts Marktstaerke Vertriebsumfang Eilverfuegungs-Reduktion auf ein Drittel bis Haelfte des Hauptsachewerts Streitgegenstand-Bestimmung Beruefungs-/Revisions-Bedeutung Streitwertherabsetzung § 51 GKG § 12 UWG. Sicherheitsleistung § 940 ZPO § 709 ZPO. Anwendung auf Unterlassung Auskunft Schadensersatz Vernichtung Rueckruf.
+description: "Anwalt muss Streitwert fuer IP-Verletzungsklage oder einstweilige Verfuegung im gewerblichen Rechtsschutz festlegen. Streitwertbemessung MarkenG PatG UWG UrhG. Pruefraster: Senatspraxis OLG Hamburg LG Frankfurt LG Muenchen I LG Duesseldorf wirtschaftlicher Wert des Schutzrechts Marktstaerke Eilverfuegungs-Reduktion Streitgegenstand Streitwertherabsetzung § 51 GKG § 12 UWG. Output: Streitwertbegründung und Kostenberechnung. Abgrenzung zu mandat-triage-gewerblicher-rechtsschutz (Ersteinschaetzung) und verletzungs-triage."
 ---
 
 # Streitwert im Gewerblichen Rechtsschutz berechnen

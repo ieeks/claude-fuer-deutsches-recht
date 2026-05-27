@@ -1,6 +1,6 @@
 ---
 name: ips-stabilisierung-starug
-description: "Bereitet StaRUG Stabilisierung, Vollstreckungssperre, Verwertungssperre, gerichtliche Vorprüfung und begleitende Kommunikation vor."
+description: "StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Pruefraster: Stabilisierungsbedarf Verhaeltnismaessigkeit Glaeubiger Dauer Insolvenznaehe Organpflichten Kommunikationslinie. Output: Stabilisierungsantrag Betroffenenliste Verhaeltnismaessigkeitsnotiz. Abgrenzung: nicht fuer Schutzschirmverfahren nach InsO."
 ---
 
 # StaRUG-Stabilisierung

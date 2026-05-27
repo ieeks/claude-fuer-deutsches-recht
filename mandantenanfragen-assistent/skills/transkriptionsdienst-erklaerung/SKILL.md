@@ -1,6 +1,6 @@
 ---
 name: transkriptionsdienst-erklaerung
-description: "Formuliert den Hinweis auf den automatisierten Transkriptionsservice in der Erstantwort: Telefonnummer, Ablauf des Anrufs, Verarbeitungshinweis, DSGVO-Einwilligungserfordernis und Kein-Mandat-Hinweis. Nur fuer Anfragen bei denen schriftliche Schilderung nicht moeglich oder gewuenscht ist. Laedt wenn der Nutzer 'Transkriptionsservice erklaeren', 'Sprachaufnahme anbieten', 'kann nicht schreiben', 'Diktat Sachverhalt' oder 'Transkription Erstanfrage' sagt."
+description: "Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklaerung in Erstantwort. Pruefraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis fuer Erstantwort. Abgrenzung zu einwilligung-hinweis-datenschutz (DSGVO-Klausel) und erstantwort-generator."
 ---
 
 # Transkriptionsdienst-Erklärung

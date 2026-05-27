@@ -1,6 +1,6 @@
 ---
 name: cta-contractual-trust-arrangement-strukturierung
-description: "CTA Contractual Trust Arrangement: Doppeltreuhand Sicherungs- und Verwaltungstreuhand Bilanzentlastung nach HGB-Paragraph-246-Abs-2-S-2 und IAS-19 plan asset BAG, Urt. v. 22.09.2020 — 3 AZR 303/18 zur Insolvenzfestigkeit sowie vollstaendige Treuhandvertrags-Templates fuer Konzern-Pensionsstrukturen."
+description: "CTA-Struktur fuer Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Pruefraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich)."
 ---
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation

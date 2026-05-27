@@ -1,6 +1,6 @@
 ---
 name: vorhabenbezogener-bebauungsplan-12-baugb
-description: Pruefraster vorhabenbezogener Bebauungsplan § 12 BauGB. Abgrenzung VEP vom qualifizierten Bebauungsplan. Drei-Saeulen-Konstruktion Vorhaben- und Erschliessungs-Plan Durchfuehrungsvertrag Satzung Stadt. Identitaets-Erfordernis Vorhabentraeger Plan-Schuldner. Hinweis-Konstellationen vermeintlicher VEP der nicht ist Stadt formell normale Satzung beschliesst aber Durchfuehrungsvertrag im Vorfeld geschlossen wurde. § 12 Abs. 6 BauGB Verlust der Wirksamkeit bei Realisierungs-Verzug. Abgrenzung § 11 BauGB staedtebaulicher Vertrag. Folgen fuer Antragsbefugnis und Aktivlegitimation. BVerwG 4 CN 5.16 zur Identitaet Vorhabentraeger.
+description: "Mandant ist Vorhabentraeger eines VEP oder sieht sich durch vorhabenbezogenen B-Plan benachteiligt. § 12 BauGB vorhabenbezogener Bebauungsplan. Pruefraster: Drei-Saeulen-Konstruktion Vorhaben- und Erschliessungs-Plan Durchfuehrungsvertrag Satzung Identitaets-Erfordernis § 12 Abs. 6 BauGB Realisierungsverzug-Verlust BVerwG 4 CN 5.16. Output: VEP-Pruefprotokoll und Angriffspunkte. Abgrenzung zu festsetzungskatalog-9-baugb-baunvo (normale B-Plan-Festsetzungen) und normenkontrollantrag-schriftsatz."
 ---
 
 # Vorhabenbezogener Bebauungsplan § 12 BauGB

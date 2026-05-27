@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-verfahren
-description: "Begleitet Anhoerung, Widerspruch, Klage, Eilverfahren und Akteneinsicht im Verkehrsinfrastrukturrecht (StVO 45 46, VwGO 42 80 80a, VwVfG 28 68 ff.). Erstellt Widerspruchsschreiben, Klageentwuerfe und Eilantraege."
+description: "Anhoerung, Widerspruch, Klage und Eilverfahren im Verkehrsinfrastrukturrecht vorbereiten: Mandant hat Bescheid erhalten oder will in laufendes Verfahren eingreifen. Normen: § 45 StVO (Verkehrsanordnungen), § 46 StVO (Ausnahmegenehmigungen), §§ 42 und 80 und 80a VwGO sowie §§ 28 und 68 ff. VwVfG. Pruefraster: Akteneinsicht, Widerspruchs-Begruendung, Klageschrift, Eilantrag § 80 Abs. 5 VwGO. Output Widerspruchsschreiben, Klageentwurf, Eilantrags-Entwurf. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verwaltungsrecht allgemein siehe fachanwalt-verwaltungsrecht-Plugin."
 ---
 
 # Verkehrsrechtliche Verfahren — Widerspruch, Klage, Eilschutz

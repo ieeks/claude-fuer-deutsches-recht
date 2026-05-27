@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-entwurf
-description: "Anwaltliche Sicht. Entwirf eine Verfassungsbeschwerde nach § 90 BVerfGG. Zulaessigkeitspruefung Beschwerdefaehigkeit Beschwerdebefugnis Rechtswegerschoepfung Subsidiaritaet Frist § 93 BVerfGG. Substantiierungserfordernis § 23 Abs. 1 § 92 BVerfGG. Annahme zur Entscheidung § 93a BVerfGG. Vor jeder Aussage Skill bverfg-rechtsprechung-recherchieren aufrufen. Disclaimer mehrfach."
+description: "Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch oeffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Pruefraster: Beschwerdefuehrerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output: Verfassungsbeschwerde-Schriftsatz mit Zulaessigkeit Begruendung. Abgrenzung: nicht fuer abstrakte oder konkrete Normenkontrolle."
 ---
 
 # Verfassungsbeschwerde-Entwurf

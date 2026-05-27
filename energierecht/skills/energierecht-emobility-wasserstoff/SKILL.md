@@ -1,6 +1,6 @@
 ---
 name: energierecht-emobility-wasserstoff
-description: Ladeinfrastruktur LSV Ladesaeulenverordnung AFIR Alternative Fuels Infrastructure Regulation 2023/1804 Eichrecht Messstellenbetrieb. Wasserstoff-Hochlauf RED III Erneuerbarkeits-Kriterien Elektrolyseure Foerderung KfW Klimaschutzvertraege Carbon Contracts for Difference. H2-Netz Aufbau Wasserstoff-Stammnetz Bundesnetzentwicklungsplan Gasnetz-Umstellung. THG-Quote § 37a BImSchG Verguetung Ladestrom Anrechnungs-Mechanismus. CO2-Bepreisung BEHG. eMobilitaets-Foerderung Ladeinfrastruktur Schnelllader Privatladestation Wallbox.
+description: "Rechtliche Rahmenbedingungen fuer Elektromobilitaet und gruenen Wasserstoff pruefen: Ladepunkte, H2-Einspeisung. Normen: § 14a EnWG, EEG, GEG, EU-Verordnung Alternative Kraftstoffe. Pruefraster: Netzintegration, Foerderrecht, Liefervertrag, Regulierungsrahmen. Output: Regulierungsrahmen E-Mobilitaet und Wasserstoff. Abgrenzung: nicht allgemeines Netzrecht."
 ---
 
 # E-Mobilität und Wasserstoff

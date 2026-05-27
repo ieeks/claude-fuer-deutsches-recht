@@ -1,6 +1,6 @@
 ---
 name: konfliktdeeskalation-formulierungen
-description: "Bausteinsammlung fuer deeskalierende Formulierungen in beruflicher Korrespondenz. Ueber 30 erprobte Saetze und Satzmuster, die Konfliktpotenzial reduzieren, Verstaendnis signalisieren und zur sachlichen Klaerung einladen."
+description: "Eskalierte oder hitzige Korrespondenz deeskalieren und konstruktive Kommunikationsbasis herstellen. § 43a BRAO § 26 BORA Sachlichkeit. Pruefraster: Eskalationsniveau Interessenidentifikation deeskalierende Formulierungen Angebote zur Loesung. Output: deeskalierende Version Kommunikationsstrategie. Abgrenzung: nicht fuer allgemeine Umformulierung."
 ---
 
 # Konfliktdeeskalation: Formulierungsbausteine

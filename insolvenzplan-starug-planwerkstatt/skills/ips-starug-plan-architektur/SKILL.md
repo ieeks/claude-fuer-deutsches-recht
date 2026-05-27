@@ -1,6 +1,6 @@
 ---
 name: ips-starug-plan-architektur
-description: "Entwirft einen StaRUG Restrukturierungsplan mit Auswahl der Planbetroffenen, Gruppen, Bestandserklärung, Anlagen, Abstimmung und gerichtlicher Route."
+description: "Vollstaendigen StaRUG-Restrukturierungsplan strukturieren von Planbetroffenenauswahl bis Bestaetigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung Gerichtsverfahren. Pruefraster: Restrukturierungsfaehigkeit drohende ZU gestaltbare Rechtsverhaeltnisse Plananlagen Bestaetigungsvoraussetzungen Abstimmung. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht fuer InsO-Plan (ips-insolvenzplan-architektur)."
 ---
 
 # StaRUG-Plan-Architektur

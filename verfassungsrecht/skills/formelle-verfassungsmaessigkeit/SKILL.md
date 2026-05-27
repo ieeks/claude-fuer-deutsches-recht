@@ -1,6 +1,6 @@
 ---
 name: formelle-verfassungsmaessigkeit
-description: "Pruefe ein Gesetz oder eine sonstige Norm auf formelle Verfassungsmaessigkeit. Verfahren nach Art. 76 bis 82 GG (Einbringung, drei Lesungen, Bundesrat, Ausfertigung, Verkuendung). Zitiergebot Art. 19 Abs. 1 S. 2 GG. Bestimmtheitsgebot. Wesentlichkeitstheorie und Parlamentsvorbehalt nach Kalkar I. Vor jeder Aussage Skill bverfg-rechtsprechung-recherchieren aufrufen."
+description: "Formelle Verfassungsmaessigkeit eines Gesetzes pruefen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Pruefraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Pruefmemo mit Ergebnis. Abgrenzung: nicht fuer materielle Verfassungsmaessigkeit (grundrechtspruefung)."
 ---
 
 # Formelle Verfassungsmäßigkeit prüfen

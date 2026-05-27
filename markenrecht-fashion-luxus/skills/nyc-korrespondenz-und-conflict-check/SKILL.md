@@ -1,6 +1,6 @@
 ---
 name: nyc-korrespondenz-und-conflict-check
-description: "Mandats-Workflow mit US-Korrespondenzkanzlei Whitman Brennan Forsythe LLP NYC: Engagement Letter, Conflict Check, Power of Attorney USPTO, Outside Counsel Guidelines, Attorney-Client Privilege, Common Interest Privilege. Laedt, wenn der Nutzer 'US-Korrespondenzkanzlei', 'NYC Trademark Counsel', 'USPTO Power of Attorney' oder 'Outside Counsel Guidelines' sagt."
+description: "Mandat-Workflow mit US-Korrespondenzkanzlei fuer Markenverfahren in den USA: Beauftragung, Vollmacht USPTO, Interessenkonflikt-Pruefung und Kommunikationsprotokoll. Normen: 37 C.F.R. § 2.17 (Power of Attorney USPTO), Attorney-Client Privilege, Common Interest Privilege (US), BRAO (Kooperation). Pruefraster: Engagement Letter, Conflict Check nach BRAO und ABA, Power of Attorney USPTO, Outside Counsel Guidelines. Output Beauftragungspaket, POA-Entwurf, Conflict-Check-Protokoll. Abgrenzung: Inhaltliche USPTO-Verfahren siehe uspto-anmeldung-und-lanham-act; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # NYC-Korrespondenz und Conflict Check — Whitman Brennan Forsythe LLP

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-bilinguale-dokumente
-description: "Bilinguale Dokumente Deutsch und Englisch parallel. Satzung Gesellschaftervereinbarung Geschaeftsfuehreranstellungsvertrag Beiratsordnung Term Sheet Convertible Loan Agreement. Vorrang-Klausel deutscher Text geht vor. Typische Uebersetzungs-Fallen Class A Vorzugsanteile Liquidation Preference Drag-Along Tag-Along Anti-Dilution Vesting Cliff."
+description: "Gesellschaftsrechtliche Dokumente in Deutsch und Englisch erstellen: zweisprachige Satzung, Gesellschafterbeschluss, SHA. Normen: §§ 2 3 GmbHG, HGB. Pruefraster: rechtliche Verbindlichkeit der deutschen Fassung, Abweichungsregelung, Notareignung. Output: Bilinguale Dokumentenvorlage Deutsch-Englisch. Abgrenzung: nicht reine Uebersetzung ohne Inhaltspruefung."
 ---
 
 # Bilinguale Dokumente

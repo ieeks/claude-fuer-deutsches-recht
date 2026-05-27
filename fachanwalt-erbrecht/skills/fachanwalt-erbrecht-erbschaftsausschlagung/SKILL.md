@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-erbschaftsausschlagung
-description: "Erbschaftsausschlagung § 1942 BGB 6-Wochen-Frist 6-Monatsfrist bei Auslandsbezug. Notarielle Ausschlagungserklaerung beim Nachlassgericht. Anfechtung der Ausschlagung wegen Irrtums § 1954 BGB. Folge Erbenstellung der naechsten Generation. Workflow Pruefraster Nachlass-Wert Erbschulden Anfechtung."
+description: "Erbschaftsausschlagung erlaeutern und Erklaerung formulieren wenn Erbe ueberschuldet ist oder sonstige Gruende vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Pruefraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklaerung Antragsentwurf. Abgrenzung: nicht fuer Pflichtteilsausschlagung oder Erbverzicht."
 ---
 
 # Erbschaftsausschlagung

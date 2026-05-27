@@ -1,6 +1,6 @@
 ---
 name: anfg-mittelbare-benachteiligung-und-kongruenz
-description: "Kongruente und inkongruente Deckung im AnfG-Kontext. Mittelbare Gläubigerbenachteiligung: wann genügt die abstrakte Möglichkeit? Abgrenzung zu unmittelbarer Benachteiligung. BGH IX ZR Benachteiligung kongruente inkongruente Deckung."
+description: "Kongruente und inkongruente Deckung sowie mittelbare Glaeubigerbenachteiligung im AnfG-Kontext analysieren. Normen: §§ 1 3 4 AnfG. Pruefraster: unmittelbar vs. mittelbar benuenstigende Rechtshandlung, Kongruenz, abstrakte Benachteiligungsmoeglichkeit. Output: Pruefliste Benachteiligungs- und Kongruenzkriterien. Abgrenzung: nicht InsO-Kongruenzpruefung §§ 130 131 InsO."
 ---
 
 # Mittelbare Benachteiligung und Kongruenz — AnfG

@@ -1,6 +1,6 @@
 ---
 name: messe-verletzung-und-gv-einsatz
-description: "Markenverletzung auf Messen (Pitti Uomo/Berlin Fashion Week): Eilantrag §§ 935/940 ZPO, einstweilige Verfuegung, Schutzschrift, Gerichtsvollzieher-Sicherstellung, Auskunftsanspruch § 19 MarkenG, Vernichtungsanspruch § 18 MarkenG. Laedt, wenn der Nutzer 'Messe Verletzung', 'GV Sicherstellung', 'einstweilige Verfuegung Marke', 'Schutzschrift' oder 'Pitti Uomo Abmahnung' sagt."
+description: "Markenverletzung auf Messen (Pitti Uomo, Berlin Fashion Week) schnell unterbinden: Eilantrag und Gerichtsvollzieher-Einsatz vorbereiten. Normen: §§ 935 und 940 ZPO (einstweilige Verfuegung), § 19 MarkenG (Auskunftsanspruch), § 18 MarkenG (Vernichtungsanspruch), § 14 MarkenG. Pruefraster: Dringlichkeit, Schutzschrift einreichen, GV-Sicherstellung, Auskunfts-Durchsetzung. Output Antrag auf einstweilige Verfuegung, Schutzschrift, GV-Beauftragungsschreiben. Abgrenzung: Aussergerichtliche Abmahnung siehe abmahnung-markenrecht-uwg; Plattform-Verletzung siehe plattform-piraterie-donauzon."
 ---
 
 # Markenverletzung auf Messen und Gerichtsvollzieher-Einsatz

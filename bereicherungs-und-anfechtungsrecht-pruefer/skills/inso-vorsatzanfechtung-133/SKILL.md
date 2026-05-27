@@ -1,6 +1,6 @@
 ---
 name: inso-vorsatzanfechtung-133
-description: "§ 133 InsO: Vorsatzanfechtung. Benachteiligungsvorsatz des Schuldners, Kenntnis des Anfechtungsgegners. Neufassung seit 5. April 2017: zehn und vier Jahre Fristen. Kenntnisvermutungen."
+description: "Vorsatzanfechtung in der Insolvenz nach § 133 InsO pruefen: Benachteiligungsvorsatz, Kenntnis des Anfechtungsgegners. Normen: § 133 InsO Fassung seit 5. April 2017. Pruefraster: Vorsatz-Indizien, Kenntnisvermutungen, zehn bzw. vier Jahre Fristen. Output: Pruefergebnis Anfechtbarkeit mit Beweislastverteilung. Abgrenzung: nicht § 3 AnfG (ausserinsolvenzlich)."
 ---
 
 # Vorsatzanfechtung — § 133 InsO

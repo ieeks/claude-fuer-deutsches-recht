@@ -1,6 +1,6 @@
 ---
 name: code-of-practice-und-harmonisierte-normen
-description: "Verhaltenskodizes nach Art. 56 KI-VO und harmonisierte Normen nach Art. 40 KI-VO: Entwicklung Beteiligung Vermutungswirkung gemeinsame Spezifikationen Art. 41. Praktische Bedeutung fuer Compliance und Konformitaetsbewertung."
+description: "Anbieter von Hochrisiko-KI oder GPAI-Modellen fragt: Wie nutzen wir Verhaltenskodizes und technische Normen fuer unsere Compliance-Strategie? Art. 56 KI-VO Verhaltenskodizes Art. 40 KI-VO harmonisierte Normen. Pruefraster: Entwicklungsprozess und Beteiligung Vermutungswirkung konformer Normen Art. 40 Abs. 3 KI-VO gemeinsame Spezifikationen Art. 41 KI-VO. Output: Normen-Landkarte und Empfehlung welche Standards aktuell beachtet werden sollten. Abgrenzung zu hochrisiko-konformitaetsbewertung-art-43-bis-49 (Bewertungsverfahren) und hochrisiko-risikomanagementsystem-art-9 (Risikomanagement)."
 ---
 
 # Verhaltenskodizes und harmonisierte Normen — Art. 40 und 56 KI-VO

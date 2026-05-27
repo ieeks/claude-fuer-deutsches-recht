@@ -1,6 +1,6 @@
 ---
 name: muendliche-verhandlung-vgh-strategie
-description: Vorbereitung und Durchfuehrung der muendlichen Verhandlung im Normenkontrollverfahren vor BayVGH oder OVG. Vorbereitung Schriftsatz Anlagen Beweisantraege Zeugenvorbereitung Sachverstaendigen. Aufbau Plaedoyer Einleitung Sachverhalt Rechtsausfuehrungen Antraege. Verhandlungsfuehrung Senat Aktenkenntnis Senatsvorsitzender Berichterstatter. Beweisantraege schriftlich vorbereiten Ortsbesichtigung Augenscheinseinnahme. Hilfsantraege Teilunwirksamkeit. Wirkungsausspruch Plan-Unwirksamkeit als Ausschluss-Erklaerung. Kostenentscheidung Streitwertfestsetzung Belehrung ueber Rechtsmittel. Revision Paragraf 132 VwGO nur bei grundsaetzlicher Bedeutung oder Abweichung. Vorbereitung Mandantin auf den Verhandlungstermin Begleitung Anwesenheitspflicht.
+description: "Normenkontrollantrag steht vor muendlicher Verhandlung am VGH oder OVG. Vorbereitung muendliche Verhandlung Normenkontrolle. Pruefraster: Plaedoyer Einleitung Sachverhalt Rechtsausfuehrungen Antraege schriftliche Beweisantraege Ortsbesichtigung Hilfsantraege Teilunwirksamkeit Wirkungsausspruch Kostenentscheidung. Revision § 132 VwGO nur grundsaetzliche Bedeutung. Output: Verhandlungsstruktur und Plaedoyer-Entwurf. Abgrenzung zu normenkontrollantrag-schriftsatz (Schriftsatz vor Verhandlung) und einstweilige-anordnung-47-abs-6-vwgo."
 ---
 
 # Mündliche Verhandlung BayVGH/OVG

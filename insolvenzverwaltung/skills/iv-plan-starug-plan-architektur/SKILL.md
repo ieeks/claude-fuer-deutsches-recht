@@ -1,6 +1,6 @@
 ---
 name: iv-plan-starug-plan-architektur
-description: "Entwirft einen StaRUG Restrukturierungsplan mit Auswahl der Planbetroffenen, Gruppen, Bestandserklärung, Anlagen, Abstimmung und gerichtlicher Route."
+description: "StaRUG-Restrukturierungsplan vollstaendig strukturieren von Planbetroffenenauswahl bis Bestaetigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung und Gerichtsverfahren. Pruefraster: Restrukturierungsfaehigkeit drohende ZU gestaltbare Rechtsverhaeltnisse Plananlagen Bestaetigungsvoraussetzungen. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht fuer InsO-Plan (iv-plan-insolvenzplan-architektur)."
 ---
 
 # IV-integrierte StaRUG-Plan-Architektur

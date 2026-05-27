@@ -1,6 +1,6 @@
 ---
 name: dokumentations-und-beweisarchitektur
-description: "Beweissicherung für Formerklärungen: Zugang § 130 BGB nachweisen, Originalurkunde aufbewahren, qES-Validierungsprotokolle, Archivierung nach TR-RESISCAN, ersetzendes Scannen — Kanzlei-Dokumentationsstandards für formrelevante Willenserklärungen."
+description: "Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Pruefraster: Zugang § 130 BGB nachweisen Originalurkunden aufbewahren qES-Validierungsprotokolle ersetzendes Scannen TR-RESISCAN Langzeitarchivierung. Output: Kanzlei-Dokumentationsstandard-Checkliste fuer formrelevante Vorgaenge. Abgrenzung zu zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb (Zugangspruefung) und elektronische-form-paragraph-126a-bgb-qes."
 ---
 
 # Dokumentations- und Beweisarchitektur

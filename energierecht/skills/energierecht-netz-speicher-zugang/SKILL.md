@@ -1,6 +1,6 @@
 ---
 name: energierecht-netz-speicher-zugang
-description: Netzanschluss EnWG § 17 EEG § 8 Verteilnetzbetreiber Pflichten Vorrang Netz-Engpass-Management § 13 EnWG Redispatch 2.0 Spitzenkappung. Netzentgelte BNetzA-Festlegung StromNEV GasNEV Anreizregulierung ARegV. Speicher-Doppelnutzungs-Privileg Vermeidungsverbot vermiedene Netzentgelte. Sondernetzentgelte Industrie § 19 StromNEV intensive Stromverbraucher. EU-Strommarkt-Reform 2024 Flexibilitaets-Mechanismen. Spielfelder Anschluss-Verweigerung Anschlusszusage Anschluss-Kosten Baukostenzuschuss.
+description: "Netzanschluss und Netzzugang fuer Erzeugungsanlagen und Speicher pruefen. Normen: §§ 17 ff. 20 ff. EnWG, NAV. Pruefraster: Netzanschlussrecht, Anschlussbegehren, Kapazitaetspruefung, Diskriminierungsfreiheit. Output: Netzanschluss-Rechtsgutachten. Abgrenzung: nicht EEG-Verguetungsrecht."
 ---
 
 # Netz- und Speicher-Zugang

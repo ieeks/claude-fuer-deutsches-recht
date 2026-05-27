@@ -1,6 +1,6 @@
 ---
 name: zv-kommandocenter
-description: "Startpunkt der Zwangsvollstreckung. Fragt nach Titelart und Vollstreckungsziel und entscheidet, welcher Folge-Skill geladen wird: Mahnbescheid, PfÜB, notarielle Urkunde, Tabellenauszug, ZVG, Mobiliar, Räumung, Vermögensauskunft, Kontensuche oder Schuldnerabwehr. Prüft die drei Säulen Titel, Klausel, Zustellung vor jedem weiteren Schritt. Lädt, wenn ein Mandat die Einleitung oder Steuerung einer Vollstreckung betrifft."
+description: "Glaeubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Pruefraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Pruefung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalpruefung) und allen anderen ZV-Skills."
 ---
 
 # Zwangsvollstreckung – Kommandocenter

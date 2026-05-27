@@ -1,6 +1,6 @@
 ---
 name: anfg-grundtatbestand-und-anfechtungsberechtigte
-description: "AnfG-Grundtatbestand: Anfechtungsberechtigung nach § 2 AnfG erfordert vollstreckbaren Titel gegen den Schuldner und fällige Forderung. Wer ist anfechtungsberechtigt und was ist Rechtshandlung? Verjährung §§ 195 199 BGB; BGH IX ZR Leitsätze ausserinsolvenzliche Anfechtung."
+description: "Grundvoraussetzungen der ausserinsolvenzlichen Glaeubigeranfechtung klaeren: vollstreckbarer Titel, faellige Forderung, Glaeubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Pruefraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Pruefergebnis Anspruchsgrundlage mit Lueckenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeroffnung."
 ---
 
 # AnfG-Grundtatbestand und Anfechtungsberechtigte

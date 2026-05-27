@@ -1,6 +1,6 @@
 ---
 name: muster-erstantwort
-description: "Vorlage-Skill mit dem vollstaendigen Musterschreiben fuer die Erstantwort auf Mandantenanfragen: Platzhalter fuer KANZLEI-NAME, SEKRETARIATS-TELEFON, TRANSKRIPTIONS-TELEFON und UNTERZEICHNENDE-RA. Drei Varianten: Standard, nur Vorname, Transkriptionsservice-Modus. Laedt wenn der Nutzer 'Musterschreiben zeigen', 'Vorlage Erstantwort', 'Template Mandantenantwort', 'Platzhalter ausfullen' oder 'Antwortvorlage kopieren' sagt."
+description: "Kanzlei benoetigt fertige ausfuellbare Vorlage fuer die Erstantwort auf Mandantenanfragen. Template Erstantwort. Pruefraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollstaendiges Template-Set fuer Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser."
 ---
 
 # Muster-Erstantwort

@@ -1,6 +1,6 @@
 ---
 name: zeitlicher-geltungsbereich-uebergangsfristen
-description: "Ueberblick Inkrafttreten und Uebergangsfristen der KI-VO: Inkrafttreten 1. August 2024; Art. 5 Verbote ab 2. Februar 2025; GPAI ab 2. August 2025; Hochrisiko ab 2. August 2026; einzelne Hochrisiko-Pflichten fuer bestehende Systeme ab 2. August 2027."
+description: "Compliance-Beauftragter oder Unternehmen fragt: Ab wann muessen welche KI-VO-Pflichten eingehalten werden und welche Systeme sind schon heute betroffen? KI-VO Uebergangsfristen und Zeitplan. Pruefraster: Inkrafttreten 1. August 2024 Verbote Art. 5 ab 2. Februar 2025 GPAI-Pflichten ab 2. August 2025 Hochrisiko-Pflichten ab 2. August 2026 Hochrisiko-Bestandssysteme ab 2. August 2027. Output: Zeitplan-Tabelle mit Meilenstein-Checkliste und Fristen-Kalender fuer jede Systemkategorie. Abgrenzung zu hochrisiko-bestaetigt-end-to-end-roadmap (Projektroadmap)."
 ---
 
 # Zeitlicher Geltungsbereich und Übergangsfristen — KI-VO

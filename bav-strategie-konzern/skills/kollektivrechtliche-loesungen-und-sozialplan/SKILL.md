@@ -1,6 +1,6 @@
 ---
 name: kollektivrechtliche-loesungen-und-sozialplan
-description: "Kollektivrechtliche Loesungen bei BAV-Restrukturierungen: Paragraph-112-BetrVG-Sozialplan pensionsspezifische Sozialplanbestandteile Abfindungsmodelle vs Versorgungserhalt Interessenausgleich bei Betriebsaenderungen mit Auswirkungen auf betriebliche Altersversorgung."
+description: "Kollektivrechtliche Loesungen fuer bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Pruefraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung."
 ---
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen

@@ -1,6 +1,6 @@
 ---
 name: veraenderungssperre-zurueckstellung-14-15-baugb
-description: Pruefraster Veraenderungssperre § 14 BauGB und Zurueckstellung von Baugesuchen § 15 BauGB als Sicherungs-Instrumente waehrend des Bauleitplan-Verfahrens. Aufstellungsbeschluss als Voraussetzung Bekanntmachung Dauer zwei Jahre + ein Jahr + Verlaengerungen. Wirkung Aussetzungs-Wirkung gegen Baugenehmigungen Entschaedigungs-Pflicht § 18 BauGB bei laenger als vier Jahre. Pruefung Voraussetzungen Sicherungs-Beduerftigkeit Konkretisierungs-Stand des Plans. Bei Bauantrag Vorhabentraeger Zurueckstellung als milderes Mittel § 15 BauGB. Vertraglich-faktische Sperre durch Durchfuehrungsvertrag und ihre rechtlichen Folgen. Anfechtung Veraenderungssperre § 47 VwGO oder Inzidenter im Anfechtungsverfahren gegen Bauablehnung.
+description: "Bauherr oder Investor hat Bauantrag eingereicht aber Gemeinde hat Veraenderungssperre verhaengt und Antrag wird zurueckgestellt. §§ 14 15 BauGB. Pruefraster: Aufstellungsbeschluss Voraussetzung § 14 Abs. 1 BauGB Wirkung Dauer 2 plus 1 plus Verlaengerungen Entschaedigung § 18 BauGB. Zurueckstellung § 15 BauGB als milderes Mittel. Anfechtung § 47 VwGO oder Inzident. Output: Entschaedigungs- und Anfechtungsanalyse Veraenderungssperre. Abgrenzung zu normenkontrollantrag-schriftsatz (Hauptsache B-Plan) und statthaftigkeit-47-vwgo."
 ---
 
 # Veränderungssperre und Zurückstellung — §§ 14, 15 BauGB

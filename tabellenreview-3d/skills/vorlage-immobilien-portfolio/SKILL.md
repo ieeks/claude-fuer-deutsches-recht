@@ -1,6 +1,6 @@
 ---
 name: vorlage-immobilien-portfolio
-description: "Wuerfelvorlage fuer Immobilien-Portfolioanalyse — 16 Spalten (Gemarkung / Flur / Flurstueck / Wirtschaftsart / Groesse / Eigentuemerkette / Abteilung-II-Lasten / Abteilung-III-Grundpfandrechte / Rang / Loeschungserleichterung / Briefgrundschuld-offen / Baulasten-aus-Verzeichnis / Altlastenverdacht / Vorkaufsrecht Gemeinde nach BauGB / Sanierungsvermerk BauGB Paragraph 144 / Nacherbenvermerk BGB Paragraph 2113) x N Flurstuecke x 3 Arbeitsblaetter (Recht / Technik / Wirtschaft). Verankert in Grundbuchordnung Baugesetzbuch BBodSchG und WEG. Geeignet fuer Erwerbs-DD Bestandsaufnahme Refinanzierung."
+description: "Vorlagetabelle fuer Portfolio-Review von Immobilienvertraegen im 3D-Format. Normen: §§ 535 ff. BGB, WEG, GrEStG. Pruefraster: Miete, Grundbuch, steuerliche Belastung, Instandhaltung. Output: Immobilien-Portfolio-Tabelle. Abgrenzung: nicht Einzelvertragspruefung Mietrecht."
 ---
 
 # /tabellenreview-3d:vorlage-immobilien-portfolio

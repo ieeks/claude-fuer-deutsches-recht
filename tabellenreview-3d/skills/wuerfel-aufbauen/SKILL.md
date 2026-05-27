@@ -1,6 +1,6 @@
 ---
 name: wuerfel-aufbauen
-description: "Baut die dreidimensionale Wuerfel-Struktur fuer ein neues Pruefprojekt auf — drei Achsen: Spalten (Datenpunkte als Spaltenprompts) Zeilen (Dokumente mit optionalen Zeilenprompts) Arbeitsblaetter (Perspektiven wie Recht / Steuer / Wirtschaft / Datenschutz / IT / Betrieb). Erzeugt das Wuerfel-Schema `wuerfel-schema.yaml` mit allen drei Achsen Ankerpunkten Materialitaetsschwellen Spaltenprompt-Bibliotheksverweisen und Belegkette-Konventionen. Vorlauf zu jedem Reviewlauf. Geeignet fuer M&A-DD Vendor-Onboarding Immobilienportfolios Arbeitsvertrags-Stapel und Eigenwuerfel."
+description: "3D-Wuerfelstruktur fuer den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Pruefraster: Dimensionen-Vollstaendigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Abgrenzung: nicht Pruefungsdurchfuehrung."
 ---
 
 # /tabellenreview-3d:würfel-aufbauen

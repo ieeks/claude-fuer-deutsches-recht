@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-anfechtungsklage
-description: "Anfechtungsklage § 42 Abs. 1 VwGO gegen Verwaltungsakt nach erfolglosem Widerspruch oder unmittelbar wo Vorverfahren nicht statthaft. Klagebefugnis § 42 Abs. 2 VwGO moegliche eigene Rechtsverletzung. Klagefrist § 74 VwGO ein Monat ab Zustellung Widerspruchsbescheid bzw. Bescheid. Zustaendigkeit Verwaltungsgericht § 45 VwGO Sitz Behoerde Belegenheit Sache. Streitwert § 52 GKG. Aufschiebende Wirkung § 80 Abs. 1 VwGO."
+description: "Anfechtungsklage nach § 42 Abs. 1 VwGO gegen Verwaltungsakt formulieren: Mandant hat Widerspruchsbescheid erhalten oder Vorverfahren entfaellt. Normen: § 42 Abs. 1 VwGO (Statthaftigkeit), § 42 Abs. 2 VwGO (Klagebefugnis moegliche Rechtsverletzung), § 74 VwGO (Klagefrist 1 Monat), § 45 VwGO (Zustaendigkeit). Pruefraster: Statthaftigkeit, Klagebefugnis, Frist, Vorverfahren, Streitwert § 52 GKG. Output Klageschrift-Entwurf. Abgrenzung: Verpflichtungsklage (Ablehnung) siehe schriftsatzkern-substantiierung; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Anfechtungsklage

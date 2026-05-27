@@ -1,6 +1,6 @@
 ---
 name: regulierungs-luecken-analyse
-description: "Datenschutz-Gap-Analyse: Abgleich der aktuellen Datenschutzpraxis gegen neue oder geänderte Anforderungen aus EDSA-Leitlinien, DSK-Beschlüssen, Gesetzesänderungen oder Behördenentscheidungen. Ergebnis: priorisierte Maßnahmenliste mit Handlungsfristen."
+description: "Regulatorische Luecken im Datenschutzrecht identifizieren und Handlungsoptionen aufzeigen. Art. 5 6 24 DSGVO BDSG. Pruefraster: Bestandsaufnahme bestehender Massnahmen Soll-Ist-Abgleich Lueckenbewertung Prioritaeten. Output: Lueckenanalyse Massnahmenkatalog Prioritaetenliste. Abgrenzung: nicht fuer spezifische Pruefungen wie AVV oder DSFA."
 ---
 
 # DS-Gap-Analyse – Datenschutzrecht

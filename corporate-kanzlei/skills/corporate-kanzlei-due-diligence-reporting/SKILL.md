@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-due-diligence-reporting
-description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial DD-Workstreams zu einem integrierten DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen fuer M&A-Transaktionen."
+description: "DD-Reporting: Konsolidiert Legal, Tax, Financial und Commercial Due-Diligence-Workstreams zu einem integrierten DD-Bericht fuer M&A-Transaktionen. Normen: §§ 311 Abs. 2 und 444 BGB; SPA Representations & Warranties. Pruefraster: Executive Summary, Risikomatrix nach Workstreams, Priorisierung fuer SPA-Verhandlung, Abzugspositionen Kaufpreis. Output Integrierter DD-Bericht mit Deckblatt, Management-Summary, Risikotabelle, SPA-Handlungsempfehlungen. Abgrenzung: Einzelne Workstreams siehe due-diligence-legal, due-diligence-commercial-contracts; W&I-Schnittstelle siehe wi-insurance."
 ---
 
 # Due Diligence Reporting

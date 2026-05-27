@@ -1,6 +1,6 @@
 ---
 name: frist-und-mahnung-hoeflich
-description: "Vorlagen fuer hoeflch-bestimmte Mahnungen und Fristsetzungen: erste Erinnerung, qualifizierte Mahnung und Fristsetzung mit Folgehinweis. Anwaltliche Fristerinnerungen ohne Drohgebaerde und ohne Verletzung des Sachlichkeitsgebots."
+description: "Fristsetzungen und Mahnungen in Anwaltskorrespondenz hoeflich und dennoch rechtsverbindlich formulieren. § 286 BGB Schuldnerverzug § 43a BRAO § 26 BORA Sachlichkeit. Pruefraster: Fristklarheit Verbindlichkeit Ton kollegiale Formulierung fehlende Aggression. Output: professioneller Fristbrief oder Mahnung mit erklaertem Pruefergebnis. Abgrenzung: nicht fuer allgemeine Korrespondenz."
 ---
 
 # Frist und Mahnung höflich formulieren

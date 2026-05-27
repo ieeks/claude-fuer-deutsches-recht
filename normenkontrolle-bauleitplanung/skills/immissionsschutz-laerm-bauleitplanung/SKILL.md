@@ -1,6 +1,6 @@
 ---
 name: immissionsschutz-laerm-bauleitplanung
-description: Pruefung der Laerm- und Immissionsbelange in der Bauleitplanung. DIN 18005 Schallschutz im Staedtebau Orientierungswerte fuer verschiedene Gebietstypen. TA Laerm bei gewerblicher Nutzung Schwellenwerte fuer Tag und Nacht. Trennungsgrundsatz Paragraf 50 BImSchG soweit moeglich Wohnnutzung und stoerende Anlagen raeumlich getrennt. Schallschutzgutachten Pruefung Methodik Berechnungsverfahren Eingangsdaten Worstcase. Aktive Schallschutzmassnahmen Laermschutzwaende Verlegung Verkehr Begruenung. Passive Schallschutzmassnahmen Schallschutzfenster reichen fuer Aussenwohnbereich nicht. Verkehrslaerm BAB Schiene Strasse mit eigenen Vorschriften. Belastung Bahnhofsnaehe besondere Konstellation. Verbraucherbelang Schlafraeume Aussenwohnbereiche Schulhoefe.
+description: "Mandant greift Bebauungsplan wegen unzureichendem Schallschutz oder Immissionsschutz an. DIN 18005 TA Laerm § 50 BImSchG. Pruefraster: Orientierungswerte verschiedene Gebietstypen Schallschutzgutachten Methodik Worstcase Trennungsgrundsatz § 50 BImSchG aktive vs. passive Massnahmen Verkehrslaerm BAB Schiene. Output: Immissionsschutz-Pruefprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und umweltbericht-umweltpruefung (UVPG)."
 ---
 
 # Immissionsschutz und Lärm in der Bauleitplanung

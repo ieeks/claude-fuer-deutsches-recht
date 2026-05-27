@@ -1,6 +1,6 @@
 ---
 name: iv-verteilung-schlussrechnung
-description: "Schlussbericht Schlussrechnung und Verteilung im Insolvenzverfahren. Erstellt Quote Verteilungsverzeichnis Schlussrechnung Bericht Anlagen und Nachtragsverteilung."
+description: "Abschlussphase des Insolvenzverfahrens durchfuehren: Schlussrechnung Schlussbericht Verteilungsverzeichnis Quote Nachtragsverteilung. §§ 196 197 InsO Schlussverteilung §§ 66 67 InsO Schlussrechnung. Pruefraster: Abschlussreife Massekonto Kosten Vergutung Rangklassen Quote Nachtragsrisiken. Output: Schlussrechnung Schlussbericht Verteilungsverzeichnis. Abgrenzung: nicht fuer laufende Berichte (iv-berichte-gericht-glaeubiger)."
 ---
 
 # Schlussbericht, Schlussrechnung und Verteilung

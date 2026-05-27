@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-widerspruch-sozialleistung
-description: Widerspruch gegen Sozialleistungsbescheid nach § 84 SGG. Frist ein Monat ab Bekanntgabe. Form schriftlich oder zur Niederschrift. Begruendung Tatsachen Rechtsgrundlagen. Aufschiebende Wirkung § 86a SGG; Antrag auf einstweiligen Rechtsschutz § 86b SGG bei Wegfall. Pruefe Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG; davor drei Tage). Schreibvorlage.
+description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt formuliert Widerspruch. § 84 SGG Widerspruchsfrist ein Monat. Pruefraster: Frist (Bekanntgabe Vier-Tage-Fiktion § 37 Abs. 2 SGB X seit 1.1.2025 PostModG) aufschiebende Wirkung § 86a SGG Antrag § 86b SGG Tatsachen und Rechtsgrundlagen Beweisangebote. Output: Widerspruchsschriftsatz mit Begruendung. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle vorab) und klage-sozialgericht (nach Widerspruchsbescheid)."
 ---
 
 # Widerspruch gegen Sozialleistungsbescheid (§ 84 SGG)

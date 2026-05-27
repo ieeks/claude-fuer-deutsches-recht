@@ -1,6 +1,6 @@
 ---
 name: dsfa-erstellung
-description: "Datenschutz-Folgenabschätzung (DSFA) nach Art. 35 DSGVO erstellen: Schwellwertanalyse, BfDI-Blacklist-/Whitelist-Abgleich, strukturierte DSFA im eigenen Hausformat. Auslöser: Neues Verarbeitungsvorhaben, Systemeinführung, oder Ergebnis aus anwendungsfall-triage."
+description: "Datenschutz-Folgenabschaetzung nach Art. 35 DSGVO durchfuehren wenn hohes Risiko fuer Betroffene vorliegt. Art. 35 36 DSGVO DSFA § 67 BDSG. Pruefraster: Risikobewertung Verarbeitungsbeschreibung Notwendigkeit Verhaeltnismaessigkeit Massnahmen Restrisiko Vorabkonsultation. Output: DSFA-Dokument Massnahmenkatalog. Abgrenzung: nicht fuer regulaere Verarbeitungen ohne hohes Risiko."
 ---
 
 # DSFA – Datenschutz-Folgenabschätzung Art. 35 DSGVO

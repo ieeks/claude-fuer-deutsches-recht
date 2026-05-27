@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-egbr-mopeg
-description: "eGbR und GbR nach MoPeG ab 2024. Gesellschaftsregister-Eintragung Paragraf 707 BGB. Pflicht-Eintragung bei Grundstuecksgeschaeften Paragraf 707b BGB. Rechtsfaehigkeit Paragraf 705 II BGB. Name Gesellschaftsregister Vertretungsbefugnis Haftung Paragraf 721 BGB. Unterschied zur OHG. Umwandlung GbR zu eGbR oder OHG. Pflichtfaelle und freiwillige Eintragung."
+description: "GbR nach MoPeG 2024 und Eintragung ins Gesellschaftsregister als eGbR vorbereiten. Normen: §§ 705 ff. BGB n.F. MoPeG, §§ 707 ff. BGB Gesellschaftsregister. Pruefraster: Eintragungsvoraussetzungen, Gesellschafterverzeichnis, Vertretungsregeln, Haftungsfolgen. Output: eGbR-Gruendungsunterlagen. Abgrenzung: nicht GmbH-Gruendung mit Notar und HRB."
 ---
 
 # eGbR und GbR nach MoPeG 2024

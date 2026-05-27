@@ -1,6 +1,6 @@
 ---
 name: iv-plan-planbetroffene-auswahl
-description: "Wählt im StaRUG die Planbetroffenen sachgerecht aus und dokumentiert nicht einbezogene Gläubiger, Rechte, Arbeitnehmerausnahmen und Begruendung."
+description: "Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung begruenden. §§ 2 4 StaRUG Gestaltbarkeit. Pruefraster: gestaltbare Rechtsverhaeltnisse Ausnahmen Arbeitnehmer deliktische Forderungen Nichtunternehmer Begruendungspflicht. Output: Planbetroffenenregister Nichtbetroffenenbegrundung Ausnahmencheck. Abgrenzung: nicht fuer allgemeine Gruppenbildung (iv-plan-gruppen-klassenbildung)."
 ---
 
 # IV-integrierte Auswahl der Planbetroffenen

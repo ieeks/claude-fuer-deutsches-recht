@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rechtsbeschwerde
-description: "Rechtsbeschwerde im OWi-Verfahren § 79 OWiG. Zulaessigkeit bei Geldbusse ueber 250 EUR oder Fahrverbot. Zulassungsbeschwerde § 80 OWiG. Begründungspflicht § 79 Abs. 3 OWiG i.V.m. § 344 StPO. Frist 1 Woche. OLG als Rechtsbeschwerdeinstanz. Verfahrensruege Sachrüge."
+description: "Rechtsbeschwerde im OWi-Verfahren nach § 79 OWiG einlegen: AG hat OWi-Urteil gesprochen und Mandant will Rechtsbeschwerde. Normen: § 79 OWiG (Zulassigkeit: Geldbusse ueber 250 EUR oder Fahrverbot), § 80 OWiG (Zulassungsbeschwerde), § 344 StPO i.V.m. § 79 Abs. 3 OWiG (Begruendungspflicht), Frist 1 Woche ab Urteil. Pruefraster: Statthaftigkeit, Verfahrensruege vs. Sachruege, Formalanforderungen, OLG als Rechtsbeschwerdeinstanz. Output Rechtsbeschwerde-Schrift. Abgrenzung: Einspruch gegen Bussgeldbescheid siehe verkehrsowi-fristen-einspruch; HV vorher siehe verkehrsowi-hauptverhandlung-amtsgericht."
 ---
 
 # Rechtsbeschwerde im OWi-Verfahren — § 79 OWiG

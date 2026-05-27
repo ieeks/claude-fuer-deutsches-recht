@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-designverletzung
-description: "Designverletzungsklage §§ 38 ff. DesignG: eingetragenes Design DPMA und Gemeinschaftsgeschmacksmuster EUIPO, nicht eingetragenes Gemeinschaftsgeschmacksmuster GGV Art. 11 (3 Jahre). Schutzvoraussetzungen Neuheit § 2 Abs. 2 / Eigenart § 2 Abs. 3 DesignG. Schutzumfang Gesamteindruck informierter Benutzer § 38 Abs. 2. Ansprüche §§ 42-46 DesignG (Unterlassung, Auskunft, Vernichtung, Rückruf, Schadensersatz dreigleisig). Einstweilige Verfügung Dringlichkeit 4 Wochen. Streitwert EUR 50.000-250.000. Schriftsatzvorlagen, Beweislast, Fristen, Online-Handel DSA."
+description: "Geschmacksmuster- oder Designverletzung pruefen und Ansprueche durchsetzen oder abwehren. §§ 1 2 38 GeschmMG §§ 11 ff. GeschmMG Verletzungsansprueche EU-Geschmacksmuster-VO. Pruefraster: Schutzfaehigkeit Neuheit Eigenart Verletzungshandlung Ausnahmen Ansprueche. Output: Verletzungspruefmemo Abmahnschreiben oder Erwiderung. Abgrenzung: nicht fuer Marken- oder Urheberrechtsverletzungen."
 ---
 
 ## Mandantenfragen beim Kaltstart

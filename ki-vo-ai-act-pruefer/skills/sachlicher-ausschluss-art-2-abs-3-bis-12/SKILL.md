@@ -1,6 +1,6 @@
 ---
 name: sachlicher-ausschluss-art-2-abs-3-bis-12
-description: "Prueft sachliche Ausnahmen vom Anwendungsbereich der KI-VO nach Art. 2 Abs. 3 bis 12: Militaer nationale Sicherheit wissenschaftliche Forschung Open-Source-Ausnahmen persoenliche nicht berufliche Nutzung. Enge Voraussetzungen und Fallstricke."
+description: "Unternehmen fragt: Faellt unser KI-System moeglicherweise voellig aus dem Anwendungsbereich der KI-VO heraus? Art. 2 Abs. 3 bis 12 KI-VO sachliche Ausnahmen. Pruefraster: Militaer und nationale Sicherheit Art. 2 Abs. 3 wissenschaftliche Forschung Art. 2 Abs. 6 Open-Source-Ausnahmen Art. 2 Abs. 12 persoenliche nicht berufliche Nutzung Art. 2 Abs. 10. Enge Auslegung Fallstricke kommerzielle Nutzung schliesst Ausnahme meist aus. Output: Ausnahme-Entscheidungsbaum mit Voraussetzungen. Abgrenzung zu rueckausnahme-art-6-abs-3 (nur Hochrisiko-Ausnahme) und territorialer-anwendungsbereich-art-2 (raeumlicher Bereich)."
 ---
 
 # Sachliche Ausschlüsse — Art. 2 Abs. 3 bis 12 KI-VO

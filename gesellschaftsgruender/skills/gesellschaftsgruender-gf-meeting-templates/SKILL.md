@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gf-meeting-templates
-description: "Templates GF-Meetings: Tagesordnung Einladung Protokoll Umlaufbeschluss. Regelmaessiger Rhythmus woechtentlich quartalsweise. Beiratssitzung. Business-Judgment-Rule-konforme Dokumentation Paragraf 43 GmbHG. Bilinguale Vorlagen DE EN. Workflow und Muster."
+description: "Vorlagen fuer Geschaeftsfuehrersitzungen und Protokolle erstellen: Tagesordnung, Beschlussprotokoll, Aktionsliste. Normen: §§ 35 ff. GmbHG. Pruefraster: Beschlussfaehigkeit, Umlaufverfahren, Dokumentationspflichten. Output: Meeting-Templates fuer GF-Sitzungen. Abgrenzung: nicht Gesellschafterversammlungs-Protokoll."
 ---
 
 # GF-Meeting-Templates

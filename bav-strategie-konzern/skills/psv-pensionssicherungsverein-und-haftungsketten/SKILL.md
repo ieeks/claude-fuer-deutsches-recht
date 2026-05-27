@@ -1,6 +1,6 @@
 ---
 name: psv-pensionssicherungsverein-und-haftungsketten
-description: "PSV Pensionssicherungsverein: Paragraph-7-BetrAVG Beitragspflicht Subsidiaearhaftung Insolvenzsicherung EuGH-C-168-18-Bauer-Willmeroth Insolvenzschutzluecken Haftungsketten im Konzern bei betrieblicher Altersversorgung und Umgang mit PSV-Jahresbeitraegen."
+description: "PSV-Pflichtversicherung und Haftungsketten bei Insolvenz des Arbeitgebers analysieren. Normen: §§ 7 ff. BetrAVG, PSVaG-Satzung. Pruefraster: Insolvenzsicherungspflicht, gesicherte Leistungen, Haftungsquoten. Output: PSV-Haftungsanalyse. Abgrenzung: nicht CTA-Struktur (freiwillige Auslagerung)."
 ---
 
 # PSV — Pensionssicherungsverein und Haftungsketten

@@ -1,6 +1,6 @@
 ---
 name: telefon-konfiguration
-description: "Verwaltet die Telefonnummern der Kanzlei (Sekretariat und Transkriptionsservice) und setzt sie in die Antwort-Templates ein. Liest aus einer Platzhalter-Konfigurationsdatei kanzlei.json. Laedt wenn der Nutzer 'Telefonnummer konfigurieren', 'Kanzlei-Daten einstellen', 'Sekretariat-Nummer', 'Transkriptions-Telefon' oder 'kanzlei.json bearbeiten' sagt."
+description: "Kanzlei muss Telefonnummern fuer Sekretariat und Transkriptionsservice in den Antwort-Templates hinterlegen. Konfigurationsverwaltung Kanzlei-Nummern. Pruefraster: kanzlei.json Sekretariatsnummer Transkriptionsnummer Lesen und Setzen der Platzhalter. Output: konfigurierte Telefonnummern in Templates. Abgrenzung zu erstantwort-generator (E-Mail-Erstellung) und muster-erstantwort."
 ---
 
 # Telefon-Konfiguration

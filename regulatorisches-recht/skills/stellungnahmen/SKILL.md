@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen
-description: "Konsultationsbeiträge für BaFin-, BNetzA-, EBA-, ESMA- und EU-Konsultationen verwalten und verfassen. Laden bei Konsultationszeiträumen, Stellungnahmen und Kommentierungsfristen."
+description: "Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Pruefraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhaeltnismaessigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvorschlaegen. Abgrenzung: nicht fuer interne Compliance-Analysen."
 ---
 
 # Konsultationsbeiträge

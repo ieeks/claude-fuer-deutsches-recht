@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-technische-dokumentation-art-11-und-anhang-iv
-description: "Pflichten zur technischen Dokumentation fuer Hochrisiko-KI nach Art. 11 i.V.m. Anhang IV KI-VO: vollstaendiger Inhaltskatalog Beschreibung des Systems Entwicklungsprozess Datensaetze Leistungsmetriken Konformitaet. Aktualisierungspflichten."
+description: "Anbieter von Hochrisiko-KI fragt: Was muss die technische Dokumentation enthalten und wie aktuell muss sie sein? Art. 11 i.V.m. Anhang IV KI-VO. Pruefraster: vollstaendiger Inhaltskatalog nach Anhang IV Systembeschreibung Entwicklungsprozess Datensaetze Leistungsmetriken Risikomanagement Konformitaetsbewertungsergebnis Aktualisierungspflichten bei Systemaenderungen. Output: Dokumentations-Checkliste nach Anhang IV und Strukturvorlage. Abgrenzung zu hochrisiko-aufzeichnungspflichten-logging-art-12 (laufende Logs) und output-konformitaetserklaerung-eu-anhang-v (Konformitaetserklaerung)."
 ---
 
 # Technische Dokumentation — Art. 11 und Anhang IV KI-VO

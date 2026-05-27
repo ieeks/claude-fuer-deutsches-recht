@@ -1,6 +1,6 @@
 ---
 name: iv-plan-minderheitenschutz
-description: "Prüft Minderheitenschutz, Schlechterstellung, sofortige Beschwerde Risiken, Sicherheitsleistungen und Plausibilisierung für opponierende Beteiligte."
+description: "Schlechterstellungsrisiken und Beschwerderisiken einzelner opponierender Beteiligter analysieren und Planverbesserungen vorschlagen. § 251 InsO § 64 StaRUG Minderheitenschutz. Pruefraster: individuelle Schlechterstellung Sicherheitsleistungen Vergleichsrechnung Einwandkatalog Bestaetigungshemmnisse. Output: Minderheitenschutzmatrix Nachbesserungsliste. Abgrenzung: nicht fuer Cramdown-Fragen (iv-plan-cramdown-obstruktion)."
 ---
 
 # IV-integrierte Minderheitenschutz

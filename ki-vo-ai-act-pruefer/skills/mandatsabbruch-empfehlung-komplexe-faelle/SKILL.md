@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-komplexe-faelle
-description: "Erkennt Indikatoren fuer Faelle die den Rahmen eines Mechanik-Workflows uebersteigen und empfiehlt Hinzuziehung eines Fachanwalts fuer IT-Recht Datenschutz oder Produktsicherheit. Benennt konkrete Schwellenwerte fuer mandatsabbruch-relevante Komplexitaet nach KI-VO."
+description: "Mechanik-Workflow erkennt Anzeichen von Faellen die anwaltliche Spezialkenntnisse erfordern und empfiehlt Eskalation. Indikatoren fuer Komplexitaet jenseits des KI-VO-Pruefers: multijurisdiktionelle Lieferketten marktbeherrschende Stellung KI und Waettbewerb hochspezialisierte Zertifizierungen Auslegungsstreit. Pruefraster: Schwellenwerte Mehrfachrollen kombinierte Hochrisiko-GPAI-Systeme laufende Vertragspruefung. Output: Eskalationsempfehlung mit Begruendung und Verweis auf IT-Recht Datenschutz Produktsicherheit. Abgrenzung zu triage-ki-vo-vorpruefung (Eingangs-Triage)."
 ---
 
 # Mandatsabbruch-Empfehlung bei komplexen KI-VO-Fällen

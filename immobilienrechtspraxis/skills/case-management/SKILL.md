@@ -1,6 +1,6 @@
 ---
 name: case-management
-description: KI-gestuetztes Case Management fuer immobilienrechtliche Vorgaenge. Pro Fall werden Akte Korrespondenz Vertraege Schriftsaetze und Fristen strukturiert dokumentiert und fortgeschrieben. Erzeugt Falluebersicht in Markdown plus Fristenkalender plus Ereignistabelle. Bei Eingang neuer Dokumente wird der Fall automatisch fortgeschrieben Aenderungen werden mit NEU markiert. Unterstuetzt Zusammenfassung umfangreicher Dokumente und Bewertung mit Ampel. Integriert Recherche aktueller Rechtsprechung mit Risiko-Einordnung. Geeignet fuer Mietstreitigkeiten Kaufabwicklungen WEG-Verfahren Bauschadensfaelle und Property-Management-Konflikte.
+description: "Fallmanagement fuer Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Ueberblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Pruefraster: Fristenliste, offene Antraege, Dokumentenstruktur. Output: Case-Management-Uebersicht Immobilienrecht. Abgrenzung: nicht Einzelvertragspruefung."
 ---
 
 # Case Management Immobilienrecht

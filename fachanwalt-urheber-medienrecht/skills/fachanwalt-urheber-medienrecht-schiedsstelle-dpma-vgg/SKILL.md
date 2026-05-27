@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg
-description: "Schiedsstelle § 92 UrhG nach VGG bei DPMA Streitigkeiten mit Verwertungsgesellschaften GEMA VG Wort VG Bild-Kunst. Lizenz-Tarif-Streit. Aufsichtsbehoerde DPMA. Vorgerichtliche Korrespondenz Lizenz-Verhandlung Pauschalvereinbarung. Workflow Schiedsantrag Vergleich Klage OLG."
+description: "Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Pruefraster: Zustaendigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht fuer Gerichtsverfahren."
 ---
 
 # Schiedsstelle DPMA / VGG — Urheber-/Medienrecht

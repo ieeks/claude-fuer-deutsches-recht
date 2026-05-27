@@ -1,6 +1,6 @@
 ---
 name: cisg-pruefen
-description: "Prueft die Anwendbarkeit und das Eingreifen des UN-Kaufrechts (CISG): sachlicher persoenlicher raeumlicher zeitlicher Anwendungsbereich Artikel 1-6 CISG Ausschluss Artikel 6 CISG Wesentliche Vertragsverletzung Artikel 25 CISG Vertragsmaessigkeit Artikel 35 CISG Untersuchungs- und Ruegeobliegenheit Artikel 38 und 39 CISG Rechtsbehelfe Aufhebung Artikel 49 CISG Minderung Schadensersatz Zinsen."
+description: "UN-Kaufrecht (CISG) auf Anwendbarkeit und Eingreifen pruefen: Internationaler Kaufvertrag mit Auslandsbezug und Vertragsstreit. Normen: CISG Art. 1-6 (Anwendungsbereich), Art. 25 (wesentliche Vertragsverletzung), Art. 35 (Vertragsmaessigkeit), Art. 38-39 (Untersuchungs-/Ruegeobliegenheit), Art. 49 (Aufhebung). Pruefraster: sachlicher/persoenlicher/raeumlicher/zeitlicher Anwendungsbereich, Ausschluss Art. 6, Rechtsbehelfe. Output CISG-Pruefschema, Anspruchs-Memo. Abgrenzung: IPR-Fragen siehe internationales-privatrecht; Incoterms siehe incoterms-und-gefahruebergang."
 ---
 
 # CISG-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: iv-plan-integrierte-planung
-description: "Führt Ergebnis, Liquidität und Bilanz als integrierte Planrechnung mit Szenarien, Sensitivitäten, Brücken und Annahmenregister."
+description: "Integrierte Planrechnung aus GuV Liquiditaet und Bilanz fuer Insolvenzplan oder StaRUG erstellen. §§ 220 229 InsO Finanzplanung § 14 StaRUG. Pruefraster: Ist-Zahlen Planannahmen Base-Case Stressszenarien Brueckenrechnung Annahmenregister. Output: Planungsmodell als CSV-Struktur Szenariovergleich. Abgrenzung: nicht fuer Vergleichsrechnung (iv-plan-vergleichsrechnung) oder Sanierungskonzept."
 ---
 
 # IV-integrierte Integrierte Planrechnung

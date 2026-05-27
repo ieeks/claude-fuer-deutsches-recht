@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-zweistufig
-description: "Zweistufige Fortbestehensprognose nach IDW S 11: positive Fortführungsprognose als Voraussetzung für modifizierten Überschuldungsbegriff § 19 InsO, Zwölf- vs. Vierundzwanzig-Monats-Logik, Dokumentationspflicht, Sanierungsgutachten."
+description: "Zweistufige Fortbestehensprognose nach IDW S 11 erstellen: Unternehmen ist moeglicherweise ueberschuldet und braucht positive Fortfuehrungsprognose. Normen: § 19 InsO (Ueberschuldungsbegriff modifiziert), IDW S 11 (Fortbestehensprognose-Standard). Pruefraster: Stufe 1 Fortfuehrungswille, Stufe 2 Fortfuehrungsfaehigkeit (GuV/Liquiditaet 12 vs. 24 Monate), Dokumentationspflicht, Sanierungsgutachten. Output Zweistufige Fortbestehensprognose, IDW-S-11-konformes Gutachten-Geruest. Abgrenzung: Drohende ZU siehe drohende-zahlungsunfaehigkeit-paragraph-18-inso; integrierte Planung siehe integrierte-planung-guv-bilanz-cashflow."
 ---
 
 # Fortbestehensprognose — Zweistufiges Modell nach IDW S 11

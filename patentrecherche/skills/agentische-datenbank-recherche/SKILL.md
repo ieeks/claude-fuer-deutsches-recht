@@ -1,6 +1,6 @@
 ---
 name: agentische-datenbank-recherche
-description: "Master-Skill der die klassischen Patentdatenbanken agentisch ansteuert. Nimmt Suchauftrag in natuerlicher Sprache plus Erfindungsmaterial (Anspruchsentwurf Beschreibung Datenblatt Skizzen Memo) und Klassen aus Skill klassifikation-cpc-ipc und ruft nacheinander Espacenet Google Patents DPMAregister DEPATISnet EPO Register WIPO PATENTSCOPE USPTO auf. Baut Suchstrings je Datenbank passend zur jeweiligen Suchsyntax. Sammelt Treffer als strukturierte Liste mit Veroeffentlichungsnummer Anmelder Anmeldetag Prioritaetstag Klassifikation Status Link. Dedupliziert ueber Patentfamilien. Markiert Maschinenuebersetzungen. Disclaimer Vorrecherche keine amtliche Recherche keine Volltextkenntnis aller Sprachen kein Ersatz fuer die Pruefung durch die Patentanwaeltin."
+description: "Agentische Patentdatenbank-Recherche: Suchauftrag in natuerlicher Sprache mit Erfindungsmaterial (Anspruchsentwurf, Beschreibung, Skizzen) wird automatisch in Suchstrings fuer Espacenet, Google Patents, DPMAregister, DEPATISnet, EPO Register, WIPO PATENTSCOPE und USPTO uebersetzt. Normen: § 3 PatG (Neuheit), Art. 54 EPUe, § 4 PatG (erfinderische Taetigkeit). Pruefraster: Datenbankspezifische Syntax, Patentfamilien-Deduplizierung, Trefferliste mit Veroeffentlichungsnummer, Anmelder, Datum, Klassen. Output Strukturierte Trefferliste. Abgrenzung: Klassifikation vorher siehe klassifikation-cpc-ipc; Berichte siehe recherchebericht-erstellen."
 ---
 
 # agentische-datenbank-recherche

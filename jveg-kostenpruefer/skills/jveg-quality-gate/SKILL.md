@@ -1,6 +1,6 @@
 ---
 name: jveg-quality-gate
-description: "Letzte Pruefung vor Versand nach JVEG: Normstand, Mathematik, Belege, keine Doppelposten, Fristen, Ton und eindeutiger Antrag. Stoppt bei roten Punkten."
+description: "Qualitaets-Gate fuer JVEG-Kostenberechnungen: Vollstaendigkeits- und Konsistenzpruefung aller Positionen. Normen: JVEG. Pruefraster: Vollstaendigkeit, Rechenfehler, Normzitate, Belegpflicht. Output: Quality-Gate-Pruefbericht JVEG. Abgrenzung: nicht Einzelberechnungs-Skill."
 ---
 
 # JVEG-Quality-Gate

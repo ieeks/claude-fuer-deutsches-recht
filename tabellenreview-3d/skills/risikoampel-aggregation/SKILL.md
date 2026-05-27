@@ -1,6 +1,6 @@
 ---
 name: risikoampel-aggregation
-description: "Konsolidiert die Ampel-Wertungen entlang aller drei Wuerfelachsen — pro Zelle (atomisch) pro Zeile (Dokument-Gesamtampel) pro Spalte (Datenpunkt-Hotspots) pro Arbeitsblatt (Perspektiven-Gesamtampel) und pro Gesamtwuerfel (Projekt-Ampel). Verwendet Schweregrad-Boden — eine rote Zelle macht die Zeile mindestens orange. Erkennt Hotspots (Spalten mit ueberproportional vielen roten Zellen). Erzeugt `ampel-aggregat.md` und Heatmap-Daten fuer Excel-Export. Pflichtschritt vor `pruefer-uebergabe-paket`."
+description: "Risikoampeln fuer alle geprueften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Pruefraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht. Abgrenzung: nicht Kreuzblatt-Konsistenzpruefung."
 ---
 
 # /tabellenreview-3d:risikoampel-aggregation

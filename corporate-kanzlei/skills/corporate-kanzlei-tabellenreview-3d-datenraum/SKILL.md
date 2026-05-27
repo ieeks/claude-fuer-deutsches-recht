@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-tabellenreview-3d-datenraum
-description: "Tabellenreview 3D-Datenraum: Prueft und qualitaetssichert strukturierte Datentabellen aus M&A-Datenraeumen (Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen). Identifiziert Luecken, Inkonsistenzen und Offenlegungsrisiken."
+description: "Strukturierte Datentabellen aus M&A-Datenraeumen pruefen und qualitaetssichern: Vertragslisten, Litigation-Tracker, IP-Register, HR-Listen auf Luecken, Inkonsistenzen und Offenlegungsrisiken. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis, AktG §§ 91 ff. (Compliance). Pruefraster: Vollstaendigkeit je Kategorie, Konsistenz Angaben, Offenlegungsrisiken, Red-Flag-Felder. Output 3D-Tabellenreview (Ist/Soll/Luecke), Qualitaetsbericht, Nachforderungs-IRL. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Gap-Analyse siehe datenraum-gap-clean-room."
 ---
 
 # Tabellenreview 3D-Datenraum

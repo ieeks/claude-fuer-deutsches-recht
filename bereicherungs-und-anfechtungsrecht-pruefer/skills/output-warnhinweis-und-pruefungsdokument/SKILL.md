@@ -1,6 +1,6 @@
 ---
 name: output-warnhinweis-und-pruefungsdokument
-description: "Pflicht-Header und Warnblock fuer alle Pruefungsdokumente dieses Plugins: Keine Rechtsberatung, nur mechanische Pruefung, Vorbehalt unvollstaendiger Sachverhalte und falscher Normwahl."
+description: "Pflicht-Header und Warnblock fuer alle Pruefungsdokumente generieren: kein Rechtsrat, nur mechanische Pruefung. Normen: BRAO § 3. Pruefraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollstaendige Sachverhalte. Output: Standardisierter Warnblock als Dokumentkopf. Abgrenzung: nicht inhaltliche Anspruchspruefung."
 ---
 
 # Output: Warnhinweis und Prüfungsdokument-Header

@@ -1,6 +1,6 @@
 ---
 name: iv-plan-kaltstart-interview
-description: "Führt ein verzeihendes Interview für Schuldnerdaten, Krise, Gläubiger, Sicherheiten, Planung, Sanierungsidee und gewünschte Planwirkung."
+description: "Erstes Mandatsgespräch strukturieren wenn Insolvenzplan oder StaRUG-Verfahren startet und kaum Unterlagen vorliegen. §§ 13 15a 17 InsO §§ 29 42 StaRUG Antragspflichten. Pruefraster: Basisdaten Krisenursachen Glaeubigerlandschaft Liquiditaetslage fehlende Unterlagen. Output: Interviewprotokoll Unterlagenliste Annahmenregister. Abgrenzung: nicht fuer laufende Datenraum-Pflege (iv-plan-datenraum-register)."
 ---
 
 # IV-integrierte Kaltstart-Interview

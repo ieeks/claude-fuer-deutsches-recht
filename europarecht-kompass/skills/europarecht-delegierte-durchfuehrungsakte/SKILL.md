@@ -1,6 +1,6 @@
 ---
 name: europarecht-delegierte-durchfuehrungsakte
-description: "Prüft Level-2- und Level-3-Regulierung, delegierte Akte, Durchführungsakte, RTS ITS Leitlinien und Fristen."
+description: "Delegierte Rechtsakte und Durchfuehrungsrechtsakte der EU einordnen und deren Verbindlichkeit pruefen. Art. 290 291 AEUV Delegierung. Pruefraster: Kategorie Widerruf Einwand Verbindlichkeit nationaler Umsetzungsbedarf Direktwirkung. Output: Einordnungs-Memo Verbindlichkeitsanalyse. Abgrenzung: nicht fuer primaeres EU-Recht oder Richtlinien (europarecht-richtlinie-umsetzung)."
 ---
 
 # Delegierte und Durchführungsakte

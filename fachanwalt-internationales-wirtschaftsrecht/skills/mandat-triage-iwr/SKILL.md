@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-iwr
-description: Strukturierte Eingangs-Abfrage fuer Mandate im internationalen Wirtschaftsrecht. Klaert Mandantenrolle (deutscher Exporteur Importeur Investor Vermittler) Geschaeft (Warenkauf Anlagenbau Vertrieb Lizenz Investition Joint Venture) beteiligte Jurisdiktionen Sprache Sanktionen Embargos (Ru EU US OFAC UK HMT) Exportkontrolle (Dual-Use AWG) Korruptionsrisiko UK Bribery Act FCPA. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Beglaubigung Schiedsverfahren-Einleitung. Eskalation Telefon-Sofort bei Sanktionsmeldung Embargoverstoss-Verdacht Hausdurchsuchung. Routing zu gerichtsstand-und-rechtswahl-pruefen.
+description: "Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Pruefraster: Mandantenrolle (Exporteur Importeur Investor) Geschaeft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Uebersicht)."
 ---
 
 # Mandat-Triage Internationales Wirtschaftsrecht

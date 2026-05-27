@@ -1,6 +1,6 @@
 ---
 name: ips-integrierte-planung
-description: "Führt Ergebnis, Liquidität und Bilanz als integrierte Planrechnung mit Szenarien, Sensitivitäten, Brücken und Annahmenregister."
+description: "Integrierte Planrechnung aus GuV Liquiditaet und Bilanz fuer Insolvenzplan oder StaRUG erstellen. §§ 220 229 InsO §§ 14 StaRUG Finanzplanung. Pruefraster: Ist-Zahlen Planannahmen Base-Case Stressszenarien Brueckenrechnung Annahmenregister Konsistenz. Output: Planungsmodell als CSV-Struktur Szenariovergleich. Abgrenzung: nicht fuer Vergleichsrechnung (ips-vergleichsrechnung)."
 ---
 
 # Integrierte Planrechnung

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-datenraum-gap-clean-room
-description: "Datenraum-Gap und Clean Room: Identifiziert fehlende Datenraum-Dokumente (Gap-Analyse), verwaltet IRL-Status und richtet Clean-Room-Protokolle fuer sensible Wettbewerber-Informationen in M&A-Transaktionen ein. Normen: DSGVO, GWB Clean Team."
+description: "Gap-Analyse des Datenraums und Clean-Room-Protokoll fuer M&A-Transaktionen: Identifiziert fehlende Dokumente, verwaltet IRL-Status (Information Request List), trennt sensible Wettbewerberdaten. Normen: DSGVO, GWB Clean-Team-Grundsaetze, MAR. Pruefraster: je Workstream fehlende Belege, IRL-Antwortstand, Clean-Room-Zugangsliste. Output Gap-Tabelle mit Priorisierung, IRL-Update, Clean-Room-Protokoll. Abgrenzung: Aufbau des DR siehe datenraum-aufbau; inhaltliche Vertragspruefung siehe due-diligence-commercial-contracts."
 ---
 
 # Datenraum Gap-Analyse und Clean Room

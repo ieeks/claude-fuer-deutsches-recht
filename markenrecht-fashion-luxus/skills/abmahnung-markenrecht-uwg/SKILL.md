@@ -1,6 +1,6 @@
 ---
 name: abmahnung-markenrecht-uwg
-description: "Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklaerung, Hamburger Brauch Vertragsstrafe, § 14 MarkenG und § 8 UWG, Kosten nach § 14 UWG-n.F. 2021. Laedt, wenn der Nutzer 'Abmahnung Marke', 'Unterlassungserklaerung', 'Vertragsstrafe Marke', 'Hamburger Brauch' oder 'Abmahnung UWG' sagt."
+description: "Markenrechtliche Abmahnung mit strafbewehrter Unterlassungserklaerung erstellen: Mandant hat Markenverletzung entdeckt und will Abmahnung aussprechen oder hat Abmahnung erhalten und muss reagieren. Normen: § 14 MarkenG (Verletzungsansprueche), § 8 UWG (Unterlassung), § 14 Abs. 1 UWG n.F. 2021 (Kostenersatz). Pruefraster: Verletzungstatbestand, Hamburger Brauch Vertragsstrafe, Berechnung Abmahnkosten, Frist zur Abgabe. Output Abmahnung mit Unterlassungserklaerung und Vertragsstrafe oder Gegenstellungnahme/modifizierte UE. Abgrenzung: Kein Eilantrag siehe messe-verletzung-und-gv-einsatz; kein DPMA-Widerspruch siehe dpma-widerspruch-und-loeschung."
 ---
 
 # Markenrechtliche Abmahnung und Unterlassungserklärung

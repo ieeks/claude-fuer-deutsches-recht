@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Erb- und Pflichtteilsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Erstgespraech im Erbrechtmandat strukturieren und Sachverhalt vollstaendig aufnehmen. §§ 1922 ff. BGB Erbfolge § 43a BRAO. Pruefraster: Erblasser Testament gesetzliche Erben Pflichtteilsberechtigte Nachlassbestand Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
 ---
 
 # Erstgespraech und Mandatsannahme im Erb- und Pflichtteilsrecht

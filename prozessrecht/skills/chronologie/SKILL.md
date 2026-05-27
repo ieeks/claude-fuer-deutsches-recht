@@ -1,6 +1,6 @@
 ---
 name: chronologie
-description: "Aufbau oder Aktualisierung einer Sachverhalts-Chronologie aus Dokumentenquellen und Uploads – datierte Ereignisse werden extrahiert, dedupliziert und nach Bedeutung für die Mandatstheorie markiert. Verwenden, wenn der Nutzer eine Chronologie oder einen Zeitstrahl aus einer Produktion oder Mandatsakte erstellen möchte, „Chronologie aus den Unterlagen\" oder „was ist wann passiert\" sagt oder einen Arbeits-, Sachverhaltdarstellungs- oder Zeugen-Zeitstrahl benötigt."
+description: "Sachverhaltschronologie fuer Klageschrift oder Verteidigung aufbauen: Zeitlinie mit Belegen und Normbezug. Normen: §§ 253 138 ZPO. Pruefraster: Ereignisse, Zeitpunkte, Dokumente, Normbezug, streitige vs. unstreitige Tatsachen. Output: Tabellarische Sachverhaltschronologie. Abgrenzung: nicht vollstaendige Klageschrift."
 ---
 
 # Sachverhalts-Chronologie

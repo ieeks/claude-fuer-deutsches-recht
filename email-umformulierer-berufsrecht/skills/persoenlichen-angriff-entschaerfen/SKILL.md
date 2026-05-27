@@ -1,6 +1,6 @@
 ---
 name: persoenlichen-angriff-entschaerfen
-description: "Konkrete Technik zur Umformulierung persoenlicher Angriffe: vom Du zum Sie, vom Vorwurf zur Frage, vom Urteil zur Beobachtung. Vorher-Nachher-Tabellen fuer typische Angriffsmuster in beruflicher Korrespondenz."
+description: "Persoenliche Angriffe und Beleidigungen in Anwaltskorrespondenz erkennen und durch sachliche Formulierungen ersetzen. § 43a BRAO § 26 BORA Sachlichkeitsgebot. Pruefraster: persoenliche Angriffe Beleidigungen herabsetzende Formulierungen. Output: entschaerfte sachliche Version mit Erklaerung. Abgrenzung: nicht fuer Ironie und Sarkasmus (ironie-und-sarkasmus-eliminieren)."
 ---
 
 # Persönlichen Angriff entschärfen

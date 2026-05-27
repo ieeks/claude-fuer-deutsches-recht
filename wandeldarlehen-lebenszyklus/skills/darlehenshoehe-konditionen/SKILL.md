@@ -1,6 +1,6 @@
 ---
 name: darlehenshoehe-konditionen
-description: "Erfassung und Dokumentation der Darlehenskonditionen: EUR-Betrag, Laufzeit (Standard zwei Jahre Feste Laufzeit), Zinssatz (Standard fuenf Prozent p.a. pro rata temporis act/360), Auszahlungsmodus (sieben Bankarbeitstage), Bankverbindung der Gesellschaft, aufschiebende Bedingungen und Kuendigungsausschluss."
+description: "Darlehenshoehe Zinsen Laufzeit und Konditionen fuer Wandeldarlehen verhandeln und dokumentieren. §§ 488 491 BGB Darlehensvertrag §§ 246 247 BGB Zinsen. Pruefraster: Darlehenshoehe Zinssatz Disagio Laufzeit Faelligkeit Sicherheiten Rangruecktritt. Output: Term-Sheet Konditionenblatt Vertragsklauseln. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Darlehensbetrag und Konditionen

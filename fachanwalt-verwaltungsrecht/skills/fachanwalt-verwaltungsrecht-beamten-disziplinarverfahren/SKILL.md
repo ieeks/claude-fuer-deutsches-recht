@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-beamten-disziplinarverfahren
-description: "Beamten-Disziplinar-Verfahren BBG / BeamtStG Disziplinargesetze Bund Laender. Vergehen Dienstpflichten Verletzung. Disziplinarmassnahmen Verweis Geldbusse Kuerzung Bezuege Aberkennung Ruhegehalt. Workflow Anhoerung Klage VG."
+description: "Beamten-Disziplinarverfahren fuehren oder verteidigen: Beamter hat Dienstvergehen begangen oder ist Dienstherr bei Einleitung Disziplinarverfahren. Normen: BBG/BeamtStG, Bundesdisziplinargesetz BDG, Landesdisziplinargesetze. Pruefraster: Dienstvergehen-Tatbestand, Disziplinarmassnahmen (Verweis bis Entfernung aus Beamtenverhaeltnis), Anhoerung, VG-Klage. Output Anhoerungsschrift, Klageschrift, Verteidigungskonzept. Abgrenzung: Beamtenrecht materiell (Befoerderung, Besoldung) siehe mandat-triage-verwaltungsrecht; Anfechtungsklage allgemein siehe fachanwalt-verwaltungsrecht-anfechtungsklage."
 ---
 
 # Beamten-Disziplinarverfahren

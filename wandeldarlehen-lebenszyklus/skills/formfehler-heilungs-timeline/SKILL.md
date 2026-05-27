@@ -1,6 +1,6 @@
 ---
 name: formfehler-heilungs-timeline
-description: Strukturierte Pruefung Formfehler bei Wandeldarlehens-Vorgaengen und Heilungs-Timeline. Verschiedene Form-Stufen Textform § 126b BGB Schriftform § 126 BGB notarielle Beurkundung § 128 BGB iVm § 15 Abs. 3 4 GmbHG. Verpflichtungsgeschaeft vs. Verfuegungsgeschaeft Wandeldarlehensvertrag in zweistufiger Konstruktion. Heilung Formfehler durch nachfolgende Beurkundung Wandlungsbeschluss § 15 Abs. 4 Satz 2 GmbHG. Insolvenz-Risiko-Fenster bei verzoegerter Heilung Anfechtungs-Risiken Eigenkapital-Charakter qualifizierter Rangruecktritt. Empfehlung Heilungs-Vorgehen bei verschiedenen Phasen Vor-Insolvenz und Wandlungs-Phase. Notar-Kommunikation und Termin-Logistik.
+description: "Formfehler in Wandeldarlehen oder Kapitalerhohungsdokumenten identifizieren und Heilungsmassnahmen planen. §§ 125 311b BGB Nichtigkeit §§ 15 55 GmbHG Formerfordernisse. Pruefraster: Formmangel Nichtigkeit Heilung Nachbeurkundung Fristen. Output: Fehlerliste Heilungsplan Fristenkalender. Abgrenzung: nicht fuer allgemeine Beurkundungspruefung (beurkundungserfordernis-pruefung)."
 ---
 
 # Formfehler und Heilungs-Timeline

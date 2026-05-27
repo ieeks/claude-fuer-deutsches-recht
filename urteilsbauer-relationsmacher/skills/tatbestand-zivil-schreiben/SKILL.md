@@ -1,6 +1,6 @@
 ---
 name: tatbestand-zivil-schreiben
-description: "Schreibt den Tatbestand eines Zivilurteils nach Paragraf 313 Abs. 2 ZPO: Einleitungssatz unstreitiger Sachverhalt streitiges Klaegervorbringen Klaegerantrag Beklagtenvorbringen Beklagtenantrag Beweisaufnahme Hinweis auf Anlagen mit Bezugnahme. Knapp Paragraf 313 Abs. 2 ZPO nuechtern objektiv."
+description: "Tatbestand eines Zivilurteils nach § 313 Abs. 2 ZPO schreiben: Richter muss den Prozessstoff sachlich und knapp wiedergeben. Normen: § 313 Abs. 2 ZPO (Tatbestand-Anforderungen), § 314 ZPO (Beweiskraft des Tatbestands). Pruefraster: Einleitungssatz, unstreitiger Sachverhalt, streitiges Klaegervorbringen mit Antrag, Beklagtenvorbringen mit Antrag, Bezugnahmen auf Anlagen. Output Tatbestand-Entwurf: knapp, nuechtern, objektiv im Urteilsstil. Abgrenzung: Entscheidungsgruende siehe entscheidungsgruende-zivil-schreiben; Relation (Vorstufe) siehe relation-zivil."
 ---
 
 # Tatbestand schreiben

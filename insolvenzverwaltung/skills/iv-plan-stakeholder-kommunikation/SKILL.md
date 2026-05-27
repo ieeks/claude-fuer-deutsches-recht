@@ -1,6 +1,6 @@
 ---
 name: iv-plan-stakeholder-kommunikation
-description: "Erstellt klare Kommunikation für Gläubiger, Banken, Arbeitnehmer, Lieferanten, Gericht, Investoren, Betriebsrat und Presse ohne Überversprechen."
+description: "Glaeubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht ueber Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO Planeroerterung §§ 17 20 StaRUG Glaeubigerinfo. Pruefraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript. Output: Kommunikationsmatrix Glaeubiger-Q-A Terminskript. Abgrenzung: nicht fuer Gerichtsschriftsaetze (iv-plan-gerichtliche-schritte)."
 ---
 
 # IV-integrierte Stakeholder-Kommunikation

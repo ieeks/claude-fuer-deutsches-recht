@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kg-und-gmbhcokg
-description: "KG- und GmbH-und-Co-KG-Gruendung. Komplementaer Kommanditist Hafteinlage Pflichteinlage Paragraf 161 ff HGB. Bei GmbH und Co KG zuerst Komplementaer-GmbH dann KG-Beurkundung. Handelsregister-Anmeldungen Vertretung Geschaeftsfuehrung Gewinnverteilung Sozialversicherung KG-Vertrag-Muster typische Gestaltungsfehler."
+description: "KG und GmbH und Co. KG gruenden: Gesellschaftsvertrag, Haftungsstruktur, steuerliche Transparenz. Normen: §§ 161 ff. HGB, GmbHG. Pruefraster: Komplementaer-GmbH, Kommanditistenstellung, steuerliche Behandlung. Output: KG-Gesellschaftsvertrag und GmbH-Komplementaer-Satzung. Abgrenzung: nicht reine GmbH-Gruendung."
 ---
 
 # KG und GmbH & Co. KG

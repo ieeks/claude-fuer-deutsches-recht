@@ -1,6 +1,6 @@
 ---
 name: gpai-systemisches-risiko-schwelle-10e25-flop
-description: "GPAI-Modelle mit systemischem Risiko nach Art. 51 KI-VO: Schwellenwert 10e25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 KI-VO. Zusaetzliche Pflichten Art. 55 KI-VO: Modellbewertung Gegenmassnahmen Vorfallmeldung Cybersicherheit."
+description: "Anbieter eines sehr grossen Basismodells fragt: Haben wir die Schwelle fuer systemisches Risiko ueberschritten und welche Zusatzpflichten gelten dann? Art. 51 und 55 KI-VO GPAI systemisches Risiko. Pruefraster: Schwellenwert 10 hoch 25 FLOP Trainingsrechenleistung Notifikationspflicht Kommission Art. 52 Abs. 1. Zusatzpflichten Art. 55: Modellbewertungen Gegenmassnahmen Vorfallmeldung Cybersicherheit adversarielle Tests. Output: Pflichtenprogramm systemisches-Risiko mit Fristen und Nachweisdokumentation. Abgrenzung zu gpai-modelle-art-51-bis-55 (Basis-GPAI-Pflichten)."
 ---
 
 # GPAI-Modelle mit systemischem Risiko — Art. 51 bis 55 KI-VO

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gv-protokoll-und-versammlungsleiter
-description: "Protokoll der Gesellschafterversammlung. Wahl des Versammlungsleiters Wahl des Schriftfuehrers. Anwesenheits-Liste Stimmrechts-Pruefung. Beschluss-Wortlaut und Stimmrechts-Ergebnis Mehrheits-Berechnung. Notarielle Beurkundung bei Satzungsaenderung Paragraf 53 GmbHG. Bei streitiger Versammlung mehrere Protokolle. Anfechtungs-Fristen Paragrafen 246 248 AktG analog."
+description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchfuehren. Normen: §§ 48 ff. GmbHG. Pruefraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung."
 ---
 
 # Protokoll der Gesellschafterversammlung

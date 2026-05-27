@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-und-sprachklausel
-description: "Formulierung Vertraulichkeitsverpflichtung (§ 8) mit Ausnahmen fuer Investoren-Folge-Pitches, Berater und Behoerden sowie Sprachklausel-Standardformulierungen mit Vorrang DE, Salvatorische Klausel (§ 139 BGB abdingen), Gerichtsstand oder DIS-Schiedsgerichtsklausel Frankfurt am Main."
+description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag pruefen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Pruefraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Pruefprotokoll. Abgrenzung: nicht fuer gesamte Vertragserstellung (einsprachige-vertragsfassung-de)."
 ---
 
 # Vertraulichkeit und Sprachklausel

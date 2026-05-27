@@ -1,6 +1,6 @@
 ---
 name: restrukturierungsbeauftragter-und-sachwalter
-description: "§ 73 StaRUG Restrukturierungsbeauftragter und Sachwalter: Bestellung, Aufgaben, Auswahl, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle, Pflichtbeauftragung."
+description: "Restrukturierungsbeauftragter und Sachwalter nach § 73 StaRUG: GF oder Glaeubigervertreter prueft Bestellung und Aufgaben. Normen: § 73 StaRUG (Restrukturierungsbeauftragter), §§ 74-77 StaRUG (Pflichtbeauftragung), § 76 StaRUG (Sachwalter). Pruefraster: Bestellung (freiwillig vs. Pflicht), Aufgaben, Auswahlkriterien, Honorar-Festsetzung, Unterschied zum Insolvenzverwalter, gerichtliche Kontrolle. Output Bestellungs-Memo, Auswahlkriterien-Checkliste. Abgrenzung: Insolvenzverwalter InsO siehe insolvenzverwaltung-Plugin; Planarchitektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug."
 ---
 
 # Restrukturierungsbeauftragter und Sachwalter — § 73 StaRUG

@@ -1,6 +1,6 @@
 ---
 name: iv-sicherung-betriebsfortfuehrung
-description: "Betriebsfortfuehrung in der Insolvenzverwaltung. Führt Cash Bridge Lieferanten Arbeitnehmer Insolvenzgeld Kundenauftraege Produktion und Fortfuehrungsrisiken."
+description: "Betrieb in Insolvenz fortfuehren wenn Massemehrung oder Sanierung geplant ist und Lohn Lieferanten und Auftraege gesichert werden muessen. §§ 22 55 InsO Massebegrundung §§ 113 120 InsO Arbeitsverhaeltnisse. Pruefraster: Fortfuehrungsziel Cash-Bridge Insolvenzgeldzeitraum kritische Lieferanten operative Risiken. Output: Fortfuehrungsplan Liquiditaetsplan Risikoliste. Abgrenzung: nicht fuer Personalrecht (iv-arbeitsrecht-insolvenzgeld)."
 ---
 
 # Sicherung und Betriebsfortführung

@@ -1,6 +1,6 @@
 ---
 name: energierecht-transaktionen-dd
-description: Energie-Transaktionen Asset Deals Share Deals MA bei Erzeugungs-Anlagen Wind Solar Hydro KWK Wärmenetze Stromvertrieb-Portfolios. Due Diligence Energie-spezifisch EEG-Verguetungs-Anspruch MaStR-Eintrag Pruefung BImSchG-Genehmigung Erweiterung Repowering-Potenzial Anschluss-Punkt Wechsel. Wartungs-Vertrage PPA-Bestand. Beihilfen-Pruefung De-minimis. Strompreiskompensation-Rueckforderungs-Risiko. Vor-Insolvenz-Verkauf Distressed-Energy-Asset. Bewertungs-Methodik DCF mit anzulegendem Wert Marktpreis-Forecast LCOE-Vergleich.
+description: "Due Diligence bei Energierecht-Transaktionen: Kauf von Windparks, Solarprojekten, Netzen. Normen: §§ 453 ff. BGB, EnWG, EEG, KWKG. Pruefraster: Genehmigungs-Status, Netzvertrag, EEG-Verguetungsrecht, Umweltrisiken. Output: Due-Diligence-Bericht Energietransaktion. Abgrenzung: nicht Projektfinanzierung."
 ---
 
 # Energie-Transaktionen und Due Diligence

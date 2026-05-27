@@ -1,6 +1,6 @@
 ---
 name: energierecht-waerme-quartier
-description: Kommunale Waermeplanung WPG seit 01.01.2024 Pflicht-Frist 30.06.2026 grosse Gemeinden 30.06.2028 sonstige Gemeinden. Fernwaerme AVBFernwaermeV BGH-Linie Preisanpassungs-Klauseln Anschluss-und-Benutzungs-Zwang § 16 GG Verhaeltnismaessigkeits-Pruefung. Mieterstrom-Modell EEG § 21 § 42a EnWG Solarpaket I Vereinfachung. BEW Bundesfoerderung effiziente Waermenetze KfW 442. GEG Heizung Gebaeudeenergiegesetz Reform 01/2024 Anschluss-Pflicht 65%-EE. Quartiers-Konzept Strom Waerme Mobilitaet integriert. Streit Waermeliefervertraege Preisanpassung Anpassungs-Klauseln BGH VIII ZR 263/22 Spotpreis-Indizierung.
+description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Pruefraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energieliefervertraege."
 ---
 
 # Wärme, Quartier und Fernwärme

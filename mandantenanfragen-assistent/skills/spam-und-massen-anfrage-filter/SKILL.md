@@ -1,6 +1,6 @@
 ---
 name: spam-und-massen-anfrage-filter
-description: "Erkennt Spam-Muster in eingehenden Mandantenanfragen: Werbung, Spamfilter-Umgehung, klassische 419-Scams, automatisierte Recruiter-Mails, Massen-Mandantenanfragen und Phishing. Kennzeichnet die Anfrage zur Aussortierung ohne Erstantwort. Laedt wenn der Nutzer 'Spam pruefen', 'verdaechtige Anfrage', 'Scam-Mail', '419-Betrug', 'Massen-Anfrage erkennen' oder 'Phishing Kanzlei' sagt."
+description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Pruefraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker."
 ---
 
 # Spam-und-Massen-Anfrage-Filter

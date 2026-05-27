@@ -1,6 +1,6 @@
 ---
 name: drei-stufen-theorie-eingriffsanalyse
-description: "Drei-Stufen-Theorie des BAG zur Eingriffsanalyse betrieblicher Versorgungsrechte: BAG GS 1/82 BAG 3 AZR 392/06 erdiente Ansprueche erdiente Dynamik kuenftige Zuwachse Eingriffstiefen-Matrix Rechtfertigungsmassstab sachlich-proportional-triftig-zwingend fuer Konzern-Restrukturierungen."
+description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Pruefraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhaeltnismaessigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Loesungen."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte

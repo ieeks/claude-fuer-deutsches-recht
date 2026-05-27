@@ -1,6 +1,6 @@
 ---
 name: wandlungsausschluss-pruefung
-description: "Pruefung Verfallklauseln, Erloeschen des Wandlungsrechts, Verzicht, Verjaehrung (§§ 194 ff. BGB, drei Jahre) und vertragliche Ausschlussgruende. Wann ist das Wandlungsrecht des Lenders nicht mehr ausuebbar? Auswirkung auf Rueckzahlungsanspruch."
+description: "Pruefen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Pruefraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Pruefmemo Empfehlung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Wandlungsausschluss-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: einfuehrer-importer-pflichten-art-23
-description: "Pflichten von Einfuehrern (Importeuren) von Hochrisiko-KI nach Art. 23 KI-VO: Pruefung Konformitaetsbewertung technische Dokumentation CE-Kennzeichnung Bevollmaechtigter. Wann wird der Einfuehrer zum Anbieter? Aufbewahrungspflichten."
+description: "Importeur von KI-Systemen aus Drittstaaten fragt: Was muss ich pruefen bevor ich ein Hochrisiko-KI-System in der EU in Verkehr bringe? Art. 23 KI-VO Einfuehrer-Pflichten. Pruefraster: Konformitaetsbewertung durch Anbieter bereits durchgefuehrt CE-Kennzeichnung vorhanden technische Dokumentation und EU-Konformitaetserklaerung geprueft Bevollmaechtigter benannt. Wann wird Einfuehrer zum Anbieter Art. 25 KI-VO. Output: Checkliste Einfuehrer-Sorgfaltspflichten. Abgrenzung zu haendler-distributor-pflichten-art-24 (Vertrieb) und anbieter-werden-art-25 (Rollenwechsel)."
 ---
 
 # Einführer-Pflichten (Importer) — Art. 23 KI-VO

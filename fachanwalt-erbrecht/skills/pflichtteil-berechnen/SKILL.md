@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-berechnen
-description: "Berechnet Pflichtteils- und Pflichtteilsergaenzungsansprueche nach §§ 2303 ff. BGB. Pflichtteilsberechtigte Abkoemmlinge Ehegatte Eltern. Pflichtteilsquote als Haelfte des gesetzlichen Erbteils. Pflichtteilsergaenzungs-Anspruch § 2325 BGB bei Schenkungen Zehn-Jahres-Abschmelzung. Ehegatte-Sonderregel Nießbrauch-Vorbehalt Schenkungsbeginnn. Bewertungsstichtag Niederstwertprinzip. Pflichtteilsentzug § 2333 BGB. Stufenklage § 254 ZPO. Verjährung drei Jahre."
+description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Pruefraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit Rechenweg. Abgrenzung: nicht fuer Auskunftsklage oder Pflichtteilsklage (schriftsatzkern-substantiierung)."
 ---
 
 # Pflichtteil und Pflichtteilsergänzung berechnen

@@ -1,6 +1,6 @@
 ---
 name: anfg-anfechtungsklage-prozessuales
-description: "Prozessuale Aspekte der AnfG-Anfechtungsklage: Klagefrist Verjährung nach §§ 195 199 BGB sachliche und örtliche Zuständigkeit Klageantrag (Duldungsurteil) Streitwert und Vollstreckung des Anfechtungsurteils. BGH IX ZR Anfechtungsrecht ausserhalb Insolvenz."
+description: "Mandant hat vollstreckbaren Titel und will angefochtene Vermoegensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Pruefraster: Titel und Fristpruefung, Duldungs- vs. Wertersatzantrag, sachliche Zustaendigkeit AG/LG, oertliche Zustaendigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter."
 ---
 
 # Anfechtungsklage AnfG — Prozessuales

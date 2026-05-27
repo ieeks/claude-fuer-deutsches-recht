@@ -1,6 +1,6 @@
 ---
 name: anfg-unentgeltliche-leistung-4
-description: "§ 4 AnfG: Anfechtung unentgeltlicher Leistungen des Schuldners in den letzten vier Jahren. Unentgeltlichkeitsbegriff Abgrenzung zu gemischten Schenkungen und Ausnahmen. Kein Verschuldenserfordernis. BGH IX ZR unentgeltliche Leistung Schenkungsanfechtung."
+description: "Anfechtung unentgeltlicher Leistungen ausserhalb der Insolvenz pruefen: Schenkungsanfechtung in den letzten vier Jahren nach § 4 AnfG. Normen: § 4 AnfG. Pruefraster: Unentgeltlichkeitsbegriff, gemischte Schenkungen, Ausnahmen fuer Anstandsschenkungen, kein Verschuldenserfordernis. Output: Pruefergebnis Anfechtbarkeit mit Anfechtungszeitraum. Abgrenzung: nicht § 134 InsO (erfordert Insolvenzeroffnung)."
 ---
 
 # Unentgeltliche Leistung — § 4 AnfG

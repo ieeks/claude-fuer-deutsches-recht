@@ -1,6 +1,6 @@
 ---
 name: abgrenzung-konventionelle-software-vs-ki-system
-description: "Prueft typische Falschverortungen: wann liegt konventionelle Software vor und wann ein KI-System nach Art. 3 Nr. 1 KI-VO. Abgrenzung zu Expertensystemen deterministischer Logik einfachen Entscheidungsbaeumen und klassischer Automation. Hilft bei Grenzfaellen."
+description: "Unternehmen oder Kanzlei fragt: Ist unsere Software ein KI-System nach der EU KI-VO und fallen wir unter die Compliance-Pflichten? Art. 3 Nr. 1 KI-VO Definition KI-System: maschinengesteuertes System mit Autonomiegrad. Pruefraster: Abgrenzung deterministische Regellogik vs. maschinelles Lernen vs. heuristische Ansaetze vs. klassische Automation und Expertensysteme. Output: Einordnungsmatrix mit Begruendung ob KI-System vorliegt oder nicht. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollpruefung) und triage-ki-vo-vorpruefung (Einstieg)."
 ---
 
 # Abgrenzung: Konventionelle Software versus KI-System

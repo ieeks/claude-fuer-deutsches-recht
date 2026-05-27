@@ -1,6 +1,6 @@
 ---
 name: ips-kaltstart-interview
-description: "Führt ein verzeihendes Interview für Schuldnerdaten, Krise, Gläubiger, Sicherheiten, Planung, Sanierungsidee und gewünschte Planwirkung."
+description: "Insolvenzplan- oder StaRUG-Mandat durch strukturiertes Erstgespraech aufgleisen wenn Unterlagen fehlen. §§ 13 15a InsO §§ 29 42 StaRUG Antragspflichten. Pruefraster: Basisdaten Krisenursachen Glaeubigerlandschaft Liquiditaetslage Sanierungsidee fehlende Unterlagen. Output: Interviewprotokoll Unterlagenliste Annahmenregister. Abgrenzung: nicht fuer laufende Datenraum-Pflege (ips-datenraum-register)."
 ---
 
 # Kaltstart-Interview

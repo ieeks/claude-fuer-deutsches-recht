@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bautraeger-insolvenz
-description: "Bautraeger-Insolvenz Schutz Bautraeger MaBV-Sicherheiten § 7 MaBV Buergschaft 5 Prozent. Auflassungs-Anwartschaft Eintragung Vormerkung § 883 BGB. Insolvenzantrag-Massnahmen Erwerber-Strategie. § 103 InsO Verwalter-Wahl Erfuellung Ablehnung. Workflow Erwerber-Sofortmassnahmen Sicherheiten Klage."
+description: "Insolvenz des Bautraegers: Ansprueche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Pruefraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkuendigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung."
 ---
 
 # Bauträger-Insolvenz — Erwerber-Schutz

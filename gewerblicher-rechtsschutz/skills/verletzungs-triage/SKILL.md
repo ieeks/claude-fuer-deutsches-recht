@@ -1,6 +1,6 @@
 ---
 name: verletzungs-triage
-description: "Verletzungs-Triage bei gewerblichen Schutzrechten und Wettbewerbsrecht: Marke (§ 14 MarkenG), Patent (§ 9 PatG), Urheberrecht (§ 97 UrhG), Wettbewerb (§ 8 UWG). Entscheidungsempfehlung: Ignorieren / Informelles Schreiben / Abmahnung / einstweilige Verfügung / Klage."
+description: "Mandant sieht IP-Verletzung oder hat Verletzungsschreiben erhalten und fragt: Was ist zu tun? Verletzungs-Triage gewerblicher Rechtsschutz. Pruefraster: Marke § 14 MarkenG Patent § 9 PatG Urheber § 97 UrhG Wettbewerb § 8 UWG Entscheidungsempfehlung Ignorieren/informelles Schreiben/Abmahnung/eV/Klage. Output: Entscheidungs-Memo mit Empfehlung und naechstem Schritt. Abgrenzung zu unterlassungsverlangen (Abmahnung selbst) und mandat-triage-gewerblicher-rechtsschutz."
 ---
 
 # Verletzungs-Triage

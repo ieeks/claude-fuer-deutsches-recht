@@ -1,6 +1,6 @@
 ---
 name: paragraph-102-starug-warnpflicht-bei-rechtsberatern
-description: "§ 102 StaRUG: Hinweis- und Warnpflicht für Steuerberater, Wirtschaftsprüfer und Rechtsanwälte, Dokumentationspflicht, Haftungsrisiken bei Unterlassen, BGH IX ZR 285/14 Sanierungsberater-Haftung, praktische Umsetzung."
+description: "§ 102 StaRUG Warnpflicht fuer Rechtsberater rechtlich bewerten: Steuerberater, WP oder Anwalt prueft eigene Haftungsrisiken bei Krisenmandat. Normen: § 102 StaRUG (Hinweis- und Warnpflicht), BGH IX ZR 285/14 (Sanierungsberater-Haftung), § 43 GmbHG. Pruefraster: Warnpflicht-Ausloeser, Dokumentationspflicht, Haftungsrisiken bei Unterlassen, praktische Umsetzung. Output Haftungsanalyse Berater, Handlungsempfehlung. Abgrenzung: Template fuer den Warnbrief selbst siehe mandantenbrief-warnung-paragraph-102-starug-template; Krisenstadien siehe krisenstadien-stakeholder-strategie-ergebnis-liquiditaet."
 ---
 
 # § 102 StaRUG — Warnpflicht der Rechtsberater

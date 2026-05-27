@@ -1,6 +1,6 @@
 ---
 name: emotionale-trigger-katalog
-description: "Woerterbuch typischer emotionaler Trigger in beruflicher Korrespondenz mit neutralen Ersatzformulierungen. Umfasst Schimpfwoerter, Pauschalurteile, Kompetenzabsprachen und Drohgesten mit jeweils sachlicher Entsprechung."
+description: "Emotionale Trigger-Woerter und -Phrasen in Anwaltskorrespondenz identifizieren und neutralisieren. § 26 BORA Sachlichkeit § 43a BRAO Berufspflichten. Pruefraster: aggressive Formulierungen persoenliche Angriffe emotionale Uebertreibungen Abwertungen. Output: Trigger-Liste neutrale Alternativen Umformulierungsvorschlaege. Abgrenzung: nicht fuer vollstaendige Umformulierung (allgemeine-berufliche-korrespondenz)."
 ---
 
 # Emotionaler Trigger-Katalog

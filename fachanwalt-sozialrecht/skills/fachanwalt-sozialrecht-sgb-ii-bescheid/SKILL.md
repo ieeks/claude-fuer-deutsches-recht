@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-sgb-ii-bescheid
-description: SGB II Buergergeld-Bescheid. Bedarfsberechnung Regelbedarf § 20 Mehrbedarfe § 21 Kosten der Unterkunft § 22 Einkommen § 11 ff. Vermoegen § 12. Sanktionen Pflichtverletzung §§ 31 ff. SGB II nach Massgabe BVerfG 1 BvL 7/16. Vorlaeufige Leistungen § 41a. Erstattung und Aufrechnung § 43. Schreibvorlage Widerspruch.
+description: "Mandant erhielt Buergergeld-Bescheid mit zu niedrigem Betrag Sanktion oder Aufhebungs-Rueckforderungsbescheid. SGB II Buergergeld. Pruefraster: Bedarfsberechnung Regelbedarf § 20 Mehrbedarfe § 21 Kosten der Unterkunft § 22 Einkommen §§ 11 ff. Vermoegen § 12. Sanktionen §§ 31 ff. SGB II nach BVerfG 1 BvL 7/16. Vorlaeufige Leistungen § 41a Erstattung § 43 SGB II. Output: Widerspruchsschriftsatz SGB II. Abgrenzung zu bescheid-frist-quick-check (Fristkontrolle) und eilantrag-sozialrecht."
 ---
 
 # SGB-II-Bescheid (Bürgergeld)

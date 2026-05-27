@@ -1,6 +1,6 @@
 ---
 name: beteiligung-frueh-foermlich
-description: Pruefung der zweistufigen Buerger- und Behoerdenbeteiligung beim Bebauungsplan. Paragraf 3 Abs. 1 BauGB fruehzeitige Buergerbeteiligung mit Erlaeuterung Ziele und Auswirkungen. Paragraf 3 Abs. 2 BauGB foermliche Auslegung Entwurf und Begruendung fuer mindestens einen Monat. Paragraf 4 Abs. 1 und Abs. 2 BauGB Behoerdenbeteiligung Traeger oeffentlicher Belange. Bekanntmachung der Auslegung mit Anstossfunktion. Eingehende Stellungnahmen sind in die Abwaegung einzustellen. Eingangsverwaltung Eingangsbestaetigung Wiederholungspruefung. Paragraf 4a Abs. 3 BauGB erneute Auslegung bei wesentlicher Aenderung. Onlinepflicht Paragraf 4a Abs. 4 BauGB. Praeklusion ist 2017 weggefallen Hinweis BVerwG. Eingewendete Belange als Hauptangriffsflaeche.
+description: "Mandant greift Bebauungsplan wegen Fehlern in der Buerger- oder Behoerdenbeteiligung an. §§ 3 4 BauGB Beteiligungsverfahren. Pruefraster: fruehzeitige Beteiligung § 3 Abs. 1 foermliche Auslegung § 3 Abs. 2 mindestens 1 Monat Behoerdenbeteiligung §§ 4 Abs. 1 und 2 Wiederholung bei wesentlicher Aenderung § 4a Abs. 3 Online-Pflicht § 4a Abs. 4. Output: Beteiligungsfehler-Pruefprotokoll und Angriffspunkte. Abgrenzung zu aufstellungsbeschluss-bekanntmachung (formelle Verfahrenskette) und planerhaltung-214-215-baugb."
 ---
 
 # Beteiligung — frühzeitig und förmlich

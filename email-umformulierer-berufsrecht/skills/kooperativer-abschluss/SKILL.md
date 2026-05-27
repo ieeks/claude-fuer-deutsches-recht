@@ -1,6 +1,6 @@
 ---
 name: kooperativer-abschluss
-description: "Formuliert positive, kooperative Schlusspassagen fuer berufliche E-Mails: Ausblick, Dank, Gespraechsangebot und Rueckmeldebitte. Verleiht auch sachlichen oder kritischen Schreiben einen konstruktiven Abschluss."
+description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Pruefraster: offen fuer Gespraeich konstruktiver Ausblick ohne Ueberversprechung. Output: optimierter Abschlusssatz mit Erklaerung. Abgrenzung: nicht fuer die Grussformel (anrede-und-grussformeln)."
 ---
 
 # Kooperativer Abschluss

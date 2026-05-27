@@ -1,6 +1,6 @@
 ---
 name: klage-sozialgericht
-description: Entwurf einer Klage zum Sozialgericht nach §§ 87 ff. SGG. Klagefrist ein Monat nach Zustellung des Widerspruchsbescheids (§ 87 Abs. 1 SGG; bei fehlender Rechtsbehelfsbelehrung ein Jahr § 66 Abs. 2 SGG). Sachliche Zustaendigkeit Sozialgericht (§ 8 SGG) oertlich gewoehnlicher Aufenthaltsort des Klaegers (§ 57 SGG). Kein Anwaltszwang vor dem SG aber Versand ueber beA Pflicht. PKH-Antrag inkludiert (§ 73a SGG iVm §§ 114 ff. ZPO). Erzeugt Klageschrift Anlagenverzeichnis Beweisangebote.
+description: "Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Pruefraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zustaendigkeit § 8 SGG oertliche Zustaendigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe)."
 ---
 
 # Klage zum Sozialgericht

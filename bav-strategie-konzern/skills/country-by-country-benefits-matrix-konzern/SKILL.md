@@ -1,6 +1,6 @@
 ---
 name: country-by-country-benefits-matrix-konzern
-description: "Standardisierte Country-by-Country Benefits-Matrix fuer Konzerne: DE UK US FR SG JP NL CH mit lokalen zwingenden Vorschriften Expat-Behandlung Pflichtbeitragssystemen freiwilligen Zusatzsystemen und Governance-Anforderungen nach IORP II und lokalem Recht."
+description: "Laenderuebergreifende Benefits-Matrix fuer internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Pruefraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie."
 ---
 
 # Country-by-Country Benefits-Matrix für Konzerne

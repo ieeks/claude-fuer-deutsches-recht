@@ -1,6 +1,6 @@
 ---
 name: condictio-indebiti-813-bgb
-description: "§ 813 BGB: Rueckforderung trotz Erfuellung einer einredebehafteten Verbindlichkeit. Tatbestandsmerkmale, dauernde Einreden nach § 813 Abs. 1 S. 1 BGB und Verjaehrungseinrede."
+description: "Rueckforderung trotz Erfuellung einer einredebehafteten Verbindlichkeit nach § 813 BGB pruefen. Normen: § 813 BGB. Pruefraster: dauernde vs. temporaere Einreden, Verjaebrungseinrede, Tatbestandsmerkmale. Output: Pruefergebnis condictio indebiti mit Einredenklassifikation. Abgrenzung: nicht condictio § 812 Abs. 1 S. 1 Alt. 1 BGB bei fehlendem Rechtsgrund."
 ---
 
 # Condictio indebiti — § 813 BGB

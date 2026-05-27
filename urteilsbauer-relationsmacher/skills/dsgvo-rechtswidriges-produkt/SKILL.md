@@ -1,6 +1,6 @@
 ---
 name: dsgvo-rechtswidriges-produkt
-description: "Prueft ob ein Produkt aus dem Ausland datenschutzrechtswidrig im Sinne der DSGVO ist: raeumlicher Anwendungsbereich Art. 3 DSGVO Erforderlichkeit Art. 5 Abs. 1 lit. c DSGVO Rechtsgrundlage Art. 6 DSGVO Einwilligung Art. 7 DSGVO Informationspflichten Art. 13 14 DSGVO Datenuebermittlung Drittlaender Art. 44 ff DSGVO automatisierte Entscheidung Art. 22 DSGVO biometrische Daten Art. 9 DSGVO. Relevant fuer Smartglasses Wearables IoT."
+description: "Produkt aus dem Ausland auf DSGVO-Rechtswidrigkeit pruefen: Richter oder Anwalt muss beurteilen ob Smartglasses oder IoT-Produkt DSGVO-konform ist. Normen: Art. 3 DSGVO (raeumlicher Anwendungsbereich), Art. 5 Abs. 1 lit. c (Datensparsamkeit), Art. 6 (Rechtsgrundlage), Art. 9 (biometrische Daten), Art. 13-14 (Informationspflichten), Art. 44 ff. (Drittlandtransfer), Art. 22 (automatisierte Entscheidung). Pruefraster: Anwendbarkeit, Rechtsgrundlage, Sonderkateg. Daten, Drittlandtransfer. Output DSGVO-Pruefschema mit Ergebnis und Empfehlung. Abgrenzung: allgemeine DSGVO-Beratung siehe datenschutzrecht-Plugin; DSA siehe dsa-dma-Plugin."
 ---
 
 # DSGVO-rechtswidriges Produkt

@@ -1,6 +1,6 @@
 ---
 name: kollegialitaetsgebot-pruefung
-description: "Prueft Schreiben auf Einhaltung des anwaltlichen Kollegialitaetsgebots gemaess § 25 BORA. Erkennt herabsetzende Aeusserungen ueber Kollegen und gegnerische Anwaelte und formuliert sachliche, respektvolle Alternativen."
+description: "E-Mail auf Einhaltung des Kollegialitaetsgebots gegenueber Kollegen und Kolleginnen pruefen. § 43a Abs. 3 BRAO § 26 BORA Kollegialitaet. Pruefraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitaets-Pruefprotokoll Korrekturvorschlaege. Abgrenzung: nicht fuer Mandantenkommunikation."
 ---
 
 # Kollegialitätsgebot-Prüfung

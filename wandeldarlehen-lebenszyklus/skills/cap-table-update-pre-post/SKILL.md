@@ -1,6 +1,6 @@
 ---
 name: cap-table-update-pre-post
-description: "Erstellung Pre-Money-Cap-Table und Post-Money-Cap-Table inkl. Wandlung. Verwaesserung der Altgesellschafterinnen quantifizieren. Tabelle mit Anteilsklassen, Anzahl Geschaeftsanteile, Nennwert und Prozentanteil. Aufnahme neuer Seed-Investoren und Lender nach Wandlung."
+description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Pruefraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Cap-Table Update – Pre-Money und Post-Money

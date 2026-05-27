@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-matter-file
-description: "Matter File und Aktenstruktur: Verwaltet und strukturiert das Transaktionsaktenwerk fuer Corporate/M&A-Mandate. Dokument-Klassifizierung, Versionierung, Zugriffsrechte, Aufbewahrungspflichten. Normen: §§ 257 HGB, 147 AO, BRAO § 50."
+description: "Transaktionsakte strukturieren und verwalten fuer Corporate/M&A-Mandate: Anwalt benoetigt Dokument-Klassifizierung, Versionskontrolle, Zugriffsrechteverwaltung und Aufbewahrungsplanung. Normen: §§ 257 HGB, 147 AO (Aufbewahrungspflichten), BRAO § 50 (Aktenaufbewahrung). Pruefraster: Dokumententypen, Versionierung, Vernichtungsfristen, DSGVO-Archivierung. Output Matter-File-Struktur, Versionierungsprotokoll, Aufbewahrungskalender. Abgrenzung: Closing Bible am Ende siehe closing-bible-archiv; Datenraum-Aufbau siehe datenraum-aufbau."
 ---
 
 # Matter File und Aktenstruktur

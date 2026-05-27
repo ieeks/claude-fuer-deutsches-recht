@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlung-einberufen
-description: "Einberufung der ausserordentlichen Gesellschafterversammlung mit Tagesordnung Kapitalerhoehung gegen Sacheinlage (Wandlung Wandeldarlehen). Ladungsfristen nach § 51 GmbHG (mindestens eine Woche), Moeglichkeit des Ladungsfristverzichts nach § 51 Abs. 3 GmbHG, Tagesordnungspflichten, Vollmachtsregelung."
+description: "Gesellschafterversammlung fuer Wandeldarlehensmandat einberufen und Tagesordnung aufstellen. §§ 49 51 GmbHG Ladungspflichten. Pruefraster: Ladungsfrist Form Tagesordnung Quorum Vollmachten Protokollpflicht. Output: Einberufungsschreiben Tagesordnung Vollmachtsformular. Abgrenzung: nicht fuer spezifische Beschlussvorbereitung (gesellschafterbeschluss-vorbereiten)."
 ---
 
 # Gesellschafterversammlung einberufen (Kapitalerhöhung)

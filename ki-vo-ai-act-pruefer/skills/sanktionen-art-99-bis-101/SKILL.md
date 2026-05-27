@@ -1,6 +1,6 @@
 ---
 name: sanktionen-art-99-bis-101
-description: "Bussgelder nach Art. 99 bis 101 KI-VO: bis 35 Mio EUR oder sieben Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder drei Prozent bei sonstigen Verstoszen bis 7.5 Mio EUR oder ein Prozent bei falschen Angaben. KMU-Privilegierung."
+description: "Unternehmen moechte die Kostenrisiken einer KI-VO-Verletzung einschaetzen oder Vorstand ueber Bussgelddimensionen informieren. Art. 99 bis 101 KI-VO Sanktionen. Pruefraster: bis 35 Mio EUR oder 7 Prozent Konzernumsatz bei verbotenen Praktiken bis 15 Mio EUR oder 3 Prozent bei sonstigen Verstoszen bis 7.5 Mio EUR oder 1 Prozent bei falschen Angaben. KMU-Privilegierung. Strafbarkeit natuerlicher Personen. Output: Sanktionsrahmen-Uebersicht und Compliance-ROI-Argumentation. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (Behoerden) und marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten)."
 ---
 
 # Sanktionen — Art. 99 bis 101 KI-VO

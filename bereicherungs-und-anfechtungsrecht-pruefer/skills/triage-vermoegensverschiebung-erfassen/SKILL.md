@@ -1,6 +1,6 @@
 ---
 name: triage-vermoegensverschiebung-erfassen
-description: "Erster Schritt: Strukturierte Erfassung der Vermoegenverschiebung. Wer hat was an wen geleistet oder auf wessen Kosten etwas erlangt? Zeitpunkt und Belege werden festgehalten."
+description: "Erster Schritt: Vermoegenverschiebung strukturiert erfassen fuer Bereicherungs- und Anfechtungsrecht. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Wer hat was an wen geleistet, Zeitpunkt, Belegsicherung, Weichenstellung Regelungskreis. Output: Erfassungsbogen Vermoegenverschiebung. Abgrenzung: nicht inhaltliche Pruefung."
 ---
 
 # Triage: Vermögensverschiebung erfassen

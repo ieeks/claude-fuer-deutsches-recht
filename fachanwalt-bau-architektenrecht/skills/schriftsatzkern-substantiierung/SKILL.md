@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Klage auf Werklohn, Schadensersatzklage Baumangel, Honorarklage HOAI: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Pruefraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollstaendiger Schriftsatz."
 ---
 
 # Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht

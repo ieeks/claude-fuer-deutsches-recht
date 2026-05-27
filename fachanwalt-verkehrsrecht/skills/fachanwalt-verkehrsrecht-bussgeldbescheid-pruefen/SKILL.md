@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen
-description: "Bussgeldbescheid OWiG §§ 65 ff. pruefen. Form- und Verfahrensfehler Verjaehrung § 26 Abs. 3 StVG drei Monate ab Tatzeit unterbrochen § 33 OWiG. Messverfahren standardisiert oder nicht standardisiert Toleranzabzug. Anhoerung § 55 OWiG Akteneinsicht § 49 OWiG. Einspruch § 67 OWiG zwei Wochen ab Zustellung. Fahrverbot § 25 StVG Wegfall im Ausnahmefall berufliche Existenzgefaehrdung."
+description: "Mandant hat OWi-Bussgeldbescheid erhalten und Anwalt prueft ob Einspruch sinnvoll ist. OWiG §§ 65 ff. StVG § 26 Abs. 3 Verjaehrung. Pruefraster: Form- und Verfahrensfehler Verjaehrung 3 Monate ab Tat unterbrochen § 33 OWiG Messverfahren standardisiert/nicht-standardisiert Toleranzabzug Anhoerung § 55 OWiG Akteneinsicht Fahrverbot § 25 StVG Ausnahmen. Output: Bescheid-Pruefprotokoll und Einspruchsempfehlung. Abgrenzung zu bussgeld-einspruch-pruefen (Schnell-Triage) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug."
 ---
 
 # Bußgeldbescheid prüfen

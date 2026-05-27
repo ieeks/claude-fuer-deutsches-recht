@@ -1,6 +1,6 @@
 ---
 name: jveg-rechenblatt
-description: Erstellt ein pruefbares JVEG-Rechenblatt mit Norm, Eingabewert, Kappung, Beleg, Rechenschritt und Ergebnis fuer jede Vergaetungsposition.
+description: "JVEG-Verguetungsberechnung in strukturiertem Rechenblatt erstellen: alle Kostenpositionen je Kategorie. Normen: §§ 5 bis 12 JVEG. Pruefraster: Stunden, Fahrtkosten, Auslagen, Verguetungssaetze. Output: Ausfuellbares Rechenblatt JVEG. Abgrenzung: nicht Antragsgenerator."
 ---
 
 # JVEG-Rechenblatt

@@ -1,6 +1,6 @@
 ---
 name: dpma-widerspruch-und-loeschung
-description: "DPMA-Widerspruch §§ 42 ff. MarkenG, Loeschung wegen Verfalls § 49 MarkenG, Nichtigkeit § 50 MarkenG, Beschwerde zum BPatG § 66 MarkenG, Rechtsbeschwerde zum BGH. Laedt, wenn der Nutzer 'DPMA Widerspruch', 'Marke loeschen', 'Verfall Marke', 'BPatG Beschwerde' oder 'Nichtigkeitsantrag Marke' sagt."
+description: "DPMA-Widerspruch und Loeschungsantrag gegen kollidierendes Zeichen: Markeninhaber entdeckt juengere aehnliche Marke oder will Loesung. Normen: §§ 42 ff. MarkenG (Widerspruch), § 49 MarkenG (Verfall wegen Nichtbenutzung), § 50 MarkenG (Nichtigkeit), § 66 MarkenG (BPatG-Beschwerde). Pruefraster: Widerspruchsgrund, Benutzungsnachweis, Verwechslungsgefahr-Pruefung, Frist 3 Monate ab Eintragung. Output Widerspruchsschrift oder Loeschungsantrag mit Begruendung. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; Verletzungsabmahnung siehe abmahnung-markenrecht-uwg."
 ---
 
 # DPMA-Widerspruch und Löschungsverfahren

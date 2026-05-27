@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-widerspruchsschrift
-description: "Widerspruch §§ 68 ff. VwGO gegen belastenden Verwaltungsakt. Aufschiebende Wirkung § 80 Abs. 1 VwGO. Ausnahmen § 80 Abs. 2 VwGO oeffentliche Abgaben Polizei Vollziehbarkeitsanordnung. Frist ein Monat ab Bekanntgabe § 70 Abs. 1 VwGO bei fehlerhafter Rechtsbehelfsbelehrung ein Jahr § 58 Abs. 2 VwGO. Widerspruchsverfahren teilweise abgeschafft je Bundesland. Form schriftlich oder zur Niederschrift bei Ausgangsbehoerde."
+description: "Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), § 80 Abs. 1 VwGO (aufschiebende Wirkung), § 58 Abs. 2 VwGO (Jahresfrist ohne Rechtsbehelfsbelehrung). Pruefraster: Statthaftigkeit (Bundesland?), Fristberechnung, aufschiebende Wirkung vs. sofortige Vollziehung, Begruendung. Output Widerspruchsschrift. Abgrenzung: Anfechtungsklage direkt (kein Widerspruch statthaft) siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Widerspruchsschrift

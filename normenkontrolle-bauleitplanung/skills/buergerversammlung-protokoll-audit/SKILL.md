@@ -1,6 +1,6 @@
 ---
 name: buergerversammlung-protokoll-audit
-description: Pruefung der Buergerversammlung und des Eroerterungstermins im Rahmen der fruehzeitigen Beteiligung Paragraf 3 Abs. 1 BauGB. Ablauf Einladung Tagesordnung Sitzungsleitung Aussprache Wortmeldungen Niederschrift. Audit ueber Niederschrift auf systematische Missachtung Wortbeitraege Stimmungsbild Vorfestlegungs-Anzeichen. Abgrenzung zur reinen Informationsveranstaltung. Bedeutung fuer Mandantenchronologie und Mandanten-Einwendungen. Kein Wortlautprotokoll Pflicht aber sinngemaesse Wiedergabe der eingeworfenen Belange. Auswertung im Hinblick auf Abwaegungsdokumentation und Erkenntnis-Missing. Praxis Eigenmitschrift des Mandanten beschaffen Eidesstattliche Versicherung bei abweichendem Sachverhalt.
+description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollstaendigkeit pruefen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Pruefraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemaesse Niederschrift Vorfestlegungs-Anzeichen Auswertung fuer Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz."
 ---
 
 # Bürgerversammlung — Protokoll-Audit

@@ -1,6 +1,6 @@
 ---
 name: markenmonitoring-und-watchlist
-description: "Markenmonitoring und Watchlist-Dienste: DPMA-/EUIPO-/WIPO-Watch, Madrid-Monitor, ROMARIN, Fruehwarnung bei Trittbrettfahrer-Anmeldungen, Watchlist-Tools und Alert-Services. Laedt, wenn der Nutzer 'Markenmonitoring', 'Watchlist Marke', 'Frueherkennung Anmeldung', 'EUIPO Watch' oder 'WIPO-Alert' sagt."
+description: "Markenmonitoring und Watchlist-Dienste einrichten: Modehaus will Fruehwarnung bei Trittbrettfahrer-Anmeldungen. Normen: § 14 MarkenG (Verletzungsschutz), Art. 9 UMV, Madrid-Monitor WIPO. Pruefraster: DPMA/EUIPO/WIPO-Watch-Konfiguration, Alert-Parameter (Klassen, Aehnlichkeitsgrad), ROMARIN-Datenbank. Output Watchlist-Konfigurationsempfehlung, Monitoring-Service-Auswahl, Alert-Workflow. Abgrenzung: Widerspruch nach Alert siehe dpma-widerspruch-und-loeschung, euipo-widerspruchsverfahren; Konkurrenten-Monitoring Patent siehe ueberwachung-konkurrenten."
 ---
 
 # Markenmonitoring und Watchlist-Dienste

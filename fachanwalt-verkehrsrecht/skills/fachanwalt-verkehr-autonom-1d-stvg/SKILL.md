@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehr-autonom-1d-stvg
-description: "Autonomes Fahren PKW nach § 1d StVG (Reform 2021) bis Level 4. Haftungsverteilung Halter § 7 StVG vs. Fahrer § 18 StVG vs. Hersteller § 1 ProdHaftG. Datensaetze § 1g StVG Black-Box. Genehmigung KBA. Unfallregulierung mit autonomem PKW Versicherer-Streit. Workflow Spurensicherung Sachverstaendigen-Auswahl Klage."
+description: "Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Pruefraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten."
 ---
 
 # Autonomes Fahren PKW — § 1d StVG Haftungskonzept

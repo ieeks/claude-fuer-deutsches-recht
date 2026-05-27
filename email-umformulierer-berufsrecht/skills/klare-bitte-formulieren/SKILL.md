@@ -1,6 +1,6 @@
 ---
 name: klare-bitte-formulieren
-description: "Wandelt Forderungen, Vorwuerfe und Ultimaten in sachliche, hoefliche Bitten mit konkretem Handlungsrahmen um. Hierarchie von hoeflich ueber sehr hoeflich bis foermlich. Mit Fristen, Ansprechpartnern und naechsten Schritten."
+description: "Unklare oder versteckte Bitten und Forderungen in Anwaltskorrespondenz klar und direkt formulieren. § 43a BRAO § 26 BORA Sachlichkeit. Pruefraster: Klarheit der Bitte Unmissverstaendlichkeit Handlungsaufforderung Reaktionsfrist. Output: klar formulierte Version mit Erklaerung. Abgrenzung: nicht fuer Mahnungen mit Fristsetzung (frist-und-mahnung-hoeflich)."
 ---
 
 # Klare Bitten formulieren

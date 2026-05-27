@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-gewerblicher-rechtsschutz
-description: Strukturierte Eingangs-Abfrage fuer Mandate im gewerblichen Rechtsschutz (Marken Patente Design Urheber UWG). Klaert Mandantenrolle (Schutzrechts-Inhaber Verletzer Mitbewerber Lizenznehmer) Sachgebiet (Anmeldung Verletzungsverfahren Loeschungsverfahren Lizenzstreit Open-Source-Compliance FTO) Sofort-Fristen einstweilige Verfuegung Dringlichkeit Verletzungs-Berichterstattung Senat-Auswahl Hamburg Frankfurt Muenchen Duesseldorf. Eskalation Telefon-Sofort bei einstweiliger Verfuegung erlassen Strafanzeige Marken-Pirat-Ware Zoll-Auffangung. Routing zu vorhandenen Skills wie markenrecherche markenanmeldung-dpma fto-triage open-source-pruefung verletzungs-triage und neuem streitwert-igr-berechnen.
+description: "Neues Mandat im gewerblichen Rechtsschutz: Anwalt klaert welches Sachgebiet und welche Skills benoetigt werden. Eingangs-Triage IP-Recht. Pruefraster: Mandantenrolle (Schutzrechtsinhaber Verletzer Lizenznehmer) Sachgebiet (Marke Patent Design Urheber UWG) Sofort-Fristen (einstweilige Verfuegung Dringlichkeit Verletzungsmeldung) Gerichtsauswahl Hamburg Frankfurt Muenchen Duesseldorf. Output: Routing-Entscheidung mit Folge-Skills. Abgrenzung zu verletzungs-triage (Verletzungseinschaetzung) und streitwert-igr-berechnen."
 ---
 
 # Mandat-Triage Gewerblicher Rechtsschutz

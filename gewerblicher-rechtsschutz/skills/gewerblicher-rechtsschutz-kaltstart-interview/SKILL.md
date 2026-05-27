@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rechtsschutz-kaltstart-interview
-description: "Ersteinrichtungsinterview für das Plugin „Gewerblicher Rechtsschutz\". Liest Kanzleiprofil, Schutzrechtsportfolio, Durchsetzungsstrategie und Genehmigungsmatrix und schreibt das Ergebnis in CLAUDE.md. Vor dem ersten Einsatz aller anderen Skills ausführen."
+description: "Kanzlei oder Unternehmen richtet das gewerbliche-Rechtsschutz-Plugin zum ersten Mal ein und muss Profil und Strategie hinterlegen. Ersteinrichtung Gewerblicher Rechtsschutz. Pruefraster: Kanzleiprofil Schutzrechtsportfolio Durchsetzungsstrategie Genehmigungsmatrix. Output: CLAUDE.md Kanzleiprofil als Grundlage fuer alle anderen Skills. Abgrenzung zu gewerblicher-rechtsschutz-anpassen (Nachbearbeitung) und mandat-triage-gewerblicher-rechtsschutz."
 ---
 
 # Ersteinrichtungsinterview

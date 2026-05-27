@@ -1,6 +1,6 @@
 ---
 name: historisch-gewachsene-altsysteme-due-diligence
-description: "Due-Diligence-Methodik fuer historisch gewachsene BAV-Altsysteme: Inventory-Erstellung Altzusagen aus den 1970er und 1980er Jahren Versorgungstarifvertraege Sonderzusagen Fuehrungskraefte Risk Map und vollstaendige Bestandsaufnahme fuer Konzerne bei Treuenfels Yamamoto."
+description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Pruefraster: Durchfuehrungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung."
 ---
 
 # Historisch Gewachsene Altsysteme — Due Diligence

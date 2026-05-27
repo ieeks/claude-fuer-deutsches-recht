@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-ruege-vor-zuschlag
-description: "Vergaberechtliche Ruege § 160 Abs. 3 GWB vor Zuschlag erheben. Fristen: erkennbare Verstoesse aus Bekanntmachung bis Angebotsabgabe; aus Vergabeunterlagen bis Angebotsabgabe; sonstige Verstoesse 10 Kalendertage ab Kenntnis. Ruege als Praeklusionsvoraussetzung fuer Nachpruefungsantrag. Inhaltliche Anforderungen Konkretheit Begruendung Beweismittel. Reaktionsrecht Auftraggeber abhilfe oder Zurueckweisung."
+description: "Vergaberechtliche Ruege nach § 160 Abs. 3 GWB vor Zuschlag erheben: Bieter hat Vergabeverstoesse erkannt und muss rügen bevor Zuschlag erteilt wird. Normen: § 160 Abs. 3 GWB (Ruegerobliegenheit als Praeklusionsvoraussetzung). Pruefraster: Fristen (Bekanntmachungs-Verstoesse bis Angebotsabgabe, sonstige Verstoesse 10 Tage), Inhaltliche Anforderungen, Reaktionspflicht Auftraggeber (Abhilfe/Zurueckweisung). Output Ruege-Schreiben mit konkretem Verstoß, Norm und Sachverhalt. Abgrenzung: Nachpruefungsantrag nach Ruege siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; Ruegeschriftsatz-Detail siehe ruegeschriftsatz-erstellen."
 ---
 
 # Rüge vor Zuschlag

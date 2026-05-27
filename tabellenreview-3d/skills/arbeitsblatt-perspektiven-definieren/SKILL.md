@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-perspektiven-definieren
-description: "Definiert die dritte Wuerfel-Achse — Arbeitsblaetter als Perspektiven die ueber denselben Dokumentenstapel laufen aber jeweils eine andere Brille aufsetzen. Typische Perspektiven: Recht (Anwalt) Steuer (Steuerberater) Wirtschaft (Buyside-Analyst) Datenschutz (DSGVO-Beauftragter) IT (Architekt) Betrieb (Operations) Compliance (GwG / Lieferkettengesetz). Pro Arbeitsblatt: eigene Zusatzspalten Auslassungen Sonderprompts Ampelregeln. Erzeugt `arbeitsblaetter.yaml`. Erlaubt Kreuzblatt-Konsistenzpruefung."
+description: "Drei Pruefperspektiven (Spalten) fuer den 3D-Tabellenreview definieren: Forderung, Pruefung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Pruefraster: Forderungsaufstellung, Pruefungsraster, Glaeubigerstellung. Output: Perspektivendefinition als Grundlage fuer Wuerfel-Aufbau. Abgrenzung: nicht Pruefungsdurchfuehrung."
 ---
 
 # /tabellenreview-3d:arbeitsblatt-perspektiven-definieren

@@ -1,6 +1,6 @@
 ---
 name: jveg-sonstige-aufwendungen-belege
-description: "Prueft sonstige notwendige bare Auslagen nach JVEG: Begleitpersonen, Vertretungskosten, Kopien, Dateien und Belegfaehigkeit gemaess § 7 Abs. 2 und § 12 JVEG."
+description: "Sonstige Aufwendungen nach § 7 JVEG pruefen und belegen: Porto, Kopierkosten, technische Geraete. Normen: § 7 JVEG. Pruefraster: Belegpflicht, angemessene Hoehe, Erstattungsfaehigkeit. Output: Aufwendungsnachweis JVEG. Abgrenzung: nicht Fahrtkosten oder Uebernachtung."
 ---
 
 # JVEG-Sonstige-Aufwendungen-Belege

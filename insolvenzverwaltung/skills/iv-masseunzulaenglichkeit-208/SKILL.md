@@ -1,6 +1,6 @@
 ---
 name: iv-masseunzulaenglichkeit-208
-description: "Anzeige der Masseunzulänglichkeit nach § 208 InsO. Prüft Kosten Deckung Masseverbindlichkeiten Rangfolge Zahlungssperre Kommunikation und Fortverwaltung."
+description: "Masseunzulaenglichkeit anzeigen und Zahlungsrangfolge steuern wenn Masseverbindlichkeiten nicht fuer alle ausreichen. § 208 InsO §§ 53 54 InsO Massekosten. Pruefraster: Ist- oder Prognoseunzulaenglichkeit Alt- und Neumasseverbindlichkeiten Zahlungsstopp Kommunikation. Output: Anzeige an Gericht Rangfolgeliste Massnahmenplan. Abgrenzung: nicht fuer allgemeine Masseberechnung oder Schlussverteilung."
 ---
 
 # Anzeige der Masseunzulänglichkeit § 208 InsO

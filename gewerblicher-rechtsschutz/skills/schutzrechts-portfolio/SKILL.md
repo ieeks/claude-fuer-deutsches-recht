@@ -1,6 +1,6 @@
 ---
 name: schutzrechts-portfolio
-description: "Verwaltung des IP-Portfolios — Eintragungen, Verlängerungen, Jahresgebühren und Benutzungsnachweise. Lädt bei der Prüfung anstehender Fristen, dem Hinzufügen oder Aktualisieren eines Schutzrechts, der Erfassung einer Amtshandlung oder einer Portfolio-Überprüfung auf Lücken, Verfall und Benutzungsfragen."
+description: "Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Pruefraster: Eintragungen Verlaengerungen Jahresgebuehren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma."
 ---
 
 # IP-Portfolio-Verwaltung

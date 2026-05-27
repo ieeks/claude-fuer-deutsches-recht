@@ -1,6 +1,6 @@
 ---
 name: pdf-bericht-erzeugen
-description: "Erstellt einen pruefbaren PDF-Bericht aus dem 3D-Wuerfel. Struktur: Deckblatt mit Projekt Mandant Stichtag Wuerfel-Ampel; Management-Summary mit Hotspots und blockierenden Roten; pro Arbeitsblatt-Perspektive ein Abschnitt mit Aggregat und Top-Findings; Anhang mit vollstaendigen Tabellen pro Arbeitsblatt; Beleganhang mit zitierten Quellen und Datei-Hashes; Audit-Anhang mit Prompt-Versionen Modell-Version und Reviewlauf-Metadaten. Bedingte Formatierung fuer Ampelfarben. Gerichtsfaehig in dem Sinne dass jede Aussage rueckverfolgbar ist."
+description: "3D-Review-Ergebnis als PDF-Bericht erzeugen: Zusammenfassung, Tabellen, Risikoampeln. Normen: §§ 174 ff. InsO. Pruefraster: Vollstaendigkeit Berichtinhalte, Layout, Signaturfeld. Output: PDF-Bericht 3D-Tabellenreview. Abgrenzung: nicht Excel-Export."
 ---
 
 # /tabellenreview-3d:pdf-bericht-erzeugen

@@ -1,6 +1,6 @@
 ---
 name: nachtragsmanagement-650b
-description: "Pruefraster Bauvertrags-Nachtraege nach § 650b BGB seit Reform 2018. Anordnung Aenderung des vereinbarten Werkerfolgs Anpassung Verguetung Streitvergleich vor Schlichter. VOB/B § 2 Abs. 5 Mehr- und Minderkosten Anordnungs-Recht Auftraggeber. Kalkulations-Grundlagen. Stoerung Bauablauf § 6 VOB/B verlaengerte Ausfuehrungs-Frist. Berechnung Nachtrags-Verguetung Selbstkosten plus Zuschlaege Bauzeit-Verlaengerung. 80-Prozent-Abrechnungsrecht § 650c Abs. 3 BGB."
+description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Pruefraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankuendigungspflicht, Verhandlung. Output: Nachtragsbegruendung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung."
 ---
 
 # Nachtragsmanagement § 650b BGB

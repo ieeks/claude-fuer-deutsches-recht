@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-restructuring-starug-insolvenzplan
-description: "StaRUG und Insolvenzplan: Unterstuetzt Restrukturierungsfaelle: StaRUG-Plan, Insolvenzplan, Distressed M&A, Gläubigerklassen, Planbetroffenheit und Zeitplan."
+description: "StaRUG-Restrukturierungsplan und Insolvenzplan fuer distressed Unternehmen: Schuldner oder Berater plant aussergerichtliche Sanierung oder Insolvenzplanverfahren. Normen: §§ 7 ff. StaRUG (Planarchitektur), §§ 217 ff. InsO (Insolvenzplan), §§ 21 ff. StaRUG. Pruefraster: Glaeubiger-Gruppen, Planbetroffenheit, Mehrheitserfordernisse, Cram-Down, Schlechterstellungsverbot § 30 StaRUG. Output Restrukturierungsplan-Entwurf, Gruppenbildungs-Memo, Zeitplan. Abgrenzung: Krisenfrueherkennung siehe krisenfrueherkennung-starug-Plugin; Distressed M&A siehe distressed-ma."
 ---
 
 # StaRUG und Insolvenzplan

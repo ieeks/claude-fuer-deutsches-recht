@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit
-description: "Anwendbares Recht bei grenzueberschreitenden Vertraegen nach Rom-I-VO Nr. 593/2008 bestimmen. Rechtswahl Art. 3 Rom I. Mangels Rechtswahl objektive Anknuepfung Art. 4 Rom I — charakteristische Leistung. Sondervorschriften Verbrauchervertraege Art. 6 Beforderungsvertraege Art. 5 Versicherung Art. 7 Arbeitsvertraege Art. 8 Rom I. International zwingende Eingriffsnormen Art. 9 Rom I. ordre public Art. 21 Rom I."
+description: "Vertragsparteien aus verschiedenen Laendern streiten ueber Vertragsrecht und fragen: Nach welchem Recht wird der Vertrag beurteilt? VO (EG) 593/2008 Rom-I. Pruefraster: Rechtswahl Art. 3 objektive Anknuepfung Art. 4 charakteristische Leistung Sondervorschriften Verbrauchervertraege Art. 6 Befoerderung Art. 5 Arbeitsvertraege Art. 8 international zwingende Eingriffsnormen Art. 9 ordre public Art. 21. Output: Rechtsanwendbarkeits-Analyse. Abgrenzung zu fachanwalt-iwr-brussels-ia-zustaendigkeit (gerichtliche Zustaendigkeit) und gerichtsstand-und-rechtswahl-pruefen."
 ---
 
 # Rom-I-Anwendbarkeit

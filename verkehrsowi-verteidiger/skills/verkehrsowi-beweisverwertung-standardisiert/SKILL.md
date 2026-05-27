@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-beweisverwertung-standardisiert
-description: "Standardisiertes Messverfahren BGH NJW 1993 3081 und Verwertbarkeit im OWi-Verfahren. Angriffspunkte gegen Verwertung: Eichmaengel Bedienungsfehler Rohmessdaten-Verweigerung Fahreridentifikation. Verwertungsverbote bei Verfahrensfehlern. Sachverstaendigenantrag § 77 Abs. 2 OWiG."
+description: "Beweisverwertbarkeit im standardisierten OWi-Messverfahren angreifen: Mandant bestreitet Messergebnis. Normen: BGH NJW 1993 3081 (standardisiertes Messverfahren), § 77 Abs. 2 OWiG (Sachverstaendigen-Antrag). Pruefraster: Eichmaengel, Bedienungsfehler, Rohmessdaten-Verweigerung, Fahreridentifikation, Verwertungsverbote bei Verfahrensfehler. Output Beweisverwertungs-Einwand, Sachverstaendigen-Antrag. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte."
 ---
 
 # Standardisiertes Messverfahren und Beweisverwertung

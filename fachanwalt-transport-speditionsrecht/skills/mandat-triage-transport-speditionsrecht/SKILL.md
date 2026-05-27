@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-transport-speditionsrecht
-description: Strukturierte Eingangs-Abfrage fuer Transport- und Speditionsmandate. Klaert Mandantenrolle (Versender Empfaenger Frachtfuehrer Spediteur Versicherer Lager Subunternehmer) Verkehrstraeger (Strasse Schiene Wasser Luft multimodal) Inlands- vs. grenzueberschreitend Sachgebiet (Verlust Beschaedigung Verspaetung Frachtforderung Speditionsverguetung Multimodalvertrag Gefahrgut ADR RID Zollrecht). Sofort-Fristen Reklamation sofort bei erkennbarem Verlust binnen sieben Tagen bei verdecktem Mangel einundzwanzig Tagen bei Verzug Verjaehrung ein/drei Jahre Art. 32 CMR § 439 HGB. Eskalation Telefon-Sofort bei laufender Reklamationsfrist Gefahrgut-Zwischenfall. Routing zu frachtfuehrerhaftung-pruefen.
+description: "Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Pruefraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
 ---
 
 # Mandat-Triage Transport- und Speditionsrecht

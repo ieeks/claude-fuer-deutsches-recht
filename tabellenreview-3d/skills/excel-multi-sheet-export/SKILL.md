@@ -1,6 +1,6 @@
 ---
 name: excel-multi-sheet-export
-description: "Exportiert den dreidimensionalen Wuerfel in eine einzige Excel-Datei mit mehreren Tabellenblaettern — ein Reiter pro Arbeitsblatt-Perspektive (Recht / Steuer / Wirtschaft / Datenschutz / IT / Betrieb / Compliance). Jede Tabelle: Zeilen = Dokumente Spalten = Datenpunkte Zellinhalt = Antwort plus woertliches Zitat plus Fundstelle plus Ampel-Farbcode. Zusatzreiter: 'Uebersicht' (Aggregat) 'Hotspots' (Spalten-Top-N) 'Widersprueche' (aus Kreuzblatt) 'Pruefer-Flags' 'Belegkette' (Hash-Tabelle) 'Prompt-Versionen' (Audit). Geeignet als finales Pruefer-Paket zur menschlichen Endabnahme."
+description: "3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Pruefraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht."
 ---
 
 # /tabellenreview-3d:excel-multi-sheet-export

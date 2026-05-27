@@ -1,6 +1,6 @@
 ---
 name: ausschluss-817-bgb-gesetzes-und-sittenverstoss
-description: "Ausschlussgrund § 817 S. 2 BGB: eigener Gesetzes- oder Sittenverstoss des Leistenden. Sperrwirkung bei beiderseitigem Verstoss und enge Rueckausnahmen nach h.M."
+description: "Bereicherungsanspruch gesperrt durch § 817 S. 2 BGB wegen eigenen Gesetzes- oder Sittenverstosses des Leistenden. Normen: §§ 817 134 138 BGB. Pruefraster: beiderseitiger Verstoss, Sperrwirkung, enge Rueckausnahmen nach h.M. Output: Pruefergebnis Ausschlussgrund § 817 BGB und Handlungsempfehlung. Abgrenzung: nicht § 814 BGB (Kenntnis der Nichtschuld)."
 ---
 
 # Ausschluss nach § 817 BGB — Gesetzes- und Sittenverstoß

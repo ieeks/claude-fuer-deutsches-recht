@@ -1,6 +1,6 @@
 ---
 name: rueckausnahme-art-6-abs-3
-description: "Prueft die Rueckausnahme vom Hochrisiko nach Art. 6 Abs. 3 KI-VO: vier Fallgruppen enge Verfahrensaufgabe Verbesserung menschlicher Taetigkeit Mustererkennung ohne Ersetzung vorbereitende Aufgabe. Sicherungsklausel Profiling natuerlicher Personen immer Hochrisiko."
+description: "System wurde als Anhang-III-relevant eingestuft aber Unternehmen fragt: Greift eine der Ausnahmen vom Hochrisiko? Art. 6 Abs. 3 KI-VO Rueckausnahme. Pruefraster: vier Fallgruppen enge Verfahrensaufgabe Verbesserung menschlicher Taetigkeit ohne Ersetzung Mustererkennung ohne Entscheidungsrelevanz bloss vorbereitende Aufgabe. Sicherungsklausel: Profiling natuerlicher Personen ist stets Hochrisiko ohne Ausnahme. Output: Ausnahme-Entscheidungsbaum mit Begruendungspflicht. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (Eingangseinordnung) und sachlicher-ausschluss-art-2-abs-3-bis-12 (voellige Ausnahme vom Anwendungsbereich)."
 ---
 
 # Rückausnahme vom Hochrisiko — Art. 6 Abs. 3 KI-VO

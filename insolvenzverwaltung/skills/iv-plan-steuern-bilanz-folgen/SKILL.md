@@ -1,6 +1,6 @@
 ---
 name: iv-plan-steuern-bilanz-folgen
-description: "Prüft Steuer, Bilanz, Sanierungsgewinn, Verlustvortraege, Umsatzsteuer, Lohnsteuer, Sozialversicherung und Buchungslogik des Plans."
+description: "Steuerliche und bilanzielle Folgen des Insolvenzplans oder StaRUG pruefen damit Planwirkungen nicht an Nebenwirkungen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Pruefraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht fuer allgemeine Steuerthemen im Verfahren (iv-steuern-sozialversicherung)."
 ---
 
 # IV-integrierte Steuern und Bilanzfolgen

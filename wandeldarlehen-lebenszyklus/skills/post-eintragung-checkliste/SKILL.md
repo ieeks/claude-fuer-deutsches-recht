@@ -1,6 +1,6 @@
 ---
 name: post-eintragung-checkliste
-description: "Nachbearbeitung nach HR-Eintragung der Kapitalerhoehung: Bestaetigung Eintragung, Aktualisierung Geschaeftsfuehrungs-Handakte, Bestaetigung an Lender mit HR-Auszug, steuerliche Behandlung (Wandlung als tauschaehnlicher Vorgang nach § 20 UmwStG analog), Sperrfristen GmbH-Anteile und Transparenzregister-Check."
+description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschliessen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Pruefraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestaetigung. Abgrenzung: nicht fuer Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung)."
 ---
 
 # Post-Eintragung-Checkliste

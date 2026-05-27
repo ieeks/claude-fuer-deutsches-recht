@@ -1,6 +1,6 @@
 ---
 name: zv-pfaendungstabelle-2025
-description: "Berechnet pfändbare Beträge nach Pfändungsfreigrenzenbekanntmachung 1.7.2025 (gültig bis 30.6.2026; danach jährliche Anpassung nach § 850c Abs. 4 ZPO). Liefert Freibetrag nach § 850c ZPO inklusive Unterhaltsstaffel, Pfändungsstufen, P-Konto-Sockel § 850k ZPO und privilegierte Berechnung § 850d ZPO. Ruft das Python-Werkzeug werkzeuge/pfaendungsrechner.py auf. Lädt bei jeder Berechnung pfändbarer Bezüge."
+description: "Lohnpfaendung oder Rentenpfaendung ist beantragt und der pfaendbare Betrag muss konkret berechnet werden. Pfaendungsfreigrenzenbekanntmachung 1.7.2025 gueltig bis 30.6.2026. Pruefraster: Freibetrag § 850c ZPO Unterhaltsstaffel Pfaendungsstufen P-Konto-Sockel § 850k ZPO privilegierte Berechnung § 850d ZPO Unterhalt. Output: Berechnungsprotokoll pfaendbarer Betrag mit Stufen. Abgrenzung zu zv-pfueb-arbeitsentgelt (PfUeB-Antrag) und zv-pfueb-bank (Kontopfaendung)."
 ---
 
 # Pfändungstabelle 1.7.2025

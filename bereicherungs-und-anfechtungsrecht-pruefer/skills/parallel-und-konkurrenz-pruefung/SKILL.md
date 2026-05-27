@@ -1,6 +1,6 @@
 ---
 name: parallel-und-konkurrenz-pruefung
-description: "Wann sind Bereicherungsrecht und Anfechtungsrecht nebeneinander moeglich? Pruefung von Anspruchskonkurrenzen und gegenseitiger Beeinflussung der drei Regelungskreise."
+description: "Bereicherungsrecht und Anfechtungsrecht gleichzeitig pruefen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Parallelitaet, Subsidiaritaet, wechselseitige Auswirkungen. Output: Konkurrenzmatrix mit Handlungsempfehlung. Abgrenzung: nicht Einzelpruefung je Regelungskreis."
 ---
 
 # Parallel- und Konkurrenzprüfung

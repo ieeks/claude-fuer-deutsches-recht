@@ -1,6 +1,6 @@
 ---
 name: ips-darstellender-teil
-description: "Schreibt und prüft den darstellenden Teil mit Krise, Maßnahmen, Planwirkungen, Vergleichsrechnung, Risiken, Sonderaktiva und entscheidungserheblichen Angaben."
+description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollstaendig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Pruefraster: Krisengeschichte Massnahmen Finanzplanung Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung Widerspruchsfreiheit. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht fuer gestaltenden Teil (ips-gestaltender-teil)."
 ---
 
 # Darstellender Teil

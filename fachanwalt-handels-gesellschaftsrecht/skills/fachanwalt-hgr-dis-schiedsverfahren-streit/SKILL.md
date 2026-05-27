@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-hgr-dis-schiedsverfahren-streit
-description: "Gesellschafterstreit-Vermittlung DIS-Schiedsverfahren ICC HGB. Vorgerichtliche Konfliktloesung GmbH-Streit. Squeeze-Out-Verhandlung 327a AktG. M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Strategie und Taktik Eingangskorrespondenz Vermittlungs-Antrag Vergleich-Beurkundung."
+description: "Gesellschafter streiten und wollen Schiedsverfahren statt Klage oder laufendes Schiedsverfahren managen. DIS-Schiedsverfahren Gesellschafterstreit. Pruefraster: DIS-Schiedsordnung ICC HGB GmbH-Streit Squeeze-out-Verhandlung § 327a AktG M&A Earn-Out-Streitigkeiten DIS Expedited Rules. Output: Strategie-Memo Schiedsverfahren und Einleitungskorrespondenz. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Staatsgericht-Klage) und vergleichsverhandlung-strategie."
 ---
 
 # Gesellschafterstreit / DIS-Schiedsverfahren

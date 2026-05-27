@@ -1,6 +1,6 @@
 ---
 name: iv-plan-gruppen-klassenbildung
-description: "Bildet InsO Gruppen und StaRUG Klassen sachgerecht nach Rechtsstellung und wirtschaftlichen Interessen mit Stimmrechts und Gleichbehandlungslogik."
+description: "Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden um Planbestaetigungsrisiken zu minimieren. §§ 222 223 InsO Gruppenbildung §§ 9 10 StaRUG Klassenbildung. Pruefraster: Rechtsstellung wirtschaftliche Interessen Absonderungsrechte Nachrang Anteilsinhaber Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht fuer Abstimmungssimulation (iv-plan-abstimmung-mehrheiten)."
 ---
 
 # IV-integrierte Gruppen- und Klassenbildung

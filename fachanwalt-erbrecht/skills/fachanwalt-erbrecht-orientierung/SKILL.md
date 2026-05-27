@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-orientierung
-description: Orientierung im Erbrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. BGB Erbrecht §§ 1922 ff. (Erbfolge gesetzliche und gewillkuerte Erbfolge Testament Erbvertrag Pflichtteil Vermaechtnis) ErbStG Erbschaftsteuer EU-ErbVO bei grenzueberschreitenden Erbfaellen. Verfahren vor dem Nachlassgericht (FamFG §§ 342 ff.) Erbscheinverfahren Testamentseroeffnung.
+description: "Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen. §§ 1922 2229 2303 BGB § 43a BRAO. Pruefraster: Erbfolge Testament Pflichtteil Ausschlagung Nachlassinsolvenz Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Fachanwalt für Erbrecht — Orientierung

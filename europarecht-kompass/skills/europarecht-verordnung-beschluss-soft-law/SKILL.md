@@ -1,6 +1,6 @@
 ---
 name: europarecht-verordnung-beschluss-soft-law
-description: "Unterscheidet EU-Verordnung, Richtlinie, Beschluss, Empfehlung, Leitlinie, Mitteilung und behördliche Praxiswirkung."
+description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit pruefen. Art. 288 AEUV EU-Rechtsquellen. Pruefraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht fuer Richtlinien (europarecht-richtlinie-umsetzung)."
 ---
 
 # Verordnung, Beschluss und Soft Law

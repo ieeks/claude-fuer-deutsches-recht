@@ -1,6 +1,6 @@
 ---
 name: luecken
-description: "Offenen Gap-Tracker anzeigen und verwalten. Laden, um zu sehen, welche Compliance-Lücken gemeldet wurden, was noch offen ist und was in Bearbeitung ist."
+description: "Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Pruefraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit Risikoklassifizierung. Abgrenzung: nicht fuer Lueckenaufzeiger-Perspektive nach aussen (luecken-aufzeiger)."
 ---
 
 # Gap-Tracker

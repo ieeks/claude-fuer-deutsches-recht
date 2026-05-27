@@ -1,6 +1,6 @@
 ---
 name: ips-datenraum-register
-description: "Baut einen vollständigen Datenraum für Insolvenzplan und StaRUG mit Dokumentenregister, Lückenanalyse, Versionen, Verantwortlichen und Beweiswert."
+description: "Planbegleitenden Datenraum aufbauen und Dokumentenregister fuehren damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Pruefraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle Beweiswert. Output: Datenraumregister Lueckenliste Versionskontrolle. Abgrenzung: nicht fuer Anlagenpaket (ips-anlagenpaket)."
 ---
 
 # Datenraum und Dokumentenregister

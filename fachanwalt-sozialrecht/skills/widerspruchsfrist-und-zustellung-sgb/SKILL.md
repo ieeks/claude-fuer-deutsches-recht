@@ -1,6 +1,6 @@
 ---
 name: widerspruchsfrist-und-zustellung-sgb
-description: Pruefraster fuer Bekanntgabe Zustellung und Widerspruchsfrist im Sozialrecht. Vier-Tages-Fiktion § 37 Abs. 2 SGB X n.F. (seit 1.1.2025 PostModG) bei einfachem Brief sieben Tage bei Auslandszustellung. Heilung Zustellungsmaengel § 9 VwZG / § 65 SGB X. Bei fehlender oder fehlerhafter Rechtsbehelfsbelehrung Jahres-Frist § 66 Abs. 2 SGG. Wiedereinsetzung § 27 SGB X Voraussetzungen unverschuldet Hinderungsgrund Antrag binnen Monatsfrist. Wirkung Untaetigkeitsklage § 88 SGG sechs Monate Behoerde nicht entschieden. Anwendung auf alle SGB-Bereiche (SGB I-XII) plus AsylbLG SGB IX Schwerbehindertenrecht.
+description: "Anwalt muss bei eingehendem oder ausgehendem Bescheid klaeren ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen. § 37 SGB X Zustellung und Bekanntgabe-Fiktion. Pruefraster: Vier-Tage-Fiktion seit 1.1.2025 PostModG (ehemals drei Tage) 7 Tage Ausland Heilung § 9 VwZG fehlerhafte Rechtsbehelfsbelehrung Jahresfrist § 66 Abs. 2 SGG Wiedereinsetzung § 27 SGB X. Untaetigkeitsklage § 88 SGG 6 Monate. Output: Frist-Berechnung und Zustellungs-Pruefprotokoll. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht."
 ---
 
 # Widerspruchsfrist und Zustellung im Sozialrecht

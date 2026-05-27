@@ -1,6 +1,6 @@
 ---
 name: aufstellungsbeschluss-bekanntmachung
-description: Pruefung der formellen Verfahrenskette eines Bebauungsplans vom Aufstellungsbeschluss bis zur Bekanntmachung als Satzung. Paragraf 2 Abs. 1 BauGB Aufstellungsbeschluss der Gemeinde mit ortsueblicher Bekanntmachung. Paragraf 3 BauGB Buergerbeteiligung Paragraf 4 BauGB Behoerdenbeteiligung. Paragraf 10 Abs. 1 BauGB Beschluss als Satzung. Paragraf 10 Abs. 3 BauGB ortsuebliche Bekanntmachung mit Hinweis auf Paragraf 215 BauGB und Auslegungsort. Anstossfunktion der Bekanntmachung als zentrale Wirksamkeitsvoraussetzung. Pruefung Zustaendigkeit Beschlussfaehigkeit Befangenheit. Identitaet der ausgelegten und beschlossenen Planfassung. Mehrfache Auslegung bei Aenderung. Audit ueber Beschlussvorlagen Sitzungsprotokolle Auszug Niederschrift Gemeinderat.
+description: "Mandant prueft ob ein Bebauungsplan an einem Verfahrensfehler beim Aufstellungsbeschluss oder der Bekanntmachung leidet. §§ 2 10 BauGB Verfahrenskette. Pruefraster: Aufstellungsbeschluss ortsuebl. Bekanntmachung § 2 Abs. 1 Beschluss als Satzung § 10 Abs. 1 ortsuebliche Bekanntmachung § 10 Abs. 3 Identitaet ausgelegte und beschlossene Fassung Zustaendigkeit Beschlussfaehigkeit. Output: Verfahrensfehlerpruefung-Protokoll. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren) und planerhaltung-214-215-baugb."
 ---
 
 # Aufstellungsbeschluss und Bekanntmachung

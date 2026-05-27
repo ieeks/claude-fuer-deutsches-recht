@@ -1,6 +1,6 @@
 ---
 name: entscheidungsbaum-ki-vo-gesamt-workflow
-description: "Master-Workflow: Sequenzieller Entscheidungsbaum durch die gesamte KI-VO-Pruefung. Zehn Schlusselfragen in Reihenfolge mit klaren Verzweigungen Wenn-Antwort-A-gehe-zu-Skill-X. Startpunkt des gesamten KI-VO-Pruefers fuer strukturierte Vollpruefung."
+description: "Anwalt oder Compliance-Beauftragter startet eine vollstaendige KI-VO-Pruefung und fragt: Womit fange ich an und welche Skills werden in welcher Reihenfolge benoetigt? Master-Workflow KI-VO. Art. 2 Anwendungsbereich Art. 3 Rollenzuordnung Art. 5 Verbote Art. 6 Hochrisiko Art. 50 begrenztes Risiko. Pruefraster: zehn Schluesselfragen in Reihenfolge mit klaren Verzweigungen. Output: strukturierter Pruefpfad mit Verweisen auf Folge-Skills. Abgrenzung zu triage-ki-vo-vorpruefung (kurzer Schnellcheck) und risikoklassen-uebersicht-und-triage (Risikoklassen-Fokus)."
 ---
 
 # Master-Workflow: Vollständiger KI-VO-Entscheidungsbaum

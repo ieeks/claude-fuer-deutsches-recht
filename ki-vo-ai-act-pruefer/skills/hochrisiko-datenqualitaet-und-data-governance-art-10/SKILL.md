@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-datenqualitaet-und-data-governance-art-10
-description: "Anforderungen an Trainings- Validierungs- und Testdatensaetze fuer Hochrisiko-KI nach Art. 10 KI-VO: Relevanz Repraesentativitaet Vollstaendigkeit Fehlerfreiheit Bias-Minderung. Data-Governance-Pflichten und Ausnahme fuer besondere Datenkategorien nach Art. 10 Abs. 5 KI-VO."
+description: "Anbieter von Hochrisiko-KI fragt: Welche Anforderungen gelten fuer unsere Trainings- Validierungs- und Testdaten und wie dokumentieren wir unsere Data Governance? Art. 10 KI-VO Datenqualitaet und Data Governance. Pruefraster: Relevanz Repraesentativitaet Vollstaendigkeit Fehlerfreiheit Bias-Minderung Ausnahme besondere Datenkategorien Art. 10 Abs. 5. Output: Data-Governance-Checkliste und Vorlage Trainingsdaten-Dokumentation. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Gesamtdokumentation) und hochrisiko-risikomanagementsystem-art-9 (Risikobewertung)."
 ---
 
 # Datenqualität und Data Governance — Art. 10 KI-VO

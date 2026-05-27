@@ -1,6 +1,6 @@
 ---
 name: jveg-aktenstripper
-description: Liest Gerichtsschreiben, Antraege, Rechnungen, Belege und Kostenfestsetzungsunterlagen in eine pruefbare JVEG-Datenmatrix aus. Standardisiert Eingaben fuer nachgelagerte Pruefschritte.
+description: "JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen extrahieren: Termine, Stunden, Auslagen. Normen: §§ 2 ff. JVEG. Pruefraster: Terminsprotokoll, Stundennachweis, Belegstruktur. Output: Extrahierter Datensatz fuer Kostenpruefung. Abgrenzung: nicht Kostenberechnung."
 ---
 
 # JVEG-Aktenstripper

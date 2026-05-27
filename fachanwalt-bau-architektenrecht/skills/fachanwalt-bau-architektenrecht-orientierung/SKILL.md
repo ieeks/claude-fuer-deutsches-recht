@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-orientierung
-description: Orientierung im Bau- und Architektenrecht — FAO Voraussetzungen Normen typische Mandate Fristen Standardliteratur. Privates Baurecht (BGB Werkvertrag §§ 631 ff. Bauvertrag §§ 650a ff. BGB seit 2018 VOB-A VOB-B VOB-C) und oeffentliches Baurecht (Bauplanung BauGB Bauordnungen Laender). Architekten- und Ingenieurvertraege HOAI. Maengelhaftung Abnahme Sicherheiten Bauglobal Vergabe. BGH VII. Zivilsenat Leitentscheidungen.
+description: "Orientierungs-Skill Bau- und Architektenrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 631 ff. 650a ff. BGB, VOB/B, HOAI. Pruefraster: Vertragstyp, Schadenstyp, Phase Planung/Bau/Abnahme. Output: Skillauswahl-Empfehlung Bau-Architektenrecht. Abgrenzung: kein inhaltlicher Pruef-Skill."
 ---
 
 # Fachanwalt für Bau- und Architektenrecht — Orientierung

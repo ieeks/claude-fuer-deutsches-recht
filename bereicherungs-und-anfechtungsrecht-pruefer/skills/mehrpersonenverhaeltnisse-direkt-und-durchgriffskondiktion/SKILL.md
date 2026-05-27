@@ -1,6 +1,6 @@
 ---
 name: mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion
-description: "Bereicherungsausgleich in Mehrpersonenverhaeltnissen: Anweisungsfaelle, Doppelmangel im Leistungsdreieck, Drittleistung, Durchgriffskondiktion und ihre engen Voraussetzungen."
+description: "Bereicherungsausgleich in Mehrpersonenverhaeltnissen pruefen: Anweisungsfaelle, Doppelmangel, Drittleistung, Durchgriffskondiktion. Normen: § 812 BGB. Pruefraster: Leistungsbeziehungen im Dreieck, Subsidiaritaet der Durchgriffskondiktion. Output: Anspruchsprioriserungsmatrix Mehrpersonenverhaeltnis. Abgrenzung: nicht Zweipersonen-Leistungskondiktion."
 ---
 
 # Mehrpersonenverhältnisse — Direkt- und Durchgriffskondiktion

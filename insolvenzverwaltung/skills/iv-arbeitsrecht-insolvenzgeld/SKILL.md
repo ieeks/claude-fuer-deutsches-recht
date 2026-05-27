@@ -1,6 +1,6 @@
 ---
 name: iv-arbeitsrecht-insolvenzgeld
-description: "Arbeitsrecht Personal und Insolvenzgeld in der Insolvenzverwaltung. Führt Lohnliste Insolvenzgeld Betriebsrat Kündigungen Betriebsuebergang und Fortfuehrung."
+description: "Personalthemen im Insolvenzverfahren bearbeiten: Lohnrueckstaende Insolvenzgeld Kuendigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Pruefraster: Arbeitnehmerbestand Rueckstaende Insolvenzgeldzeitraum Vorfinanzierung Kuendigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldantraege Kuendigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht fuer uebergreifende Betriebsfortfuehrung (iv-sicherung-betriebsfortfuehrung)."
 ---
 
 # Arbeitsrecht, Personal und Insolvenzgeld

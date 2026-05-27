@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gesellschaftervereinbarung
-description: "Gesellschaftervereinbarung Shareholder Agreement SHA: Vesting Cliff Bad-Leaver Good-Leaver Drag-Along Tag-Along Liquidation-Preference Anti-Dilution Vorkaufsrechte Stimmrecht. Abgrenzung zur Satzung. Schriftform Vertraulichkeit. Anpassung bei Investor-Eintritt. BGH-Rechtsprechung Klauselkatalog Workflow."
+description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Pruefraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell)."
 ---
 
 # Gesellschaftervereinbarung (Shareholder Agreement)

@@ -1,6 +1,6 @@
 ---
 name: iv-forderungsanmeldung-pruefung
-description: "Forderungsanmeldungsprüfung nach § 174 InsO. Prüft Grund Betrag Rang Belege Nachrang vorsaetzlich unerlaubte Handlung und elektronische Einreichung."
+description: "Eingehende Forderungsanmeldungen nach § 174 InsO pruefen und Tabelle fuer Pruefungstermin vorbereiten. §§ 174 175 176 InsO §§ 38 39 InsO Rang. Pruefraster: Schriftform Beleg Grund Betrag Rang Absonderungsrechte vorsaetzlich unerlaubte Handlung Nachrang. Output: Tabellenvermerke Bestreitenserklaerungen Nachforderungen. Abgrenzung: nicht fuer Pruefungstermin selbst (iv-tabelle-pruefungstermin) oder allgemeine Masseeinsammlung."
 ---
 
 # Forderungsanmeldungen prüfen

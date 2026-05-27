@@ -1,6 +1,6 @@
 ---
 name: anlagen-erstellen
-description: Strukturiert Anlagen zu sozialrechtlichen Schriftsaetzen — Konvention K1 K2 K3 fuer Klage W1 W2 W3 fuer Widerspruch A1 A2 A3 fuer Anlagenkonvolut. Pro Anlage werden erfasst Sigel kurze Bezeichnung Quelle Datum Seitenzahl Bezug im Schriftsatz. Erzeugt Anlagenverzeichnis als Vorblatt und versieht jedes Originaldokument mit Anlagensigel im PDF (Stempel oben rechts). Prueft Vollstaendigkeit gegen den Schriftsatz — jede Anlage muss im Text zitiert sein.
+description: "Anwalt muss Anlagenkonvolut zu Widerspruch Klage oder Schriftsatz in korrekter juristischer Konvention erstellen. Anlagenanhaenge Sozialrecht K1/W1/A1-Konvention. Pruefraster: Sigel Bezeichnung Quelle Datum Seitenzahl Bezug im Text. Erzeugt Anlagenverzeichnis und prueft Vollstaendigkeit jede Anlage muss im Text zitiert sein. Output: Anlagenverzeichnis als Vorblatt mit korrekter Nummerierung. Abgrenzung zu akteneinsicht-auswerten (Aktensichtung) und normenkontrollantrag-schriftsatz in anderen Plugins."
 ---
 
 # Anlagen erstellen

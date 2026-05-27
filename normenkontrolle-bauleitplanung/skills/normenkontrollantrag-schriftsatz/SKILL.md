@@ -1,6 +1,6 @@
 ---
 name: normenkontrollantrag-schriftsatz
-description: Erstellung des Normenkontrollantrags Paragraf 47 VwGO als zentraler Schriftsatz vor BayVGH oder OVG. Aufbau Rubrum Antrag Begruendung. Antragsformulierung praezise mit Plan-Bezeichnung und Bekanntmachungsdatum. Begruendungsstruktur erstens Zulaessigkeit zweitens Verfahrensfehler drittens Erforderlichkeit viertens Abwaegungsfehler Vorgang fuenftens Abwaegungsfehler Ergebnis sechstens Hilfsweise Teilunwirksamkeit. Ruege Paragraf 215 BauGB parallel referenzieren. Anlagen Plan-Unterlagen Bekanntmachung Bauleitplan-Auszug Begruendung Umweltbericht Abwaegungsdokumentation Schriftverkehr Sachverstaendigen-Gutachten. Streitwert nach Streitwertkatalog Verwaltungsgerichtsbarkeit. Einreichung per beA. Empfangsbekenntnis sichern.
+description: "Normenkontrollantrag gegen Bebauungsplan oder FNP ist zu erstellen. § 47 VwGO Normenkontrollantrag Schriftsatz. Pruefraster: Rubrum Antrag Begruendung Zulaessigkeit (Statthaftigkeit Befugnis Frist Rechtsschutzbeduerfnis) Verfahrensfehler Erforderlichkeit Abwaegungsfehler Vorgang und Ergebnis Hilfsantrag Teilunwirksamkeit. Anlagen Plan-Unterlagen Bekanntmachung Begruendung Schriftverkehr. Output: vollstaendiger Normenkontrollantrag-Schriftsatz. Abgrenzung zu einstweilige-anordnung-47-abs-6-vwgo (Eilantrag) und mandat-erstgespraech-normenkontrolle."
 ---
 
 # Normenkontrollantrag — Schriftsatz

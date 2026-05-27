@@ -1,6 +1,6 @@
 ---
 name: iv-plan-planvollzug-monitoring
-description: "Überwacht Planvollzug, Zahlungen, Bedingungen, Berichtspflichten, Planüberwachung, Wiederaufleben und Abweichungen."
+description: "Planvollzug nach Bestaetigung ueberwachen Zahlungen kontrollieren und Abweichungen dokumentieren. §§ 248 261 InsO Planueberwachung §§ 69 72 StaRUG. Pruefraster: Bedingungen Faelligkeiten Quoten Zahlstellen Covenants Wiederaufleben Abweichungslog. Output: Planvollzugskalender Monitoringbericht Abweichungslog. Abgrenzung: nicht fuer gerichtliche Schritte nach Planbestaetigung."
 ---
 
 # IV-integrierte Planvollzug und Monitoring

@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-qualified-financing
-description: "Pruefung ob qualifizierte Finanzierungsrunde im Sinne des Wandeldarlehensvertrags eingetreten ist: Mindest-Bewertungsschwelle (Pre-Money EUR 4 Mio), Mindest-Investitionsvolumen (EUR 500000), Berechnung Wandlungspreis nach Discount oder Valuation Cap (MIN-Methode), Anteilsauswahl guenstigere Methode."
+description: "Wandlung bei qualifizierter Finanzierungsrunde pruefen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Pruefprotokoll Wandlungsberechnung. Abgrenzung: nicht fuer Maturity-Trigger (wandlungspruefung-trigger-maturity)."
 ---
 
 # Wandlungsprüfung – Trigger Qualified Financing

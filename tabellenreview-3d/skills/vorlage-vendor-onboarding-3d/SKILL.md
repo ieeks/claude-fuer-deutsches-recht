@@ -1,6 +1,6 @@
 ---
 name: vorlage-vendor-onboarding-3d
-description: "Wuerfelvorlage fuer Vendor- und Lieferanten-Onboarding — 17 Spalten (Vendor-Stammdaten Branche AVV-Pflicht AVV-vorhanden SLA-Reaktionszeit SLA-Verfuegbarkeit Exit-Klausel Datenherausgabe Verschluesselung Subunternehmer-Liste Drittlandtransfer SCC-Vorhanden Sanktionsliste GwG-Pruefung Lieferketten-Risiko LkSG Versicherung Haftungsbegrenzung) x N Vendoren x 5 Arbeitsblaetter (Vertrag / Datenschutz / IT-Sicherheit / Compliance-GwG-LkSG / Wirtschaft). Verankert in DSGVO BGB GwG LkSG ISO-Normen. Geeignet fuer IT-Dienstleister-Anbindung Auslagerung an Cloud-Provider Materiallieferanten."
+description: "Vorlagetabelle fuer Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Pruefraster: Vertragskonformitaet, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prueftabelle. Abgrenzung: nicht allgemeine Vertragspruefung."
 ---
 
 # /tabellenreview-3d:vorlage-vendor-onboarding-3d

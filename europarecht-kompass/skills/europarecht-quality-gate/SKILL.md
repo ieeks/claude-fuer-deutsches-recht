@@ -1,6 +1,6 @@
 ---
 name: europarecht-quality-gate
-description: "Prüft jedes EU-Arbeitsprodukt auf Rechtsquelle, CELEX, Anwendungsbeginn, nationale Umsetzung, Verfahren und offene Vorlagefragen."
+description: "EU-Rechtsgutachten oder -Schriftsatz auf typische Fehler und Luecken pruefen vor Versand. Art. 267 AEUV EuGH-Judikatur Vorrangprinzip. Pruefraster: Vorlagepflicht uebersehen Direktwirkung verkannt Normhierarchie fehlerhaft Richtlinienkonformitaet fehlend. Output: Fehlerprotokoll Korrekturempfehlungen. Abgrenzung: Quality Gate fuer alle Europarechts-Skills."
 ---
 
 # Europarecht-Qualitätstor

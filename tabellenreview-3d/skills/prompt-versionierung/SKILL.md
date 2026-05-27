@@ -1,6 +1,6 @@
 ---
 name: prompt-versionierung
-description: "Versioniert alle Spalten- und Zeilenprompts mit semantischer Versions-ID — patch fuer Wortlautfeinheiten minor fuer geaenderte Antworttypen oder Ampelregeln major fuer geaenderte Pruefdimension. Jede Zelle im Wuerfel traegt die Prompt-Version zum Zeitpunkt der Befuellung. Bei Prompt-Aenderung schlaegt der Skill vor welche Zellen invalidiert und neu zu berechnen sind (siehe `caching-und-teil-rerun`). Sicherheitsnetz gegen `schleichende` Spaltenanderungen. Erzeugt `prompt-historie.yaml` und `aktive-prompts.yaml`."
+description: "Prompt-Versionen fuer den 3D-Review verwalten: Versionierung der Spaltenprompts und Zeilenprompts. Normen: technisch/governance. Pruefraster: Versionsnummer, Aenderungsprotokoll, aktive Version. Output: Prompt-Versionsprotokoll. Abgrenzung: nicht Prompt-Erstellung."
 ---
 
 # /tabellenreview-3d:prompt-versionierung

@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher-tabelle
-description: "Standardisiertes Ausgabeformat fuer alle Umformulierungen: Tabelle mit Spalten Vorher, Nachher, Begruendung und Berufsrechts-Bezug. Plus vollstaendig ueberarbeitete Gesamt-E-Mail als abschliessende Ausgabe."
+description: "Vorher-Nachher-Vergleich fuer umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklaeren. § 43a BRAO § 26 BORA. Pruefraster: Vollstaendigkeit Erklaerbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Ueberarbeitung und Erklaerungsspalte. Abgrenzung: nicht eigenstaendiger Umformulierungs-Skill sondern Dokumentationswerkzeug."
 ---
 
 # Vorher-Nachher-Tabelle

@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Marken-, Patent-, Design- und Wettbewerbsrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen. Normen: BRAO 43a, BORA 3, GwG 10 ff., RVG 9."
+description: "Erstgespraech im gewerblichen Rechtsschutz strukturieren und Mandat aufnehmen. § 14 MarkenG § 139 PatG § 8 UWG § 43a BRAO. Pruefraster: Schutzrecht Verletzungshandlung Parteistellung Eilbeduerfnis Fristen. Output: Mandat-Steckbrief Sachverhaltsprotokoll fehlende Unterlagen. Abgrenzung: Einstiegs-Skill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Erstgespraech und Mandatsannahme im Marken-, Patent-, Design- und Wettbewerbsrecht

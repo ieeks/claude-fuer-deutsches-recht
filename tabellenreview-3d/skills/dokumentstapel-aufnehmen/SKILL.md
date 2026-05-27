@@ -1,6 +1,6 @@
 ---
 name: dokumentstapel-aufnehmen
-description: "Nimmt einen Dokumentenstapel als Zeilenachse des Wuerfels auf. Quellen: VDR-Export (Datasite Intralinks Box) lokaler Ordner SharePoint-Bibliothek E-Mail-Anhang-Sammlung gescannte PDF mit OCR-Pipeline. Erzeugt pro Dokument einen Zeileneintrag mit kanonischem Pfad SHA-256-Hash Dokumenttyp-Klassifikation Sprache OCR-Konfidenz Seitenzahl und initial leerem Zeilenprompt. Erkennt Duplikate ueber Hash und Quasi-Duplikate ueber Aehnlichkeitsmass. Markiert Datenraum-Luecken (Referenzen auf nicht vorhandene Anlagen). Schreibt `zeilen-inventar.yaml`."
+description: "Dokumentenstapel fuer 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Pruefraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output: Dokumentenstapel-Inventar. Abgrenzung: nicht Einzeldokument-Pruefung."
 ---
 
 # /tabellenreview-3d:dokumentstapel-aufnehmen

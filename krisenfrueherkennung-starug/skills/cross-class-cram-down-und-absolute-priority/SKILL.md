@@ -1,6 +1,6 @@
 ---
 name: cross-class-cram-down-und-absolute-priority
-description: "Cross-Class-Cram-Down nach § 26 StaRUG: gerichtliche Planbestätigung gegen ablehnende Gruppen, Absolute-Priority-Rule, Schlechterstellungsverbot § 30 StaRUG, Obstruktionsverbot § 31 StaRUG, Anwendungsvoraussetzungen."
+description: "Cross-Class-Cram-Down und Absolute-Priority-Rule im StaRUG-Plan: Gericht soll Plan gegen ablehnende Glaeubiger-Gruppen bestaetigen. Normen: § 26 StaRUG (Cram-Down-Voraussetzungen), § 30 StaRUG (Schlechterstellungsverbot), § 31 StaRUG (Obstruktionsverbot). Pruefraster: Anwendungsvoraussetzungen, Absolute-Priority-Nachweis, Kein-Glaeubiger-schlechter-gestellt-Test, gerichtliche Planbestaetigung. Output Cram-Down-Memo, Planbestaedigungs-Antrag. Abgrenzung: Restrukturierungsplan-Architektur siehe restrukturierungsplan-architektur-paragraph-7ff-starug; Distressed M&A siehe corporate-kanzlei-Plugin."
 ---
 
 # Cross-Class-Cram-Down und Absolute Priority — § 26 StaRUG

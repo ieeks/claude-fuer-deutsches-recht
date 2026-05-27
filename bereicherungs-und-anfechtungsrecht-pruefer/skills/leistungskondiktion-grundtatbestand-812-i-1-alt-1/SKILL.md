@@ -1,6 +1,6 @@
 ---
 name: leistungskondiktion-grundtatbestand-812-i-1-alt-1
-description: "Grundtatbestand der Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB: etwas erlangt, durch Leistung, ohne Rechtsgrund. Tatbestandsmerkmale im Vier-Schritt-Schema."
+description: "Leistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 1 BGB im Vier-Schritt-Schema pruefen: etwas erlangt, durch Leistung, ohne Rechtsgrund. Normen: §§ 812 813 814 817 818 819 BGB. Pruefraster: Erlangen, Leistungsbegriff, Rechtsgrundmangel, Ausschlussggruende, Umfang. Output: Bereicherungsanspruchs-Gutachten. Abgrenzung: nicht Alt. 2 Eingriffskondiktion."
 ---
 
 # Leistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 1 BGB

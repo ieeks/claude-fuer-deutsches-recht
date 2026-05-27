@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo
-description: "Abmahnungs-Vergleichsstrategie UWG MarkenG UrhG. WIPO Mediation und WIPO Arbitration bei Markenstreit. EUIPO BoA Verfahren. Modifizierte Unterlassungserklaerung Anti-Hammer-Klausel. Lizenzanaloger Schadensersatz. Workflow Abmahnung Reaktion Vergleichsangebot Vertragsstrafe. Missbrauch 8c UWG."
+description: "Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Pruefraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzustaendigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht fuer Markenrecht vor EUIPO oder DPMA."
 ---
 
 # Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz

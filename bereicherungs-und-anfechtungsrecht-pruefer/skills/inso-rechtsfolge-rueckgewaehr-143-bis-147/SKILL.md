@@ -1,6 +1,6 @@
 ---
 name: inso-rechtsfolge-rueckgewaehr-143-bis-147
-description: "Rechtsfolge der InsO-Anfechtung §§ 143 bis 147 InsO: Rueckgewaehr zur Insolvenzmasse, Wertersatz, Rueckgewaehr der Gegenleistung. Anspruchskonkurrenzen und Geltendmachung durch Insolvenzverwalter."
+description: "Rechtsfolgen der Insolvenzanfechtung nach §§ 143 bis 147 InsO bestimmen: Rueckgewaehr zur Insolvenzmasse, Wertersatz. Normen: §§ 143 144 145 146 147 InsO. Pruefraster: Rueckgewaebrpflicht, Umfang Wertersatz, Gegenleistungsanspruch, Verjaebrung. Output: Anspruchsberechnung und Formulierungsvorschlag Schreiben Insolvenzverwalter. Abgrenzung: nicht AnfG § 11 (dort Duldungsurteil)."
 ---
 
 # Rechtsfolge Insolvenzanfechtung — §§ 143 bis 147 InsO

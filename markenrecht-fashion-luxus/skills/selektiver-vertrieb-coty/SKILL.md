@@ -1,6 +1,6 @@
 ---
 name: selektiver-vertrieb-coty
-description: "Selektiver Vertrieb nach EuGH C-230/16 Coty Germany ./. Parfuemerie Akzente: qualitative Selektionskriterien, Plattformverbot fuer Luxusguter, EuGH C-439/09 Pierre Fabre, Verhaltenskoordinierung. Laedt, wenn der Nutzer 'Selektiver Vertrieb', 'Coty Urteil', 'Plattformverbot Luxus', 'qualitative Selektion' oder 'Pierre Fabre' sagt."
+description: "Selektiven Vertrieb im Luxussegment kartellrechtskonform gestalten: Hersteller will Vertriebsnetz auf qualifizierte Partner beschraenken. Normen: EuGH C-230/16 Coty Germany/Parfuemerie Akzente (Plattformverbot Luxus), EuGH C-439/09 Pierre Fabre, Art. 4 Abs. 1 lit. c AEUV, Vertikal-GVO (EU) 2022/720. Pruefraster: qualitative Selektionskriterien, Plattformverbot-Zulassigkeit, Verhaltenskoordinierungs-Risiko. Output Selektiv-Vertriebsvertrags-Entwurf, kartellrechtliches Compliance-Memo. Abgrenzung: Preisbindung siehe vertikale-preisbindung-vbe-vo; AGB-Kontrolle siehe agb-haendlervertrag-luxus."
 ---
 
 # Selektiver Vertrieb für Luxusgüter nach Coty

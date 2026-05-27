@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-orientierung
-description: Orientierung Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gruendung Satzungsaenderung Geschaeftsfuehrerwechsel Anteilskaufvertrag SPA Joint Venture Beschlussanfechtung Geschaeftsfuehrerhaftung Umwandlung. Standardliteratur Baumbach Hueck Lutter Roth Scholz Schmidt. Schnittstellen Plugin insolvenzrecht Plugin steuerrecht-anwalt-und-berater Plugin urheberrecht.
+description: "Einstieg in den Skill-Verbund Handels- und Gesellschaftsrecht. FAO § 14i Voraussetzungen 80 Faelle davon 40 rechtsfoermlich. HGB AktG GmbHG PartGG UmwG MoPeG. Typische Mandate Gruendung Satzungsaenderung Geschaeftsfuehrerhaftung M&A Beschlussanfechtung Umwandlung. Standardliteratur Baumbach/Hueck Scholz MuenchKomm GmbHG. Output: Routing zu Folge-Skill. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (Streit) und fachanwalt-handels-gesellschaftsrecht-orientierung."
 ---
 
 # Orientierung Handels- und Gesellschaftsrecht

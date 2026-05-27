@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-zugewinnausgleich-berechnen
-description: "Zugewinnausgleich §§ 1372-1390 BGB im gesetzlichen Gueterstand der Zugewinngemeinschaft § 1363 BGB berechnen. Anfangsvermoegen Endvermoegen Bewertungsstichtag § 1376 BGB. Privilegierungen § 1374 Abs. 2 BGB Erbschaft Schenkung. Auskunftsanspruch § 1379 BGB Stufenklage § 254 ZPO. Negatives Anfangsvermoegen seit 2009 (§ 1374 Abs. 3 BGB) Verfuegungsbeschraenkungen § 1365 BGB. Verjaehrung drei Jahre § 195 BGB."
+description: "Zugewinnausgleich nach §§ 1372-1390 BGB berechnen: Trennung oder Scheidung erfordert Aufstellung von Anfangs- und Endvermoegen. Normen: § 1373 BGB (Zugewinn), § 1374 BGB (Anfangsvermoegen inkl. Privilegierungen Abs. 2), § 1376 BGB (Bewertungsstichtag Endvermoegen), § 1379 BGB (Auskunftsanspruch), § 254 ZPO (Stufenklage). Pruefraster: Anfangsvermoegen/Endvermoegen, Erbschaft-/Schenkungsprivileg, negatives Anfangsvermoegen seit 2009, Verfuegungsbeschraenkungen § 1365 BGB, Verjaehrung 3 Jahre. Output Berechnungs-Schema, Auskunftsstufe. Abgrenzung: Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich; Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen."
 ---
 
 # Zugewinnausgleich berechnen

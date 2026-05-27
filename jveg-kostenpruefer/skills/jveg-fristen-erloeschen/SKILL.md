@@ -1,6 +1,6 @@
 ---
 name: jveg-fristen-erloeschen
-description: Prueft Geltendmachung, Drei-Monats-Frist nach § 23 JVEG, Belehrungspflicht, Wiedereinsetzung, Verjaehrung und sichere Fristennotizen fuer alle JVEG-Anspruchsberechtigten.
+description: "Antragsfristen nach JVEG pruefen: drei Monate Ausschlussfrist fuer Verguetungsantrag. Normen: § 2 Abs. 1 JVEG. Pruefraster: Fristbeginn, Fristende, Wiedereinsetzungsmoeglichkeit. Output: Fristenpruefung JVEG mit Empfehlung. Abgrenzung: nicht materiell-rechtliche Verguetungsberechnung."
 ---
 
 # JVEG-Fristen-Erloeschen

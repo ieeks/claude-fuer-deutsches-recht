@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss-kapitalerhoehung
-description: "Beschluss-Entwurf Erhoehung des Stammkapitals um den Nennbetrag der neuen Anteile gegen Sacheinlage (Forderung aus Wandeldarlehen), Ausschluss Bezugsrechte der Altgesellschafterinnen, Zulassung Lender als neuer Gesellschafter, notarielle Beurkundung § 53 Abs. 2 GmbHG, Sacheinlagebericht."
+description: "Gesellschafterbeschluss fuer Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Pruefraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht fuer allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen)."
 ---
 
 # Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage

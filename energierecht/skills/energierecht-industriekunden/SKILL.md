@@ -1,6 +1,6 @@
 ---
 name: energierecht-industriekunden
-description: Industriekunden-Sonderregelungen § 19 Abs. 2 StromNEV Bandlast-Privileg 7000-Stunden-Konstellation. EEG-Umlage-Befreiung historisch BesAR jetzt KWKG-Strompreiskompensation EnEfG Energie-Effizienz-Pflicht. Sondernetzentgelt § 19 Abs. 1 atypisches Verbrauchs-Verhalten. Versorgung-Sicherheits-Klauseln Spitzenkappung Bandlast. Energie-Audit § 8 EDL-G. Carbon Border Adjustment Mechanism CBAM bei energie-intensiver Industrie. PPA Corporate Direct Plus zusaetzlich physische und finanzielle PPA-Strukturen. Reform-Linie 2024 Strompreisbremse-Aufhebung Industrie-Strompreis-Diskussion.
+description: "Sonderregelungen fuer Industriekunden im Energierecht: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung. Normen: § 19 StromNEV, §§ 17 ff. EnWG, EEG. Pruefraster: atypische Netznutzung, Eigenversorgungsprivileg, Konzerneigenversorgung. Output: Industriekunden-Beratungsmemo. Abgrenzung: nicht Haushaltskunden-Grundversorgung."
 ---
 
 # Industriekunden — Sonderregelungen

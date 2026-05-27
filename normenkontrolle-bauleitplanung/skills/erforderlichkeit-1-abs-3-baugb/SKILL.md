@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-1-abs-3-baugb
-description: Pruefung der staedtebaulichen Erforderlichkeit Paragraf 1 Abs. 3 S. 1 BauGB als materielle Wirksamkeitsvoraussetzung des Bebauungsplans. Bauleitplaene sind aufzustellen sobald und soweit es fuer die staedtebauliche Entwicklung und Ordnung erforderlich ist. Planrechtfertigung verlangt nachvollziehbares staedtebauliches Konzept. Gefaelligkeitsplanung zugunsten eines Privaten ist regelmaessig unzulaessig. Vorhabenbezogener B-Plan Paragraf 12 BauGB nicht automatisch Gefaelligkeitsplanung aber Vorfestlegungsindiz pruefen. Negativplanung als Verhinderungsplanung problematisch wenn ohne positives Konzept. Reine Investorinitiative ohne Aufnahme in gemeindliches Konzept Gefahr. Massstab BVerwG seit Urteil vom 11.3.1988 4 C 56.84. Strenge Pruefung gegenueber Abwaegungsfehlern Erforderlichkeit ist stets beachtlich und nicht ruegepflichtig nach Paragraf 215 BauGB.
+description: "Mandant greift Bebauungsplan als Gefaelligkeitsplanung oder Verhinderungsplanung an. § 1 Abs. 3 S. 1 BauGB Erforderlichkeit Planrechtfertigung. Pruefraster: nachvollziehbares staedtebauliches Konzept erforderlich Gefaelligkeitsplanung zugunsten Privater unzulaessig Vorhabenbezogener B-Plan Gefahr Negativplanung Verhinderungsplanung. Massstab BVerwG 4 C 56.84. Immer beachtlich nicht ruegepflichtig § 215 BauGB. Output: Erforderlichkeits-Pruefung und Angriffspunkt Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb."
 ---
 
 # Erforderlichkeit § 1 Abs. 3 BauGB

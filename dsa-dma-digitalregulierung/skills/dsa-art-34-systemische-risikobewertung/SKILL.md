@@ -1,6 +1,6 @@
 ---
 name: dsa-art-34-systemische-risikobewertung
-description: "Skill zur jährlichen Risikobewertung nach Art. 34 DSA durch VLOPs und VLOSEs. Vier Risikoarten: illegale Inhalte; Grundrechte (insbesondere Würde Privatleben Datenschutz Diskriminierungsverbot Meinungsfreiheit Kinderrechte Verbraucherschutz); zivilgesellschaftlicher Diskurs Wahlen öffentliche Sicherheit; geschlechtsspezifische Gewalt Gesundheit Minderjährigenschutz physisches und psychisches Wohlbefinden. Methodik Berichtspflicht Audit-Schnittstelle."
+description: "Jaehrliche Risikobewertung nach Art. 34 DSA fuer VLOP/VLOSE durchfuehren: Grosse Plattform muss Risikobewertung dokumentieren oder Berater unterstuetzt Compliance-Team. Normen: DSA (EU) 2022/2065 Art. 34 (vier Risikoarten: illegale Inhalte, Grundrechte, zivilgesellschaftlicher Diskurs/Wahlen, Minderjaerigenschutz/Gesundheit). Pruefraster: Risikoidentifikation je Kategorie, Methodik, Berichtspflicht, Audit-Schnittstelle Art. 37 DSA. Output Risikobewertungs-Template, Methodenbeschreibung, Audit-Vorbereitung. Abgrenzung: VLOP-Einordnung vorher siehe dsa-vlop-vlose-einordnung-und-pflichten; Forschungsdatenzugang siehe dsa-art-40-forschungsdatenzugang-algorithmen."
 ---
 
 # DSA — Systemische Risikobewertung nach Art. 34

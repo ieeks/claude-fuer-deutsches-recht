@@ -1,6 +1,6 @@
 ---
 name: jveg-sachverstaendigenrechnung
-description: "Prueft Sachverstaendigenvergaetung nach §§ 8 bis 10 JVEG: Honorargruppe, erforderliche Zeit, Reisezeit, Nebenkosten, § 8a-Risiken und Vorschussüberlauf."
+description: "Sachverstaendigenrechnung nach JVEG pruefen oder erstellen: Stundenverguetung, Nebenkosten, Festbetrag. Normen: §§ 8 9 JVEG, Anlage 1 JVEG. Pruefraster: Verguetungshoehe, Berichtumfang, Auslagen. Output: Geprufte Sachverstaendigenrechnung. Abgrenzung: nicht Zeugenentschaedigung."
 ---
 
 # JVEG-Sachverstaendigenrechnung

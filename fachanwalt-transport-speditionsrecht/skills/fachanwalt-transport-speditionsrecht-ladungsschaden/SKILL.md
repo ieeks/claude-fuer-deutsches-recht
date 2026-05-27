@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-ladungsschaden
-description: "Ladungsschaden im inlaendischen Strassenfrachtverkehr nach HGB regulieren. Obhutshaftung § 425 HGB. Haftungsausschluesse § 426 HGB. Privilegierungstatbestaende § 427 HGB. Haftungshoechstbetrag § 431 HGB 8 33 SZR pro kg. Qualifiziertes Verschulden § 435 HGB unbegrenzte Haftung. Anzeigepflicht § 438 HGB Reklamationsfrist sieben Tage bei verdecktem Schaden. Verjaehrung § 439 HGB ein Jahr bzw. drei Jahre."
+description: "Ladungsschaden im Gueterverkehr pruefen und geltend machen: Nachweis, Schadensberechnung, Haftungslimits. Normen: §§ 425 431 HGB, Art. 17 23 CMR. Pruefraster: Schadensnachweis, Haftungsgrenze je Kilogramm, Totalschaden, Sonderinteresse. Output: Ladungsschadens-Pruefergebnis und Anspruchsschreiben. Abgrenzung: nicht Lieferverzug."
 ---
 
 # Ladungsschaden – Innerdeutscher Frachtverkehr (HGB)

@@ -1,6 +1,6 @@
 ---
 name: jveg-zeugenentschaedigung
-description: "Rechnet und plausibilisiert Zeugenentschaedigung nach §§ 19 bis 22 JVEG: Fahrtkosten, Aufwand, Verdienstausfall, Haushaltsfuehrungsschaden und Zeitversaeumnis."
+description: "Zeugenentschaedigung nach JVEG berechnen: Fahrtkosten, Zeitversaeumnis, Verdienstausfall. Normen: §§ 19 ff. JVEG. Pruefraster: tatsaechliche Kosten, Zeitaufwand, Pauschalen. Output: Zeugenentschaedigungs-Berechnung. Abgrenzung: nicht Sachverstaendigenverguetung (hoehere Saetze)."
 ---
 
 # JVEG-Zeugenentschaedigung

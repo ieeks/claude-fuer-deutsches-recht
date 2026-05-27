@@ -1,6 +1,6 @@
 ---
 name: review-durchfuehren
-description: "Fuehrt den eigentlichen Reviewlauf ueber den Wuerfel durch — Anzahl Zellen = Spalten x Zeilen x Arbeitsblaetter. Pro Zelle: Spaltenprompt + Zeilenprompt + Arbeitsblatt-Perspektive zusammenfuehren, Antwort aus dem Dokument extrahieren mit woertlichem Zitat und Fundstelle, Ampel anhand der Spalten-Ampelregel setzen. Bei Quasi-Duplikaten Cache aus `caching-und-teil-rerun` nutzen. Bei OCR-Konfidenz unter 90 Prozent automatisch Pruefer-Flag. Pro Reviewlauf Audit-Eintrag in `audit-trail-protokoll`. Schreibt `wuerfel.parquet` mit allen Zellen sowie `lauf-zusammenfassung.md`."
+description: "3D-Tabellenreview konkret durchfuehren: jede Zeile in allen drei Perspektiven pruefen und bewerten. Normen: §§ 174 ff. 176 InsO. Pruefraster: Forderungshoehe, Pruefergebnis je Spalte, Risikoampel, Ausnahmekennzeichnung. Output: Ausgefuellte 3D-Review-Tabelle. Abgrenzung: nicht Wuerfel-Aufbau (Vorbereitung)."
 ---
 
 # /tabellenreview-3d:review-durchführen

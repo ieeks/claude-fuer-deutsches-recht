@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-mandat-arbeitsbereich
-description: "Mandat-Arbeitsbereiche für Mehrmandat-Kanzleien verwalten: anlegen, auflisten, wechseln, schließen. Stellt sicher, dass Datenschutzmandate mandatsübergreifend isoliert bleiben (kein Kontext-Leak zwischen Mandaten). Für internen Unternehmenseinsatz nicht relevant."
+description: "Datenschutzrechtliches Mandat strukturieren und Arbeitsbereich abgrenzen. Art. 5 24 DSGVO §§ 1 ff. BDSG. Pruefraster: Mandatsumfang Zustaendigkeiten Fristen Risikostufe externe Datenschutzberatung. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht fuer inhaltliche Datenschutzpruefung."
 ---
 
 # Mandat-Arbeitsbereich – Mehrmandat-Kanzlei

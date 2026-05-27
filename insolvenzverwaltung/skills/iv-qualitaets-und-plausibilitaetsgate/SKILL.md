@@ -1,6 +1,6 @@
 ---
 name: iv-qualitaets-und-plausibilitaetsgate
-description: "Qualitaets und Plausibilitaetsgate für Insolvenzverwaltung. Prüft Rollen Fristen Rechenwerke Quellen Tabellen Berichte Anfechtung § 15b und Masse."
+description: "IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler pruefen. §§ 58 66 InsO Pruefungspflichten des Gerichts. Pruefraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigabeempfehlung. Abgrenzung: Quality Gate fuer alle IV-Skills; nicht fuer eigenstaendige Sacharbeit."
 ---
 
 # Qualitäts- und Plausibilitätsgate

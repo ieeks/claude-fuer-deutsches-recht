@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-outside-in-target-screening
-description: "Outside-In Target Screening: Erstellt Zielunternehmen-Analysen aus oeffentlichen Quellen (Handelsregister, Bundesanzeiger, AHREFS, LinkedIn, XING) fuer M&A-Vorpruefer. Normen: § 3 GwG UBO, DSGVO, WpHG Stimmrechtsmitteilungen."
+description: "Outside-In-Zielunternehmen-Screening aus oeffentlichen Quellen fuer M&A-Vorpruefung: M&A-Team benoetigt schnellen Ueberblick ueber Target ohne Datenraumzugang. Normen: § 3 GwG (UBO-Identifikation), DSGVO, WpHG §§ 21 ff. (Stimmrechtsmitteilungen). Pruefraster: Handelsregister, Bundesanzeiger, LinkedIn/XING, Presse, Kartellverfahren, Sanktionslisten. Output Target-Profil mit Gesellschaftsstruktur, Umsatz/EBITDA-Schaetzung, Risikoflaggen. Abgrenzung: Vertiefte DD nach NDA siehe due-diligence-legal; Registeranalyse siehe handelsregisterabruf."
 ---
 
 # Outside-In Target Screening

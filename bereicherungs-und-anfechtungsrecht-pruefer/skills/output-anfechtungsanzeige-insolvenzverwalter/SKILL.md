@@ -1,6 +1,6 @@
 ---
 name: output-anfechtungsanzeige-insolvenzverwalter
-description: "Muster-Anschreiben des Insolvenzverwalters an den Anfechtungsgegner: Aufforderung zur Rueckgewaehr zur Insolvenzmasse nach §§ 129 ff. InsO mit Fristsetzung und Klageankuendigung."
+description: "Anschreiben des Insolvenzverwalters an den Anfechtungsgegner erstellen: Aufforderung zur Rueckgewaehr nach §§ 129 ff. InsO. Normen: §§ 129 143 InsO. Pruefraster: Anfechtungsgrund benennen, Rueckgewaehranspruch beziffern, Fristsetzung, Klageankuendigung. Output: Musterschreiben Anfechtungsanzeige Insolvenzverwalter. Abgrenzung: nicht AnfG-Schreiben."
 ---
 
 # Output: Anfechtungsanzeige — Insolvenzverwalter an Anfechtungsgegner

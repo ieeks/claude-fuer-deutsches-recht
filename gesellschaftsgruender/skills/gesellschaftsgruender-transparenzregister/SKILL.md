@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-transparenzregister
-description: "TraFinG-Meldung wirtschaftlich Berechtigter ans Transparenzregister Paragraf 19 GwG. Pflichten fiktiver wirtschaftlich Berechtigter Paragraf 3 GwG. Anzeigepflicht bei Gruendung Aenderung Verkauf. Ordnungswidrigkeit bis 150000 EUR Paragraf 56 GwG. Holding-Strukturen Trust-Strukturen. Pruefschema mit Workflow und Meldevorlage."
+description: "Transparenzregister-Meldung fuer GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bussgelder. Normen: §§ 18 ff. GwG, GeldwaescheG. Pruefraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwaesche-Beratung."
 ---
 
 # Transparenzregister

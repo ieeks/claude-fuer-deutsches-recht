@@ -1,6 +1,6 @@
 ---
 name: vergabe-nachpruefung-aussicht
-description: Pruefraster fuer Vergabenachpruefungs-Verfahren bei Vergabekammern (oberhalb der EU-Schwellenwerte). Pruefung Rechtsschutz § 155 ff. GWB Antragsbefugnis § 160 Abs. 2 GWB Ruegeobliegenheit § 160 Abs. 3 GWB Antragsfrist § 160 Abs. 2 GWB Auswahlfehler Bekanntmachung Eignung Praequalifikation ungewoehnlich niedriges Angebot § 60 VgV Wertungsfehler Ausschlussgruende fakultativ obligatorisch Submission Aufhebung Zuschlag-Stop § 169 GWB sofortige Beschwerde § 171 GWB OLG Vergabesenat Bietergemeinschaft Bietersorgfaltspflicht.
+description: "Aussichten eines Vergabenachpruefungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Pruefraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgruende), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachpruefungsantrag selbst siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk."
 ---
 
 # Vergabe-Nachprüfung — Erfolgs-Aussichten

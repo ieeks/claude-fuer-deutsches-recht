@@ -1,6 +1,6 @@
 ---
 name: zv-eu-kontenpfaendung-655-2014
-description: "Europaeische Kontenpfaendung nach Verordnung (EU) Nr. 655/2014 (EuKtPVO) — vorlaeufige grenzueberschreitende Sicherung von Bankkonten in der EU. § 946 ff. ZPO i.V.m. EuKtPVO. Antrag beim deutschen Gericht der Hauptsache; Zustaendigkeit § 946 ZPO. Glaubhaftmachung Anspruch und Sicherungsbeduerfnis. Sicherheitsleistung. Drittwirkung in allen Mitgliedstaaten (außer Daenemark). Folge-PfUeB national nach § 829 ZPO ergaenzend moeglich. Lädt bei Schuldnerkonto im EU-Ausland."
+description: "Glaeubiger hat Schuldner der im EU-Ausland ein Bankkonto haelt und moechte dieses vorlaeufig sichern. EuKtPVO VO (EU) 655/2014 §§ 946 ff. ZPO. Pruefraster: Antrag deutsches Gericht Glaubhaftmachung Anspruch Sicherungsbeduerfnis Sicherheitsleistung Drittstaaten-Wirkung alle EU-Mitgliedstaaten ausser Daenemark anschliessender PfUeB national § 829 ZPO. Output: Antrag Europaeische Kontenpfaendung und Folgepfaendung. Abgrenzung zu zv-pfueb-bank (inlaendisches Konto) und zv-kommandocenter."
 ---
 
 # Europäische Kontenpfändung (EuKtPVO, VO (EU) 655/2014)

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-golden-share-und-vetorechte
-description: "Golden Share Sperrminoritaet Sondervetorechte. Bei Restrukturierung StaRUG Insolvenzantrag Verkauf wesentlicher Aktiva Satzungsaenderung Liquidation. Stimmrechts-Konstellationen. Beispiel-Klauseln fuer Satzung. Innenverhaeltnis vs Aussenverhaeltnis. Typische Anwendungs-Konstellationen Family Office Gruender-Schutz Investor-Schutz."
+description: "Golden Shares und Vetorechte in GmbH oder AG satzungsmaessig absichern: Sonderrechte, Sperrminoritaeten. Normen: §§ 35 45 GmbHG, §§ 23 ff. AktG. Pruefraster: Satzungsgestaltung, Grenzen der Satzungsautonomie, Bestandsschutz, Vinkulierung. Output: Satzungsklausel Golden Share und Vetorechte. Abgrenzung: nicht Gesellschaftervereinbarung (nur schuldrechtlich)."
 ---
 
 # Golden Share und Sondervetorechte

@@ -1,6 +1,6 @@
 ---
 name: avv-pruefung
-description: "AVV-Prüfung nach Art. 28 DSGVO: Klausel-für-Klausel-Analyse gegen das eigene Playbook, Prüfung von Sub-Auftragsverarbeiter-Klauseln, Drittland-Transferfolgenabschätzung (TIA), EU-Standardvertragsklauseln (EU-SCC) und EU-US Data Privacy Framework (DPF). Richtung (Auftragsverarbeiter oder Verantwortlicher) wird automatisch erkannt."
+description: "Auftragsverarbeitungsvertrag nach Art. 28 DSGVO pruefen oder erstellen wenn Dritter Daten im Auftrag verarbeitet. Art. 28 DSGVO AVV-Pflicht § 62 BDSG. Pruefraster: Pflichtinhalte Art. 28 Abs. 3 Weisungsgebundenheit Subauftragsverarbeiter Rueckgabe Loesung Audits. Output: AVV-Pruefmemo oder Vertragsentwurf. Abgrenzung: nicht fuer Joint-Controller-Vereinbarungen (joint-controller-vereinbarung)."
 ---
 
 # AVV-Review – Auftragsverarbeitungsvertrag Art. 28 DSGVO

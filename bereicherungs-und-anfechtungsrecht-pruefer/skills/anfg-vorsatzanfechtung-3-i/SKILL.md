@@ -1,6 +1,6 @@
 ---
 name: anfg-vorsatzanfechtung-3-i
-description: "AnfG-Vorsatzanfechtung § 3 Abs. 1 AnfG: Rechtshandlung mit Benachteiligungsvorsatz des Schuldners und Kenntnis des Anfechtungsgegners. Zehn-Jahres-Frist. Beweisführung. BGH IX ZR Leitsätze Vorsatzanfechtung ausserinsolvenzlich dolus eventualis."
+description: "Vorsatzanfechtung ausserhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Pruefraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisfuehrung. Output: Pruefergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren)."
 ---
 
 # Vorsatzanfechtung — § 3 Abs. 1 AnfG

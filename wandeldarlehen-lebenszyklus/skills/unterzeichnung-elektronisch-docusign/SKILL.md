@@ -1,6 +1,6 @@
 ---
 name: unterzeichnung-elektronisch-docusign
-description: "Praxis DocuSign und Adobe Sign fuer Wandeldarlehen: Authentifizierung der Unterzeichner (E-Mail-OTP, SMS-OTP, eID), Pruefspur und Audit Trail, Aufbewahrung zehn Jahre (§ 147 AO), Vorhalten der PDF mit Zertifikatsblock. Versandreihenfolge und Erinnerungsmanagement bei mehrseitiger Unterschriftsrunde."
+description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Pruefraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur fuer elektronische Signatur; nicht fuer notarielle Beurkundung."
 ---
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)

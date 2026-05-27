@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-verkehrswende
-description: "Entwickelt rechtssichere Massnahmen fuer Fussgaengerzonen (StVO 45), Tempo-30-Zonen (StVO 45 I b), Radverkehr (ERA 2010), Lieferverkehr und Beteiligung. Prueft Verhaeltnismaessigkeit und Anfechtungsrisiken."
+description: "Verkehrswende-Massnahmen rechtssicher gestalten: Kommune plant Fussgaengerzone, Tempo-30-Zone oder Radverkehrs-Foerderung. Normen: § 45 Abs. 1 StVO (Fussgaengerzone, Tempo-30), ERA 2010 (Empfehlungen Radverkehr), VwGO (Anfechtbarkeit durch Kfz-Nutzer). Pruefraster: Rechtsgrundlage Verkehrsanordnung, Verhaeltnismaessigkeit, Anfechtungsrisiken durch Anwohner/Gewerbetreibende, Beteiligung. Output Rechtsgutachten zur Massnahme, Begruendungsbausteine fuer Beschluss. Abgrenzung: Allgemeine Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
 ---
 
 # Verkehrswende und Verkehrsberuhigung — Rechtliche Umsetzung

@@ -1,6 +1,6 @@
 ---
 name: tenor-bauen-zivil
-description: "Konstruiert den Tenor eines Zivilurteils: Hauptsache (genau bezifferter Zahlungsantrag mit Zinsen ab) Kosten Paragraf 91 ff ZPO vorlaeufige Vollstreckbarkeit Paragraf 708 ff ZPO Streitwert Beruefungszulassung Paragraf 511 ZPO Tenorierung beim Kostenfestsetzungsverfahren. Beachtet Bestimmtheitsgebot und Vollstreckbarkeit."
+description: "Tenor eines Zivilurteils konstruieren: Richter muss Hauptsache-Entscheidung, Kosten und Vollstreckbarkeit klar tenorieren. Normen: §§ 91 ff. ZPO (Kosten), §§ 708-720a ZPO (vorlaeufige Vollstreckbarkeit), § 511 ZPO (Berufungszulassung), Bestimmtheitsgebot. Pruefraster: Zahlungsantrag mit Zinsen ab, Kostenquote, vorlaeufige Vollstreckbarkeit mit/ohne Sicherheitsleistung, Streitwertfestsetzung, Berufungszulassung. Output Tenor-Entwurf vollstaendig und vollstreckbar. Abgrenzung: Entscheidungsgruende siehe entscheidungsgruende-zivil-schreiben; Kostenentscheidung detail siehe kostenentscheidung-bauen."
 ---
 
 # Tenor bauen Zivilurteil

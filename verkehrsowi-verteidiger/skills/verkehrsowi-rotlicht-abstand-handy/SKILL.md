@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rotlicht-abstand-handy
-description: "Rotlicht-OWi § 37 StVO qualifiziert vs. einfach. Abstand-OWi § 4 StVO Berechnungsmethode Tacho-Laenge. Handy-OWi § 23 Abs. 1a StVO Festhalten-Begriff BGH. Beweisgrundlagen. Zeugen Polizeibeamte. Videobeweise. Typische Verteidigungsargumente."
+description: "Rotlicht-OWi, Abstand-OWi und Handy-OWi verteidigen: Mandant hat Bussgeldbescheid wegen Rotlicht, zu geringem Abstand oder Handynutzung erhalten. Normen: § 37 StVO (Rotlicht: einfach vs. qualifiziert 1 Sekunde), § 4 StVO (Abstand-Berechnung Tacho-Laenge), § 23 Abs. 1a StVO (Festhalten-Begriff BGH). Pruefraster: Beweisgrundlagen (Videobeweise, Polizeizeugen), typische Verteidigungsargumente je Tatvorwurf. Output Verteidigungs-Strategie, Beweisantrags-Entwurf. Abgrenzung: Geschwindigkeit siehe verkehrsowi-messverfahren-geschwindigkeit; Zeugen-Strategie siehe verkehrsowi-zeugen-polizei-strategie."
 ---
 
 # Rotlicht, Abstand und Handy — §§ 23, 37, 4 StVO

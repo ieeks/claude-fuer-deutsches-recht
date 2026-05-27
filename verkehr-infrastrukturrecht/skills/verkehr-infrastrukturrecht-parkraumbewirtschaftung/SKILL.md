@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-parkraumbewirtschaftung
-description: "Parkraumbewirtschaftung kommunales Strassenrecht. Bewohnerparkausweis § 45 StVO. Parkgebuehren StVO-rechtliche Grundlage. Halteverbote Halteverbotszeichen. Abschleppkostenrecht. Eigentuemerpflichten private Parkflaechen. Parkraumkonzepte Stadtentwicklung."
+description: "Parkraumbewirtschaftung kommunalrechtlich gestalten und anfechten: Kommune einfuehrt Bewohnerparkausweis oder Abschleppung wird angefochten. Normen: § 45 StVO (Bewohnerparkausweis, Verkehrszeichen), StVG § 12 (Haltverbot), VwVfG (Verwaltungsakt Abschleppung). Pruefraster: Rechtsgrundlage Parkgebuehren, Halteverbots-Anordnung, Abschleppkostenrecht, private Parkflaechen Eigentuemerpflichten, Parkraumkonzept Stadtplanung. Output Widerspruchsschrift Abschleppung, Parkraum-Konzept-Rechtspruefung. Abgrenzung: Sondernutzung allgemein siehe verkehr-infrastrukturrecht-sondernutzung; Verkehrsplanung siehe verkehr-infrastrukturrecht-verkehrsplanung."
 ---
 
 # Parkraumbewirtschaftung

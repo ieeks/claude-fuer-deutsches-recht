@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-punkte-fahrverbot-flensburg
-description: "Punkte und Fahrverbot im Fahreignungsregister (FAER) Flensburg. Punktesystem § 4 StVG. Warnungen bei 4 und 6 Punkten. Fahrerlaubnisentzug bei 8 Punkten. Tilgungsfristen § 65 StVG. Punktereduktion durch freiwilligen Kurs. Abgrenzung FAER-Punkte und § 25 StVG Fahrverbot."
+description: "Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Fuehrerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Pruefraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Uebersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin."
 ---
 
 # Punkte und Fahrverbot — Fahreignungsregister Flensburg

@@ -1,6 +1,6 @@
 ---
 name: caching-und-teil-rerun
-description: "Caching der Wuerfelzellen und gezielter Teil-Rerun bei Aenderungen — vermeidet die voll Neuberechnung von tausenden Zellen wenn nur ein Spaltenprompt eine Zeile oder ein Arbeitsblatt geaendert wurde. Cache-Key pro Zelle = Hash aus Spaltenprompt-Version Zeilenprompt-Version Dokument-Hash Arbeitsblatt-Perspektive Modell-Version. Invalidiert automatisch bei Versions-Aenderung. Schaetzt Kosten und Laufzeit vor Rerun. Geeignet auch fuer Quasi-Duplikate (Aehnlichkeit ueber 95 Prozent uebernimmt Cache-Treffer als Vorschlag fuer Pruefer-Bestaetigung)."
+description: "Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausfuehren ohne Vollneustart. Normen: technisch. Pruefraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten und neu verarbeiteten Zeilen. Abgrenzung: nicht vollstaendiger Neustart."
 ---
 
 # /tabellenreview-3d:caching-und-teil-rerun

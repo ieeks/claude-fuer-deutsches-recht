@@ -1,6 +1,6 @@
 ---
 name: iv-tabelle-pruefungstermin
-description: "Insolvenztabelle und Prüfungstermin nach §§ 175 ff InsO. Führt Tabellenvermerke Widersprueche Feststellung Bestreiten und Nachbereitung."
+description: "Insolvenztabelle konsolidieren und Pruefungstermin nach §§ 175 ff. InsO vorbereiten. §§ 175 176 177 InsO Tabellenfuehrung und Widersprueche. Pruefraster: Tabellenbereinigung Doubletten Rang Zinsen Widersprueche nach Grund Betrag Rang Terminmappe. Output: Terminmappe Widerspruchserklaerungen Feststellungsantrag. Abgrenzung: nicht fuer Forderungsanmeldungspruefung (iv-forderungsanmeldung-pruefung)."
 ---
 
 # Tabelle und Prüfungstermin

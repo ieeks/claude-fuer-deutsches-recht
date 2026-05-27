@@ -1,6 +1,6 @@
 ---
 name: kreuzblatt-konsistenzpruefung
-description: "Prueft die dritte Wuerfel-Dimension auf innere Konsistenz — laeuft NACH `review-durchfuehren` ueber alle Arbeitsblaetter und sucht Widersprueche zwischen Perspektiven (z. B. ein Vertrag rechtlich gruen aber datenschutzrechtlich rot; ein Vertragsvolumen das wirtschaftlich gross aber steuerlich nicht erfasst ist; ein Service-Level betrieblich passabel aber rechtlich unwirksam). Erzeugt `widerspruchsbericht.md` mit pro Widerspruch der Zeile dem widersprechenden Arbeitsblatt der Spalte und der Konflikt-Klassifikation (echter Widerspruch / legitime perspektivische Abweichung / Datenfehler)."
+description: "Kreuzblatt-Konsistenzpruefung: Abgleich der drei Dimensionen Forderung-Pruefung-Stellung auf Widerspruchsfreiheit. Normen: §§ 174 ff. InsO. Pruefraster: Betragsabweichungen, Statusinkonsistenzen, fehlende Eintraege. Output: Konsistenz-Pruefbericht mit Fehlerliste. Abgrenzung: nicht Risikoampel-Aggregation."
 ---
 
 # /tabellenreview-3d:kreuzblatt-konsistenzprüfung

@@ -1,6 +1,6 @@
 ---
 name: governance-aufsichtsbehoerden-art-70
-description: "Governance-Struktur der KI-VO nach Art. 70 ff: nationale Aufsichtsbehoerden Europaeisches KI-Buero KI-Ausschuss wissenschaftliches Gremium Beratungsforum. Aufgaben Befugnisse Koordination Ansprechpartner Deutschland. Art. 64 bis 70 KI-VO."
+description: "Unternehmen oder Behoerde fragt: An wen muss ich mich in Deutschland und Europa wenden wenn ich Fragen zur KI-VO-Aufsicht habe oder eine Meldepflicht erfullen muss? Art. 70 ff. KI-VO Governance. Pruefraster: nationale Aufsichtsbehoerden Art. 70 Europaeisches KI-Buero Art. 64 KI-Ausschuss Art. 65 wissenschaftliches Gremium Art. 68 Beratungsforum Art. 67 Aufgaben Befugnisse Koordination. Output: Uebersicht zustaendige Stellen in Deutschland und EU mit Kontakthinweisen. Abgrenzung zu marktueberwachung-meldung-vorfaelle-art-72-bis-79 (Meldepflichten) und sanktionen-art-99-bis-101 (Bussgeldrahmen)."
 ---
 
 # Governance und Aufsichtsbehörden — Art. 70 ff. KI-VO

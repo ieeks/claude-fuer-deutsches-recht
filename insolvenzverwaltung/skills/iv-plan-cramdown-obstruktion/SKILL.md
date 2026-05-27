@@ -1,6 +1,6 @@
 ---
 name: iv-plan-cramdown-obstruktion
-description: "Prüft Obstruktionsverbot, gruppenuebergreifende Mehrheitsentscheidung, angemessene Beteiligung und Planmehrwertverteilung."
+description: "Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung pruefen wenn ablehnende Gruppen oder Klassen vorhanden sind. § 245 InsO § 27 StaRUG Cramdown. Pruefraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht fuer Minderheitenschutz einzelner Beteiligter (iv-plan-minderheitenschutz)."
 ---
 
 # IV-integrierte Cram-down und Obstruktion

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-fahrerlaubnis-entzug
-description: "Fahrerlaubnisentzug § 69 StGB strafgerichtlich oder § 3 StVG verwaltungsrechtlich. Sperrfrist § 69a StGB. Vorlaeufige Entziehung § 111a StPO. Wiedererteilung § 20 FeV. MPU-Anordnung Anlassgruende § 13 § 14 FeV Alkohol Drogen Punkte. Beschwerde § 304 StPO bei vorlaeufiger Entziehung. Verwaltungsverfahren Widerspruch Anfechtungsklage § 42 VwGO. Punkteabbau § 4 Abs. 7 StVG Fahreignungsseminar."
+description: "Mandant hat Fuehrerschein entzogen bekommen oder befuerchtet Entziehung und fragt nach Moeglichkeiten. § 69 StGB strafgerichtlich § 3 StVG verwaltungsrechtlich. Pruefraster: Sperrfrist § 69a StGB vorlaeufige Entziehung § 111a StPO Wiedererteilung § 20 FeV MPU-Anordnung §§ 13 14 FeV Beschwerde § 304 StPO Widerspruch Verwaltungsverfahren Punkteabbau § 4 Abs. 7 StVG. Output: Verteidigungsstrategie und Antragsschriftsatz. Abgrenzung zu fachanwalt-verkehrsrecht-mpu-vorbereitung (MPU-Prep) und mandat-triage-verkehrsrecht."
 ---
 
 # Fahrerlaubnis-Entzug

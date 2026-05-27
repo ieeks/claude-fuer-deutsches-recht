@@ -1,6 +1,6 @@
 ---
 name: bussgeld-einspruch-pruefen
-description: Pruefraster Bussgeldbescheid nach OWiG. Erfasst Tatvorwurf (Geschwindigkeit Rotlicht Abstand Handy Trunkenheit § 24 StVG iVm BKatV) Bussgeldhoehe Punkte Fahrverbot. Pruefung Messverfahren (Lasermessgeraet PoliScan TraffiStar Lidar) Eichung Schulung Messung-Toleranz standardisiert (BGH 4 StR 627/92 BGHSt 39 291). Verteidigungs-Ansaetze Identitaetsbestreitung Fahrer-Foto Akteneinsicht Bussgeldakte Sachverstaendigen-Beweisangebot fehlerhafte Messung. Einspruchsfrist zwei Wochen § 67 OWiG mit Vier-Tages-Fiktion seit 01.01.2025 PostModG iVm § 4 Abs. 2 VwZG. Antrag auf Aufhebung Fahrverbot Haerte-Fall § 4 BKatV.
+description: "Mandant erhielt Bussgeldbescheid wegen Tempoverstoß Rotlichtvergehen Handynutzung oder Abstandsmangel und fragt nach Einspruch. OWiG § 67 Abs. 1 Einspruchsfrist. Pruefraster: Tatvorwurf § 24 StVG BKatV Bussgeldhoehe Punkte Fahrverbot Messverfahren (PoliScan TraffiStar Lidar) Eichung Toleranzabzug BGH 4 StR 627/92 Identitaetsbestreitung Akteneinsicht. Output: Einspruch-Pruefliste und Einspruchsschreiben-Entwurf. Abgrenzung zu fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen (Detailpruefung) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug."
 ---
 
 # Bußgeldbescheid prüfen und Einspruch

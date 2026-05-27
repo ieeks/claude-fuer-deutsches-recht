@@ -1,6 +1,6 @@
 ---
 name: hilfsmittelantrag-pruefen
-description: Prueft die rechtliche Anspruchsgrundlage fuer ein Hilfsmittel (Rollstuhl Hoerhilfe Brille Inkontinenzversorgung Prothese Pflegebett Treppenlift) im SGB V (gesetzliche Krankenversicherung) SGB IX (Teilhabe) SGB XI (Pflege) oder SGB XII (Sozialhilfe). Klaert Zustaendigkeit (Krankenkasse / Pflegekasse / Eingliederungstraeger / Sozialhilfetraeger) Antragspraxis Hilfsmittelverzeichnis (Spitzenverband Bund der Krankenkassen § 139 SGB V) Festbetraege Mehrkostenproblematik und typische Ablehnungsgruende. Erzeugt Antragsentwurf oder Widerspruchsentwurf.
+description: "Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zustaendig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Pruefraster: Zustaendigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgruende. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad)."
 ---
 
 # Hilfsmittelantrag prüfen

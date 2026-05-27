@@ -1,6 +1,6 @@
 ---
 name: ttab-opposition-und-cancellation
-description: "TTAB-Verfahren: Opposition Proceedings 37 C.F.R. § 2.101 ff., Cancellation Proceedings § 2.111 ff., Standing, Grounds (Likelihood of Confusion, Dilution 15 U.S.C. § 1125(c), Fraud In re Bose 580 F.3d 1240), Discovery, Trial Period, Federal Circuit Appeal. Laedt, wenn der Nutzer 'TTAB Opposition', 'Cancellation Petition', 'Notice of Opposition US' oder 'TTAB Verfahren' sagt."
+description: "TTAB-Opposition und Cancellation in den USA fuehren: aeltere Marke kollidiert mit US-Anmeldung oder eingetragener Marke. Normen: 37 C.F.R. § 2.101 ff. (Opposition), § 2.111 ff. (Cancellation), 15 U.S.C. § 1125(c) (Dilution), In re Bose 580 F.3d 1240 (Fraud). Pruefraster: Standing, Likelihood of Confusion DuPont-Factors, Dilution-Schutz bueruehmter Marken, Discovery und Trial Period. Output TTAB-Opposition oder Cancellation Petition, Begruendungs-Entwurf, Timeline. Abgrenzung: EUIPO-Widerspruch siehe euipo-widerspruchsverfahren; USPTO Office Action siehe uspto-office-actions-und-tess-tsdr."
 ---
 
 # TTAB — Trademark Trial and Appeal Board

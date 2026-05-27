@@ -1,6 +1,6 @@
 ---
 name: energierecht-wettbewerb
-description: Wettbewerbsrecht-Bezug Energierecht Marktbeherrschungs-Verfahren BNetzA-Missbrauchskontrolle § 33 EnWG Preis-Missbrauch § 19 GWB. Bundeskartellamt-Verfahren Strom-Gas-Fusionen 9. Beschlussabteilung. EU-Wettbewerbsrecht Beihilfen Art. 107 AEUV De-minimis-Verordnung AGVO. Sektor-Untersuchung Bundeskartellamt Strom Gas Fernwaerme. Konzern-Verbund-Klauseln Entflechtungs-Vorschriften EnWG § 6-10 Vertikale Entflechtung. EuGH-Linie zu Energie-Wettbewerb. Strompreiskompensation als Beihilfe Verpflichtung Notifizierung Bruessel. Marktbeherrschung Kommunaler Versorger.
+description: "Wettbewerbs- und Kartellrecht im Energiesektor pruefen: Marktmacht, Diskriminierung, Missbrauch. Normen: §§ 18 ff. GWB, Art. 101 102 AEUV, EnWG. Pruefraster: Marktabgrenzung, Marktmacht, Diskriminierungsverbot, Entflechtung. Output: Kartellrechtliche Risikoeinschaetzung Energiemarkt. Abgrenzung: nicht allgemeines Wettbewerbsrecht."
 ---
 
 # Wettbewerb und Beihilfen im Energierecht

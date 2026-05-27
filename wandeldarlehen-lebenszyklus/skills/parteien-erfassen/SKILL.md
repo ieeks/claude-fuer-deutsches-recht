@@ -1,6 +1,6 @@
 ---
 name: parteien-erfassen
-description: "Vollstaendige Erfassung aller Vertragsparteien: Gesellschaft (Firma, HRB, Sitz, Geschaeftsfuehrung), Gesellschafterinnen (Privatpersonen, Adressen, Anteilsquoten), Darlehensgeber (Privat oder juristische Person, Vertreter, Vollmacht), Sanktionslisten-Check nach GwG und Anlage Anschriften mit Vertretungsmacht."
+description: "Vertragsparteien eines Wandeldarlehens vollstaendig identifizieren und dokumentieren. §§ 13 17 GmbHG Gesellschafter §§ 305 ff. BGB AGB bei mehreren Darlehensgebern. Pruefraster: Darlehensgeberin Darlehensnehmerin vertretungsberechtigte Organe Handelsregisterstand. Output: Parteiendossier fuer Vertragskopf. Abgrenzung: Einstiegs-Skill; vor Vertragserstellung zu verwenden."
 ---
 
 # Parteien erfassen – KYC und Vertretungsmacht

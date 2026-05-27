@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-beirat-advisory-board
-description: "Beirat Advisory Board Aufsichtsrat. Beiratsordnung Aufgaben Besetzung Verguetung. Pflicht vs freiwillig. Bei GmbH typisch freiwillig Empfehlung bei Mittelstand und Family Office. Beispiel-Klausel Satzung Beiratsordnung Tagesordnung Beirat-Meeting. Streit-Schlichtungs-Funktion. Paragraf 52 GmbHG analog AktG Vorschriften. Haftung D-und-O-Versicherung."
+description: "Beirat oder Advisory Board fuer GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen: §§ 45 52 GmbHG, §§ 95 ff. AktG analog. Pruefraster: Kompetenzen, Verguetung, Haftung, Abberufung, Datenschutz. Output: Beiratssatzung oder Advisory-Board-Charter. Abgrenzung: nicht Gesellschafterversammlung oder Aufsichtsrat."
 ---
 
 # Beirat / Advisory Board

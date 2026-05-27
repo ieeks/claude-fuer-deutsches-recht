@@ -1,6 +1,6 @@
 ---
 name: energierecht-eeg-kwkg-erzeugung
-description: EEG 2023 KWKG 2023 Erzeugung erneuerbarer Energien Ausschreibungs-Verfahren BNetzA Marktpraemie Direktvermarktung anzulegender Wert Innovationsausschreibung Repowering Solarpaket I 2024. Inbetriebnahme-Anmeldung Marktstammdatenregister § 33 EEG. KWKG-Zuschlag Bestandsanlagen Modernisierung BHKW Fernwaerme. Folgen Verstoss reduzierte Zahlungsanspruechen RZB-Strafzahlung BNetzA. Verzahnung BImSchG-Anlagengenehmigung WindBG SolarBG Beschleunigungsgebiete EU-RED III. Foerder-Verfahren Anlagenzulassung pruefen.
+description: "EEG- und KWKG-Verguetungen fuer Stromerzeugungsanlagen pruefen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Pruefraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht."
 ---
 
 # EEG, KWKG und Erzeugung erneuerbarer Energien

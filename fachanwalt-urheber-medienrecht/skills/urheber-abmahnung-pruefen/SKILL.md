@@ -1,6 +1,6 @@
 ---
 name: urheber-abmahnung-pruefen
-description: "Strukturierte Pruefung urheberrechtlicher Abmahnungen nach § 97a UrhG. Pruefraster Werkqualitaet Aktivlegitimation Verletzungshandlung § 19a UrhG Schadensberechnung Lizenzanalogie. Formelle Anforderungen § 97a Abs. 2 UrhG Kostendeckelung § 97a Abs. 3 UrhG Verbraucher. Modifizierte Unterlassungserklaerung Hamburger Brauch. Streitwert Verjaehrung."
+description: "Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie pruefen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Pruefraster: Schutzfaehigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnpruefmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht fuer Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung)."
 ---
 
 # Urheber-Abmahnung prüfen

@@ -1,6 +1,6 @@
 ---
 name: notar-paket-uebermittlung
-description: "Erstellung des vollstaendigen Notar-Pakets zur Handelsregister-Anmeldung der Kapitalerhoehung: Kapitalerhöhungsbeschluss, Sacheinlagebericht, Anmeldung Handelsregister nach § 57 GmbHG, neue Gesellschafterliste nach § 40 GmbHG, Liste Geschaeftsanteile, Anschrift Notar, Terminbuchung und Checkliste einzureichender Dokumente."
+description: "Notarpaket fuer Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Pruefraster: Vollstaendigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitaetsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht fuer Handelsregisteranmeldung nach Beurkundung."
 ---
 
 # Notar-Paket zur Handelsregister-Anmeldung

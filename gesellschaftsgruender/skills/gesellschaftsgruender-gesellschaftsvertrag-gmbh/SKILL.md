@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gesellschaftsvertrag-gmbh
-description: "GmbH-Gesellschaftsvertrag Satzung: Pflichtangaben Paragraf 3 GmbHG Firma Sitz Gegenstand Stammkapital Anteile. GF-Bestellung Vertretung Befreiung Paragraf 181 BGB. Vorkaufsrechte Vesting Drag-Along Vinkulierung Andienungsrechte. Abfindung Ausscheiden. Beschlussfassung. Klauselkatalog und Workflow."
+description: "GmbH-Gesellschaftsvertrag aufsetzen: Mindestinhalt, Stammkapital, Beschlussfassung, Gewinnverteilung. Normen: §§ 2 3 5 GmbHG. Pruefraster: Notarerfordernis, Pflichtinhalte, Optionalklauseln, Sonderrechte. Output: GmbH-Gesellschaftsvertragsentwurf. Abgrenzung: nicht UG-Gruendung mit Musterprotokoll § 2 Abs. 1a GmbHG."
 ---
 
 # GmbH-Gesellschaftsvertrag (Satzung)

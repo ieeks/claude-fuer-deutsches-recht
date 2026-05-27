@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kapitalerhoehung-bezugsrecht
-description: "Kapitalerhoehung Paragrafen 55 ff GmbHG. Bezugsrecht bestehender Gesellschafter Paragraf 55 II GmbHG. Bezugsrechtsausschluss Voraussetzungen sachliche Rechtfertigung Verhaeltnismaessigkeit. Verwaesserungs-Berechnung. Streit-Konstellationen bei nicht-mitziehenden Gesellschaftern. Eilantrag gegen Eintragung."
+description: "Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchfuehren. Normen: §§ 55 56 56a GmbHG. Pruefraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital."
 ---
 
 # Kapitalerhöhung und Bezugsrecht

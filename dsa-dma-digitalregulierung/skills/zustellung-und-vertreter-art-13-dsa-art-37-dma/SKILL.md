@@ -1,6 +1,6 @@
 ---
 name: zustellung-und-vertreter-art-13-dsa-art-37-dma
-description: "Skill zur Zustellung gegen Plattform mit Sitz außerhalb der EU. Art. 13 DSA verlangt EU-Rechtsvertreter für Anbieter ohne EU-Niederlassung; Art. 11 DSA zentrale Kontaktstelle für Behörden; Art. 12 DSA zentrale Kontaktstelle für Nutzer; Art. 37 DMA Vertreter für Gatekeeper. Praktische Zustellung nach EuZVO 2020/1784 ZRHO HZÜ § 184 ZPO bei verweigerter Bestellung. Internationale Zuständigkeit Brüssel-Ia."
+description: "Zustellung gegen Plattform mit Sitz ausserhalb der EU und EU-Vertreter-Pflichten: Klaeger will Schriftstuecke zustellen oder Behoerde will Plattform erreichen. Normen: DSA (EU) 2022/2065 Art. 13 (EU-Rechtsvertreter-Pflicht), Art. 11 DSA (Behoerden-Kontaktstelle), Art. 12 DSA (Nutzerkontaktstelle), DMA Art. 37 (Vertreter Gatekeeper), EuZVO (EU) 2020/1784. Pruefraster: EU-Vertreter bestellt oder nicht, Zustellungsweg (EuZVO, ZRHO, HZueue), § 184 ZPO (Zustellung Ausland), Bruessel-Ia internationale Zustaendigkeit. Output Zustellungs-Strategie-Memo, Vertreter-Anforderungs-Schreiben. Abgrenzung: Account-Sperre Nutzer siehe account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa; DMA Pflichten siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
 ---
 
 # Zustellung gegen Auslands-Plattform — Art. 13 DSA und Art. 37 DMA

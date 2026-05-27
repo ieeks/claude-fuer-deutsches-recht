@@ -1,6 +1,6 @@
 ---
 name: dsb-bestellungspflicht-pruefung
-description: Pruefraster Bestellungspflicht Datenschutzbeauftragten. EU-Pflichten Art. 37 DSGVO oeffentliche Stelle Kerntaetigkeit umfangreiche regelmaessige Ueberwachung Kerntaetigkeit umfangreiche Verarbeitung besondere Kategorien. Deutsche Erweiterung § 38 BDSG ab 20 Personen die staendig mit automatisierter Verarbeitung beschaeftigt sind. Anforderungen DSB Art. 38 DSGVO Unabhaengigkeit Ressourcen-Pflicht Kenntnisse. Aufgaben Art. 39 DSGVO Beratung Pruefung. Externe vs. interne Bestellung. Interessens-Konflikt-Pruefung EuGH C-453/21 X-FAB Dresden zur Unvereinbarkeit von DSB-Funktion und leitender Verarbeitungs-Verantwortung. Bussgelder Art. 83 DSGVO bei Nicht-Bestellung. Meldung Aufsichtsbehoerde.
+description: "Bestellungspflicht fuer Datenschutzbeauftragten pruefen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Pruefraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungspruefmemo Empfehlung. Abgrenzung: nicht fuer Aufgaben des DSB (Art. 39 DSGVO)."
 ---
 
 # DSB-Bestellungspflicht und -Anforderungen

@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-eigentuemer-nachbar
-description: Pruefung der Antragsbefugnis nach Paragraf 47 Abs. 2 S. 1 VwGO im Normenkontrollverfahren gegen Bebauungsplan. Moeglichkeitstheorie als Massstab. Eigentuemer im Plangebiet stets antragsbefugt wegen Eigentumsgarantie Art. 14 GG. Eigentuemer ausserhalb des Plangebiets nur bei abwaegungserheblichem Belang. Nachbarn Mieter Pachter Erbbauberechtigte je nach Schutzbereich der Norm. Beachtung BVerwG Beschluss vom 31.1.2017 4 BN 28.16 zur Schwelle abwaegungserheblicher Belang. Verbandsklage durch anerkannte Naturschutzvereinigungen Paragraf 64 BNatSchG und Paragraf 2 UmwRG. Gemeinde gegen FNP Paragraf 8 Abs. 2 BauGB. Subjektives Recht muss moeglich erscheinen reine Drittinteressen reichen nicht. Reine Wertminderung problematisch wenn nicht auf abwaegungserheblichem Belang beruht.
+description: "Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Pruefraster: Moeglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist)."
 ---
 
 # Antragsbefugnis § 47 Abs. 2 VwGO

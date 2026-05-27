@@ -1,6 +1,6 @@
 ---
 name: incoterms-und-gefahruebergang
-description: "Prueft die einschlaegige Incoterms-Klausel (FOB CIF EXW DAP DDP usw.) und die Folgen fuer Gefahruebergang Lieferort Versandkosten Versicherung Verpackung Zoll. Verhaeltnis Incoterms zu CISG-Artikel 31 67 ff. Tatbestandsbezogene Subsumtion."
+description: "Incoterms-Klausel und Gefahruebergang in internationalem Kaufvertrag pruefen: Streit ueber Transportschaden oder Lieferpflicht. Normen: Incoterms 2020 (FOB, CIF, EXW, DAP, DDP), CISG Art. 31 und 67 ff. (Gefahruebergang). Pruefraster: Einschlaegige Incoterms-Klausel, Lieferort, Gefahruebergang-Zeitpunkt, Versicherungspflicht, Zoll, Verhaltnis zu CISG. Output Rechtsgutachten-Entwurf zu Gefahruebergang, Anspruchsschema. Abgrenzung: CISG Anwendbarkeit siehe cisg-pruefen; IPR siehe internationales-privatrecht."
 ---
 
 # Incoterms und Gefahrübergang

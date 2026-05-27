@@ -1,6 +1,6 @@
 ---
 name: klassifikation-cpc-ipc
-description: "Bestimmt die fuer eine Patentrecherche relevanten Klassen in der Cooperative Patent Classification (CPC) und International Patent Classification (IPC). Liest die Erfindungsbeschreibung den Anspruchsentwurf das Datenblatt aus parsen Sachverhalt extrahieren Schluesselbegriffe nennen. Schlaegt Hauptklassen und Nebenklassen vor mit knapper Begruendung warum die Klasse passt. Verweist auf die WIPO IPC Online und auf den Espacenet Classification Browser fuer die endgueltige Verifikation. Beruecksichtigt das Technikgebiet aus dem Kaltstart-Interview. Erinnert daran dass CPC feiner als IPC ist und EPA und USPTO CPC verwenden waehrend einige Aemter nur IPC anbringen. Disclaimer keine amtliche Klassifikation."
+description: "CPC- und IPC-Klassifikation fuer Patentrecherche bestimmen: Erfindung soll recherchiert werden und Klassen fuer Datenbanksuche muessen festgelegt werden. Normen: WIPO IPC (International Patent Classification), CPC (Cooperative Patent Classification EPA/USPTO). Pruefraster: Technikgebiet aus Beschreibung extrahieren, Hauptklassen und Nebenklassen, CPC feiner als IPC, Verifikation per WIPO-IPC-Online und Espacenet-Classification-Browser. Output Klassifikations-Empfehlung mit Begruendung je Klasse. Abgrenzung: Eigentliche Recherche siehe agentische-datenbank-recherche, stand-der-technik-recherche; FTO siehe freedom-to-operate-recherche."
 ---
 
 # klassifikation-cpc-ipc

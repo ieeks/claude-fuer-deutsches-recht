@@ -1,6 +1,6 @@
 ---
 name: notarielle-beurkundung-und-oeffentliche-beglaubigung
-description: "Notarielle Beurkundung § 128 BGB und öffentliche Beglaubigung § 129 BGB: Beurkundungsgesetz, Anwendungsfälle GmbH-Anteilsübertragung § 15 GmbHG, Grundstückskauf § 311b BGB, Eheverträge § 1410 BGB, Erbverträge § 2276 BGB — Praxiswissen Kanzlei."
+description: "Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Pruefraster: Beurkundungspflicht § 311b BGB Grundstueck § 15 GmbHG GmbH-Anteilsuebertragung § 1410 BGB Ehevertrag § 2276 BGB Erbvertrag. Abgrenzung Beurkundung vs. Beglaubigung. Output: Checkliste Notartermin-Vorbereitung. Abgrenzung zu buergschaft-verbraucherdarlehen-und-andere-strenge-formen (strenge Formen) und schriftform-paragraph-126-bgb-eigenhaendige-unterschrift."
 ---
 
 # Notarielle Beurkundung und Öffentliche Beglaubigung

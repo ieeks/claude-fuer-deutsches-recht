@@ -1,6 +1,6 @@
 ---
 name: einwilligung-hinweis-datenschutz
-description: "Formuliert die DSGVO-konforme Einwilligungsklausel fuer die Sprachaufnahme im Transkriptionsservice: Rechtsgrundlage Art. 6 Abs. 1 lit. a DSGVO, Informationspflicht Art. 13 DSGVO, Hinweis auf fehlendes Mandatsverhaeltnis, Widerrufsrecht. Laedt wenn der Nutzer 'DSGVO Einwilligung formulieren', 'Datenschutz Transkription', 'Art. 6 DSGVO Einwilligung', 'Datenschutzhinweis Anruf' oder 'DSGVO Erstanfrage' sagt."
+description: "Kanzlei bietet telefonischen Transkriptionsservice an und muss DSGVO-konforme Einwilligung einholen. Art. 6 Abs. 1 lit. a DSGVO Art. 13 DSGVO Informationspflicht. Pruefraster: Rechtsgrundlage Einwilligung Informationspflicht Hinweis kein Mandatsverhaeltnis Widerrufsrecht. Output: DSGVO-konforme Einwilligungsklausel fuer Transkriptionsservice. Abgrenzung zu mandatsverhaeltnis-hinweis (Haftungsausschluss) und vertraulichkeit-erinnerung."
 ---
 
 # Einwilligung-Hinweis-Datenschutz

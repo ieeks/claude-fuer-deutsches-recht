@@ -1,6 +1,6 @@
 ---
 name: anfg-rechtsfolge-rueckgewaehr-11
-description: "Rechtsfolge der AnfG-Anfechtung nach § 11 AnfG: Duldungspflicht des Anfechtungsgegners Rückgewähr zur Befriedigung des Gläubigers Wertersatz bei Unmöglichkeit. Bösgläubigkeit. BGH IX ZR Duldungsurteil Wertersatz AnfG Rechtsfolge."
+description: "Rechtsfolge bei erfolgreicher AnfG-Anfechtung bestimmen: Duldungspflicht des Anfechtungsgegners und Wertersatz nach § 11 AnfG. Normen: § 11 AnfG, §§ 819 ff. BGB analog. Pruefraster: Duldung vs. Wertersatz, Boesglaeuigkeit, Umfang der Rueckgewaehr. Output: Tenorvorschlag Duldungsurteil und Wertersatzberechnung. Abgrenzung: nicht InsO-Rechtsfolgen §§ 143 ff. InsO."
 ---
 
 # Rechtsfolge: Rückgewähr — § 11 AnfG

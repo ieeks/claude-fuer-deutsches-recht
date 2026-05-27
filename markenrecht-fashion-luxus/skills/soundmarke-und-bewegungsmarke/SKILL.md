@@ -1,6 +1,6 @@
 ---
 name: soundmarke-und-bewegungsmarke
-description: "Hoermarken (Soundmarken) und Bewegungsmarken: MMA-Verfahren, Sonogramm/Notenschrift/MP3-Hinterlegung beim DPMA und EUIPO, Formerfordernisse Art. 4 UMV, Unterscheidungskraft kurzer Melodien und Jingles. Laedt, wenn der Nutzer 'Hoermarke', 'Soundmarke', 'Jingle schützen', 'Melodie Marke', 'Bewegungsmarke' oder 'Animation Marke' sagt."
+description: "Hoermarken (Soundmarken) und Bewegungsmarken fuer Jingles und Animationen anmelden: Modehaus will Jingle oder Logo-Animation schuetzen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV (grafische Darstellung Sonogramm/MP3), MMA-Verfahren (Madrid). Pruefraster: Darstellungsanforderungen (Sonogramm, Notenschrift, MP3-Datei), Unterscheidungskraft kurzer Melodien, Bewegungsmarke Animation-Darstellung. Output Anmelde-Unterlagen fuer Hoer- oder Bewegungsmarke. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke siehe positionsmarke."
 ---
 
 # Hörmarken (Soundmarken) und Bewegungsmarken

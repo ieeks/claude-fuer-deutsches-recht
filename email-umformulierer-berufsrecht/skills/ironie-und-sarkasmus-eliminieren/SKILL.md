@@ -1,6 +1,6 @@
 ---
 name: ironie-und-sarkasmus-eliminieren
-description: "Erkennt und ersetzt ironische und sarkastische Stilfiguren in beruflicher Korrespondenz. Erklaert, warum Ironie und Sarkasmus in schriftlicher Kommunikation besonders schaedlich sind, und bietet sachliche Alternativen."
+description: "Ironische oder sarkastische Formulierungen in Anwaltskorrespondenz erkennen und berufsrechtlich einwandfrei neutralisieren. § 26 BORA Sachlichkeitsgebot § 43a BRAO. Pruefraster: Ironie-Erkennung Sarkasmus versteckte Abwertungen implizite Angriffe. Output: bereinigte Version mit Erklaerung der Aenderungen. Abgrenzung: nicht fuer offene persoenliche Angriffe (persoenlichen-angriff-entschaerfen)."
 ---
 
 # Ironie und Sarkasmus eliminieren

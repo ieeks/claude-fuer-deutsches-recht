@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-pruefen
-description: "Pruefe ob ein Gesetz vom zustaendigen Gesetzgeber erlassen wurde. Pruefschema Art. 70 bis 74 GG ausschliessliche und konkurrierende Gesetzgebung Erforderlichkeitsklausel Art. 72 Abs. 2 GG Abweichungsgesetzgebung Art. 72 Abs. 3 GG Annexkompetenz kraft Sachzusammenhang ungeschriebene Bundeskompetenzen. Vor jeder Aussage Skill bverfg-rechtsprechung-recherchieren aufrufen."
+description: "Gesetzgebungskompetenz des Bundes oder eines Landes fuer konkretes Regelungsvorhaben pruefen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Pruefraster: ausschliessliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzpruefmemo Ergebnis mit Fundstellen. Abgrenzung: nicht fuer formelles Gesetzgebungsverfahren (formelle-verfassungsmaessigkeit)."
 ---
 
 # Gesetzgebungskompetenz prüfen

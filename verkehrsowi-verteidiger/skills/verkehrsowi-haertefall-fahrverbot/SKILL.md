@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-haertefall-fahrverbot
-description: "Haertefall-Argumentation gegen Fahrverbot § 25 StVG im OWi-Verfahren. Berufsbedingte Angewiesenheit Existenzgefaehrdung. Tatgeschehener-unabhaengiger Ausnahme. OLG-Rspr zur Haertefall-Pruefung. Abgrenzung: Fahrverbot verkuerzbar Wirkungszeitpunkt § 25 Abs. 2a StVG. Absehens von Fahrverbot."
+description: "Haertefall-Argumentation gegen Fahrverbot nach § 25 StVG: Mandant ist beruflich auf Fuehrerschein angewiesen. Normen: § 25 StVG (Fahrverbot), § 25 Abs. 2a StVG (Wirkungszeitpunkt verschiebbar), § 17 Abs. 3 OWiG (Geldbusse erhoehen als Alternative). Pruefraster: Berufsbedingte Angewiesenheit, Existenzgefaehrdung, OLG-Rspr Haertefall-Pruefung, Absehen vs. Verzoegerung Fahrverbot. Output Haertefall-Begruendung, Antrag Absehen vom Fahrverbot oder Erhoehung Geldbusse. Abgrenzung: Punkte Flensburg siehe verkehrsowi-punkte-fahrverbot-flensburg; HV-Vorbereitung siehe verkehrsowi-hauptverhandlung-amtsgericht."
 ---
 
 # Haertefall-Argumentation beim Fahrverbot — § 25 StVG

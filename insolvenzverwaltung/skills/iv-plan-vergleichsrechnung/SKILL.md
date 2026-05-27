@@ -1,6 +1,6 @@
 ---
 name: iv-plan-vergleichsrechnung
-description: "Erstellt die Vergleichsrechnung für Insolvenzplan und StaRUG mit Planfall, Alternativszenario, fairer Beteiligung, Sicherheitenwerten und Schlechterstellungscheck."
+description: "Vergleichsrechnung als Herzstück des Insolvenzplans oder StaRUG-Plans erstellen: Planfall gegen Ohne-Plan-Szenario. §§ 220 229 InsO Vergleichsdarstellung § 6 Abs. 2 StaRUG. Pruefraster: Masse Kosten Sicherheiten Anfechtung Organhaftung Planmehrwert Quoten je Gruppe. Output: Vergleichsrechnung Gruppenquoten Schlechterstellungsampel. Abgrenzung: nicht fuer integrierte Finanzplanung (iv-plan-integrierte-planung)."
 ---
 
 # IV-integrierte Vergleichsrechnung

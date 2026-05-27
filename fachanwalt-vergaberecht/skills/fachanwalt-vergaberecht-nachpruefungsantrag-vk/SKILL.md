@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-nachpruefungsantrag-vk
-description: "Nachpruefungsantrag bei der Vergabekammer nach §§ 160 ff. GWB. Statthaftigkeit bei oeffentlichen Auftraegen ab EU-Schwellenwert § 106 GWB. Antragsbefugnis § 160 Abs. 2 GWB drohender Schaden. Praeklusion § 160 Abs. 3 GWB vorherige Ruege binnen 10 Tagen erforderlich. Suspensiveffekt § 169 GWB. Entscheidungsfrist VK fuenf Wochen § 167 GWB. Sofortige Beschwerde OLG § 171 GWB."
+description: "Nachpruefungsantrag bei der Vergabekammer nach §§ 160 ff. GWB stellen: Bieter ist unzulaessig ausgeschlossen worden oder Zuschlag soll verhindert werden. Normen: § 160 Abs. 1 GWB (Nachpruefungsantrag), § 160 Abs. 2 GWB (Antragsbefugnis drohender Schaden), § 160 Abs. 3 GWB (Ruegerobliegenheit 10 Tage), § 167 GWB (Entscheidungsfrist VK 5 Wochen). Pruefraster: Statthaftigkeit (EU-Schwelle § 106 GWB), Antragsbefugnis, Praeklusion nach § 160 Abs. 3 GWB, Suspensiveffekt § 169 GWB. Output Nachpruefungsantrag-Entwurf. Abgrenzung: Ruege vorher siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Sofortige Beschwerde OLG siehe fachanwalt-vergaberecht-nachpruefungsverfahren-vk."
 ---
 
 # Nachprüfungsantrag VK

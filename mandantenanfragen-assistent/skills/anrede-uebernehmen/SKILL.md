@@ -1,6 +1,6 @@
 ---
 name: anrede-uebernehmen
-description: "Uebernimmt die EXAKTE Anrede aus der eingehenden Mandantenanfrage und konvertiert sie in die formelle Anredezeile der Antwortmail. Heuristiken fuer Titel (Dr. Prof. Mag.), Doppelnamen, Adelspraedikate, kirchliche Titel, Komposita, Ehepaare, Erbengemeinschaften und namenlose Anfragen. Laedt wenn der Nutzer 'Anrede uebernehmen', 'Anredezeile erstellen', 'formelle Anrede', 'Titel erkennen' oder 'Doppelname Anrede' sagt."
+description: "Antwort-E-Mail soll mit exakt richtiger Anrede des potentiellen Mandanten beginnen ohne Fehler bei Titeln oder Doppelnamen. Anredekonventionen Kanzlei. Pruefraster: Titel (Dr. Prof. Mag.) Doppelnamen Adelspraeifikate kirchliche Titel Komposita Ehepaare Erbengemeinschaften namenlose Anfragen. Output: korrekte formelle Anredezeile fuer E-Mail-Antwort. Abgrenzung zu anfrage-eingang-parser (Datenparsing) und erstantwort-generator (vollstaendige E-Mail)."
 ---
 
 # Anrede-Übernehmen

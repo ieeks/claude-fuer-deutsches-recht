@@ -1,6 +1,6 @@
 ---
 name: ustva
-description: "Begleitet Unternehmen und Steuerberater bei der korrekten Abgabe von Umsatzsteuer-Voranmeldungen nach § 18 UStG – von der Bestimmung des Voranmeldungszeitraums über Dauerfristverlängerung bis zur Berichtigung. Lädt bei Fragen zur UStVA, ELSTER, Dauerfristverlängerung und Voranmeldungsberichtigung."
+description: "Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Pruefraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Pruefprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht fuer allgemeines Steuerrecht."
 ---
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)

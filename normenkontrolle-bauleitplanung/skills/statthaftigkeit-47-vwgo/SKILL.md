@@ -1,6 +1,6 @@
 ---
 name: statthaftigkeit-47-vwgo
-description: Pruefung der Statthaftigkeit eines Normenkontrollantrags nach Paragraf 47 Abs. 1 VwGO. Antragsgegenstand muss eine im Rang unter dem Landesgesetz stehende Rechtsvorschrift sein. Erfasst sind Bebauungsplaene als Satzung Paragraf 10 Abs. 1 BauGB einschliesslich vorhabenbezogener B-Plaene Paragraf 12 BauGB sowie B-Plaene der Innenentwicklung Paragraf 13a BauGB. Erfasst sind oertliche Bauvorschriften der Gemeinde Art. 81 BayBO Stellplatzsatzung Gestaltungssatzung. Flaechennutzungsplaene sind grundsaetzlich nicht statthaft Ausnahme bei Aussenwirkung Konzentrationsflaechen Windenergie Paragraf 35 Abs. 3 S. 3 BauGB. Pruefung Landesrechts-Ermaechtigung in Bayern Art. 5 BayAGVwGO. Inkrafttreten der Norm Voraussetzung. Abgrenzung zur Anfechtungsklage gegen Baugenehmigung als Einzelakt-Rechtsschutz.
+description: "Mandant fragt ob Normenkontrollantrag gegen eine bestimmte Planung zulässig ist. § 47 Abs. 1 VwGO Statthaftigkeit Normenkontrolle. Pruefraster: Antragsgegenstand Bebauungsplan § 10 BauGB vorhabenbezogener B-Plan § 12 BauGB § 13a-B-Plan oertliche Bauvorschriften Art. 81 BayBO FNP grundsaetzlich nicht statthaft (Ausnahme Konzentrationsflaeche § 35 Abs. 3 S. 3 BauGB) Inkrafttreten Norm. Output: Statthaftigkeits-Entscheidung. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und jahresfrist-47-abs-2-vwgo (Frist)."
 ---
 
 # Statthaftigkeit § 47 VwGO

@@ -1,6 +1,6 @@
 ---
 name: bereicherung-eines-dritten-822-bgb
-description: "§ 822 BGB: Anspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten. Voraussetzungen, Verhaeltnis zum Primaetanspruch gegen den Erstempfaenger und Entreicherungseinrede."
+description: "Bereicherungsanspruch gegen Dritten bei unentgeltlicher Weitergabe des Erlangten nach § 822 BGB pruefen. Normen: § 822 BGB. Pruefraster: Unentgeltlichkeit der Weitergabe, Entreicherung des Erstempfaengers, Subsidiaritaet des Drittanspruchs. Output: Pruefergebnis Anspruchskette Dritter. Abgrenzung: nicht Direktanspruch § 812 Abs. 1 S. 1 BGB gegen Erstempfaenger."
 ---
 
 # Bereicherung eines Dritten — § 822 BGB

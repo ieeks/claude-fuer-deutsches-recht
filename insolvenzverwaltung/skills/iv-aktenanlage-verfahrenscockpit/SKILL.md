@@ -1,6 +1,6 @@
 ---
 name: iv-aktenanlage-verfahrenscockpit
-description: "Aktenanlage und Verfahrenscockpit für Insolvenzverwaltung. Erzeugt Aktenzeichen Beteiligtenregister Ordnerplan Massekonto Forderungstabelle Fristen und Workstreams freistehend."
+description: "Neue Verfahrensakte anlegen und Verfahrenscockpit strukturieren wenn Insolvenzverwalter oder Sachwalter bestellt wird. §§ 56 80 InsO Verwalterbestellung und Verwaltungsbefugnis. Pruefraster: Aktenzeichen Beteiligtenregister Ordnerplan Massekonto Forderungstabelle Fristen Workstreams. Output: vollstaendiges Verfahrens-Cockpit mit Gliederung Rollenplan und Fristenliste. Abgrenzung: nicht fuer laufende Berichterstattung (iv-berichte) oder Forderungspruefung (iv-forderungsanmeldung-pruefung)."
 ---
 
 # Aktenanlage und Verfahrenscockpit

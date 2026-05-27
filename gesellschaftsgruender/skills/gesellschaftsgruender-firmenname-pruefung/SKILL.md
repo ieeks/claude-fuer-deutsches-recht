@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-firmenname-pruefung
-description: "Pruefung des Firmennamens vor Notar-Termin. Handelsregister-Suche Paragraf 30 HGB Verwechslungsgefahr. IHK-Firmenvorpruefung. Marken-Suche DPMA EUIPO. Domain-Verfuegbarkeit. Bei Beanstandung Alternative-Vorschlaege. Irrefuehrungsverbot Paragraf 18 II HGB. Kennzeichnungs-Kraft Paragraf 18 I HGB. Branchenbezeichnung ohne Zulassung unzulaessig."
+description: "Firmenname auf Zulaessigkeit und Verwechslungsgefahr pruefen: Differenzierungsgebot, Irrefuehrungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Pruefraster: Unterscheidungskraft, Irrefuehrungsverbot, Handelsregisterfaehigkeit, Markenrecherche-Empfehlung. Output: Pruefergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA."
 ---
 
 # Firmenname-Prüfung

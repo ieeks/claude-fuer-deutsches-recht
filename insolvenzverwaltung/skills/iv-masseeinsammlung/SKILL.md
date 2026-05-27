@@ -1,6 +1,6 @@
 ---
 name: iv-masseeinsammlung
-description: "Masseeinsammlung für Insolvenzverwalter. Ermittelt Bankguthaben Debitoren Herausgabeansprüche Drittschuldner Versicherungen Rückstände und Belege."
+description: "Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprueche Versicherungen Rueckstaende. §§ 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Pruefraster: Massekarte Priorisierung realisierbare Forderungen Sicherungsrechte Drittschuldneranschreiben. Output: Massekarte Drittschuldnerschreiben Herausgabeanforderungen. Abgrenzung: nicht fuer aktive Massemehrung durch Verkauf oder Klage (iv-massemehrung-asset-realisation)."
 ---
 
 # Masseeinsammlung

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-datenraum-aufbau
-description: "Datenraum-Aufbau: Strukturiert und bestueckt virtuelle Datenraeume fuer Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche. Normen: DSGVO Art. 28, GwG, MAR."
+description: "Virtuellen Datenraum strukturieren und befuellen fuer Private M&A, Public M&A, Carve-out und Distressed-Prozesse. Anwendungsfall: Verkaeuferkanzlei richtet DR ein oder Kaeufer hat Zugang erhalten. Normen: DSGVO Art. 28 (Auftragsverarbeitung), GwG, MAR Insider-Abgrenzung. Pruefraster: Index nach Workstreams, Clean-Room-Zonen, Need-to-know-Bereiche, Nutzerrechte. Output DR-Index-Template, Checkliste fehlender Dokumente, Clean-Room-Protokoll. Abgrenzung: Gap-Analyse siehe datenraum-gap-clean-room; Q&A-Bearbeitung siehe qa-information-requests."
 ---
 
 # Datenraum-Aufbau

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-deal-team-staffing
-description: "Deal-Team-Staffing: Stellt Transaktionsteams fuer M&A zusammen, verteilt Workstreams, plant Kapazitaeten und fuehrt Eskalationspfade. Berufspflichten BRAO, Interessenkonflikte, Budget-Kontrolle und Stunden-Reporting."
+description: "Transaktionsteam zusammenstellen und Workstreams verteilen fuer M&A-Mandate: Senior Associate braucht Team-Plan oder Partner will Kapazitaeten ueberpruefen. Normen: BRAO § 43a (Interessenkonflikte), RVG/Stundenhonorar, Budget-Richtlinien. Pruefraster: Workstream-Matrix, Kapazitaetsplanung, Eskalationspfade, Stunden-Reporting. Output Team-Staffing-Plan, Workstream-Zuweisung, Budget-Controlling-Template. Abgrenzung: PMO-Gesamtplanung siehe steps-plan-pmo; Konflikt-Check siehe conflict-gwg-sanctions."
 ---
 
 # Deal-Team-Staffing

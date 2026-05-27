@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung
-description: "UWG-Einstweilige Verfuegung 935 940 ZPO bei Wettbewerbsverletzungen. Dringlichkeit 12 UWG Selbstwiderlegung 4 Wochen. Aktivlegitimation 8 Abs. 3 UWG. Schutzschrift ZSSR. Vertragsstrafe Hamburger Brauch. Workflow Abmahnung eA Schutzschrift Hauptsache. Missbrauch 8c UWG."
+description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Pruefraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismaessigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht fuer Hauptsacheverfahren."
 ---
 
 # UWG-Einstweilige Verfuegung

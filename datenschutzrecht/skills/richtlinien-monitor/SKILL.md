@@ -1,6 +1,6 @@
 ---
 name: richtlinien-monitor
-description: "Drift-Monitoring der Datenschutzerklärung und Datenschutzrichtlinien: wöchentlicher Abgleich zwischen gelebter Praxis / neuen Verarbeitungstätigkeiten und publizierten Erklärungen. Erkennt Inkonsistenzen und entwirft Aktualisierungen. Zweiter Modus: Direkt-Anfrage für konkrete geplante Änderungen."
+description: "Datenschutzrichtlinien und Unternehmensanweisungen auf Aktualitaet und Konformitaet monitoren. Art. 24 32 DSGVO TOMs §§ 4 ff. BDSG. Pruefraster: Richtlinienbestand Aenderungsbedarf neue Verarbeitungstaetigkeiten gesetzliche Neuerungen Umsetzungsstatus. Output: Monitoring-Bericht Aenderungsliste. Abgrenzung: nicht fuer erstmalige Richtlinien-Erstellung."
 ---
 
 # Policy-Monitor – Drift-Monitoring Datenschutzerklärung

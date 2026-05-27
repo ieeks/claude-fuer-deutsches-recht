@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-konformitaetsbewertung-art-43-bis-49
-description: "Konformitaetsbewertung fuer Hochrisiko-KI nach Art. 43 bis 49 KI-VO: Entscheidungsbaum Selbstbewertung Modul A versus benannte Stelle Modul H vollstaendiges QMS. CE-Kennzeichnung EU-Konformitaetserklaerung Anhang V. Registrierung EU-Datenbank Art. 49 und 71 KI-VO."
+description: "Anbieter von Hochrisiko-KI fragt: Muessen wir eine benannte Stelle einschalten oder koennen wir die Konformitaetsbewertung selbst durchfuehren? Art. 43 bis 49 KI-VO Konformitaetsbewertung. Pruefraster: Entscheidungsbaum Selbstbewertung Modul A vs. Drittstellenpruefung Modul H vollstaendiges QMS. CE-Kennzeichnung EU-Konformitaetserklaerung Anhang V Registrierung EU-Datenbank. Output: Verfahrensauswahl-Entscheidungsbaum und Zeitplanung. Abgrenzung zu output-konformitaetserklaerung-eu-anhang-v (fertiges Muster-Dokument)."
 ---
 
 # Konformitätsbewertung — Art. 43 bis 49 KI-VO

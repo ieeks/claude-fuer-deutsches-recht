@@ -1,6 +1,6 @@
 ---
 name: artenschutz-naturschutz-planung
-description: Pruefung der artenschutzrechtlichen und naturschutzrechtlichen Anforderungen im Bebauungsplan. Paragraf 44 BNatSchG Zugriffsverbote fuer besonders geschuetzte Arten. Tötungsverbot Stoerungsverbot Lebensstaettenschutzverbot. Spezielle artenschutzrechtliche Pruefung saP als methodische Grundlage. Erhebung Anforderungen Begehungs-Zeitraeume. CEF-Massnahmen vorgezogene Ausgleichsmassnahmen. Ausnahme Paragraf 45 Abs. 7 BNatSchG bei zwingenden Gruenden Befreiung. Eingriffsregelung Paragraf 1a Abs. 3 BauGB Vermeidung Minimierung Ausgleich. FFH-Vertraeglichkeitspruefung Paragraf 34 BNatSchG bei FFH- oder Vogelschutzgebieten. Stadtbezogene Arten Mauersegler Schwalben Spatzen Fledermaeuse Eidechsen. Audit auf Vollstaendigkeit der Untersuchung Begehungs-Zeitpunkt Gutachter-Qualifikation Methodik.
+description: "Buerger oder Naturschutzverband greift Bebauungsplan wegen unzureichender Artenschutzpruefung an. § 44 BNatSchG Zugriffsverbote § 45 Abs. 7 BNatSchG Ausnahme. Pruefraster: spezielle artenschutzrechtliche Pruefung (saP) CEF-Massnahmen Eingriffsregelung § 1a Abs. 3 BauGB FFH-Vertraeglichkeit § 34 BNatSchG. Stadtbezogene Arten Mauersegler Schwalben Fledermaeuse. Output: Artenschutz-Pruefprotokoll und Angriffspunkte Normenkontrolle. Abgrenzung zu umweltbericht-umweltpruefung (UVPG) und abwaegungsgebot-1-abs-7-baugb."
 ---
 
 # Artenschutz und Naturschutz in der Bauleitplanung

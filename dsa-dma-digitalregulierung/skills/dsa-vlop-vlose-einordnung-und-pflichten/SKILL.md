@@ -1,6 +1,6 @@
 ---
 name: dsa-vlop-vlose-einordnung-und-pflichten
-description: "Skill zur Einordnung als sehr große Online-Plattform (VLOP) oder sehr große Online-Suchmaschine (VLOSE) nach Art. 33 DSA. Schwellenwert 45 Mio. monatlich aktive Nutzer in der EU; halbjährliche Meldepflicht Art. 24 III DSA; Designation durch die Kommission; Pflichtenkatalog Art. 34 bis 43 DSA: Risikobewertung Audits Compliance-Funktion Transparenz Werbung Empfehlungssysteme Forschungsdatenzugang Krisenmechanismus."
+description: "VLOP (sehr grosse Online-Plattform) oder VLOSE (sehr grosse Suchmaschine) Einordnung und Pflichten-Katalog: Plattform prueft ob Designation droht oder besteht. Normen: DSA (EU) 2022/2065 Art. 33 (Designation Kommission), Art. 24 Abs. 3 (Meldepflicht halbjaeehrlich), Art. 34-43 (Pflichtenkatalog: Risikobewertung, Audits, Compliance-Funktion, Transparenz, Werbung, Empfehlungssysteme, Forschungsdatenzugang, Krisenmechanismus). Pruefraster: 45 Mio. monatlich aktive Nutzer Schwelle, Meldepflicht, Pflichtenkatalog je Art. Output Designation-Pruefschema, Compliance-Roadmap. Abgrenzung: Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste; Art. 34 Risikobewertung siehe dsa-art-34-systemische-risikobewertung."
 ---
 
 # DSA — VLOP/VLOSE-Einordnung und Pflichten

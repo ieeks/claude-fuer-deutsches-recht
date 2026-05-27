@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-mpu-vorbereitung
-description: "MPU Medizinisch-Psychologische Untersuchung Vorbereitung. Anlass Alkohol Drogen Punkte Aggression. Begutachtungs-Stellen Vorbereitungs-Kurse. Verhaltens-Aenderung dokumentieren. Erfolgs-Quote. Workflow Mandant Beratung Kurs MPU Klage."
+description: "Mandant muss MPU ablegen und fragt wie er sich vorbereiten soll. MPU Medizinisch-Psychologische Untersuchung Fahrerlaubnisrecht. Pruefraster: Anlass Alkohol Drogen Punkte Aggression zugelassene Begutachtungsstellen § 66 FeV Vorbereitungskurse Verhaltensaenderung dokumentieren Erfolgsquoten. Output: MPU-Vorbereitungsplan und Kursempfehlung. Abgrenzung zu fachanwalt-verkehrsrecht-fahrerlaubnis-entzug (vorherige Stufe) und mandat-triage-verkehrsrecht."
 ---
 
 # MPU-Vorbereitung

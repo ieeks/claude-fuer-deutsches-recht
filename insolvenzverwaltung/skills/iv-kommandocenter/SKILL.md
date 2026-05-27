@@ -1,6 +1,6 @@
 ---
 name: iv-kommandocenter
-description: "Insolvenzverwaltungs-Kommandocenter für Insolvenzverwalter Sachwalter und vorläufige Verwaltung. Triage Regelverfahren Eigenverwaltung Schutzschirm Anfechtung Forderungsprüfung Masse und Berichte."
+description: "Einstiegspunkt fuer neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Pruefraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortfuehrung Masseampel Fristen. Output: Verfahrenskarte Beteiligtenregister Risiko-Priorisierung To-do-Liste. Abgrenzung: Einstieg und Triage; Detailarbeit je Workstream in Spezialist-Skills."
 ---
 
 # Insolvenzverwaltungs-Kommandocenter

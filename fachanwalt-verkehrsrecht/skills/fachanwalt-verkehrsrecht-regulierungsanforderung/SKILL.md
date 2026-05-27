@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehrsrecht-regulierungsanforderung
-description: "Schadensregulierung nach Verkehrsunfall gegen Haftpflichtversicherer § 115 VVG i.V.m. §§ 7 17 StVG § 823 BGB. Direktanspruch Geschaedigter Wahlrecht Reparatur fiktive Abrechnung Wiederbeschaffungswert. Mitverschulden § 17 StVG Anscheinsbeweis Auffahrunfall § 4 StVO. Quotelung nach Betriebsgefahr. Mietwagen Nutzungsausfall Wertminderung Sachverstaendigenkosten Anwaltskosten. Verjaehrung drei Jahre § 195 BGB."
+description: "Mandant hat Verkehrsunfall und fordert Schadensersatz vom Haftpflichtversicherer des Unfallverursachers. § 115 VVG Direktanspruch §§ 7 17 StVG § 823 BGB. Pruefraster: Direktanspruch Reparatur vs. fiktive Abrechnung Wiederbeschaffungswert Mitverschulden § 17 StVG Anscheinsbeweis § 4 StVO. Mietwagen Nutzungsausfall Wertminderung Sachverstaendigenkosten. Output: Regulierungsanforderung an Versicherer fertig. Abgrenzung zu fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich (Verhandlung) und unfall-haftungsquote-berechnen."
 ---
 
 # Regulierungsanforderung

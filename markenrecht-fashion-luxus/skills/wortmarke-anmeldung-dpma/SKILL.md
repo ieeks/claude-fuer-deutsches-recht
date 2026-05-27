@@ -1,6 +1,6 @@
 ---
 name: wortmarke-anmeldung-dpma
-description: "DPMA-Anmeldung Wortmarke: §§ 32 ff. MarkenG, absolute Schutzhindernisse § 8 MarkenG (fehlende Unterscheidungskraft, Freihaltebeduerfnis, beschreibende Angaben), Pruefungsbescheidantwort, Erinnerung, BPatG. Laedt, wenn der Nutzer 'Wortmarke', 'DPMA-Anmeldung', 'Unterscheidungskraft', 'absolute Schutzhindernisse', 'beschreibende Marke' oder 'Markenpruefung' sagt."
+description: "DPMA-Anmeldung einer Wortmarke: Mandant will Markennamen in Deutschland schuetzen. Normen: §§ 32 ff. MarkenG (Anmeldung), § 8 MarkenG (absolute Schutzhindernisse: fehlende Unterscheidungskraft, Freihaltebeduerftigkeit, beschreibende Angaben). Pruefraster: Unterscheidungskraft, Freihaltebeduerftigkeit, Erinnerung gegen Zurueckweisung, BPatG-Beschwerde § 66 MarkenG. Output Anmeldeunterlagen, Waren-/Dienstleistungsverzeichnis, Pruefungsbescheid-Antwort-Entwurf. Abgrenzung: EU-weite Marke siehe unionsmarken-anmeldung-euipo; Bildmarke siehe bildmarke-und-wort-bild."
 ---
 
 # Wortmarken-Anmeldung beim DPMA

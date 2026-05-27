@@ -1,6 +1,6 @@
 ---
 name: iv-plan-kommandocenter
-description: "Startet die Insolvenzplan und StaRUG Planwerkstatt, erkennt Rolle, Verfahrensroute, Datenlage, Fristen, Planreife und nächste sichere Aktion."
+description: "Insolvenzplan- oder StaRUG-Mandat starten Verfahrensroute bestimmen Ampelstatus setzen. §§ 217 218 InsO §§ 29 ff. StaRUG. Pruefraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Triage und Steuerung; Detailarbeit in iv-plan-Spezialist-Skills."
 ---
 
 # IV-integrierte Kommandocenter für Planverfahren

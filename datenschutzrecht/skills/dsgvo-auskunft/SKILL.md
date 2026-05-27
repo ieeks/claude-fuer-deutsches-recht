@@ -1,6 +1,6 @@
 ---
 name: dsgvo-auskunft
-description: "Unterstützt bei der Bearbeitung von Auskunftsersuchen nach Art. 15 DSGVO – von der Identifizierung der betroffenen Person über Fristeinhaltung bis zur Formulierung der Auskunft und Prüfung von Ausnahmegründen. Lädt, wenn ein Mandant ein Auskunftsverlangen erhält oder stellen möchte."
+description: "Auskunftsersuchen nach Art. 15 DSGVO pruefen und beantworten wenn Betroffener Auskunft verlangt. Art. 15 12 DSGVO Betroffenenrechte. Pruefraster: Identitaetsnachweis Vollstaendigkeitspruefung Auskunftsinhalt Fristen Einschraenkungsgruende. Output: Auskunftserteilung oder Ablehnungsbegrundung. Abgrenzung: nicht fuer Auskunftsantwort-Gestaltung (dsgvo-auskunft-antwort)."
 ---
 
 # DSGVO-Auskunftsrecht (Art. 15 DSGVO)

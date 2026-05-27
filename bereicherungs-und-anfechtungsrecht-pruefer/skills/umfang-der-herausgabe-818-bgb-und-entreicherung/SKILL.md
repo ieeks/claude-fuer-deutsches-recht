@@ -1,6 +1,6 @@
 ---
 name: umfang-der-herausgabe-818-bgb-und-entreicherung
-description: "Umfang der Bereicherungshaftung nach § 818 BGB: Herausgabe des Erlangten, Surrogate, Nutzungen, Wertersatz. Entreicherungseinrede § 818 Abs. 3 BGB und ihre Grenzen."
+description: "Umfang der Bereicherungshaftung und Entreicherungseinrede nach § 818 BGB bestimmen. Normen: §§ 818 819 BGB. Pruefraster: Erlangtes, Surrogate, Nutzungen, Wertersatz, Entreicherungseinrede, Boesglaeuigkeit. Output: Berechnungsblatt Bereicherungsumfang mit Einredepruefung. Abgrenzung: nicht Rechtsfolge AnfG (dort Duldungspflicht)."
 ---
 
 # Umfang der Herausgabe — § 818 BGB und Entreicherung

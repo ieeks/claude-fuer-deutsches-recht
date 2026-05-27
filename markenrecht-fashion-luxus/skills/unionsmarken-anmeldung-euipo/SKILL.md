@@ -1,6 +1,6 @@
 ---
 name: unionsmarken-anmeldung-euipo
-description: "Unionsmarken-Anmeldung beim EUIPO Alicante nach UMV (EU) 2017/1001: e-Filing, Vertretungszwang Art. 119 UMV, Formvoraussetzungen, absolute Schutzhindernisse, Beobachtungszeitraum, Eintragungsverfahren. Laedt, wenn der Nutzer 'Unionsmarke', 'EUIPO Anmeldung', 'EU-Marke anmelden', 'Gemeinschaftsmarke' oder 'EUTM' sagt."
+description: "Unionsmarke beim EUIPO anmelden nach UMV (EU) 2017/1001: Modehaus will EU-weiten Markenschutz in einem Verfahren. Normen: Art. 32 ff. UMV (Anmeldeerfordernisse), Art. 7 UMV (absolute Schutzhindernisse), Art. 119 UMV (Vertretungszwang). Pruefraster: e-Filing-Checkliste, Waren-/Dienstleistungsverzeichnis (Nizza), absolute Schutzhindernisse, Beobachtungszeitraum 3 Monate. Output Anmeldungs-Entwurf, Klassen-Verzeichnis, Eintragungsstrategie. Abgrenzung: DPMA-Anmeldung siehe wortmarke-anmeldung-dpma; Madrid siehe madrid-protokoll-und-internationale-registrierung."
 ---
 
 # Unionsmarken-Anmeldung beim EUIPO

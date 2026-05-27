@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-liquidation
-description: "Pruefung ob Exit/Trade Sale/IPO/Liquidationsereignis eingetreten ist (§ 4.2 lit. b bis d): Share Deal mehr als fuenfzig Prozent, Asset Deal mehr als fuenfzig Prozent, Fusion, IPO. Wahlrecht Lender zwischen Rueckzahlung in bar mit eins-x-Liquidationspraeferenz oder Wandlung. Frist zwei Wochen."
+description: "Wandlung bei Liquidationsereignis Aufloesung oder Exit pruefen. §§ 60 ff. GmbHG Aufloesungsgruende § 179a AktG. Pruefraster: Liquidationstatbestand Liquidationspraeference Verwasserungsschutz Rangordnung Zahlungsreihenfolge. Output: Pruefprotokoll Liquidationsszenarien. Abgrenzung: nicht fuer Qualified-Financing-Trigger (wandlungspruefung-trigger-qualified-financing)."
 ---
 
 # Wandlungsprüfung – Trigger Liquidation Event

@@ -1,6 +1,6 @@
 ---
 name: harmonisierung-und-migration-rechtssicher
-description: "Rechtssichere Harmonisierung und Migration von Versorgungssystemen: Vereinheitlichungs-Roadmap Uebergangs-Versorgungswerke Wahlmodelle Besitzstand-Schutz BAG 3 AZR 540/16 Versorgungswerkschliessungen fuer Konzerne mit mehreren historischen Versorgungswerken."
+description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Pruefraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse."
 ---
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen

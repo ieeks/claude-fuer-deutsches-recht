@@ -1,6 +1,6 @@
 ---
 name: jveg-vorschuss
-description: Prueft Vorschussantraege nach § 3 JVEG mit Schwerpunkt erhebliche Fahrtkosten, Uebernachtungsbedarf und Teilleistungen; klaert Voraussetzungen und Anrechnungslogik.
+description: "Vorschuss auf JVEG-Verguetung beantragen: Voraussetzungen, Formerfordernis, Verfahren. Normen: § 3 JVEG. Pruefraster: Vorschusshoehe, Belegpflicht, Auszahlungsverfahren. Output: Vorschussantrag nach JVEG. Abgrenzung: nicht Kostenfestsetzungsantrag (endgueltige Abrechnung)."
 ---
 
 # JVEG-Vorschuss

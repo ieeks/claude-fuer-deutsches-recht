@@ -1,6 +1,6 @@
 ---
 name: kostenentscheidung-bauen
-description: "Erstellt die Kostenentscheidung nach Paragraf 91 ff ZPO: vollstaendiges Obsiegen Paragraf 91 ZPO Teilweise Obsiegen Paragraf 92 ZPO Mehrere Beklagte Paragraf 100 ZPO Streitgenossenschaft Nebenintervenient Paragraf 101 ZPO sofortiges Anerkenntnis Paragraf 93 ZPO Veranlassung. Pruefung der Quote rechnerisch und materiell."
+description: "Kostenentscheidung nach §§ 91 ff. ZPO erstellen: Richter muss Kostenquote und -grundentscheidung formulieren. Normen: § 91 ZPO (vollstaendiges Obsiegen), § 92 ZPO (teilweises Obsiegen), § 100 ZPO (mehrere Beklagte), § 101 ZPO (Streitgenossenschaft/Nebenintervenient), § 93 ZPO (sofortiges Anerkenntnis). Pruefraster: Obsiegens-Quote, Streitwert-Aufteilung, Nebenintervenient, sofortiges Anerkenntnis. Output Kostenentscheidung-Entwurf mit Quote. Abgrenzung: Vollstreckbarkeit siehe vorlaeufige-vollstreckbarkeit; Rechtsmittelbelehrung siehe rechtsmittelbelehrung-zivil."
 ---
 
 # Kostenentscheidung

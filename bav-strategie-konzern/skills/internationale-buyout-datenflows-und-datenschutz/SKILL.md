@@ -1,6 +1,6 @@
 ---
 name: internationale-buyout-datenflows-und-datenschutz
-description: "Datenschutz bei internationalen Pension Buyouts: Art-9-DSGVO sensible Gesundheitsdaten Drittlandtransfer Art-46-SCC Versicherer-Datenraum APPI-PIPC Japan US-Daten Schrems-II-Workaround fuer grenzueberschreitende BAV-Transaktionen und Datenraeume."
+description: "Datenfluesse bei internationalem bAV-Buyout datenschutzrechtlich absichern: DSGVO, Drittlandtransfers. Normen: DSGVO Art. 44 ff., BDSG. Pruefraster: Datenkategorie, Transfermechanismen, Einwilligung vs. Vertrag. Output: Datenschutz-Memo internationaler bAV-Buyout. Abgrenzung: nicht Datenverarbeitung im laufenden bAV-Betrieb."
 ---
 
 # Internationale Buyout-Datenflows und Datenschutz

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-pflichtteilsberechnung
-description: "Pflichtteilsanspruch nach §§ 2303 ff. BGB pruefen und beziffern. Auskunfts- und Wertermittlungsstufe § 2314 BGB Stufenklage § 254 ZPO anschliessend Zahlungsstufe. Bestandsverzeichnis Bewertungsstichtag Schenkungen letzte zehn Jahre § 2325 BGB Pflichtteilsergaenzungsanspruch Anrechnung Ausgleichung §§ 2315 2316 BGB. Verjährung drei Jahre § 195 BGB. Direktanspruch gegen Beschenkte § 2329 BGB. Niederstwertprinzip § 2325 Abs. 2 BGB."
+description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat. §§ 2303 2311 2314 BGB Pflichtteil. Pruefraster: Pflichtteilsberechtigter Nachlasswert Bewertung Auskunftsanspruch Ergaenzungsanspruch Abzuege. Output: Pflichtteilsberechnung Auskunftsklage-Entwurf. Abgrenzung: nicht fuer Pflichtteilsergaenzungsanspruch (fachanwalt-erbrecht-pflichtteilsergaenzung-2325)."
 ---
 
 # Pflichtteilsberechnung — Auskunft und Stufenklage

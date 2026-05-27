@@ -1,6 +1,6 @@
 ---
 name: verjaehrung-bereicherung-anfechtung-fristen
-description: "Verjaehrungsfristen: § 195 BGB drei Jahre fuer Bereicherungsansprueche mit Kenntnisbeginn nach § 199 BGB; AnfG drei Jahre nach § 15 AnfG; § 146 InsO drei Jahre fuer Insolvenzanfechtung. Absolute Grenzen."
+description: "Verjaehrungsfristen im Ueberblick: drei Jahre § 195 BGB fuer Bereicherungsansprueche, drei Jahre § 15 AnfG, drei Jahre § 146 InsO. Normen: §§ 195 199 BGB, § 15 AnfG, § 146 InsO. Pruefraster: Fristbeginn, Kenntniserfordernis, absolute Grenzen. Output: Fristenkalender-Tabelle alle Anfechtungsfristen. Abgrenzung: nicht materiell-rechtliche Anfechtungsvoraussetzungen."
 ---
 
 # Verjährung: Bereicherung, AnfG und InsO-Anfechtung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-orientierung
-description: Orientierung im Sozialrecht und Fachanwaltschaft nach FAO § 11. SGB I Allgemeiner Teil SGB II Buergergeld SGB III Arbeitsfoerderung SGB IV bis VII Sozialversicherung SGB VIII Kinder- und Jugendhilfe SGB IX Rehabilitation SGB X Verwaltungsverfahren SGB XI Pflegeversicherung SGB XII Sozialhilfe. Verfahren SGG Sozialgerichtsbarkeit drei Instanzen SG LSG BSG. Standardliteratur Hauck/Noftz Kasseler Kommentar.
+description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Ueberblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. Standardliteratur Hauck/Noftz Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing)."
 ---
 
 # Fachanwalt für Sozialrecht — Orientierung

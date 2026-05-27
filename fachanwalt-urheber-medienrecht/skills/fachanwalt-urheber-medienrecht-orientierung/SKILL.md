@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-orientierung
-description: "Orientierung im Urheber- und Medienrecht. FAO 120 Stunden 80 Faelle 40 streitig. UrhG Werke Verwertungsrechte Schranken. VGG GEMA VG Wort VG Bild-Kunst. KUG Recht am eigenen Bild. Persoenlichkeitsrecht 823 1004 BGB iVm Art. 2 1 GG. Presserecht LPG. Schricker/Loewenheim Dreier/Schulze Wenzel Soehring/Hoene."
+description: "Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Pruefraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Fachanwalt fuer Urheber- und Medienrecht — Orientierung

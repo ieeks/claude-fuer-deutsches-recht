@@ -1,6 +1,6 @@
 ---
 name: form-checker-fuer-vertrag-oder-willenserklaerung
-description: "Form-Checker für Verträge und Willenserklärungen: Entscheidungsbaum — welche Form ist gesetzlich oder vertraglich vorgeschrieben, Konsequenzen bei Verstoß, empfohlene Formwahl, praktischer Workflow inkl. Klausel-Vorschlag für die Kanzleipraxis."
+description: "Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Pruefraster: gesetzliche vs. gewillkuerte Form Formhierarchie Nichtigkeitsfolge § 125 BGB Heilungsmöglichkeiten Abgrenzung zu Textform Schriftform notarieller Beurkundung. Output: Formanalyse-Ergebnis und praktischer Workflow mit Klausel-Vorschlag. Abgrenzung zu formerfordernisse-im-bgb-ueberblick (systematischer Überblick) und klauselgenerator-formvorbehalt-und-aenderungsvorbehalt."
 ---
 
 # Form-Checker — Vertrag oder Willenserklärung

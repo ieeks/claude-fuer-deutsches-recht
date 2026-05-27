@@ -1,6 +1,6 @@
 ---
 name: planerhaltung-214-215-baugb
-description: Pruefung der Planerhaltungsvorschriften Paragraf 214 BauGB Beachtlichkeit und Paragraf 215 BauGB Ruegefrist. Paragraf 214 Abs. 1 BauGB abschliessende Aufzaehlung beachtlicher Verfahrens- und Formfehler. Paragraf 214 Abs. 2 BauGB Beachtlichkeit Form-Verstoesse. Paragraf 214 Abs. 3 BauGB Beachtlichkeit Abwaegungsfehler nur wenn Ergebnis erheblich beeinflusst. Paragraf 214 Abs. 4 BauGB ergaenzendes Verfahren mit neuer Auslegung und neuer Bekanntmachung. Paragraf 215 BauGB Ruegefrist von einem Jahr ab Bekanntmachung fuer Verfahrensfehler und Abwaegungsvorgangs-Fehler. Hinweis-Erfordernis als Voraussetzung des Fristbeginns. Schriftliche Ruege an die Gemeinde nicht das Gericht. Praeklusion durch Verschweigen. Abgrenzung Ergebnisfehler stets beachtlich.
+description: "Gemeinde oder Vorhabentraeger prueft ob erkannte Planfehler zur Unwirksamkeit fuehren oder durch Planerhaltung geheilt werden. §§ 214 215 BauGB Planerhaltung und Ruegefrist. Pruefraster: § 214 Abs. 1 bis 3 beachtliche Fehler § 215 BauGB Ruegefrist ein Jahr ab Bekanntmachung schriftliche Ruege an Gemeinde ergaenzendes Verfahren § 214 Abs. 4. Ergebnisfehler immer beachtlich. Output: Fehler-Relevanztabelle Planerhalten vs. Unwirksam. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Fehlertypen) und jahresfrist-47-abs-2-vwgo."
 ---
 
 # Planerhaltung — § 214/215 BauGB

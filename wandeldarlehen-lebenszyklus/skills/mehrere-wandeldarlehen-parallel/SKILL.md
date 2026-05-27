@@ -1,6 +1,6 @@
 ---
 name: mehrere-wandeldarlehen-parallel
-description: "Behandlung mehrerer paralleler Wandeldarlehen: Stack-Order (Rangfolge), Most-Favoured-Nation-Klauseln (guenstigste Konditionen fuer alle), gleichzeitige Wandlung mehrerer Lender, anteilige Verteilung bei Kapitalerhoehung und Auswirkung auf Cap-Table sowie Gesamtverwässerung der Altgesellschafterinnen."
+description: "Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren und Konflikte erkennen. §§ 488 ff. BGB § 39 InsO Rangruecktritt. Pruefraster: Pari-passu-Stellung Rangregelungen Wandlungsrechte Verwasserungsschutz Vesting. Output: Uebersichtsmatrix Konfliktliste Handlungsempfehlung. Abgrenzung: nicht fuer Einzeldarlehen-Erstellung."
 ---
 
 # Mehrere parallele Wandeldarlehen

@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss-vorbereiten
-description: "Gesellschafterbeschluss-Entwurf zur Bestaetigung der Vertragsunterzeichnung und zur grundsaetzlichen Bereitschaft der Kapitalerhoehung im Wandlungsfall. Einberufungsmodalitaeten, Ladungsfristen nach § 51 GmbHG (mindestens eine Woche) und Verzichtsmoeglichkeit nach § 51 Abs. 3 GmbHG fuer einstimmige Beschlussfassung."
+description: "Gesellschafterbeschluss fuer Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Pruefraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht fuer Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung)."
 ---
 
 # Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)

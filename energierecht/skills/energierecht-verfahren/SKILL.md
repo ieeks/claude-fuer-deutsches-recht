@@ -1,6 +1,6 @@
 ---
 name: energierecht-verfahren
-description: Behoerden-Verfahren Klage BNetzA-Beschwerde § 31 EnWG OLG-Beschwerde § 75 EnWG OLG Duesseldorf zustaendig. Klage VG bei BImSchG-Genehmigung BVerwG bei NABEG-Vorhaben erste Instanz. Eilantrag § 80 Abs. 5 VwGO bei Anordnungen. Frist eng meist ein Monat. Beweisangebote Sachverstaendigen-Gutachten Energie-Berater. EnSiG-Notlage Eilrechtsschutz. Stellungnahme im Bauleitplan-Verfahren als Trager oeffentlicher Belange. Foerderwiderruf-Verfahren BAFA-Bescheid Klage VG. EEG-Vergutungsstreit Klage VG Standort Anlage Bundessozialrichts-Linien.
+description: "Regulierungsverfahren und Gerichtsverfahren im Energierecht durchfuehren: BNetzA-Verfahren, Kartellamt. Normen: §§ 75 ff. EnWG, GWB, VwGO. Pruefraster: Verfahrenstyp, Beschwerde, Klage, Fristenmanagement. Output: Verfahrensstrategie Energierecht. Abgrenzung: nicht Genehmigungsverfahren Infrastruktur."
 ---
 
 # Verfahren — Behörden und Gerichte

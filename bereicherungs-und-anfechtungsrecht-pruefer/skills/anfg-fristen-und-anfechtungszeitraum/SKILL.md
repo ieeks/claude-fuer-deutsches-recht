@@ -1,6 +1,6 @@
 ---
 name: anfg-fristen-und-anfechtungszeitraum
-description: "Anfechtungsfristen im AnfG: zehn Jahre für Vorsatzanfechtung nach § 3 AnfG vier Jahre für unentgeltliche Leistung nach § 4 AnfG. Beginn Berechnung und Verhältnis zur Verjährung §§ 195 199 BGB. BGH IX ZR Leitsätze Fristberechnung AnfG."
+description: "Anfechtungsfristen im ausserinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Pruefraster: Fristbeginn, Fristberechnung, Verjaebrungsverhaeltnis, Hemmungstatbestaende. Output: Fristenblatt mit Anfechtungszeitraeumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO."
 ---
 
 # Fristen und Anfechtungszeitraum — AnfG

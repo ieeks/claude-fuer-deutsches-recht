@@ -1,6 +1,6 @@
 ---
 name: dsa-art-40-forschungsdatenzugang-algorithmen
-description: "Skill zum Forschungsdatenzugang nach Art. 40 DSA. Drei Ebenen: Datenzugang für DSC und Kommission Abs. 1 bis 3; Zugang für vetted researchers Abs. 4 bis 8; öffentlich zugängliche Daten Abs. 12. Antragsverfahren über den DSC am Niederlassungsort. Delegierte VO (EU) 2024/2987 zu Bedingungen und Verfahren. Schutz von Geschäftsgeheimnissen Datenschutz und Sicherheit. Anwaltliche Begleitung beider Seiten."
+description: "Forschungsdatenzugang nach Art. 40 DSA beantragen oder gewaehren: Forscher will Plattformdaten erhalten oder Plattform muss Zugang einrichten. Normen: DSA (EU) 2022/2065 Art. 40 (vetted researchers, DSC-Koordinierung), Delegierte VO (EU) 2024/2987 (Bedingungen und Verfahren). Pruefraster: Drei Ebenen (DSC-Zugang, vetted researchers, oeffentliche Daten), Antragsverfahren ueber DSC, Schutz Geschaeftsgeheimnisse und Datenschutz. Output Antrag vetted researcher, Datenzugangs-Vereinbarung-Entwurf. Abgrenzung: VLOP-Risikobewertung siehe dsa-art-34-systemische-risikobewertung; Algorithmen-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten."
 ---
 
 # DSA — Art. 40 Forschungsdatenzugang

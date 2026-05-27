@@ -1,6 +1,6 @@
 ---
 name: ips-cramdown-obstruktion
-description: "Prüft Obstruktionsverbot, gruppenuebergreifende Mehrheitsentscheidung, angemessene Beteiligung und Planmehrwertverteilung."
+description: "Obstruktionsverbot und gruppenuebergreifende Mehrheitsentscheidung pruefen wenn ablehnende Gruppen oder Klassen den Plan blockieren. § 245 InsO § 27 StaRUG Cramdown. Pruefraster: Schlechterstellung angemessene Beteiligung absolute Prioritaet Planmehrwert neue Finanzierung Gegenargumente. Output: Cramdown-Check Obstruktionsnotiz Nachbesserungsvorschlaege. Abgrenzung: nicht fuer Minderheitenschutz Einzelner (ips-minderheitenschutz)."
 ---
 
 # Cram-down und Obstruktion

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-bestaetigt-end-to-end-roadmap
-description: "Hochrisiko-KI bestaetigt: vollstaendige End-to-End-Roadmap fuer Anbieter und Betreiber. Zwoelf Schritte von Risikomanagement bis CE-Kennzeichnung EU-Datenbank-Registrierung und Marktbeobachtung. Aufwand Akteure Fristen Kosten realistisch eingeordnet. So schlimm ist es halt auch nicht."
+description: "Anbieter hat Hochrisiko-Einstufung des eigenen KI-Systems bestaetigt und fragt: Was sind jetzt alle noetigen Schritte bis zur CE-Kennzeichnung und Marktfreigabe? End-to-End-Roadmap Hochrisiko-KI Art. 9 bis 49 KI-VO. Pruefraster: zwoelf Schritte Risikomanagementsystem Art. 9 Datenqualitaet Art. 10 technische Dokumentation Art. 11 Logging Art. 12 Transparenz Art. 13 menschliche Aufsicht Art. 14 Genauigkeit Art. 15 Konformitaetsbewertung Art. 43 CE-Kennzeichnung Art. 47 EU-Datenbank Art. 49 Marktbeobachtung. Output: Projektplan mit Aufwandsschaetzung Akteuren und Fristen."
 ---
 
 # Hochrisiko-KI bestätigt — die End-to-End-Roadmap

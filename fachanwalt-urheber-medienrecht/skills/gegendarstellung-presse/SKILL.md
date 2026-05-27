@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-presse
-description: "Pruefraster Anspruch auf Gegendarstellung nach Landespressegesetzen typische Frist zwei Wochen Veroeffentlichungs-Pflicht in gleicher Aufmachung. Voraussetzung Tatsachenbehauptung in periodischem Presseerzeugnis Betroffenheit konkrete Gegendarstellung Unterschrift Original. Abgrenzung Meinungsaeusserungen. Medienstaatsvertrag fuer Online-Presse. Einstweilige Verfuegung bei Verweigerung. Verhaeltnis zu Unterlassungs-Schadensersatz."
+description: "Gegendarstellungsrecht im Presserecht pruefen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Pruefraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht fuer Online-Gegendarstellungen nach TMG oder DSA."
 ---
 
 # Gegendarstellung nach Pressegesetz

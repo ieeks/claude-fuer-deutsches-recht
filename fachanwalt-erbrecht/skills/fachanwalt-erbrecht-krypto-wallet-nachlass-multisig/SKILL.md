@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-krypto-wallet-nachlass-multisig
-description: "Digitaler Nachlass Krypto-Assets § 1922 BGB Gesamtrechtsnachfolge. Hardware-Wallet ohne Seed-Phrase Custodial Exchange Multi-Signature-Wallet. BGH III ZR 183/17 Facebook-Erbe. BFH IX R 3/22 Veräußerungsgewinn. BMF 22.11.2024 Krypto-Steuer. Bewertung Todesstichtag § 12 ErbStG. Erbschaftsteuer Spekulationsfrist § 23 EStG Behaltefrist. Herausgabe Private Key Surrogatanspruch. Prüfschema Nachlasssicherung digitaler Vermögenswerte."
+description: "Krypto-Vermoegenswerte und digitale Wallets im Erbfall sichern und auf Erben uebertragen. §§ 1922 1967 BGB digitale Nachlasswerte. Pruefraster: Wallet-Zugang Private Keys Multi-Sig Wertermittlung Steuer Erbschaft Sicherung. Output: Sicherungsplan Uebergabe-Anleitung Steuerhinweise. Abgrenzung: nicht fuer allgemeine Nachlassaufnahme."
 ---
 
 # Digitaler Nachlass — Krypto-Wallet und Multi-Sig

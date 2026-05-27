@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2
-description: "IT-Sicherheits-Vergabe nach § 122 § 124 GWB i.V.m. IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0) und NIS2UmsuCG. KRITIS-Betreiber UBI Aufnahme. BSI-Zertifizierung BSI-IT-Grundschutz BSI C5 ISO 27001 als Eignungs-/Zuschlagskriterium. Mindestlohn / Tariftreue. Sicherheitsbescheinigung VS-NfD VS-Vertraulich. Workflow Eignungs-Pruefung Risikoanalyse Vertragsklauseln IT-Sicherheit."
+description: "IT-Sicherheits-Vergabe fuer KRITIS-Betreiber und Bundesbehoerden: Auftraggeber oder Bieter bei oeffentlichen IT-Ausschreibungen mit erhoehten Sicherheitsanforderungen. Normen: §§ 122 und 124 GWB, IT-Sicherheitsgesetz 2.0 (IT-SiG 2.0), NIS2UmsuCG, BSI-Grundschutz, BSI C5, ISO 27001. Pruefraster: KRITIS-Einordnung, BSI-Zertifizierung als Eignungs-/Zuschlagskriterium, VS-NfD-Geheimschutz, Mindestlohn, Tariftreue. Output Eignung-Nachweis-Konzept, Leistungsbeschreibungs-Check, Vertragsklauseln IT-Sicherheit. Abgrenzung: Eignungspruefung allgemein siehe fachanwalt-vergaberecht-eignungspruefung; DSA/DMA siehe dsa-dma-Plugin."
 ---
 
 # IT-Sicherheits-Vergabe — IT-SiG 2.0 / NIS2

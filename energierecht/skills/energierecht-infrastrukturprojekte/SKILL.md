@@ -1,6 +1,6 @@
 ---
 name: energierecht-infrastrukturprojekte
-description: Stromtrassen-Planfeststellung EnLAG Energieleitungsausbaugesetz BBPlG Bundesbedarfsplangesetz NABEG Netzausbaubeschleunigungsgesetz Bundesfachplanung Planfeststellungsverfahren BNetzA. Gas-Speicher LNG-Terminals Beschleunigungsgesetze. Offshore-Wind BSH-Planfeststellung Anbindungs-Leitungen Konverter-Plattformen. Klagebefugnis anerkannte Umweltverbaende UmwRG Klimaklagen. EuGH-Linie BVerwG-Linie zu Plan-Feststellung Energieinfrastruktur. Beschleunigungs-Gebiete RED III bis 21.02.2026 Mitgliedstaat-Pflicht. Wasserstoff-Stammnetz Planfeststellung.
+description: "Energieinfrastrukturprojekte rechtlich begleiten: Leitungsgenehmigungen, Planfeststellung, Enteignung. Normen: §§ 43 ff. EnWG, NABEG, BImSchG, BauGB. Pruefraster: Genehmigungsverfahren, Einwendungen, Planfeststellungsbeschluss, Enteignungsrecht. Output: Genehmigungsverfahrens-Roadmap Energieinfrastruktur. Abgrenzung: nicht Netz- oder Speicherzulassung."
 ---
 
 # Infrastrukturprojekte und Planfeststellung

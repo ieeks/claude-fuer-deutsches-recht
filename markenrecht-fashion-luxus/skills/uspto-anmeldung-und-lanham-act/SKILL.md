@@ -1,6 +1,6 @@
 ---
 name: uspto-anmeldung-und-lanham-act
-description: "USPTO-Anmeldung nach Lanham Act 15 U.S.C. § 1051 ff.: Use in Commerce vs. Intent-to-Use, TEAS Plus/Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests. Koordination mit Whitman Brennan Forsythe LLP NYC. Laedt, wenn der Nutzer 'USPTO Anmeldung', 'US Marke anmelden', 'TEAS Plus', 'Lanham Act' oder 'Intent to Use' sagt."
+description: "USPTO-Markenanmeldung nach Lanham Act durchfuehren: Modehaus will Markenschutz in den USA. Normen: 15 U.S.C. § 1051 ff. (Lanham Act), 37 C.F.R. § 2.21 ff. (TEAS). Pruefraster: Use in Commerce vs. Intent-to-Use, TEAS Plus vs. Standard, Goods/Services ID Manual, Specimen of Use, Statement of Use, Extension Requests bis 36 Monate. Output USPTO-Anmeldungs-Paket, Specimen-Anleitung, ITU-Extension-Kalender. Abgrenzung: US Office Actions beantworten siehe uspto-office-actions-und-tess-tsdr; Korrespondenz-Kanzlei siehe nyc-korrespondenz-und-conflict-check."
 ---
 
 # USPTO-Anmeldung und Lanham Act

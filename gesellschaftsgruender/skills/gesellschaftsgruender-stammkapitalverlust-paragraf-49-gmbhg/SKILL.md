@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-stammkapitalverlust-paragraf-49-gmbhg
-description: "Pflichtversammlung bei Verlust der Haelfte des Stammkapitals Paragraf 49 III GmbHG. Einberufungspflicht Tagesordnung Sanierungsmassnahmen Kapitalerhoehung StaRUG. Insolvenzantragspflicht Paragraf 15a InsO bei Zahlungsunfaehigkeit oder Ueberschuldung. GF-Haftung Paragraf 43 GmbHG. Pruefschema und Einladungsmuster."
+description: "Hälftiger Stammkapitalverlust nach § 49 Abs. 3 GmbHG: Einberufungspflicht und Insolvenzpruefung. Normen: §§ 49 Abs. 3 64 GmbHG, § 15a InsO. Pruefraster: Bilanzkennzahlen, Einberufungspflicht, Haftungsrisiken GF. Output: Stellungnahme Stammkapitalverlust und Einberufungsschreiben. Abgrenzung: nicht § 64 GmbHG Zahlungsverbot bei Insolvenzreife."
 ---
 
 # Pflichtversammlung bei Stammkapital-Verlust (§ 49 Abs. 3 GmbHG)

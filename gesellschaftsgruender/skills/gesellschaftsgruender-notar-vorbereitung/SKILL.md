@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-notar-vorbereitung
-description: "Vorbereitung Notarsitzung GmbH UG AG Beurkundung. Notar finden Ablauf Beurkundung Unterlage-Checkliste Sacheinlage-Pruefung. Kosten-Aufstellung GNotKG. Vertretungs-Pruefung bei juristischen Personen. Beglaubigung vs Beurkundung. Online-Gruendung DiRUG. Zeitplan und Muster-Einladung."
+description: "Notartermin fuer GmbH-Gruendung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Pruefraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung."
 ---
 
 # Notar-Vorbereitung

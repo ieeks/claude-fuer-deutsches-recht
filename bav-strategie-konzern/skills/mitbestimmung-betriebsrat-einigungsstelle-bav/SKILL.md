@@ -1,6 +1,6 @@
 ---
 name: mitbestimmung-betriebsrat-einigungsstelle-bav
-description: "Mitbestimmungsrechte des Betriebsrats bei betrieblicher Altersversorgung: Paragraph-87-Abs-1-Nr-8-und-10-BetrVG Initiativrecht Einigungsstellenverfahren Spruch-Templates Betriebsratsverhandlung und Einigungsstellenordnung fuer BAV-Restrukturierungen im Konzernkontext."
+description: "Betriebsratsbeteiligung bei bAV-Einfuehrung und -Aenderung sicherstellen: Mitbestimmungsrechte. Normen: §§ 87 Abs. 1 Nr. 8 sowie 77 112 BetrVG. Pruefraster: Mitbestimmungstatbestaende, Informationspflichten, Einigungsstelle. Output: Beteiligungsverfahren bAV. Abgrenzung: nicht kollektivrechtlicher Sozialplan."
 ---
 
 # Mitbestimmung — Betriebsrat und Einigungsstelle bei BAV

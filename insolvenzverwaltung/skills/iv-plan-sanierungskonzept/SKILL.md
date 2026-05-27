@@ -1,6 +1,6 @@
 ---
 name: iv-plan-sanierungskonzept
-description: "Erstellt oder prüft ein Sanierungskonzept mit Krisenursachen, Leitbild, Maßnahmen, Fortbestehensfähigkeit, Stakeholderbeitraegen und Umsetzungsplan."
+description: "Sanierungskonzept als wirtschaftliche Grundlage fuer Insolvenzplan oder StaRUG erstellen oder pruefen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfaehigkeit. Pruefraster: Krisenstadium Ursachen Leitbild Massnahmenpakete Stakeholderbeitraege Plausibilitaetsbruecken. Output: Sanierungskonzept-Gliederung Massnahmenplan Plausibilitaetsfragen. Abgrenzung: nicht fuer integrierte Finanzplanung (iv-plan-integrierte-planung)."
 ---
 
 # IV-integrierte Sanierungskonzept

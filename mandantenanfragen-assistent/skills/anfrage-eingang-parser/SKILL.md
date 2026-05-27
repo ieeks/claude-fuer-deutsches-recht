@@ -1,6 +1,6 @@
 ---
 name: anfrage-eingang-parser
-description: "Parst die eingehende Mandantenanfrage per E-Mail und extrahiert strukturiert: Anrede und Name des Absenders, E-Mail-Adresse, Telefonnummer und weitere Kontaktdaten, Sachverhaltsfetzen und Stichwörter, dringliche Hinweise auf Fristen oder Haftungsrisiken. Laedt wenn der Nutzer 'Anfrage auswerten', 'Eingang parsen', 'E-Mail analysieren', 'Kontaktdaten extrahieren' oder 'Sachverhalt herausarbeiten' sagt."
+description: "Sekretariat oder Anwalt erhielt E-Mail-Anfrage eines potentiellen Mandanten und will sie schnell strukturiert auswerten. E-Mail-Parser Kanzlei. Pruefraster: Anrede Name Absender E-Mail-Adresse Telefon Sachverhaltsfetzen Stichwörter dringliche Hinweise auf Fristen oder Haftungsrisiken. Output: strukturiertes Datenblatt mit Kontaktdaten und Sachverhalts-Extrakt. Abgrenzung zu erstantwort-generator (Antwort erstellen) und dringlichkeitsmarker (Eilbedarf)."
 ---
 
 # Anfrage-Eingang-Parser

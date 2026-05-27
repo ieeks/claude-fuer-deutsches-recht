@@ -1,6 +1,6 @@
 ---
 name: iv-massemehrung-asset-realisation
-description: "Massemehrung und Verwertung. Entwickelt Verkaufsprozesse Vergleiche Prozessfinanzierung Anfechtung 15b Ansprüche Fortfuehrung und Kosten Nutzen Analyse."
+description: "Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung § 133 InsO Vorsatzanfechtung § 15b InsO Haftungsansprueche. Pruefraster: Werthebel Assets Prozesse Anfechtung D und O Vergleichspotenzial Kosten-Nutzen. Output: Verwertungskonzept Strategiematrix Beschlussvorlage. Abgrenzung: nicht fuer reine Masseeinsammlung (iv-masseeinsammlung) oder Betriebsfortfuehrung."
 ---
 
 # Massemehrung und Verwertung

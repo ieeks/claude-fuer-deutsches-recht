@@ -1,6 +1,6 @@
 ---
 name: internationale-harmonisierung-konzern-bav
-description: "Konzernweite BAV-Harmonisierung: Plan-Inventory Country-by-Country Matrix DE/UK/USA/FR/SG/JP Global Benefits Policy Local-vs-Group Governance IORP II Cross-border-Fonds fuer multinationale Konzerne mit Duesseldorf-Kyoto-Perspektive von Treuenfels Yamamoto."
+description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Pruefraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme)."
 ---
 
 # Internationale Harmonisierung Konzern-BAV

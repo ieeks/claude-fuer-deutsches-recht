@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-hauptverhandlung-amtsgericht
-description: "Hauptverhandlung OWi-Sache am Amtsgericht nach § 71 OWiG. Vorbereitung Beweisantraege § 77 OWiG. Sachverstaendiger. Zeugen Polizeibeamte. Einlassung oder Schweigen § 55 OWiG. Strafmass § 17 OWiG Geldbusse Fahrverbot. Abwesenheit § 74 OWiG. Rechtsbeschwerde § 79 OWiG."
+description: "Hauptverhandlung in OWi-Sache am Amtsgericht vorbereiten und fuehren: Termin nach Einspruch gegen Bussgeldbescheid. Normen: § 71 OWiG (HV nach StPO), § 77 OWiG (Beweisantraege), § 55 OWiG (Schweigerecht), § 17 OWiG (Strafmass). Pruefraster: Beweisantraege (Sachverstaendiger, Zeugen), Einlassung oder Schweigen, Strafmass-Erwaegungen, Abwesenheitsmoeglichkeit § 74 OWiG. Output HV-Vorbereitungs-Checkliste, Beweisantrags-Entwuerfe. Abgrenzung: Rechtsbeschwerde danach siehe verkehrsowi-rechtsbeschwerde; Haertefall vor HV siehe verkehrsowi-haertefall-fahrverbot."
 ---
 
 # Hauptverhandlung OWi am Amtsgericht

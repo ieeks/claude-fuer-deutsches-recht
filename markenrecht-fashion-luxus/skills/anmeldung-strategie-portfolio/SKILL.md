@@ -1,6 +1,6 @@
 ---
 name: anmeldung-strategie-portfolio
-description: "Strategische Markenportfolio-Planung fuer Luxus-Modehaeuser: DE/EU/Madrid-Protokoll, Nizza-Klassen (Kl. 3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade und Kostenoptimierung. Laedt, wenn der Nutzer 'Markenstrategie', 'Anmeldestrategie', 'Portfolio', 'Nizza-Klassen', 'Madrid-Protokoll' oder 'Markenschutz international' sagt."
+description: "Strategische Markenportfolio-Planung fuer Luxus-Modehaeuser: Mandant will Marken in DE/EU/international schuetzen oder Portfolio optimieren. Normen: §§ 32 ff. MarkenG, Art. 32 ff. UMV (EU) 2017/1001, Madrid-Protokoll (WIPO). Pruefraster: Nizza-Klassen (3/14/18/25/35), Multi-Class-Strategie, Prioritaets-Kaskade, Kostenoptimierung, Anmeldezeitpunkt. Output Marken-Portfolio-Plan, Anmelde-Empfehlung je Territorium, Kostenprojektion. Abgrenzung: Einzelne Anmeldung DPMA siehe wortmarke-anmeldung-dpma; Madrid-Protokoll Details siehe madrid-protokoll-und-internationale-registrierung."
 ---
 
 # Anmeldestrategie & Markenportfolio für Luxus-Modehäuser

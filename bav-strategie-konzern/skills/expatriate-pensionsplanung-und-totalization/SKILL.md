@@ -1,6 +1,6 @@
 ---
 name: expatriate-pensionsplanung-und-totalization
-description: "Expatriate-Pensionsplanung: Sozialversicherungsabkommen Totalization Agreements A1-Bescheinigung US-Totalization DBA-Doppelbesteuerungsabkommen Stranded Pensions und Koordination grenzueberschreitender Versorgungsansprueche fuer entsandte Mitarbeiter im Konzern."
+description: "Pensionsplanung fuer Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Pruefraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchfuehrungsweg."
 ---
 
 # Expatriate-Pensionsplanung und Totalization

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsordnung-gf
-description: "Geschaeftsordnung der Geschaeftsfuehrung. Zustimmungspflichtige Geschaefte Berichtspflichten Meeting-Rhythmus Entscheidungs-Prozesse Eskalations-Matrix bei Mehrgliedrigkeit. Abgrenzung Satzung SHA Geschaeftsordnung. Aenderbarkeit Form. Beispiel-Kataloge fuer Standard-GmbH und Tech-Startup. Paragraf 37 GmbHG Paragraf 46 Nr 6 GmbHG."
+description: "Geschaeftsordnung fuer GmbH-Geschaeftsfuehrung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Pruefraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschaeftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung."
 ---
 
 # Geschäftsordnung Geschäftsführung

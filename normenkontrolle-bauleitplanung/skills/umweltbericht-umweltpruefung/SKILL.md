@@ -1,6 +1,6 @@
 ---
 name: umweltbericht-umweltpruefung
-description: Pruefung der Umweltpruefung Paragraf 2 Abs. 4 BauGB und des Umweltberichts Paragraf 2a BauGB als integralen Bestandteil der Begruendung des Bebauungsplans. Scoping Festlegung Untersuchungsrahmen mit Behoerden. Schutzgueter Mensch Tiere Pflanzen Biologische Vielfalt Boden Wasser Luft Klima Landschaft Kultur- und Sachgueter sowie Wechselwirkungen Paragraf 2 Abs. 4 S. 1 BauGB. Anhang 1 BauGB festlegt Inhalt Umweltbericht. Pruefung Alternativen Nullvariante. Eingriffsregelung Paragraf 1a Abs. 3 BauGB. FFH-Vertraeglichkeitspruefung Paragraf 1a Abs. 4 BauGB i.V.m. Paragraf 34 BNatSchG. Verzahnung UVP UVPG. Beschleunigtes Verfahren Paragraf 13a BauGB ohne Umweltpruefung. Audit auf systematische Luecken methodische Fehler unzureichende Ermittlung Schwellenwerte ignoriert.
+description: "Mandant greift Bebauungsplan wegen unzureichender Umweltpruefung oder fehlendem Umweltbericht an. § 2 Abs. 4 BauGB § 2a BauGB Umweltbericht. Pruefraster: Schutzgueter nach Anhang 1 BauGB Mensch Tiere Pflanzen Boden Wasser Luft Klima Landschaft Kultur Nullvariante Alternativen FFH-Vertraeglichkeit § 1a Abs. 4 BauGB. Beschleunigtes Verfahren § 13a BauGB ohne Umweltpruefung. Output: Umweltpruefungs-Audit und Angriffspunkte Normenkontrolle. Abgrenzung zu artenschutz-naturschutz-planung (Artenschutz) und beteiligung-frueh-foermlich."
 ---
 
 # Umweltbericht und Umweltprüfung

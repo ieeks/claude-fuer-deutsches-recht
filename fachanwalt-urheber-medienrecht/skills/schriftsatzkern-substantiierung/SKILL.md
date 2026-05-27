@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Abmahnung UrhG KUG-Verletzung Persoenlichkeitsrecht Gegendarstellung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen § 97 UrhG §§ 22 23 KUG §§ 823 1004 BGB, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau. BGH Wagenfeld-Leuchte Loud Doppelte Lizenz."
+description: "Schriftsatzkern fuer urheber- und medienrechtliche Klagen und Antraege substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Pruefraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht fuer aussergerichtliche Korrespondenz."
 ---
 
 # Schriftsatzkern und Substantiierung im Urheber- und Medienrecht

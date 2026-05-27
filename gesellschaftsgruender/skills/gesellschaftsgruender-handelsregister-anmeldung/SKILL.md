@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-handelsregister-anmeldung
-description: "Anmeldung beim Handelsregister durch Notar. Pflichtangaben GmbH UG OHG KG Paragraf 8 GmbHG. Versicherungen der GF Paragraf 8 II GmbHG. Stammkapital-Aufbringungsnachweis. Strafbarkeit Paragraf 82 GmbHG. Eintragungsgebuehren Zwischenverfuegung Bekanntmachung. Pruefschema Checkliste und Zeitplan."
+description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gruendungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Pruefraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gruendung."
 ---
 
 # Handelsregister-Anmeldung

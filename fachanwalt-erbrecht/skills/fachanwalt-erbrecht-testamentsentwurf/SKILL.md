@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-testamentsentwurf
-description: "Eigenhaendiges oder oeffentliches Testament gestalten §§ 2229 ff. BGB. Berliner Testament gemeinschaftliches Testament Ehegatten § 2265 BGB Wechselbezuegliche Verfuegungen § 2270 BGB. Erbeinsetzung Vermaechtnis Teilungsanordnung Auflage Vor- und Nacherbschaft Testamentsvollstreckung §§ 2197 ff. BGB. Pflichtteilsstrafklausel Wiederverheiratungsklausel Pflichtteilsverzicht § 2346 BGB. Erbschaftsteuerliche Aspekte ErbStG."
+description: "Testament oder Erbvertrag entwerfen wenn Mandant Nachlassplanung vornehmen moechte. §§ 2229 2231 2247 BGB Testament §§ 2274 ff. BGB Erbvertrag. Pruefraster: Testierfaehigkeit Form Erbeinsetung Vermaechtnisse Pflichtteilsreduzierung Testamentsvollstreckung Erbvertragsbindung. Output: Testamentsentwurf oder Erbvertragsentwurf. Abgrenzung: nicht fuer Pflichtteilsberechnungen."
 ---
 
 # Testamentsentwurf

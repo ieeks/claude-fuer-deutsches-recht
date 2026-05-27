@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-anfordern
-description: Erstellt einen Akteneinsichtsantrag nach § 25 SGB X (Verwaltungsverfahren) bzw. § 120 SGG (gerichtliches Verfahren) Art. 15 DSGVO ergaenzend bei personenbezogenen Daten. Antrag richtet sich an die Verwaltungsbehoerde oder das Sozialgericht. Inhaltlich enthaelt der Antrag Bezeichnung des Verwaltungsverfahrens vollstaendige Vorgangs- bzw Bescheid-Akte alle medizinischen Gutachten Aktennotizen Stellungnahmen Sachverstaendigengutachten. Form ueber beA an Behoerde oder Gericht. Vorgehensweise bei Verweigerung oder Schwaerzung.
+description: "Mandant oder Anwalt benoetigt Einsicht in die Verwaltungsakte oder Gerichtsakte in einem laufenden Sozialrechtsverfahren. § 25 SGB X Akteneinsicht Verwaltungsverfahren § 120 SGG gerichtliches Verfahren Art. 15 DSGVO ergaenzend. Pruefraster: Antragsgegner (Behoerde oder Sozialgericht) Vorgangsbezeichnung vollstaendige Akte inkl. medizinische Gutachten Aktennotizen Sachverstaendigenstellungnahmen. Versand beA. Vorgehen bei Verweigerung oder Schwaerzung. Output: Akteneinsichtsantrag fertig zum Versand. Abgrenzung zu akteneinsicht-auswerten (nach Erhalt der Akte)."
 ---
 
 # Akteneinsicht anfordern

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gruender-intake
-description: "Strukturierte Eingangsabfrage Gruender: Gesellschafter natuerliche Personen oder Holding-GmbH. Anteile Quoten Class-Shares. Geschaeftsmodell Investor-Roadmap. Sitz Gegenstand Stammkapital. GF-Daten. Liefert Datenblatt Gruendung Cap Table Routenliste und Fristen-Vorschau als Datenbasis fuer alle weiteren Skills."
+description: "Ersterfassung des Gruendungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschaeftszweck. Normen: GmbHG, AktG, HGB. Pruefraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gruendungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill)."
 ---
 
 # Gründer-Intake

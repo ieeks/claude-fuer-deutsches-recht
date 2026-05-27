@@ -1,6 +1,6 @@
 ---
 name: verbotene-praktiken-art-5
-description: "Entscheidungsbaum durch alle acht verbotenen Praktiken nach Art. 5 KI-VO: subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing Untargeted Scraping Emotionserkennung Arbeitsplatz biometrische Kategorisierung Echtzeit-RBI oeffentlicher Raum."
+description: "Unternehmen prueft ob ein KI-Einsatz in den Bereich der absolut verbotenen KI-Praktiken faellt. Art. 5 KI-VO Verbotskatalog. Pruefraster: alle acht verbotenen Praktiken subliminale Techniken Vulnerabilitaetsausnutzung Social Scoring Predictive Policing biometrisches Categorisierung Echtzeit-RBI oeffentlicher Raum Emotionserkennung Arbeitsplatz Untargeted Scraping Gesichtsdatenbanken. Output: Entscheidungsbaum je Verbotspraktik mit Begruendung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (Hochrisiko nicht verboten aber reguliert) und sachlicher-ausschluss-art-2-abs-3-bis-12."
 ---
 
 # Verbotene Praktiken — Art. 5 KI-VO (Entscheidungsbaum)

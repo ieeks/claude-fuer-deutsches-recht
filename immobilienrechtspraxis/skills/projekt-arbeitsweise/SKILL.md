@@ -1,6 +1,6 @@
 ---
 name: projekt-arbeitsweise
-description: Strukturierte Projekt- und Ordnerarbeit fuer immobilienrechtliche Rechtsabteilungen statt freihaendigem Prompting. Pro Mandat oder Objekt entsteht ein Projekt-Ordner mit fixierten Vorgaben — Playbook Mustervertraege Klauselkatalog AVV-Anforderungen Zitierregeln. Skill prueft eingehende Dokumente automatisch gegen die Projekt-Vorgaben einschliesslich AVV-Pruefung nach Art. 28 DSGVO und interner Compliance-Vorgaben. Erzeugt Projekt-Skelett mit Unterordnern Vertraege Korrespondenz Schriftsaetze Recherche Mandantenkontakt und Ablage. Dokumentiert pro Projekt welche Skills mit welchen Eingaben genutzt wurden — fuer Nachvollziehbarkeit und Audit. Unterstuetzt Agenten-Workflows die auf Datei-Eingang reagieren.
+description: "Projektmethodik fuer Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Pruefraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren."
 ---
 
 # Projekt-Arbeitsweise Immobilienrecht

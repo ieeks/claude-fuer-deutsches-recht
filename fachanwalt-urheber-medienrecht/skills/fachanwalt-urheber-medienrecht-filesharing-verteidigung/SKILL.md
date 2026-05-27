@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-filesharing-verteidigung
-description: "Filesharing-Abmahnung Verteidigung. Anschluss-Inhaber-Haftung BGH I ZR 154/15 sekundaere Darlegungs-Last. Modifizierte Unterlassungserklaerung Strategie. Streitwert begrenzt § 97a III UrhG 1.000 EUR Gegenstandswert. Workflow Sofort-Massnahmen Verteidigung Klage."
+description: "Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Pruefraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklaerung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht fuer allgemeine Urheberrechtsverletzungen."
 ---
 
 # Filesharing-Abmahnung Verteidigung

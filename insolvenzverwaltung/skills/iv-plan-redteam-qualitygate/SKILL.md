@@ -1,6 +1,6 @@
 ---
 name: iv-plan-redteam-qualitygate
-description: "Sucht Fehler im Plan: unvollständige Angaben, Bewertungswiderspruch, Gruppenmissbrauch, fehlende Anlagen, unbestimmte Klauseln und Bestätigungsrisiken."
+description: "Insolvenzplan oder StaRUG-Plan vor Einreichung hart auf Fehler pruefen aus Sicht opponierender Glaeubiger und Gericht. §§ 231 245 251 InsO Versagungsgruende. Pruefraster: Vollstaendigkeit Bewertungswiderspruch Gruppenbildung fehlende Anlagen unbestimmte Klauseln Bestaetigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: nicht fuer laufende Qualitaetssicherung in anderen IV-Skills."
 ---
 
 # IV-integrierte Red Team und Quality Gate

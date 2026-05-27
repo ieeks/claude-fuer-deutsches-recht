@@ -1,6 +1,6 @@
 ---
 name: einsprachige-vertragsfassung-de
-description: "Erstellung einer rein deutschen Vertragsfassung mit identischem materiellen Inhalt der bilingualen Fassung, ohne EN-Spalte, in einspaltigem lesefreundlichem Word-Layout mit Heading 1/2/3 und normaler Absatzformatierung. Wort-fuer-Wort der deutschen Spalte des bilingualen Dokuments."
+description: "Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten fuer rein nationale Transaktionen. §§ 488 ff. BGB Darlehen §§ 55 56 GmbHG Kapitalerhohung. Pruefraster: SAFE-Konditionen BGB-Konformitaet Schriftformerfordernisse Investoren-Sonderrechte. Output: vollstaendiger Vertragsentwurf auf Deutsch. Abgrenzung: nicht fuer bilinguale Fassung (bilinguale-vertragserstellung)."
 ---
 
 # Einsprachige Vertragsfassung (nur DE)

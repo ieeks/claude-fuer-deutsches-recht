@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-unterhaltsberechnung
-description: "Kindesunterhalt nach Duesseldorfer Tabelle § 1601 ff. BGB. Trennungsunterhalt § 1361 BGB Nachehelicher Unterhalt §§ 1569 ff. BGB Betreuungsunterhalt § 1570 Altersunterhalt § 1571 Krankheitsunterhalt § 1572 Aufstockungsunterhalt § 1573 Ausbildungsunterhalt § 1575 Billigkeitsunterhalt § 1576. Bereinigtes Nettoeinkommen Halbteilungsgrundsatz Selbstbehalt Mangelfall Erwerbsobliegenheit § 1574."
+description: "Kindes- und Ehegattenunterhalt vollstaendig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trennungsunterhalt), §§ 1569 ff. BGB (nachehelicher Unterhalt), § 1574 BGB (Erwerbsobliegenheit). Pruefraster: Bereinigtes Nettoeinkommen, Halbteilungsgrundsatz, Selbstbehalt, Mangelfall, fiktives Einkommen bei Obliegenheitsverletzung. Output Unterhalts-Berechnung mit Rechenschritten. Abgrenzung: Duesseldorfer-Tabelle Uebersicht siehe unterhalt-duesseldorfer-tabelle; Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich."
 ---
 
 # Unterhaltsberechnung

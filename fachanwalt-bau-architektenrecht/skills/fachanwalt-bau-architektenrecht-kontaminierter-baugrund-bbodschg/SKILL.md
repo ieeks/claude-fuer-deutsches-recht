@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-kontaminierter-baugrund-bbodschg
-description: "Spezial-Mandat kontaminierter Baugrund — Werkvertragsrechtliche Haftung Bauunternehmer Bauherr nach §§ 633 634 BGB UND Sanierungspflicht nach § 4 BBodSchG bei Altlasten-Verdacht. Sanierungsverantwortliche § 4 Abs. 3 BBodSchG. BVerwG 7 C 4/00. Werkvertraglicher Mehrkostenanspruch § 642 BGB und § 6 VOB/B. Beweissicherung Bodengutachten. Workflow Erkundung Anzeige Sanierungsplan Vertragsbeendigung. Kostenausgleich § 24 BBodSchG. PFAS PAK BTEX Schwermetalle."
+description: "Kontaminierter Baugrund: Haftung, Sanierungspflicht und Kostenverteilung nach BBodSchG. Normen: §§ 4 9 BBodSchG, §§ 633 634 BGB. Pruefraster: Verursacherhaftung, Zustandsstoerer, Sanierungskosten, Gewaehrleistung. Output: Haftungsanalyse kontaminierter Baugrund. Abgrenzung: nicht allgemeine Mangelgewaehrleistung."
 ---
 
 # Kontaminierter Baugrund — Werkvertrag + BBodSchG-Sanierungspflicht

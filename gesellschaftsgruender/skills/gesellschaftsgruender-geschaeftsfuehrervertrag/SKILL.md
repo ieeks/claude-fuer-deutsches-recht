@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsfuehrervertrag
-description: "Geschaeftsfuehrer-Anstellungsvertrag fuer GmbH. Abgrenzung Organstellung Paragraf 6 GmbHG zum Anstellungsverhaeltnis. Gehalt Tantieme Pensionszusage Dienstwagen D-und-O-Versicherung. Wettbewerbsverbot Karenzentschaedigung Vertraulichkeit. Kuendigung Abberufung Trennung. Sozialversicherungsrechtlicher Status. Fremdvergleich bei Gesellschafter-GF vGA-Risiko."
+description: "Geschaeftsfuehrervertrag fuer GmbH-Geschaeftsfuehrer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kuendigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Pruefraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschaeftsfuehrervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer."
 ---
 
 # Geschäftsführer-Anstellungsvertrag GmbH

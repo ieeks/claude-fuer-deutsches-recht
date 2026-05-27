@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-maturity
-description: "Pruefung ob Ablauf der Festen Laufzeit (Maturity) als Wandlungsausloeser eingetreten ist und kein qualifying event zuvor eingetreten ist. Wandlung auf Basis Fall-back-Bewertung. Default-Bewertung falls keine vereinbart. Wahlrecht Lender zwischen Wandlung und Faelligstellung bei vorangegangenem Liquidationsereignis."
+description: "Wandlung bei Laufzeitablauf des Wandeldarlehens pruefen wenn kein qualifiziertes Finanzierungsereignis eingetreten ist. §§ 488 ff. BGB Faelligkeit. Pruefraster: Laufzeitenddatum Wandlungsrecht Wandlungspflicht Rueckzahlungsalternative Preisbestimmung. Output: Pruefprotokoll Handlungsempfehlung. Abgrenzung: nicht fuer Qualified-Financing-Trigger (wandlungspruefung-trigger-qualified-financing)."
 ---
 
 # Wandlungsprüfung – Trigger Maturity (Laufzeitablauf)

@@ -1,6 +1,6 @@
 ---
 name: pension-buyout-strukturierung-und-de-risking
-description: "Pension Buyout und De-Risking: Buy-in Buy-out Longevity Swap Versichererauswahl Term Sheets regulatorische BaFin-Genehmigung VAG-Paragraphen-236-242 Transaktionsstrukturierung fuer Direktzusagen-Abloesung und Risikominimierung im Duesseldorfer Boutique-Stil."
+description: "Pensionsbuyout und De-Risking strukturieren: Risikoauslagerung an Versicherungsunternehmen oder CTA. Normen: §§ 4 BetrAVG, VAG, IFRS. Pruefraster: Buyout-Voraussetzungen, Versicherungsloesungen, Bilanzbereinigung. Output: Buyout-Strukturierungsmemo. Abgrenzung: nicht laufende Pensionsverwaltung."
 ---
 
 # Pension Buyout Strukturierung und De-Risking

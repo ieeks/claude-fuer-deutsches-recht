@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-signing-closing-conditions
-description: "Signing und Closing Conditions: Verwaltet CP-Checklisten, Vollzugsbedingungen, Freigabekalender, Satisfaction-Protokoll und Closing-Deliverables fuer M&A-Transaktionen. Normen: § 158 BGB, SPA Conditions Precedent."
+description: "Signing und Closing Conditions verwalten: M&A-Transaktion naehert sich Signing oder Closing und alle CPs muessen erledigt sein. Normen: § 158 BGB (Bedingungseintritt), SPA Conditions Precedent, § 41 GWB (Vollzugsverbot). Pruefraster: CP-Checkliste, Behoerdengenehmigungen, Eigentumsuebergang, MAC-Klausel-Status, Satisfaction-Protokoll. Output CP-Tracker mit Ampelstatus, Closing-Deliverables-Liste, Satisfaction-Notice. Abgrenzung: Signing-Vorbereitung siehe output-versand-signing; Closing-Archivierung siehe closing-bible-archiv."
 ---
 
 # Signing und Closing Conditions

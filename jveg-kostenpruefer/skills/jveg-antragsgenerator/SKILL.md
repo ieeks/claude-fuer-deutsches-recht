@@ -1,6 +1,6 @@
 ---
 name: jveg-antragsgenerator
-description: Erzeugt Vorschuss-, Nachzahlungs-, Festsetzungs- und Ergaenzungsschreiben nach JVEG mit Anlagen- und Belegliste fuer Sachverstaendige, Zeugen und Dolmetscher.
+description: "Antrag auf gerichtliche Kostenfestsetzung nach JVEG erstellen: Verguetungsantrag, Anlagen, Fristen. Normen: §§ 2 4 JVEG. Pruefraster: Antragsfrist, Formerfordernis, Anlagenliste. Output: Kostenfestsetzungsantrag nach JVEG. Abgrenzung: nicht Beschwerde gegen Festsetzung."
 ---
 
 # JVEG-Antragsgenerator

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung
-description: "Lizenzvertrag Urheberrecht ausschliessliche / nicht-ausschliessliche Lizenz § 31 UrhG. Lizenz-Reichweite Gebiet Zeit Sprache Medium. Verguetungs-Modelle Pauschal Fix Beteiligung. Urhebervertragsrecht § 32 UrhG angemessene Verguetung. Workflow Vertragspruefung Verhandlung."
+description: "Lizenzvertraege fuer Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Pruefraster: Nutzungsrechtsart ausschliesslich einfach territorial zeitlich Verguetung Sublizenz Rueckruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht fuer Abmahnung oder Gegendarstellung."
 ---
 
 # Lizenzvertrag-Verhandlung

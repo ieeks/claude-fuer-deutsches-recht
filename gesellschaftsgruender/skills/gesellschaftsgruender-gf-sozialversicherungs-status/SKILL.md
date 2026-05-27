@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gf-sozialversicherungs-status
-description: "Sozialversicherungs-Status GF: Fremd-GF sozialversicherungspflichtig. Gesellschafter-GF Mehrheitsbeteiligung typisch frei Minderheitsbeteiligung typisch pflichtig. Sperrminoritaet Sondervetorecht. Statusfeststellung Paragraf 7a SGB IV. BSG-Linie Weisungsfreiheit. Rueckwirkende Beitragsforderung 4 Jahre. Checkliste und Muster."
+description: "Sozialversicherungsrechtlichen Status des GmbH-Geschaeftsfuehrers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Pruefraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte."
 ---
 
 # Sozialversicherungs-Status des Geschäftsführers

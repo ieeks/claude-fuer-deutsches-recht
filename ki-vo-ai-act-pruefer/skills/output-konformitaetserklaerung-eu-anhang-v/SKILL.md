@@ -1,6 +1,6 @@
 ---
 name: output-konformitaetserklaerung-eu-anhang-v
-description: "Muster EU-Konformitaetserklaerung fuer Hochrisiko-KI-Systeme nach Art. 47 i.V.m. Anhang V KI-VO: Pflichtinhalt Identifikation des Systems Verweis auf harmonisierte Normen Unterzeichnung. Hinweise zu Aufbewahrung und Aktualisierung."
+description: "Anbieter benoetigt das fertige Musterdokument fuer die EU-Konformitaetserklaerung zum Ausfuellen und Unterzeichnen. Art. 47 i.V.m. Anhang V KI-VO EU-Konformitaetserklaerung. Pflichtinhalt Anhang V: eindeutige Systemidentifikation Anbieter Bevollmaechtigter Verweis auf harmonisierte Normen gemeinsame Spezifikationen oder andere Referenzen Unterzeichnung. Output: vollstaendige Muster-Konformitaetserklaerung als Formular. Abgrenzung zu hochrisiko-konformitaetsbewertung-art-43-bis-49 (Bewertungsverfahren) und eu-datenbank-registrierung-art-49-und-71 (Registrierung)."
 ---
 
 # Output: EU-Konformitätserklärung — Art. 47 und Anhang V KI-VO

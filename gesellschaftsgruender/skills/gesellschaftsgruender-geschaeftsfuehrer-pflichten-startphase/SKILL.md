@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsfuehrer-pflichten-startphase
-description: "Erste 100 Tage GF-Pflichten nach HR-Eintragung. Buchfuehrung Jahresabschluss Bundesanzeiger. USt LSt KSt GewSt Voranmeldungen. SV-Anmeldungen. Insolvenzantragspflicht Paragraf 15a InsO. Compliance GwG Datenschutz Arbeitsschutz. Haftung Paragraf 43 GmbHG. Checkliste und Fristen."
+description: "Pflichten des GmbH-Geschaeftsfuehrers in Gruendungs- und Startphase: Stammkapitaleinzahlung, Insolvenzantragspflicht, Buchfuehrung. Normen: §§ 35 43 64 GmbHG, § 15a InsO. Pruefraster: Handlungspflichten, Haftungsrisiken, Compliance-Checkliste. Output: Pflichtenliste Geschaeftsfuehrer Gruendungsphase. Abgrenzung: nicht Geschaeftsfuehrervertrag."
 ---
 
 # Erste 100 Tage Geschäftsführer-Pflichten

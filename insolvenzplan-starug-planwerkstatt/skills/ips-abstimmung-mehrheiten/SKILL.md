@@ -1,6 +1,6 @@
 ---
 name: ips-abstimmung-mehrheiten
-description: "Simuliert Abstimmung, Kopf und Summenmehrheit im Insolvenzplan, StaRUG Mehrheiten, Stimmrechte, Streitwerte und Stimmrechtsrisiken."
+description: "Abstimmungsmehrheiten fuer Insolvenzplan nach InsO und Restrukturierungsplan nach StaRUG simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Pruefraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien taktische Schwellen. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht fuer Gruppenbildung (ips-gruppen-klassenbildung)."
 ---
 
 # Abstimmung und Mehrheiten

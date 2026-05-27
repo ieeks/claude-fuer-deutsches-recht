@@ -1,6 +1,6 @@
 ---
 name: energierecht-projektfinanzierung
-description: Projektfinanzierung Energieanlagen PPA Power Purchase Agreement Strukturierung physisch finanziell synthetisch Corporate On-Site Off-Site. Foerderbescheide KfW BEW 442 Klimaschutzvertraege CCfD Carbon Contracts for Difference. EEG-Anlagen Bankenfaehigkeit Vermarktungs-Verzicht zugunsten PPA. Sicherheiten Forderungsabtretung Sicherungs-Uebereignung Vermarktungs-Sicherheit. Bonitaets-Pruefung Offtaker. Vertrags-Bausteine Take-or-Pay Volumen-Toleranzbaender Force-Majeure Anpassungs-Klauseln. Refinanzierung Sale-and-Leaseback steuer-optimal.
+description: "Projektfinanzierung fuer Energieanlagen strukturieren: Darlehen, Sicherheiten, Ratinganforderungen. Normen: EnWG, EEG, KWKG, BGB. Pruefraster: Finanzierungsstruktur, Sicherheitenpakete, Cashflow-Analyse, Foerderdarlehen. Output: Projektfinanzierungs-Struktur Energieanlage. Abgrenzung: nicht Betriebsgenehmigung."
 ---
 
 # Projektfinanzierung Energie

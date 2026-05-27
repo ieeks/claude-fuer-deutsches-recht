@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-adr-gefahrgut
-description: "ADR Gefahrgut-Transport europaeisches UEbereinkommen. Klassifizierung Gefahrgut Klassen Verpackungs-Gruppen Kennzeichnung. Beauftragten-Pflicht Gefahrgut-Beauftragter § 1 GBV. Vorfaelle Anzeige BAM. Workflow Compliance-Pruefung Vorfaelle."
+description: "Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bussgelder. Normen: ADR, §§ 407 ff. HGB, GefahrgutG. Pruefraster: ADR-Klassen, Kennzeichnungspflicht, Haftungsverteilung. Output: Gefahrgut-Haftungsanalyse und Massnahmenplan. Abgrenzung: nicht allgemeine Frachtfuehrerhaftung HGB."
 ---
 
 # ADR-Gefahrgut-Transport

@@ -1,6 +1,6 @@
 ---
 name: stellplatzsatzung-bay-bauordnung
-description: Pruefung Stellplatzschluessel im Bebauungsplan und in oertlicher Stellplatzsatzung nach Art. 47 BayBO. Grundregel ein Stellplatz je Wohnung. Reduzierung durch oertliche Bauvorschrift Art. 81 Abs. 1 Nr. 4 BayBO moeglich aber nur bei sachlicher Rechtfertigung. Mobilitaetskonzept als Voraussetzung. Pruefung Erschliessungsanbindung OEPNV Fahrradinfrastruktur Car-Sharing. Risiko Verlagerung des Parkdrucks ins angrenzende Strassenraum-System. Audit Untersuchungsbasis Verkehrsmodellierung. Stellplatzbilanz Soll Ist Reduzierungsfaktor. Festsetzungen zu Stellplaetzen im Bebauungsplan auf Grundlage Paragraf 9 Abs. 1 Nr. 4 BauGB i.V.m. Art. 81 BayBO. Pflicht der Stadt zur substanziellen Begruendung der Reduzierung. Verbraucherbelang Anwohner Stellplaetze in Bestand als abwaegungserheblich.
+description: "Mandant wendet sich gegen Stellplatzsatzung einer Gemeinde oder deren Anwendung bei Bauantrag. Art. 47 BayBO § 9 Abs. 1 Nr. 4 BauGB Art. 81 BayBO Stellplatzsatzung. Pruefraster: Reduzierung Stellplatzschluessel durch oertliche Bauvorschrift sachliche Rechtfertigung Mobilitaetskonzept Parkdruck-Verlagerung Stellplatzbilanz. Output: Stellplatzsatzungs-Pruefprotokoll und Angriffspunkt Normenkontrolle. Abgrenzung zu festsetzungskatalog-9-baugb-baunvo (Festsetzungen gesamt) und normenkontrollantrag-schriftsatz."
 ---
 
 # Stellplatzsatzung — Art. 47 BayBO

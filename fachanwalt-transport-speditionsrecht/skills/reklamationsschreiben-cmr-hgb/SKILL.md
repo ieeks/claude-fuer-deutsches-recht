@@ -1,6 +1,6 @@
 ---
 name: reklamationsschreiben-cmr-hgb
-description: "Mustervorlagen Reklamationsschreiben bei Frachtschaeden nach CMR Art. 30 fuer internationale Transporte und § 438 HGB fuer innerstaatlich. Sofort bei erkennbarem Verlust und Beschaedigung schriftlich. Binnen sieben Tagen bei nicht erkennbarer Beschaedigung. Binnen einundzwanzig Tagen bei Lieferfristueberschreitung. Inhalt Identifikation Sendung Schadensbeschreibung Wertangabe Beweismittel Forderungs-Andeutung."
+description: "Reklamationsschreiben fuer Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Pruefraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift."
 ---
 
 # Reklamationsschreiben CMR und HGB

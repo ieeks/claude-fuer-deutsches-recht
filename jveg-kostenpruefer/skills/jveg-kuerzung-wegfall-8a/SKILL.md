@@ -1,6 +1,6 @@
 ---
 name: jveg-kuerzung-wegfall-8a
-description: "Findet Kuerzungs- und Wegfallrisiken nach § 8a JVEG: Verwertbarkeit, Hinweisobliegenheit, Befangenheit, Vorschussüberschreitung und wesentliche Maengel beim Sachverstaendigengutachten."
+description: "Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG pruefen: fehlerhafte Gutachten, Verspaetung. Normen: § 8a JVEG. Pruefraster: Verschulden, Kausalitaet, Kuerzungsumfang. Output: Pruefergebnis Kuerzung § 8a JVEG mit Begruendung. Abgrenzung: nicht Dreimonatsfrist § 2 JVEG."
 ---
 
 # JVEG-Kuerzung-Wegfall-8a

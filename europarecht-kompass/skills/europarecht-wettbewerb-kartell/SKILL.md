@@ -1,6 +1,6 @@
 ---
 name: europarecht-wettbewerb-kartell
-description: "Ordnet Art. 101, Art. 102, Fusionskontrolle, Vertical Block Exemption, DMA und nationale Schnittstellen ein."
+description: "Kartell- und Wettbewerbsrecht nach Art. 101 102 AEUV pruefen wenn Absprachen Marktmissbrauch oder Zusammenschluesse in Frage stehen. Art. 101 102 AEUV § 1 GWB VO 1/2003. Pruefraster: Kartellverbot Marktabgrenzung marktbeherrschende Stellung Missbrauch Freistellungen Geldbussen. Output: Kartellrechtspruefmemo Risikoeinschaetzung. Abgrenzung: nicht fuer Beihilfenrecht (europarecht-beihilfen-vergaben)."
 ---
 
 # EU-Wettbewerb und Kartellrecht

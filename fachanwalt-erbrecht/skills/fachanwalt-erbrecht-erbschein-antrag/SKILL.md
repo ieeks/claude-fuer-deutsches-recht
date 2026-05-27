@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-erbschein-antrag
-description: "Erbschein nach §§ 2353 ff. BGB beim Nachlassgericht beantragen. Antrag mit eidesstattlicher Versicherung § 2356 BGB ueber Erbfolge keine entgegenstehenden Verfuegungen. Zustaendig Nachlassgericht am letzten gewoehnlichen Aufenthalt des Erblassers § 343 FamFG. Alleinerbschein gemeinschaftlicher Erbschein Teilerbschein. Europaeisches Nachlasszeugnis EU-ErbVO 650/2012 fuer grenzueberschreitende Erbfaelle. Gebuehren GNotKG."
+description: "Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Pruefraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht fuer Europaeisches Nachlasszeugnis."
 ---
 
 # Erbschein-Antrag

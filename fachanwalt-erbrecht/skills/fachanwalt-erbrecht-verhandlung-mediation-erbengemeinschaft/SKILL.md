@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft
-description: "Erbschafts-Mediation bei Erbengemeinschaft Auseinandersetzungsstreit. Notar-Vermittlung § 363 FamFG bei Erbauseinandersetzung. Schiedsgutachten Bewertungs-Streit Immobilien Nachlass. Vorgerichtliche Vergleichsverhandlung Pflichtteilsergaenzung Schenkung Bewertung. Workflow Familien-Beziehung Wertgutachten Vergleichs-Vertrag notarielle Beurkundung."
+description: "Streit in der Erbengemeinschaft durch Verhandlung oder Mediation loesen. §§ 2032 2042 2047 BGB Erbengemeinschaft. Pruefraster: Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht fuer gerichtliche Teilungsklage."
 ---
 
 # Mediation / Vergleich bei Erbengemeinschaft

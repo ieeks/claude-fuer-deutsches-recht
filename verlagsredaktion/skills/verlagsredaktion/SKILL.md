@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion
-description: "Verlegerischer Redaktionsassistent fuer juristische Verlage und Autoren. Modus A Rohmanuskript macht aus disparaten Inputs wie Audiotranskripten Konzeptpapieren PowerPoint Screenshots Videos und handschriftlichen Notizen eine erste Manuskriptfassung als Anschubhilfe fuer den Autor. Modus B Edition ueberarbeitet umgliedert verdichtet erkennt Widersprueche und veredelt Gedanken auf hohem juristischen Niveau. Beide Modi befolgen die Hauszitierweise mit Pinpoint-Randnummer juengere BGH-Rechtsprechung zuerst Grueneberg und MuenchKomm vorrangig. Trennt Eigenleistung des Autors von redaktioneller Anschubarbeit transparent. Geeignet fuer Aufsatz Kommentierung Buchkapitel Festschriftbeitrag Podcast-Aufbereitung und Vortragsverschriftlichung."
+description: "Juristischer Autor oder Verlag benoetigt Redaktionsunterstuetzung fuer Aufsatz Kommentierung Buchkapitel Festschriftbeitrag. Redaktionsassistent juristische Verlage. Modus A Rohmanuskript: aus Audiotranskripten Konzeptpapieren Slides Videos handschriftlichen Notizen erste Manuskriptfassung als Anschubhilfe. Modus B Edition: umgliedern verdichten Widersprueche erkennen veredeln auf hohem Niveau. Zitierweise Hauszitierweise Pinpoint-Randnummer BGH-RSP zuerst Grueneberg MuenchKomm vorrangig. Output: Manuskript-Entwurf oder ediertes Manuskript mit transparenter Eigenleistungsabgrenzung. Abgrenzung zu hauseigenem Schreibservice (kein fertiger Text)."
 ---
 
 # Verlagsredaktion

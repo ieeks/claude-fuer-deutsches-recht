@@ -1,6 +1,6 @@
 ---
 name: klage-aus-eigenem-skill
-description: "Laufzeit-Variante der Klagewerkstatt. Setzt ein installiertes hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) voraus. Nimmt Sachverhalt und Beklagtenadresse, prueft online Zustaendigkeit (§§ 12/13/29/29c ZPO; §§ 23/71 GVG) und liefert fertige Klageschrift als DOCX und Markdown."
+description: "Kanzlei hat hauseigenes Klage-Plugin (klagewerkstatt-kanzlei) installiert und will damit Klagen aus eigenem Sachverhalt erstellen. Laufzeit-Variante Klagewerkstatt. Pruefraster: Sachverhalt Beklagtenadresse Zustaendigkeit §§ 12 13 29 29c ZPO §§ 23 71 GVG. Output: fertige Klageschrift DOCX und Markdown. Abgrenzung zu klagevorlage-aus-eigenen-mustern (Lernlauf) und inkasso-zahlungsklage-ersteller (standalone)."
 ---
 
 # Klagewerkstatt — Laufzeit aus eigenem Skill

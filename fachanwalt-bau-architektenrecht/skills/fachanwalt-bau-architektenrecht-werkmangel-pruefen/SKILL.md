@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-werkmangel-pruefen
-description: "Werkmangel § 633 BGB BGB-Werkvertrag oder § 13 VOB/B. Sachmangel Abweichung Sollbeschaffenheit. Maengelrechte § 634 BGB Nacherfuellung Selbstvornahme Minderung Ruecktritt Schadensersatz. Rueck-Nachbesserungsrecht Auftragnehmer § 635 BGB. Verjaehrung § 634a BGB fuenf Jahre Bauwerke. Hemmung durch Maengelbeseitigungsverhandlungen § 203 BGB. Beweislast vor und nach Abnahme. BGH VII ZR 244/12 VII ZR 17/02."
+description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Pruefraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme."
 ---
 
 # Werkmangel prüfen — Bau- und Werkvertragsrecht

@@ -1,6 +1,6 @@
 ---
 name: klage-gegen-vlop-einordnung-art-263-aeuv
-description: "Skill zur Nichtigkeitsklage gegen einen Designations-Beschluss der Kommission als VLOP (Art. 33 DSA) oder Gatekeeper (Art. 3 DMA). Klage zum EuG nach Art. 263 IV AEUV. Frist zwei Monate ab Bekanntgabe. Klagebefugnis: Adressat des Beschlusses unmittelbar und individuell betroffen. Klagegründe: Unzuständigkeit Verletzung wesentlicher Formvorschriften Verletzung der Verträge Ermessensmissbrauch. Eilrechtsschutz Art. 278 279 AEUV."
+description: "Nichtigkeitsklage gegen Designations-Beschluss der Kommission (VLOP nach DSA oder Gatekeeper nach DMA): Grossplattform will Designation anfechten. Normen: Art. 263 Abs. 4 AEUV (Nichtigkeitsklage EuG), Art. 33 DSA (VLOP-Designation), Art. 3 DMA (Gatekeeper-Designation), Art. 278-279 AEUV (Eilrechtsschutz). Pruefraster: Klagebefugnis (Adressat, individuell betroffen), Klagegründe (Unzustaendigkeit, Formfehler, Vertragsverletzung, Ermessensmissbrauch), Frist 2 Monate. Output Klageschrift-Geruest EuG, Eilrechtsschutz-Antrag. Abgrenzung: VLOP-Pflichten siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper-Schwellen siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
 ---
 
 # Klage gegen Designations-Beschluss — Art. 263 AEUV

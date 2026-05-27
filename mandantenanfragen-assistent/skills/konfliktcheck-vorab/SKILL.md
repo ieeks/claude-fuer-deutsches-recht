@@ -1,6 +1,6 @@
 ---
 name: konfliktcheck-vorab
-description: "Hinweis-Skill: vor Mandatsannahme muss ein Interessenkonflikt-Check nach Paragraph 43a Abs. 4 BRAO und Paragraph 3 BORA erfolgen. Instruiert Sekretariatsmitarbeitende, vor Terminvergabe die Gegenseite und Beteiligten zu erfragen. Laedt wenn der Nutzer 'Konfliktcheck', 'Interessenkonflikt pruefen', 'Paragraph 43a BRAO', 'Gegenseite erfragen' oder 'Mandatsannahme pruefen' sagt."
+description: "Sekretariat soll vor Terminvergabe Interessenkonflikt pruefen. § 43a Abs. 4 BRAO § 3 BORA Interessenkonflikt-Check. Pruefraster: Gegenseite und Beteiligte erfragen Datenbankabgleich bestehende Mandate. Output: Konfliktcheck-Anweisung und Abfragemuster. Abgrenzung zu mandatsverhaeltnis-hinweis (nach Mandatsannahme) und vertraulichkeit-erinnerung."
 ---
 
 # Konfliktcheck-Vorab

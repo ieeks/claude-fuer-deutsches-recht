@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-verkehrsrecht
-description: Strukturierte Eingangs-Abfrage fuer verkehrsrechtliche Mandate. Klaert Verfahrensart (Zivilrecht Schadensregulierung OWi-Bussgeldverfahren Strafrecht Verkehrsstraftaten Fahrerlaubnis MPU Versicherungsstreit) Unfallart (Personenschaden Sachschaden beidseitige Betriebsgefahr) Fristen-Sofort-Check (Einspruch Bussgeldbescheid zwei Wochen § 67 OWiG Verjaehrung drei Jahre § 195 BGB) Versicherungslage (Haftpflicht Kasko Rechtsschutz) und Eilbeduerftigkeit (vorlaeufige Entziehung Fahrerlaubnis § 111a StPO Fahrtenbuch-Auflage Strafanzeige). Routing zu unfall-haftungsquote-berechnen oder zu Bussgeld-Skill.
+description: "Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen pruefen. Eingangs-Triage Verkehrsrecht. Pruefraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjaehrung 3 Jahre § 195 BGB) Versicherungslage Eilbeduerftigkeit vorlaeufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bussgeld-einspruch-pruefen."
 ---
 
 # Mandat-Triage Verkehrsrecht

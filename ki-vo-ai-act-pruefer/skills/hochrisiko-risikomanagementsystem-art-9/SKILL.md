@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-risikomanagementsystem-art-9
-description: "Pflichten zum Risikomanagementsystem fuer Hochrisiko-KI-Anbieter nach Art. 9 KI-VO: kontinuierlicher iterativer Prozess Risikoidentifikation Risikoabschaetzung Risikominderung Restrisiko-Bewertung. Prueffragen und typische Luecken."
+description: "Anbieter von Hochrisiko-KI fragt: Wie setzen wir ein KI-VO-konformes Risikomanagementsystem auf und was muss es enthalten? Art. 9 KI-VO Risikomanagementsystem. Pruefraster: kontinuierlicher iterativer Prozess Risikoidentifikation Risikoabschaetzung Risikominderungsmassnahmen Restrisiko-Bewertung und -Akzeptanz Dokumentationspflicht. Typische Luecken fehlende Iterationszyklen unvollstaendige Risikolandkarte. Output: Risikomanagementsystem-Rahmenwerk und Vorlage Risikodokumentation. Abgrenzung zu hochrisiko-datenqualitaet-und-data-governance-art-10 und hochrisiko-konformitaetsbewertung-art-43-bis-49."
 ---
 
 # Risikomanagementsystem — Art. 9 KI-VO

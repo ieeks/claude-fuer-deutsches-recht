@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-online-gruendung-dirug
-description: "Online-Gruendung GmbH UG nach DiRUG seit August 2022. Beurkundung per Videokonferenz beim Notar Paragraf 2 III GmbHG. Voraussetzungen Bargruendung kein AG keine Sacheinlage. Identifikation eID Reisepass. Ablauf Test-Termin Haupttermin qeS. Vor- und Nachteile Internationale Gesellschafter. Pruefschema und Checkliste."
+description: "Online-Gruendung der GmbH nach DiRUG ohne persoenlichen Notartermin: Voraussetzungen, Verfahren, Grenzen. Normen: § 2 Abs. 3 GmbHG, DiRUG. Pruefraster: Musterprotokoll-Pflicht, Videoidentifikation, Beschraenkungen. Output: Checkliste Online-Gruendung mit Verfahrensschritten. Abgrenzung: nicht individuelle Satzung (erfordert Praesenz)."
 ---
 
 # Online-Gründung nach DiRUG

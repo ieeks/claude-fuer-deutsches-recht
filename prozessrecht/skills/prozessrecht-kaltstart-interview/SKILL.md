@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-kaltstart-interview
-description: "Einrichtungs-Interview für das Prozessrecht-Plugin – erfasst Kanzleiart, Rolle, Praxisschwerpunkte, Risikobereitschaft, Mandatslandschaft und Kanzleistil und schreibt die CLAUDE.md. Verwenden bei der Ersteinrichtung, wenn der Nutzer das Praxisprofil neu erstellen oder die Integrations-Verfügbarkeit prüfen möchte."
+description: "Prozessrechtliches Erstinterview strukturiert durchfuehren: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: §§ 253 261 ZPO, BRAO. Pruefraster: Anspruchsgrundlage, Zustaendigkeit, Verjaebrung, Kostenrisiko. Output: Interviewprotokoll mit Erstbewertung. Abgrenzung: nicht formelle Mandat-Aufnahme."
 ---
 
 # Kaltstart-Interview

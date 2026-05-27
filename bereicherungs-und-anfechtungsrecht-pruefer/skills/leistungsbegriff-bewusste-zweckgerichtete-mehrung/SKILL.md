@@ -1,6 +1,6 @@
 ---
 name: leistungsbegriff-bewusste-zweckgerichtete-mehrung
-description: "Definition des Leistungsbegriffs nach h.M. und BGH: bewusste und zweckgerichtete Mehrung fremden Vermoegens. Mehrpersonenverhaeltnisse bei Anweisung und Durchgriff."
+description: "Leistungsbegriff im Bereicherungsrecht definieren: bewusste und zweckgerichtete Mehrung fremden Vermoegens. Normen: § 812 BGB. Pruefraster: Bewusstsein, Zweckrichtung, Erkennbarkeit der Zweckbestimmung, Mehrpersonenverhaeltnisse. Output: Pruefergebnis Leistungsbegriff mit Abgrenzung. Abgrenzung: nicht Nichtleistungskondiktion Alt. 2 (dort keine Leistungsbeziehung)."
 ---
 
 # Leistungsbegriff: Bewusste und zweckgerichtete Mehrung

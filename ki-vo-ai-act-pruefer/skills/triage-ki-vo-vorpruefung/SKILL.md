@@ -1,6 +1,6 @@
 ---
 name: triage-ki-vo-vorpruefung
-description: "Erster Einstieg in den KI-VO-Pruefer: Erfasst strukturiert, ob der Nutzer eine eigene Software-Entwicklung, einen fremden Dienst, eine Produktintegration oder eine Beratungsanfrage einbringt. Stellt Eingangsfragen und leitet zum naechsten passenden Skill weiter. Warnt vor typischen Fehlzuordnungen."
+description: "Nutzer kommt mit unklarer KI-VO-Frage oder moeglicherweise betroffener Software und fragt: Wie starte ich die KI-VO-Pruefung? Eingangs-Triage-Skill. Pruefraster: Erfassung ob eigene Softwareentwicklung fremder Dienst Produktintegration oder Beratungsanfrage. Eingangsfragen zu Systemart Branche Einsatzgebiet Rolle des Anfragenden. Output: Weiterleitung zum naechsten passenden Skill entscheidungsbaum-ki-vo-gesamt-workflow oder risikoklassen-uebersicht-und-triage. Warnt vor typischen Fehlzuordnungen. Abgrenzung zu liegt-ki-system-vor-art-3-nr-1 (Vollpruefung KI-System-Definition)."
 ---
 
 # Triage: KI-VO-Vorprüfung — Was prüft der Nutzer?

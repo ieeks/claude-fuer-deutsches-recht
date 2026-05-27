@@ -1,6 +1,6 @@
 ---
 name: bora-konformitaetspruefung
-description: "Prueft Korrespondenz auf Einklang mit der Berufsordnung der Rechtsanwaelte (BORA): Verschwiegenheit (§ 2 BORA), Sachlichkeit in Werbung und Aussenkommunikation (§ 6 BORA) sowie Umgang mit anderen Rechtsanwaelten (§ 25 BORA)."
+description: "E-Mail auf BORA-Konformitaet pruefen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Pruefraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulaessige Versprechen. Output: BORA-Pruefprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht fuer BRAO-Pruefung (brao-konformitaetspruefung)."
 ---
 
 # BORA-Konformitätsprüfung

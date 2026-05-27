@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-anpassen
-description: "Praxisprofil des Plugins anpassen, ohne die Ersteinrichtung komplett zu wiederholen. Laden, wenn ein einzelner Parameter geändert werden soll."
+description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Pruefraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht fuer Neuerstellung von Richtlinien (richtlinien-neufassung)."
 ---
 
 # Praxisprofil anpassen

@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-wirtschaftsverkehr
-description: "Plant nachhaltigen Wirtschaftsverkehr: Lieferflaechen (StVO 12 45 46), Ladezonen (VwV-StVO), Logistikkonzepte, Beschilderung und Evaluation. Prueft Anliegerrechte und Ausnahmegenehmigungen."
+description: "Wirtschaftsverkehr und Lieferverkehr in der Stadt rechtlich gestalten: Logistikunternehmen oder Kommune plant Lieferzonen, Beschilderung oder Ausnahmegenehmigungen. Normen: § 12 StVO (Haltverbot), § 45 StVO (Sonderregelungen), § 46 StVO (Ausnahmegenehmigungen), VwV-StVO (Ladezonen). Pruefraster: Lieferflaechen, Ladezonen, Logistikkonzepte, Anliegerrechte, Ausnahmegenehmigungen. Output Rechts-Memo Ausnahmegenehmigung, Lieferflaechen-Konzept-Pruefung. Abgrenzung: Sondernutzung siehe verkehr-infrastrukturrecht-sondernutzung; Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung."
 ---
 
 # Wirtschaftsverkehr — Liefer- und Ladezonen, Logistikrecht

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gv-einladung-tagesordnung
-description: "Einladung zur Gesellschafterversammlung GmbH UG. Frist und Form Paragraf 51 GmbHG einberufungsberechtigte Personen Tagesordnungspunkte. Ordentliche Versammlung Paragraf 42a GmbHG jaehrlich. Ausserordentliche Versammlung. Mit Tagesordnungsvorschlag Templates Beispiel-Beschlussvorlagen Bilingualitaet DE EN. Nichtigkeits- und Anfechtungsrisiken."
+description: "Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Pruefraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfaehigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll."
 ---
 
 # Einladung zur Gesellschafterversammlung

@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-kaltstart-interview
-description: "Ersteinrichtung des Plugins für aufsichtsrechtliche Praxis. Laden, wenn das Praxisprofil noch nicht konfiguriert ist oder neu eingerichtet werden soll."
+description: "Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Pruefraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte fehlende Informationen. Abgrenzung: nicht fuer laufendes Mandat."
 ---
 
 # Ersteinrichtung – Regulatorisches Recht

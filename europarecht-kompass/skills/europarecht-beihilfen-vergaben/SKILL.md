@@ -1,6 +1,6 @@
 ---
 name: europarecht-beihilfen-vergaben
-description: "Prüft staatliche Mittel, Vorteil, Selektivität, Wettbewerb, Notifizierung, De-minimis, AGVO und Vergabe-Schnittstellen."
+description: "Beihilfenrecht und Vergaberecht pruefen wenn staatliche Foerderung oder oeffentlicher Auftrag in Frage steht. Art. 107 108 AEUV Beihilfeverbote §§ 97 ff. GWB Vergaberecht. Pruefraster: Beihilfebegriff Ausnahmen Notifizierung De-minimis-Verordnung Vergabeschwellen Rechtsmittel. Output: Beihilfen- oder Vergabepruefmemo. Abgrenzung: nicht fuer allgemeines Kartellrecht (europarecht-wettbewerb-kartell)."
 ---
 
 # Beihilfen, Förderungen und Vergabe

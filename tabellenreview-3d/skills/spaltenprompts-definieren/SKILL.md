@@ -1,6 +1,6 @@
 ---
 name: spaltenprompts-definieren
-description: "Definiert die Spaltenprompts der ersten Wuerfel-Achse — jede Spalte ist eine einzige praezise Frage die fuer ALLE Dokumente identisch gestellt wird damit Vergleichbarkeit ueber den Stapel entsteht. Enthaelt eine Bibliothek typischer Spaltenprompts fuer M&A-DD (Change-of-Control / MAC / Abtretungsverbot / Haftungsbegrenzung) Immobilien (Belastungen Abteilung II und III / Rang / Loeschungserleichterung) Arbeitsvertrag (Tarifbindung / Probezeit / Kuendigungsfrist) Vendor (AGB / AVV / SLA / Exit) Mietvertrag (Schoenheitsreparaturen / Indexmiete / Betriebskosten). Erzeugt `spaltenprompts.yaml` mit Antworttyp Pflichtfeld-Flag und Ampelregel pro Spalte."
+description: "Spaltenprompts fuer die drei Pruefperspektiven des 3D-Tabellenreviews definieren. Normen: §§ 174 ff. InsO. Pruefraster: Prompt-Formulierung je Spalte, Normverankerung, Eindeutigkeit. Output: Spaltenprompts-Dokument. Abgrenzung: nicht Zeilenprompts."
 ---
 
 # /tabellenreview-3d:spaltenprompts-definieren

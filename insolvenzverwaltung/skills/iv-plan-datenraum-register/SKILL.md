@@ -1,6 +1,6 @@
 ---
 name: iv-plan-datenraum-register
-description: "Baut einen vollständigen Datenraum für Insolvenzplan und StaRUG mit Dokumentenregister, Lückenanalyse, Versionen, Verantwortlichen und Beweiswert."
+description: "Planbegleitenden Datenraum aufbauen und Dokumentenregister fuehren wenn alle Planbausteine belegbar sein muessen. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Pruefraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle. Output: Datenraumregister Lueckenliste Beweiswertdokumentation. Abgrenzung: nicht fuer Anlagenpaket-Zusammenstellung (iv-plan-anlagenpaket)."
 ---
 
 # IV-integrierte Datenraum und Dokumentenregister

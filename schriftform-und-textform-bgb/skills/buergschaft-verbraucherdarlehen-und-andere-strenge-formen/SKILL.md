@@ -1,6 +1,6 @@
 ---
 name: buergschaft-verbraucherdarlehen-und-andere-strenge-formen
-description: "Strenge Formerfordernisse: Bürgschaft § 766 BGB Schriftform (außer Kaufmann § 350 HGB), Verbraucherdarlehen § 492 BGB, Teilzeitwohnrecht § 484 BGB, Grundstücksgeschäfte § 311b BGB notariell — Überblick Sanktionen Nichtigkeit und Heilung."
+description: "Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Pruefraster: Buergschaft § 766 BGB Schriftform (Ausnahme Kaufmann § 350 HGB) Verbraucherdarlehen § 492 BGB Teilzeitwohnrecht § 484 BGB Grundstücksgeschäfte § 311b BGB notarielle Beurkundung. Nichtigkeit und Heilungsmoeglichkeiten. Output: Formwirksamkeits-Analyse und Handlungsempfehlung. Abgrenzung zu notarielle-beurkundung-und-oeffentliche-beglaubigung (Notarfragen)."
 ---
 
 # Bürgschaft, Verbraucherdarlehen und andere strenge Formen

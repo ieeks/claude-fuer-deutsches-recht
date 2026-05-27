@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-fuenf-durchfuehrungswege
-description: "Vergleich und Auswahl der fuenf Durchfuehrungswege der betrieblichen Altersversorgung (Direktzusage Unterstuetzungskasse Pensionskasse Pensionsfonds Direktversicherung) mit Entscheidungsmatrix Bilanz- und Risiko-Tradeoffs sowie Auswirkungen auf IFRS/HGB fuer Konzerne im Stil von Treuenfels Yamamoto."
+description: "Fuenf Durchfuehrungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Pruefraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchfuehrungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG."
 ---
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung

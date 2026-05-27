@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
-description: "Markenanmeldung DPMA und EUIPO: Schutzfähigkeit § 8 MarkenG (Unterscheidungskraft, Freihaltebedürfnis, Üblichkeit, Hoheitszeichen). Markenformen (Wort, Wort-Bild, 3D, Klang, Positions-, Bewegungsmarke). Nizza-Klassifikation 34+11 Klassen. Ähnlichkeitsrecherche DPMAregister/eSearch plus. Widerspruchsverfahren § 42 MarkenG (3 Monate). Schutzdauer 10 Jahre § 47 MarkenG. Internationale Registrierung WIPO/Madrid. Priorität 6 Monate PVÜ Art. 4. Benutzungszwang § 25 MarkenG nach 5 Jahren. Anmeldeschreiben, Widerspruchsmuster."
+description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Pruefraster: Markenfaehigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht fuer Markenrechtsverletzungen (§ 14 MarkenG)."
 ---
 
 ## Mandantenfragen beim Kaltstart

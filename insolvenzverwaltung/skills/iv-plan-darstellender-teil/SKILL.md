@@ -1,6 +1,6 @@
 ---
 name: iv-plan-darstellender-teil
-description: "Schreibt und prüft den darstellenden Teil mit Krise, Maßnahmen, Planwirkungen, Vergleichsrechnung, Risiken, Sonderaktiva und entscheidungserheblichen Angaben."
+description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollstaendig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Pruefraster: Krisengeschichte Massnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht fuer gestaltenden Teil (iv-plan-gestaltender-teil)."
 ---
 
 # IV-integrierte Darstellender Teil

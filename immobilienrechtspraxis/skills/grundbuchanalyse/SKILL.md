@@ -1,6 +1,6 @@
 ---
 name: grundbuchanalyse
-description: Strukturierte Auswertung grosser Mengen Grundbuchdaten — Grundbuchauszuege Flurkarten Baulastenverzeichnis Altlastenkataster. Extrahiert pro Objekt Eigentuemerkette Belastungen in Abteilung II und III Rang Loeschungserleichterungen Grunddienstbarkeiten Reallasten Vorkaufsrechte sowie offene Briefgrundschulden. Erzeugt Risikomatrix und Portfoliosicht ueber alle Objekte. Geeignet fuer Due-Diligence-Portfolios Bestandsaufnahme nach Erwerb Refinanzierungs-Vorbereitung und laufende Asset-Management-Kontrolle. Akzeptiert PDF-Scans mit OCR und konsumiert Tabellen aus XML oder CSV des Grundbuchamtes.
+description: "Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Pruefraster: Abteilung I bis III, Widersprueche, Rangverhaeltnisse, Loeschungsansprueche. Output: Grundbuchanalyse-Bericht mit Handlungsempfehlung. Abgrenzung: nicht Kaufvertragspruefung."
 ---
 
 # Grundbuchanalyse

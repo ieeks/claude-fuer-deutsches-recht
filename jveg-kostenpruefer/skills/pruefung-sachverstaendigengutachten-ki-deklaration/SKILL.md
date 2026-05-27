@@ -1,6 +1,6 @@
 ---
 name: pruefung-sachverstaendigengutachten-ki-deklaration
-description: "Gerichtliche Prüfung der Vergütung eines Sachverständigengutachtens bei Verdacht auf KI-Einsatz. Anwendung § 4 Abs. 1 S. 1 JVEG und § 8a Abs. 2 S. 1 Nr. 1 und Nr. 2 JVEG, Erst-recht-Schluss aus § 407a Abs. 3 und Abs. 5 ZPO zur höchstpersönlichen Erstellungspflicht (§ 407a Abs. 1 ZPO), Indizien-Checkliste, Anhörungsablauf, mögliche Festsetzung auf null Euro, Nichtabhilfebeschluss und Beschwerdeweg."
+description: "KI-Deklaration in Sachverstaendigengutachten pruefen: Hat der Sachverstaendige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Pruefraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Pruefergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht allgemeine Gutachtenpruefung."
 ---
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG

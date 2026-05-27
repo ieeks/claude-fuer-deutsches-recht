@@ -1,6 +1,6 @@
 ---
 name: richtlinien-vergleich
-description: "Richtlinien-Diff – vergleicht eine neue Aufsichtsnorm oder -verlautbarung gegen eine bestehende interne Richtlinie. Laden, wenn eine konkrete Norm oder Verlautbarung gegen ein Bestandsdokument verglichen werden soll."
+description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Pruefraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht fuer Lueckenanalyse (luecken)."
 ---
 
 # Richtlinien-Diff

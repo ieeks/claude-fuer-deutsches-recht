@@ -1,6 +1,6 @@
 ---
 name: europarecht-nationales-verfahren-effektivitaet
-description: "Prüft Äquivalenz, Effektivität, nationale Verfahrensautonomie, Rechtsschutz und unionsrechtliche Grenzen."
+description: "EU-Rechtsvorgaben zum effektiven nationalen Rechtsschutz pruefen wenn nationales Verfahren EU-Rechte beeintraechtigt. Art. 47 GRC Art. 19 EUV Effektivitaetsprinzip. Pruefraster: Effektivitaetsgrundsatz Aequivalenzgrundsatz effektiver Rechtsschutz Staatshaftung Francovich. Output: Effektivitaets-Pruefmemo Klageoptionen. Abgrenzung: nicht fuer allgemeines Verfahrensrecht."
 ---
 
 # Nationales Verfahren und Effektivität

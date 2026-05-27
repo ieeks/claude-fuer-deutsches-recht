@@ -1,6 +1,6 @@
 ---
 name: ips-sicherheiten-drittsicherheiten
-description: "Prüft Absonderungsrechte, gruppeninterne Drittsicherheiten, Sicherheitentausch, Entschädigung, Ausfallwerte und Finanzsicherheiten."
+description: "Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO §§ 2 Abs. 4 StaRUG Drittsicherheiten. Pruefraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung gruppeninterne Drittsicherheiten Finanzsicherheiten Eingriffsstopper. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht fuer allgemeine Gruppenbildung."
 ---
 
 # Sicherheiten und Drittsicherheiten

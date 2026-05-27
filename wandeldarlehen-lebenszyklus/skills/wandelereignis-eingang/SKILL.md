@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-eingang
-description: "Workflow nach Eingang der Wandlungserklaerung des Lenders: Dokumentation des Eingangs, Vier-Augen-Pruefung der formellen Voraussetzungen (Textform, Frist, vollstaendige Erklaerung), Eingangsbestaetigung und Weiterleitung an zustaendige Stellen. Phase C des Lebenszyklus."
+description: "Eingehende Wandelereignis-Notification pruefen und naechste Schritte bestimmen wenn Investor Wandlung ankuendigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Pruefraster: Trigger-Typ Frist Preisbestimmung Erklaerung Kapitalerhohungsbedarf Formerfordernisse. Output: Pruefprotokoll Massnahmenplan Fristen. Abgrenzung: nicht fuer Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren)."
 ---
 
 # Wandelereignis – Eingang Wandlungserklärung

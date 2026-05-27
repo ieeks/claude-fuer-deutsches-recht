@@ -1,6 +1,6 @@
 ---
 name: europarecht-grundfreiheiten-binnenmarkt
-description: "Prüft Waren, Personen, Dienstleistungen, Niederlassung, Kapital, Beschränkung, Rechtfertigung und Verhältnismäßigkeit."
+description: "Grundfreiheiten des Binnenmarkts pruefen wenn grenzueberschreitende Wirtschaftstaetigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Pruefraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhaeltnismaessigkeit Cassis-Doktrin. Output: Grundfreiheiten-Pruefschema Pruefmemo. Abgrenzung: nicht fuer EU-Beihilfen (europarecht-beihilfen-vergaben)."
 ---
 
 # Grundfreiheiten und Binnenmarkt

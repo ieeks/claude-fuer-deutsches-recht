@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-genehmigtes-kapital
-description: "Genehmigtes Kapital Paragraf 55a GmbHG: Vorratsbeschluss Hoechstbetrag 50 Prozent bisheriges Stammkapital Geltungsdauer 5 Jahre. Erleichtert Finanzierungsrunden Wandeldarlehen ESOP ohne neue GV. Satzungsklausel Bezugsrechtsausschluss-Pruefung. BGH-Rechtsprechung und Workflow."
+description: "Genehmigtes Kapital fuer GmbH oder AG in Satzung aufnehmen: Ermaechtigungsbeschluss, Hoechstbetrag, Bezugsrechtsausschluss. Normen: §§ 55a GmbHG, §§ 202 ff. AktG. Pruefraster: Ermaechtigungsrahmen, Fristen, Bezugsrechte, Eintragungserfordernis. Output: Satzungsklausel genehmigtes Kapital. Abgrenzung: nicht ordentliche Kapitalerhöhung § 55 GmbHG."
 ---
 
 # Genehmigtes Kapital (§ 55a GmbHG)

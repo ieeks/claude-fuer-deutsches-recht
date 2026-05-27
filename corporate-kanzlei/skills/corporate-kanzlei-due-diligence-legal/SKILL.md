@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-due-diligence-legal
-description: "Legal Due Diligence: Pruefte Corporate-, Vertrags-, HR-, IP-, Litigation- und Compliance-Workstreams im M&A-Datenraum. Liefert Risk-Rating, Red-Flag-Memo und Vertragsmapping fuer SPA-Reps. Normen: §§ 311 II, 444 BGB, GmbHG, AktG."
+description: "Legal Due Diligence fuer M&A-Transaktionen: Prueft Corporate, Vertragswerk, HR, IP, Litigation und Compliance im Datenraum. Normen: §§ 311 Abs. 2 und 444 BGB sowie GmbHG, AktG, einschlaegige Sondergesetze. Pruefraster: Risk-Rating (hoch/mittel/niedrig), Red Flags, Vertragsmapping fuer SPA-Representations. Output Red-Flag-Memo, Risk-Matrix, SPA-Empfehlungen je Workstream. Abgrenzung: Vertrags-Detail siehe due-diligence-commercial-contracts; Konsolidierung aller Workstreams siehe due-diligence-reporting."
 ---
 
 # Legal Due Diligence

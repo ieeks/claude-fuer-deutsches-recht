@@ -1,6 +1,6 @@
 ---
 name: iv-eroeffnungsgutachten
-description: "Eröffnungsgutachten nach InsO aus Sicht des Sachverstaendigen oder vorläufigen Insolvenzverwalters. Prüft Eröffnungsgrund Massekostendeckung Sicherung und Empfehlung."
+description: "Eroeffnungsgutachten als Sachverstaendiger oder vorlaeufiger Insolvenzverwalter erstellen wenn Gericht Pruefauftrag erteilt. §§ 17 18 19 InsO Eroffnungsgruende §§ 26 54 InsO Massekostendeckung. Pruefraster: Zahlungsunfaehigkeit drohende ZU Ueberschuldung Massekosten Sicherungsbedarf Fortfuehrungsempfehlung. Output: Gutachtengliederung mit Sachverhalt Ergebnis Empfehlung. Abgrenzung: nicht fuer laufende Verwaltung nach Eroeffnung (iv-regelverfahren-eroeffnung)."
 ---
 
 # Eröffnungsgutachten

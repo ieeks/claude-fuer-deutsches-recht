@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Urheber- und Medienrecht: ZOPA BATNA Verhandlungsfenster Druckmittel Settlement-Skript Vergleichsentwurf. Lizenzanaloger Schadensersatz 97 Abs. 2 UrhG MFM-Tabellen. Persoenlichkeitsrecht Vergleich. Anwaltsvergleich 796a ZPO Prozessvergleich."
+description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf BATNA-Analyse. Abgrenzung: nicht fuer Schiedsstellenverfahren (fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg)."
 ---
 
 # Vergleichsverhandlung und Einigung im Urheber- und Medienrecht

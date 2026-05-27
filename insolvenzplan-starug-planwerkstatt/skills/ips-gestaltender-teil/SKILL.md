@@ -1,6 +1,6 @@
 ---
 name: ips-gestaltender-teil
-description: "Formuliert den gestaltenden Teil mit konkreten Rechtsänderungen, Quoten, Stundungen, Sicherheiten, Gruppenrechten, Bedingungen und Vollstreckbarkeit."
+description: "Gestaltenden Teil des Insolvenzplans oder StaRUG-Plans mit konkreten Rechtsaenderungen Quoten und Vollstreckungsgrundlagen formulieren. § 221 InsO § 7 StaRUG Planwirkungen. Pruefraster: Rechtsaenderungen je Gruppe Quoten Stundungen Sicherheitenaenderungen Bedingungen Bestimmtheit Vollstreckbarkeit Pauschalklauseln. Output: Gestaltender Teil Klauselmatrix Vollstreckbarkeitscheck. Abgrenzung: nicht fuer darstellenden Teil (ips-darstellender-teil)."
 ---
 
 # Gestaltender Teil

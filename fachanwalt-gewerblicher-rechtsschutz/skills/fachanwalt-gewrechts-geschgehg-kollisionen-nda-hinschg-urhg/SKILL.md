@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg
-description: "Geschaeftsgeheimnisgesetz (GeschGehG) in der Praxis: Schutzvoraussetzungen § 2 Nr. 1 GeschGehG (angemessene Geheimhaltungsmassnahmen), Kollisionen mit HinSchG (Whistleblower-Privileg §§ 5 und 32 HinSchG), NDA-Klauselgrenzen (HinSchG-Vorbehalt, Reverse-Engineering-Erlaubnis), UrhG-/Patent-/Know-how-Abgrenzung, anwaltliche Verschwiegenheit BORA § 2/§ 203 StGB, DSGVO-Schnittstellen, prozessuale Sondervorschriften §§ 9 ff. GeschGehG, Praxis-Konstellationen Mitarbeiterabwanderung und M&A-NDA."
+description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht pruefen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Pruefraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsaufloesung Hinweisgeberschutz. Output: Kollisionspruefmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill fuer Kollisionsfragen."
 ---
 
 ## Mandantenfragen beim Kaltstart

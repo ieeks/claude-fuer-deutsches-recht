@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rechtsschutz-mandat-arbeitsbereich
-description: "Verwaltung von Mandatsarbeitsbereichen — Anlegen, Auflisten, Wechseln, Schließen oder Trennen des aktiven Mandats. Für Kanzleien und Sozietäten, um den Kontext verschiedener Mandanten strikt zu trennen. Lädt, wenn ein konkretes Mandat verwaltet werden soll oder eine Sachskill wissen muss, in welchem Mandatskontext sie arbeitet."
+description: "Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Pruefraster: Anlegen Auflisten Wechseln Schliessen oder Trennen des aktiven Mandats Mandantenkontext fuer alle Folge-Skills. Output: aktives Mandat gesetzt und bestaetigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills."
 ---
 
 # Mandatsarbeitsbereich

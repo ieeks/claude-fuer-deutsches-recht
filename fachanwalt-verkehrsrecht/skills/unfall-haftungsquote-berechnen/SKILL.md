@@ -1,6 +1,6 @@
 ---
 name: unfall-haftungsquote-berechnen
-description: Berechnet Haftungsquote bei Verkehrsunfall nach §§ 7 17 18 StVG iVm § 254 BGB. Beruecksichtigt Betriebsgefahr beidseitig Anscheinsbeweis bei typischen Unfalllagen (Auffahrunfall Spurwechsel Rotlicht Vorfahrt) Mithaftung wegen Tempoverstoss Sicherheitsabstand Anschnallpflicht. Erstellt Schadenspositionen Reparatur fiktive Abrechnung Wiederbeschaffungswert Nutzungsausfall Sachverstaendigen-Kosten Anwaltskosten Schmerzensgeld. Verweist auf Pruefung der Versicherungsdeckung und Regress nach § 116 SGB X. Quotelung in der Praxis vom 100:0 bis 50:50.
+description: "Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Pruefraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverstaendige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Glaeubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
 ---
 
 # Unfall-Haftungsquote berechnen

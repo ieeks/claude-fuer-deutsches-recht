@@ -1,6 +1,6 @@
 ---
 name: euipo-widerspruchsverfahren
-description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV: Verwechslungsgefahr Art. 8 I lit. b, Bekanntheitsschutz Art. 8 V, Beschwerdekammer (BoA), Gebuehren, Fristen, Benutzungsnachweis. Laedt, wenn der Nutzer 'EUIPO Widerspruch', 'Opposition EUIPO', 'Verwechslungsgefahr EU', 'Bekanntheitsschutz EUIPO' oder 'BoA Beschwerde' sagt."
+description: "EUIPO-Widerspruchsverfahren nach Art. 8 UMV fuehren: aeltere Marke kollidiert mit juengerer Unionsmarken-Anmeldung. Normen: Art. 8 Abs. 1 lit. b UMV (Verwechslungsgefahr), Art. 8 Abs. 5 UMV (Bekanntheitsschutz), Art. 46 UMV (Beschwerdekammer BoA). Pruefraster: Widerspruchsfristen (3 Monate ab Veroeffentlichung), Gebuehren, Benutzungsnachweis Art. 47 UMV, Verwechslungsgefahr-Kriterien EUIPO-Praxis. Output Widerspruchsschrift EUIPO, Benutzungsnachweis-Zusammenstellung. Abgrenzung: DPMA-Widerspruch siehe dpma-widerspruch-und-loeschung; TTAB siehe ttab-opposition-und-cancellation."
 ---
 
 # EUIPO-Widerspruchsverfahren

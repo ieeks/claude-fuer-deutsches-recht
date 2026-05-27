@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-patent-nichtigkeitsklage
-description: "Patent-Nichtigkeitsklage 81 PatG vor Bundespatentgericht. Klagegrunde mangelnde Patentfaehigkeit 22 PatG: Neuheit 3 PatG, Erfindungshoehe 4 PatG, unzureichende Offenbarung 21 PatG. Stand-der-Technik-Recherche. EPG UPC Einheitspatent. Bifurkation DE. Workflow Recherche Klage Verteidigung Beschraenkung."
+description: "Patentnichtigkeitsklage beim BPatG vorbereiten oder Verteidigung des Patents gegen Nichtigkeitsangriff. §§ 81 ff. PatG Nichtigkeitsverfahren § 22 PatG Nichtigkeitsgruende. Pruefraster: Nichtigkeitsgrund Stand der Technik erfinderische Taetigkeit Neuheit Verfahrensfragen Gegendarstellung. Output: Nichtigkeitsklageschrift oder Klageerwiderung. Abgrenzung: nicht fuer Verletzungsverfahren (§ 139 PatG)."
 ---
 
 # Patent-Nichtigkeitsklage

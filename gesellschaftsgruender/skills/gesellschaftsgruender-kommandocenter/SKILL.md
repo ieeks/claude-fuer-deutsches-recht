@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kommandocenter
-description: "Master-Workflow Gesellschaftsgruendung: Fuehrt von Rechtsformwahl ueber Gesellschaftsvertrag Notar Handelsregister Gewerbeamt Finanzamt Transparenzregister bis GF-Pflichten. Pruefschema mit Fristen Beteiligte Kosten. GmbH UG GbR OHG KG GmbHCoKG PartGmbB gGmbH."
+description: "Navigationszentrum fuer alle Gruendungs-Skills: Fortschrittsanzeige, Delegierung an Fachinhalte, Status. Normen: GmbHG, AktG, HGB. Pruefraster: aktueller Gruendungsstand, offene Schritte, Notartermin, Eintragungsstatus. Output: Statusuebersicht Gruendungsprozess mit Naechste-Schritte-Liste. Abgrenzung: kein inhaltlicher Gruendungs-Skill."
 ---
 
 # Kommandocenter Gesellschaftsgründung

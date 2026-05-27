@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-expert-calls-transkripte
-description: "Expert Calls und Transkripte: Bereitet Expert-Calls fuer M&A-DD vor, wertet Transkripte aus und wandelt Erkenntnisse in strukturierte DD-Findings um. Normen: § 17 UWG (Geschaeftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung."
+description: "Expert Calls und Transkript-Auswertung in M&A-Due-Diligence: DD-Team fuehrt Experten-Interviews durch und will strukturierte Findings extrahieren. Normen: § 17 UWG (Geschaeftsgeheimnis), DSGVO Art. 6, MAR Insider-Abgrenzung, Expert Network Compliance. Pruefraster: Insider-Risiko-Check, Wettbewerbsrecht, Verwertbarkeit, DD-Finding-Klassifizierung. Output Strukturierte DD-Findings-Liste aus Transkript, Compliance-Protokoll, Insider-Abgrenzungs-Vermerk. Abgrenzung: Vertrags-DD siehe due-diligence-commercial-contracts; Gesamtbericht siehe due-diligence-reporting."
 ---
 
 # Expert Calls und Transkripte

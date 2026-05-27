@@ -1,6 +1,6 @@
 ---
 name: output-klageschrift-bereicherungsklage
-description: "Strukturhilfe fuer eine Klageschrift aus Bereicherungsrecht nach §§ 812 ff. BGB: Rubrum, Klageantrag auf Zahlung oder Herausgabe, Begruendung mit Obersatz-Definition-Untersatz-Ergebnis-Schema."
+description: "Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen: Klageantrag auf Zahlung oder Herausgabe, ODUE-Schema. Normen: §§ 812 818 BGB, §§ 253 313 ZPO. Pruefraster: Obersatz, Definition, Untersatz, Ergebnis, Streitwert, Beweisangebot. Output: Klageschriftentwurf Bereicherungsklage. Abgrenzung: nicht AnfG-Anfechtungsklage (dort Duldungsantrag)."
 ---
 
 # Output: Klageschrift Bereicherungsklage

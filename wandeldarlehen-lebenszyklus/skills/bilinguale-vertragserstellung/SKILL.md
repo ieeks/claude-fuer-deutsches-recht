@@ -1,6 +1,6 @@
 ---
 name: bilinguale-vertragserstellung
-description: "Bilinguale Erstellung DE/EN des Wandeldarlehensvertrags in zweispaltiger Tabelle (links DE verbindlich, rechts EN zur Orientierung), Sprachklausel mit Vorrang DE, standardisierte englische Uebersetzung aller Paragrafen, Unterschriftsblock mit DocuSign-Hinweis. Fuer GmbH und UG (haftungsbeschraenkt)."
+description: "Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen fuer internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Pruefraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenueberstell. Abgrenzung: nicht fuer einsprachige Fassung (einsprachige-vertragsfassung-de)."
 ---
 
 # Bilinguale Vertragserstellung DE/EN

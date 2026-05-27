@@ -1,6 +1,6 @@
 ---
 name: ips-minderheitenschutz
-description: "Prüft Minderheitenschutz, Schlechterstellung, sofortige Beschwerde Risiken, Sicherheitsleistungen und Plausibilisierung für opponierende Beteiligte."
+description: "Schlechterstellungsrisiken opponierender Beteiligter analysieren und Planangriffe durch Minderheitenschutzpruefung abwenden. § 251 InsO § 64 StaRUG Minderheitenschutz. Pruefraster: individuelle Schlechterstellung Sicherheitsleistungen Vergleichsrechnung Einwandkatalog Bestaetigungshemmnisse. Output: Minderheitenschutzmatrix Nachbesserungsliste. Abgrenzung: nicht fuer Cramdown-Fragen (ips-cramdown-obstruktion)."
 ---
 
 # Minderheitenschutz

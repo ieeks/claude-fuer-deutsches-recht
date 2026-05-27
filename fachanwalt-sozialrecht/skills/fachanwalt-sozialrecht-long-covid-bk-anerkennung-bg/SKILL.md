@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-long-covid-bk-anerkennung-bg
-description: "Long-COVID als Berufskrankheit nach § 9 SGB VII und BK-Liste Anlage 1 BKV — insbesondere BK 3101 (Infektionskrankheiten Gesundheitsdienst). Anerkennung BG bei Pflegekraeften AErzten Lehrkraeften Kassiererinnen. Beweisfuehrung Versicherungsfall haftungsbegruendende Kausalitaet. ME/CFS als Folge Long-COVID. RKI-Empfehlungen. BSG B 2 U 23/21 R. Workflow Anzeige BG Gutachten Klage SG."
+description: "Pflegekraft Arzt Lehrer oder Kassierer hat Long-COVID und fragt ob Berufserkrankungsanerkennung bei der Berufsgenossenschaft moeglich ist. § 9 SGB VII BK-Liste Anlage 1 BKV insbesondere BK 3101 Infektionskrankheiten Gesundheitsdienst. Pruefraster: Versicherungsfall haftungsbegruendende Kausalitaet Beweisfuehrung ME/CFS als Folge RKI-Empfehlungen BSG B 2 U 23/21 R. Output: BG-Anzeige Widerspruchsbaustein oder Klagebaustein Long-COVID BK. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (DRV-Rente)."
 ---
 
 # Long-COVID als Berufskrankheit § 9 SGB VII / BK 3101

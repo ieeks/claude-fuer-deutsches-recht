@@ -1,6 +1,6 @@
 ---
 name: eingriffskondiktion-zuweisungsgehalt
-description: "Eingriffskondiktion: Eingriff in den Zuweisungsgehalt einer fremden Rechtsposition. Tatbestand, Fallgruppen bei Immaterialgueterrechten und Persoenlichkeitsrechten. Verweisungsfunktion § 812 Abs. 1 S. 1 Alt. 2 BGB."
+description: "Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klaeren: Immaterialgueterrechte, Persoenlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Pruefraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden)."
 ---
 
 # Eingriffskondiktion — Zuweisungsgehalt

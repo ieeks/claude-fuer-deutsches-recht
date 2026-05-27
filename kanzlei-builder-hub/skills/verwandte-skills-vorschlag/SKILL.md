@@ -1,6 +1,6 @@
 ---
 name: verwandte-skills-vorschlag
-description: "Verwandte Community-Skills basierend auf aktueller Tätigkeit in anderen Plugins empfehlen. Prüft, ob die Community etwas Relevantes für eine Aufgabe gebaut hat, und erwähnt es einmal, nicht aufdringlich. Einsetzen, wenn der Nutzer sagt: „Gibt es einen Community-Skill dafür\", „Was gibt es sonst noch\", oder wenn Skill-Empfehlungen gewünscht werden; läuft auch passiv am Ende von Abläufe anderer Plugins."
+description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: Ergaenzungsempfehlungen. Normen: technisch/intern. Pruefraster: Rechtsgebiet, Verfahrensphase, Mandantentyp. Output: Vorschlagsliste verwandter Skills. Abgrenzung: nicht Kommandocenter-Navigation."
 ---
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung

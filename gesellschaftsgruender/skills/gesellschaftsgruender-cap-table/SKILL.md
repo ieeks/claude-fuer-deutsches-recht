@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-cap-table
-description: "Cap-Table-Erzeugung Capitalization Table. Pre-Money und Post-Money-Bewertung Bezugsrechtsverteilung Verwaesserung Anteilsklassen. Liquidation-Preference-Waterfall. Cap-Table als Excel JSON oder Markdown. Schnittstelle zum Notar mit beglaubigter Gesellschafterliste Paragraf 40 GmbHG. Vesting-Schedule pro Gruender. Mit Beispielen Solo-Gruender bis Series A."
+description: "Cap-Table fuer GmbH oder UG aufbauen und pflegen: Stammkapital, Gesellschafteranteile, Verwässerungsschutz. Normen: §§ 3 5 14 GmbHG. Pruefraster: aktuelle Anteile, Optionspools, Wandeldarlehen, Vesting-Schedule. Output: Cap-Table-Tabelle mit Anteilsuebersicht und Verwässerungsrechnung. Abgrenzung: nicht Gruendungsprotokoll oder Handelsregisteranmeldung."
 ---
 
 # Cap Table

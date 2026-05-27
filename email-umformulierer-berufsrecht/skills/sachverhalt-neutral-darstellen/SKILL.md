@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-neutral-darstellen
-description: "Wandelt subjektive Vorwuerfe und emotionale Schilderungen in objektive Sachverhaltsdarstellungen um. Nutzt Passivkonstruktionen, Datumsbezuege und unpersoenliche Formulierungen, um Konfliktstoff zu reduzieren ohne den Kern zu verfaelschen."
+description: "Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Pruefraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht fuer rechtliche Stellungnahmen."
 ---
 
 # Sachverhalt neutral darstellen

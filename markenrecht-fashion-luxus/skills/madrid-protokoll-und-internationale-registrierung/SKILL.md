@@ -1,6 +1,6 @@
 ---
 name: madrid-protokoll-und-internationale-registrierung
-description: "Madrid-Protokoll WIPO und internationale Registrierung: DE/EU als Basismarke, Subsequent Designations US/JP/CN/GB, Section 66(a)-Application beim USPTO, Central Attack Period 5 Jahre, Transformation, Madrid-Monitor ROMARIN. Laedt, wenn der Nutzer 'Madrid-Protokoll', 'IR-Marke', 'internationale Registrierung' oder 'Subsequent Designation' sagt."
+description: "Madrid-Protokoll WIPO und internationale Registrierung von Marken: Modehaus will Markenschutz in mehreren Laendern ueber IR-Anmeldung. Normen: Madrid-Protokoll (WIPO), § 107 MarkenG (IR-Marke), 15 U.S.C. § 1126 (Section 66(a) USPTO). Pruefraster: Basismarke DE/EU, Subsequent Designations fuer US/JP/CN/GB, Central-Attack-Risiko 5 Jahre, Transformation nach Basismarkenverlust. Output IR-Anmelde-Strategie, Designations-Liste, Central-Attack-Risikoabwaegung. Abgrenzung: Einzelne Anmeldungen je Amt siehe wortmarke-anmeldung-dpma, unionsmarken-anmeldung-euipo, uspto-anmeldung-und-lanham-act."
 ---
 
 # Madrid-Protokoll und Internationale Registrierung

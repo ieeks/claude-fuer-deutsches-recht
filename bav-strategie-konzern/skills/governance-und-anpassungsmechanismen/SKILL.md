@@ -1,6 +1,6 @@
 ---
 name: governance-und-anpassungsmechanismen
-description: "Pension Committee Charter Trustee-Board-Strukturen Anpassungsentscheidungen nach Paragraph 16 BetrAVG und sachlich-billige Ermessensausuebung fuer Konzern-Pensionsgremien im Stil von Treuenfels Yamamoto Duesseldorf: Governance-Rahmen fuer betriebliche Altersversorgung grosser Unternehmen."
+description: "Governance-Strukturen und Anpassungsmechanismen fuer Versorgungsordnung im Konzern entwerfen. Normen: §§ 1 ff. BetrAVG, BetrVG. Pruefraster: Anpassungsbeschlussprozesse, Mitbestimmungsrechte, Informationspflichten. Output: Governance-Handbuch bAV. Abgrenzung: nicht Betriebsrats-Mitbestimmung (eigener Skill)."
 ---
 
 # Governance und Anpassungsmechanismen — Pension Committee Charter und § 16 BetrAVG

@@ -1,6 +1,6 @@
 ---
 name: joint-controller-vereinbarung
-description: Pruefraster Gemeinsame Verantwortlichkeit nach Art. 26 DSGVO. Abgrenzung zur Auftragsverarbeitung Art. 28 DSGVO und zur separaten Verantwortlichkeit. EuGH-Linie C-25/17 Zeugen Jehovas C-40/17 Fashion ID Like-Button C-210/16 Wirtschaftsakademie C-252/21 Meta Platforms zur weiten Auslegung gemeinsamer Verantwortung. Pflicht-Vereinbarung Transparenz gegenueber Betroffenen Kontakt-Stelle. Inhalt Aufgaben-Verteilung Informations-Pflichten Betroffene Rechte Wahrnehmung. Haftung gesamtschuldnerisch Art. 82 Abs. 1 iVm Abs. 4 DSGVO mit Rueck-griff. Bussgeld separat pro Verantwortlichem Art. 83 DSGVO. Praxis-Beispiele Konzern Plattformen Konsortien Social-Plugin Veranstalter.
+description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Pruefraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Pruefprotokoll. Abgrenzung: nicht fuer Auftragsverarbeitung (avv-pruefung)."
 ---
 
 # Gemeinsame Verantwortlichkeit Art. 26 DSGVO

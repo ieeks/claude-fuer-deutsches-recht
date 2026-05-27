@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Urheber-, Presse- und Medienrecht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen. Normen: BRAO 43a, GwG 10 ff., UrhG 97a, LPG."
+description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Pruefraster: Sachverhaltserfassung Schutzfaehigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
 ---
 
 # Erstgespraech und Mandatsannahme im Urheber- und Medienrecht

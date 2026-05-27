@@ -1,6 +1,6 @@
 ---
 name: anrede-und-grussformeln
-description: "Hierarchie der Anreden und Schlussformeln fuer berufliche Korrespondenz: von der foermlichen Sammelanrede ueber Richter und Behoerden bis zur kollegialen Anrede unter Anwaelten. Mit Regeln fuer Titel, akademische Grade und internationale Varianten."
+description: "Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegialitaetsgebot. Pruefraster: korrekte Anrede Titel akademischer Grad Kollegialformel Schlussformel Mandantensprache. Output: optimierte Anrede und Grussformel mit Begruendung. Abgrenzung: nicht fuer den Briefkorpus (allgemeine-berufliche-korrespondenz)."
 ---
 
 # Anrede und Grußformeln

@@ -1,6 +1,6 @@
 ---
 name: sanierungsmoderation-94-starug
-description: Sanierungsmoderation nach § 94 StaRUG durch gerichtlich bestellten Moderator. Anwendungsbereich vor Restrukturierungs-Antrag bei drohenden Liquiditaets-Engpaessen unstreitigen wirtschaftlich gefaehrdeten Lagen. Aufgaben Moderator vermitteln zwischen Schuldner und Glaeubigern Sanierungs-Konzept ausarbeiten Verhandlungen begleiten. Vertraulichkeit Pflicht § 97 StaRUG. Verfahrens-Dauer drei Monate § 94 Abs. 2 StaRUG. Sanierungsvergleich § 97 StaRUG Bestaetigung § 100 StaRUG durch Restrukturierungs-Gericht. Verzahnung StaRUG-Restrukturierungs-Verfahren bei Erfolg. Bei Misserfolg Verweisung Insolvenz-Antrag. Praeventives Werkzeug Krise-Beratung. Schnittstelle BGH IX ZR 250/15 Anfechtungs-Risiko bei Vergleich Bargeschaeft-Privileg.
+description: "Sanierungsmoderation nach § 94 StaRUG vorbereiten und durchfuehren wenn aussergerichtliche Einigung mit moderierender Instanz angestrebt wird. §§ 94 ff. StaRUG Sanierungsmoderation. Pruefraster: Antrag Bestellungsvoraussetzungen Moderationsplan Vertraulichkeit Glaeubiger-Einbeziehung Abschlussbericht. Output: Moderationsplan Kommunikationsleitfaden Abschlussbericht. Abgrenzung: nicht fuer StaRUG-Restrukturierungsplan (ips-starug-plan-architektur)."
 ---
 
 # Sanierungsmoderation § 94 StaRUG

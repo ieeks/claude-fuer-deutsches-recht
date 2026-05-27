@@ -1,6 +1,6 @@
 ---
 name: zv-mahnbescheid-online
-description: "Begleitet den Antrag auf Mahnbescheid nach §§ 688 ff. ZPO über das Online-Mahnportal der Länder www.online-mahnantrag.de Schritt für Schritt: Schlüssigkeitsprüfung, Antragstyp, Gerichtsstandwahl, Hauptforderung, Nebenforderungen, Zinsen, Kostenfestsetzung, Übermittlung per beA, EGVP oder Druckanzeige. Klärt Anhängigkeit und Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Lädt, wenn Mandat einen Mahnantrag stellen oder verteidigen will."
+description: "Glaeubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Pruefraster: Schlüssigkeitspruefung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt fuer Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter."
 ---
 
 # Mahnbescheid online

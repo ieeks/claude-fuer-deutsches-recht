@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-ihk-und-berufsgenossenschaft
-description: "IHK-Pflichtmitgliedschaft Beitragsbemessung IHKG Paragraf 2. Berufsgenossenschaft Pflichtmitgliedschaft binnen einer Woche Paragraf 192 SGB VII Beitragsberechnung Gefahrklassen. Handwerkskammer bei Handwerksbetrieb. Freiberufler Sondervorschriften Versorgungswerk. Checkliste Pflichtmeldungen nach HR-Eintragung."
+description: "IHK-Pflichtmitgliedschaft und Berufsgenossenschafts-Anmeldung nach GmbH-Gruendung erledigen. Normen: §§ 2 ff. IHKG, §§ 150 ff. SGB VII. Pruefraster: Branchenzuordnung BG, IHK-Beitragspflicht, Fristen. Output: Checkliste IHK-Anmeldung und BG-Anmeldung. Abgrenzung: nicht Gewerbeamt-Anmeldung."
 ---
 
 # IHK und Berufsgenossenschaft

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gesellschafterstreit-eilantraege
-description: "Gesellschafterstreit Eilantrag einstweilige Verfuegung Landgericht Anmeldungs-Sperre Registergericht Paragraf 16 HGB. Streitige Gesellschafterversammlung Versammlungsleiter Konflikt. Anfechtungsklage Paragraf 246 AktG analog. FamFG Verfahren. Verfuegungsantrag Glaubhaftmachung Eilbeduerftigkeit. Tenor-Vorschlaege."
+description: "Eilmassnahmen im Gesellschafterstreit der GmbH: einstweilige Verfuegung gegen Mitgesellschafter oder Geschaeftsfuehrer. Normen: §§ 935 940 ZPO, §§ 37 38 GmbHG. Pruefraster: Verfuegungsanspruch, Verfuegungsgrund, Arrest vs. einstweilige Verfuegung. Output: Antragsschriftsatz einstweilige Verfuegung GmbH. Abgrenzung: nicht ordentliche Anfechtungsklage gegen Beschluss."
 ---
 
 # Gesellschafterstreit — Eilanträge

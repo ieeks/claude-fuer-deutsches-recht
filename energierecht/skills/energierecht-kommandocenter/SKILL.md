@@ -1,6 +1,6 @@
 ---
 name: energierecht-kommandocenter
-description: Eingangs-Routing fuer Energierechts-Mandate. Sortiert Mandant Stadtwerk Versorger Industriekunde Investor Behoerde Projektgesellschaft. Identifiziert Hauptpfad EEG-KWKG-Erzeugung Netz-und-Speicher-Zugang Vertrieb-und-Marktrollen Industriekunden-Sonderregelung Waerme-Quartier Wasserstoff-eMobility Infrastruktur Transaktion-DD Projektfinanzierung Verfahren-vor-BNetzA-OVG Wettbewerb. Erste Frist- und Risikopruefung. Schnittstelle zu fachanwalt-verwaltungsrecht bei Verwaltungsverfahren. Routing-Matrix mit Eskalations-Trigger Energiekrisen-Notmassnahmen Versorgungssicherheit Sonderlagen.
+description: "Navigationszentrum fuer alle Energierecht-Skills: Weiterleitung je Rechtsthema und Anfrageart. Normen: EnWG, EEG, KWKG, GEG. Pruefraster: Themenfeld Erzeugung/Netz/Vertrieb, Kundentyp, einschlaegige Norm. Output: Skillauswahl-Empfehlung Energierecht. Abgrenzung: kein inhaltlicher Pruef-Skill."
 ---
 
 # Energierecht — Kommandocenter (Eingangs-Routing)

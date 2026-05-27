@@ -1,6 +1,6 @@
 ---
 name: ips-asset-deals-im-plan-grundstuecke-marken-kundendaten
-description: "Uebertragungsklauseln im Insolvenzplan: aufschiebend bedingt versus aufloesend bedingt fuer Grundstuecke Marken und Kundendaten. Wann braucht es Glaeubigerzustimmung Mehrheiten 244 247 InsO und wann nicht. § 254a InsO als Auflassungsersatz. Kundendaten-Opt-in mit Goodie. Mit Mustertexten."
+description: "Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Pruefraster: Uebertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformitaet. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht fuer allgemeine Planarchitektur (ips-insolvenzplan-architektur)."
 ---
 
 # Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung

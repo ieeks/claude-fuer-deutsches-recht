@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch
-description: "Marken-Widerspruchsverfahren DPMA EUIPO: Frist 3 Monate 42 MarkenG. Verwechslungsgefahr 4-Stufen-Test Zeichenaehnlichkeit Warenaehnlichkeit Bekanntheit Wechselwirkung. Benutzungspflicht 26 MarkenG Nichtbenutzungseinwand. Loeschungsklage BPatG 50 MarkenG. Workflow Schriftsatz Verteidigung."
+description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Pruefraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht fuer Loeschungsklage (§ 49 MarkenG)."
 ---
 
 # Marken-Widerspruchsverfahren

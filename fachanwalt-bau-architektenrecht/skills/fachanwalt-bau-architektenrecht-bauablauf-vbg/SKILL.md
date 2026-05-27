@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bauablauf-vbg
-description: "Behinderungsanzeige § 6 Abs. 1 VOB/B Bauablaufstoerung Mehrkostenanspruch § 6 Abs. 6 VOB/B Bauzeitverlaengerung § 6 Abs. 2 VOB/B. BGB-Vertrag § 642 Annahmeverzug Entschaedigung. Bauablaufkonzept SOLL-IST-Vergleich Kausalitaetsnachweis konkrete Bauablaufstoerung. Anordnung § 1 Abs. 3 VOB/B Mehrvergutung § 2 Abs. 5 VOB/B. Beweislast Auftragnehmer fuer Stoerung Verlaengerung Mehrkosten. BGH VII ZR 11/08."
+description: "Bauzeitverzoegerung und Bauablaufstoerung nach VOB/B pruefen und geltend machen. Normen: §§ 6 6e VOB/B, §§ 280 286 BGB. Pruefraster: Behinderungsanzeige, Kausalitaet, Nachweis der Verzoegerung, Schadensberechnung. Output: Nachtragsbegruendung Bauverzoegerung. Abgrenzung: nicht Nachtragsmanagement Mehrverguetung."
 ---
 
 # Bauablauf-Störung — Behinderungsanzeige und Mehrkostenforderung

@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-warnung-paragraph-102-starug-template
-description: "Volltext-Templates der § 102-StaRUG-Warnung für Steuerberater, Wirtschaftsprüfer und Rechtsanwälte: drei Eskalationsstufen, Dokumentations-Quittung, Mandatsniederlegungs-Schreiben, Nachweis der Beraterpflicht."
+description: "§ 102-StaRUG-Warnbrief fuer Berater erstellen: Steuerberater oder Anwalt muss Mandanten formal warnen und Pflichterfuellung dokumentieren. Normen: § 102 StaRUG (Warnpflicht Rechtsberater), § 43 GmbHG, BGH IX ZR 285/14 (Sanierungsberater-Haftung). Pruefraster: Drei Eskalationsstufen (Warnung, verstaerkte Warnung, Niederlegung), Dokumentations-Quittung, Mandatsniederlegungs-Schreiben. Output Warnbrief-Templates fuer alle drei Eskalationsstufen. Abgrenzung: Warnpflicht rechtlich siehe paragraph-102-starug-warnpflicht-bei-rechtsberatern; GF-Haftung siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg."
 ---
 
 # Mandantenbrief-Templates — § 102-StaRUG-Warnung in drei Eskalationsstufen

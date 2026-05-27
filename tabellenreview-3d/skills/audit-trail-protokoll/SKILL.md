@@ -1,6 +1,6 @@
 ---
 name: audit-trail-protokoll
-description: "Fuehrt das Audit-Trail-Protokoll des Wuerfels — jeder Reviewlauf jede Prompt-Aenderung jede Pruefer-Abnahme jeder Cache-Treffer jede Hash-Pruefung wird unveraenderlich protokolliert. Spalten pro Eintrag: Zeitstempel Aktion Verantwortlicher Wuerfelversion Prompt-Version Modell-Version Eingangs-Hash Ausgangs-Hash Begruendung. Ablage als `audit-trail.jsonl` (append-only) und als `audit-trail.md` (menschenlesbar). Pflichteintrag vor jeder Mandatsuebergabe. Erlaubt Nachweis gegenueber Mandant Pruefer Aufsicht und Versicherung dass der Wuerfel reproduzierbar entstand."
+description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprueft und geaendert. Normen: §§ 238 257 HGB Buchfuehrungspflichten. Pruefraster: Zeitstempel, Pruefer-ID, Aenderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Pruefung (Zweck: Nachvollziehbarkeit)."
 ---
 
 # /tabellenreview-3d:audit-trail-protokoll

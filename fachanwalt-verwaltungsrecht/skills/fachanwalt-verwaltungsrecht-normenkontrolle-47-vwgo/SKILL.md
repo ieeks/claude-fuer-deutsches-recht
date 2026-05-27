@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo
-description: "Normenkontrollverfahren § 47 VwGO bei Bauleitplaenen Rechtsverordnungen Satzungen. Antragsfrist 1 Jahr ab Inkrafttreten. Antragsbefugnis Rechtsbeeintraechtigung. OVG zustaendig. Bei Bauleitplan Schutz Eigentum Art. 14 GG. Workflow Antrag Verfahren Urteil."
+description: "Normenkontrollantrag nach § 47 VwGO gegen Bauleitplaene, Rechtsverordnungen oder Satzungen: Betroffener will Bebauungsplan oder kommunale Satzung zu Fall bringen. Normen: § 47 VwGO (Normenkontrolle OVG), Art. 14 GG (Eigentumsschutz), § 1 Abs. 7 BauGB (Abwaegungsgebot). Pruefraster: Antragsfrist 1 Jahr ab Inkrafttreten, Antragsbefugnis, OVG-Zustaendigkeit, Abwaegungsfehler. Output Normenkontrollantrag-Entwurf. Abgrenzung: Anfechtungsklage gegen einzelnen VA siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Planfeststellung siehe energietrassen-planfeststellung-rechtsschutz."
 ---
 
 # Normenkontrolle § 47 VwGO

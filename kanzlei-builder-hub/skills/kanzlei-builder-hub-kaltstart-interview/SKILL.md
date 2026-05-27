@@ -1,6 +1,6 @@
 ---
 name: kanzlei-builder-hub-kaltstart-interview
-description: "Praxisprofil-Interview, das ein Starter-Paket aus Community-Kanzlei-Skills empfiehlt und installiert. Dies IST der Kaltstart für das gesamte Ökosystem — es fragt nach Kanzleityp und empfiehlt, was zuerst installiert werden sollte. Beim Erststart einsetzen, wenn der Nutzer sagt „Einstieg\", „Was soll ich installieren\" oder um die Integrations-Verfügbarkeitsprüfung nach Hinzufügen oder Entfernen eines MCP-Konnektors erneut auszuführen."
+description: "Kaltstart-Interview fuer den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Pruefraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfiguration. Abgrenzung: nicht Plugin-Installation (Folgeschritt)."
 ---
 
 # /kaltstart-interview — Kanzleiprofil-Interview

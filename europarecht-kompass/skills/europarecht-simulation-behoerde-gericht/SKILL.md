@@ -1,6 +1,6 @@
 ---
 name: europarecht-simulation-behoerde-gericht
-description: "Simuliert EU-bezogene Behörden-, Gerichts- und Kommissionsverfahren mit Lernkurve für junge Juristinnen und Juristen."
+description: "Verhandlung vor EU-Behoerde oder nationalem Gericht mit EU-Rechtsbezug simulieren und Argumentation testen. Art. 267 AEUV Art. 263 AEUV EuGH-Verfahren. Pruefraster: Argumente Gegenargumente Vorlageentscheidung Richterperspektive Schwachstellen. Output: Simulationsprotokoll Argumentation-Feinschliff. Abgrenzung: nicht fuer Klageentwuerfe (europarecht-klagearten-eugh)."
 ---
 
 # Simulation Behörde, Gericht und Kommission

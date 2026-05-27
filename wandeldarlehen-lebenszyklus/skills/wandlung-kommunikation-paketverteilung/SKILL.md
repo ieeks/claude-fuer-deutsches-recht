@@ -1,6 +1,6 @@
 ---
 name: wandlung-kommunikation-paketverteilung
-description: "Kommunikation an alle Parteien nach Wandlungsentscheidung: Lender (Bestaetigung Wandlung und neue Anteile), Gesellschaft (Aufforderung zur Mitwirkung Kapitalerhoehung), Gesellschafterinnen (Mitwirkungspflicht aktivieren), Steuerberater (Cap-Table-Update), Buchhaltung (Ausbuchung Verbindlichkeit, Einbuchung Eigenkapital nach § 272 HGB)."
+description: "Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Pruefraster: Empfaengerliste Dokumente Zugang Fristen Bestaetigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht fuer inhaltliche Pruefung der Wandlung (wandelereignis-eingang)."
 ---
 
 # Wandlung – Kommunikation und Paketverteilung

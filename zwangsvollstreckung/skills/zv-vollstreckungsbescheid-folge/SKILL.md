@@ -1,6 +1,6 @@
 ---
 name: zv-vollstreckungsbescheid-folge
-description: "Steuert das Verfahren nach Erlass des Mahnbescheids: Beantragung des Vollstreckungsbescheids nach § 699 ZPO über das Online-Mahnportal, Reaktion auf Einspruch nach § 700 ZPO, Übergang ins streitige Verfahren. Erläutert die Wirkung des VB als Vollstreckungstitel mit Klausel kraft Gesetzes § 796 Abs. 1 ZPO und die Vollstreckung aus dem VB. Lädt nach Mahnbescheid oder vor VB-Antrag."
+description: "Mahnbescheid wurde erlassen und Glaeubiger muss entscheiden wie es weitergeht. § 699 ZPO Vollstreckungsbescheid Online-Mahnportal. Pruefraster: Beantragung VB Reaktion auf Einspruch § 700 ZPO Uebergang streitiges Verfahren Wirkung VB als Titel Klausel kraft Gesetzes § 796 Abs. 1. Output: VB-Antrag oder Strategie-Empfehlung nach Einspruch. Abgrenzung zu zv-mahnbescheid-online (Mahnbescheid-Antrag) und zv-kommandocenter."
 ---
 
 # Vollstreckungsbescheid und Folgeverfahren

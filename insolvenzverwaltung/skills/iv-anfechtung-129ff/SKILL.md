@@ -1,6 +1,6 @@
 ---
 name: iv-anfechtung-129ff
-description: "Insolvenzanfechtung §§ 129 ff InsO aus Sicht des Insolvenzverwalters. Prüft Tatbestaende Fristen Kenntnis Bargeschaeft Anspruchshoehe Klage und Vergleich."
+description: "Insolvenzanfechtungsansprueche nach §§ 129 ff. InsO pruefen und verfolgen wenn Zahlungen oder Sicherheiten vor Insolvenzantrag verdaechtig sind. §§ 130 131 133 135 InsO Deckungsanfechtung Vorsatzanfechtung Bargeschaeft. Pruefraster: Tatbestand Frist Empfaengerkenntnis Gegenleistung Anspruchshoehe Vergleichspotenzial. Output: Anfechtungsschreiben Klageentwurf Vergleichsrechnung. Abgrenzung: nicht fuer § 15b-Haftungsklagen (iv-zahlungsklagen-15b) oder allgemeine Forderungspruefung."
 ---
 
 # Insolvenzanfechtung §§ 129 ff. InsO

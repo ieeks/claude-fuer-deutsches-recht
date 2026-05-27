@@ -1,6 +1,6 @@
 ---
 name: energierecht-energievertraege
-description: Energie-Vertraege Strom-Liefer-Vertrag Sondervertrag Industrie-Sondervertrag Bilanzkreis-Vertrag GPKE Mieterstrom Waermeliefer-Vertrag AVBFernwaermeV. Vertrags-Bausteine Vertragsdauer Verlaengerung Preisformel Sicherheiten Force-Majeure Anpassungs-Klauseln Mengen-Toleranzbaender Strommarkt-Risiko-Verteilung. AGB-Kontrolle §§ 305 ff BGB BGH-Linie Preisanpassungs-Klauseln. Konzessions-Vertrag Strom-Gas-Kommune § 46 EnWG. Vertraglich-Energie-Wende-Klauseln Carbon Adjustment ESG-Pflichten. Vertrags-Migration in Krisen-Zeiten Stundungs-Klauseln Hardship.
+description: "Energieliefervertraege pruefen und entwerfen: Strom- und Gasliefervertraege mit Industrie- und Privatkunden. Normen: §§ 41 ff. EnWG, StromGVV, GasGVV. Pruefraster: Preisanpassungsklauseln, Laufzeiten, Sonderkuendigungsrecht, Lieferbedingungen. Output: Vertragspruefergebnis oder Vertragsentwurf. Abgrenzung: nicht Netzanschlussvertrag."
 ---
 
 # Energie-Verträge — Strukturierung und Prüfung

@@ -1,6 +1,6 @@
 ---
 name: dokumenten-upload-extraktion
-description: "Wenn Mandant Dokumente hochlaedt (Term Sheet, Investor Rights Agreement, SPA), relevante Zahlen fuer die Wandlungsrechnung herausziehen: Pre-Money-Bewertung, Investitionsvolumen, neue Anteilsklassen, Vesting-Konditionen, Liquidationspraeferenzen, ESOP-Pool-Groesse. Strukturierter Extrakt fuer Cap-Table-Berechnung."
+description: "Hochgeladene Wandeldarlehens-Dokumente analysieren und Kerndaten extrahieren fuer Mandatsbearbeitung. BGB GmbHG Standardterminologie. Pruefraster: Vertragsparteien Darlehenshoehe Zinsen Wandlungspreisbeschreibung Trigger Laufzeit Sonderrechte. Output: strukturiertes Datenmemo mit Extraktionsergebnis. Abgrenzung: Extraktion und Triage; Detailpruefung in Spezialist-Skills."
 ---
 
 # Dokumenten-Upload und Datenextraktion

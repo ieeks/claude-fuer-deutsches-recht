@@ -1,6 +1,6 @@
 ---
 name: dokumentationspflicht-und-protokollierung-geschaeftsfuehrung
-description: "Dokumentationspflicht und Krisenprotokollierung der Geschäftsführung: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung für Haftungsprozesse, § 43 GmbHG und § 93 Abs. 2 S. 2 AktG."
+description: "Krisenprotokollierung der Geschaeftsfuehrung fuer Haftungsschutz: GmbH-Geschaeftsfuehrer oder AG-Vorstand will Entscheidungen in der Krise dokumentieren. Normen: § 43 GmbHG (Sorgfaltspflicht und Haftung), § 93 Abs. 2 S. 2 AktG (Beweislastumkehr), Business Judgment Rule. Pruefraster: Krisenprotokoll-Templates, Sitzungsvorlagen, Schriftformerfordernis, Beweissicherung fuer spaetere Haftungsprozesse. Output Krisenprotokoll-Vorlage, Sitzungsprotokoll-Template, Dokumentations-Checkliste. Abgrenzung: GF-Haftung in der Krise detail siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Dokumentationspflicht und Protokollierung — Beweissicherung für Haftungsprozesse

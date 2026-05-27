@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-hoai-honorar-mindestsaetze
-description: "HOAI-Honorar nach EuGH C-377/17 Vossloh und BGH VII ZR 174/19 Mindestsaetze nicht mehr bindend. Honorar-Zone Anrechenbare Kosten Leistungsbild. Architektenvertrag § 650p ff. BGB. Schlussrechnung Pruefraster. Pruefbarkeit Schlussrechnung § 14 HOAI. Workflow Vertragspruefung Streit-Strategie."
+description: "HOAI-Honorar fuer Architekten und Ingenieure berechnen und Mindestsaetze-Unterschreitung pruefen. Normen: HOAI, §§ 650p ff. BGB. Pruefraster: Leistungsphasen, anrechenbare Kosten, Mindestsaetze nach EuGH-Entscheidung. Output: Honorarberechnung HOAI. Abgrenzung: nicht Architektenvertrag-Gestaltung."
 ---
 
 # HOAI-Honorar (nach EuGH-Urteil)

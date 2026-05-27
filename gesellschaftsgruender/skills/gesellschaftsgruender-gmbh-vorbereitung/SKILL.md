@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gmbh-vorbereitung
-description: "Vorbereitung einer GmbH-Gruendung. Stammkapital Bareinlage Sacheinlage Sachgruendungsbericht Werthaltigkeit Differenzhaftung Paragraf 9 GmbHG. Firmenname IHK-Vorpruefung Paragraf 30 HGB Verwechslungsgefahr. Sitz Geschaeftsgegenstand Musterprotokoll vs individuelle Satzung. Liefert Notarcheckliste und Sieben-Bausteine-Pruefschema."
+description: "GmbH-Gruendung vorbereiten: Gruenderpruefung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Pruefraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschaeftsfuehrereignung. Output: Vorbereitungscheckliste GmbH-Gruendung. Abgrenzung: nicht UG-Gruendung (eigener Skill)."
 ---
 
 # GmbH-Vorbereitung

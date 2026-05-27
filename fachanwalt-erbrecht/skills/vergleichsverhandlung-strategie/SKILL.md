@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Erb- und Pflichtteilsrecht: ZOPA, BATNA, Verhandlungsfenster, Druckmittel, Settlement-Skript, Vergleichsentwurf und prozessuale Absicherung (Protokoll-/Anwaltsvergleich)."
+description: "Erbrechtlichen Streit durch Vergleich loesen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht fuer Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft)."
 ---
 
 # Vergleichsverhandlung und Einigung im Erb- und Pflichtteilsrecht

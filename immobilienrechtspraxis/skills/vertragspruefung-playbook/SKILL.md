@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-playbook
-description: Prueft externe Immobilienvertraege gegen das hauseigene Playbook der Rechtsabteilung. Drei Ausgaben — Ampelmatrix nach Klauselkatalog, Redline-Empfehlung als chirurgische Tracked Changes und Business-Memo fuer das Asset-Management. Playbook wird als Markdown oder JSON geladen und liefert pro Klauseltyp Soll-Formulierung Toleranzband und Eskalationsstufe. Geeignet fuer Mietvertraege Kaufvertraege Bauvertraege Hausverwaltervertraege Property-Management-Vertraege Facility-Vertraege. Erkennt regelmaessig kritische Themen wie Schriftform Indexierung Konkurrenzschutz Untervermietung Schoenheitsreparaturen-AGB und Gewaehrleistungsausschluss beim Grundstueckskauf.
+description: "Immobilienrechtliche Vertraege nach standardisiertem Playbook pruefen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Pruefraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerfordernisse. Output: Vertragspruefergebnis mit Markierungen. Abgrenzung: nicht Vertragserstellung."
 ---
 
 # Vertragsprüfung gegen Playbook

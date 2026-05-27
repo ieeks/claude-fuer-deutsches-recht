@@ -1,6 +1,6 @@
 ---
 name: account-sperre-soziales-netzwerk-rechtsbehelfe-art-20-23-dsa
-description: "Skill zur anwaltlichen Vertretung bei Account-Sperre oder Inhaltsentfernung durch ein soziales Netzwerk. Stufenmodell: Art. 17 Begründungspflicht; Art. 20 internes Beschwerdesystem; Art. 21 außergerichtliche Streitbeilegung; Klageweg bei Vertragsstörung (BGH III ZR 179/20 und III ZR 192/20 vom 29.07.2021) auch gegen Auslandsanbieter; vorläufiger Rechtsschutz nach §§ 935 940 ZPO; Schadensersatz; Schnittstellen zu DSGVO Auskunft Löschung."
+description: "Account-Sperre oder Inhaltsentfernung durch soziales Netzwerk anfechten: Nutzer oder Unternehmen ist von Plattform gesperrt worden. Normen: DSA (EU) 2022/2065 Art. 17 (Begruendungspflicht), Art. 20 (internes Beschwerdesystem), Art. 21 (aussergerichtliche Streitbeilegung), BGH III ZR 179/20 und III ZR 192/20 (Vertragsrecht vs. Auslandsanbieter). Pruefraster: Stufenmodell: Art. 17 Begruendung siehe Art. 20 Beschwerde siehe Art. 21 ADR siehe Klage; einstweiliger Rechtsschutz §§ 935 und 940 ZPO; Schadensersatz; DSGVO-Schnittstelle. Output Beschwerdebrief-Entwurf, Klageschrift-Geruest, DSA-Compliance-Check. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Risikobewertung VLOP siehe dsa-art-34-systemische-risikobewertung."
 ---
 
 # Account-Sperre — Rechtsbehelfe nach Art. 20 bis 23 DSA

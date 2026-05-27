@@ -1,6 +1,6 @@
 ---
 name: zv-elektronische-zustellung-2027
-description: "Operative Umsetzung des Gesetzes zur weiteren Digitalisierung der Zwangsvollstreckung (ZVollstrDigitG, BT-Drs. 21/4815): XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026, Pflicht der Kreditinstitute zur Eröffnung eines sicheren Übermittlungsweges ab 1.10.2027 (§ 173 Abs. 2 Nr. 1 ZPO n.F.), eBO, § 130a Abs. 4 ZPO, neue ZVFV-Formulare, § 840 ZPO Drittschuldnererklärung. Aktualisiert Datum, falls Verkündung im BGBl nachgereicht. Lädt zu jeder Pfändung, deren Zustellung elektronisch erfolgt oder erfolgen soll."
+description: "Glaeubiger oder Kreditinstitut fragt: Was aendert sich durch die Digitalisierung der Zwangsvollstreckung ab 2026/2027? ZVollstrDigitG BT-Drs. 21/4815. Pruefraster: XML-Antrag § 829 Abs. 5 ZPO n.F. ab 1.10.2026 Pflicht sicherer Uebermittlungsweg Kreditinstitute § 173 Abs. 2 Nr. 1 ZPO n.F. ab 1.10.2027 eBO ZVFV-Formulare neu § 840 ZPO. Output: Umstellungs-Checkliste und aktualisierte Workflow-Anpassung. Abgrenzung zu zv-pfueb-bank (PfUeB gegen Konto) und zv-titel-klausel-zustellung (Klassisch)."
 ---
 
 # Elektronische Zustellung in der Zwangsvollstreckung – ZVollstrDigitG

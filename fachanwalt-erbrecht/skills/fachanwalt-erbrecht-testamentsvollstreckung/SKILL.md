@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-testamentsvollstreckung
-description: "Testamentsvollstreckung §§ 2197 ff. BGB. Abwicklungs-TV § 2203 BGB Verwaltungs-TV § 2209 BGB Dauer-TV § 2210 BGB bis 30 Jahre. Annahme § 2202 BGB Bestaetigung Nachlassgericht. Pflichten Auskunft Rechnungslegung § 2218 BGB Verzeichnis § 2215 BGB. Verguetung § 2221 BGB Hamburger Tabelle. Haftung § 2219 BGB. Entlassung § 2227 BGB. Workflow TV-Annahme Verwaltungsablauf Entlastung. Pflichtteil bei Dauervollstreckung."
+description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Pruefraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht fuer allgemeine Nachlassabwicklung."
 ---
 
 # Testamentsvollstreckung

@@ -1,6 +1,6 @@
 ---
 name: erstantwort-generator
-description: "Hauptskill: erstellt die formelle Erstantwort-E-Mail an einen potenziellen Mandanten. Enthaelt Dank fuer die Anfrage, exakte Anrede aus der Eingangsmail, Hinweis auf telefonische Terminvergabe, Bitte um Sachverhaltsschilderung per E-Mail, Hinweis auf den Transkriptionsservice mit DSGVO-Einwilligungserfordernis, Mandatsverhaeltnis-Disclaimer und Schlussformel. Laedt wenn der Nutzer 'Erstantwort schreiben', 'Antwortmail erstellen', 'Eingangsbestaetigung', 'Erstreaktion Mandant' oder 'Antwort auf Anfrage' sagt."
+description: "Sekretariat oder Anwalt muss professionelle Erstantwort-E-Mail an potentiellen Mandanten senden. Hauptskill Erstantwort-E-Mail. Pruefraster: Dank fuer Anfrage exakte Anrede Terminvergabe-Hinweis Transkriptionsservice mit DSGVO-Einwilligung Mandatsverhaeltnis-Disclaimer Schlussformel. Output: fertige Erstantwort-E-Mail mit allen Pflichthinweisen. Abgrenzung zu muster-erstantwort (Template-Vorlage) und anrede-uebernehmen."
 ---
 
 # Erstantwort-Generator

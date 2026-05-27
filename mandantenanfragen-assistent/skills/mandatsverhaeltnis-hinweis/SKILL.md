@@ -1,6 +1,6 @@
 ---
 name: mandatsverhaeltnis-hinweis
-description: "Formuliert den expliziten Hinweis dass noch kein Mandatsverhaeltnis besteht: Die Beantwortung der Anfrage stellt keine Rechtsberatung dar und begruendet keine Pflichten der Kanzlei. Kurz- und Langform fuer Antwortmail und Fusszeile. Laedt wenn der Nutzer 'Mandatsverhaeltnis Hinweis', 'kein Mandat', 'Disclaimer Erstanfrage', 'keine Rechtsberatung Hinweis' oder 'Haftungsausschluss Erstanfrage' sagt."
+description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Pruefraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begruendung. Kurz- und Langform fuer Antwortmail und Fusszeile. Output: Disclaimer-Texte fuer E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator."
 ---
 
 # Mandatsverhältnis-Hinweis

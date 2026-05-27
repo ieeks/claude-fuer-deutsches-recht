@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-regulatory-fdi-merger-control
-description: "Regulatory, FDI und Fusionskontrolle: Prueft Anmeldepflichten nach GWB, FKVO, AWG/AWV (Investitionspruefung), SektSchV und sektorspezifischen Genehmigungen fuer M&A-Transaktionen. Normen: §§ 35 ff. GWB, Art. 1 ff. FKVO."
+description: "Anmeldepflichten Fusionskontrolle und FDI pruefen: M&A-Transaktion erfordert Clearance. Normen: §§ 35 ff. GWB (deutsches Fusionskontrollrecht), Art. 1 ff. FKVO (EU-Fusionskontrolle), AWG/AWV (Investitionspruefung), SektSchV (Sektorschutz), TKG, EnWG. Pruefraster: Umsatzschwellen, Marktanteile, Vollzugsverbot § 41 GWB, FDI-Meldepflichten nach AWV § 56 ff. Output Regulatory-Memo, Melde-Zeitplan, CP-Tracker. Abgrenzung: Kartellrecht laufende Verfahren siehe kartellrecht-Skill; Vollzugsbedingungen siehe signing-closing-conditions."
 ---
 
 # Regulatory, FDI und Fusionskontrolle

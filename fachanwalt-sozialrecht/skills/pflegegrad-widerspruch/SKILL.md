@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-widerspruch
-description: "Widerspruch gegen Pflegegrad-Bescheide der Pflegekasse nach SGB XI mit Fokus auf MD-Gutachten (Medizinischer Dienst frueher MDK). Pruefung der sechs Module § 14, § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Gestaltung Alltag und sozialer Kontakte. Pruefung Modul-Punkte und Gewichtung Gesamtpunkte Pflegegrad-Zuordnung (12.5 bis 27 PG 1 / 27 bis 47.5 PG 2 / 47.5 bis 70 PG 3 / 70 bis 90 PG 4 / 90 bis 100 PG 5). Identifiziert Schwachstellen in der MD-Begutachtung — keine Inaugenscheinnahme keine Befragung Angehoeriger keine Beruecksichtigung Pflegetagebuch nicht beachtete Diagnosen. Endet mit Widerspruchsbausteinen Hoeherstufungsbegehren und Beweisantraegen."
+description: "Mandant erhielt zu niedrigen Pflegegrad oder Pflegekasse verweigert Pflegegrad. Widerspruch gegen Pflegegrad-Bescheid nach SGB XI. Pruefraster: sechs Module § 15 SGB XI Mobilitaet Kognition Verhalten Selbstversorgung Krankheitsbewaeltigung Alltagsgestaltung. Punkte-Schwellen: PG 1 ab 12.5 PG 2 ab 27 PG 3 ab 47.5 PG 4 ab 70 PG 5 ab 90 Punkten. Schwachstellen in MD-Gutachten (keine Inaugenscheinnahme fehlende Pflegetagebuch-Beruecksichtigung). Output: Widerspruchsbausteine Hoeherstufungsbegehren Beweisantraege. Abgrenzung zu hilfsmittelantrag-pruefen (Sachmittel) und eilantrag-sozialrecht."
 ---
 
 # Pflegegrad-Widerspruch — Praxisleitfaden

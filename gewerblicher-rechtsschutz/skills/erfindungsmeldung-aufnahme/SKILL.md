@@ -1,6 +1,6 @@
 ---
 name: erfindungsmeldung-aufnahme
-description: "Erstprüfung einer Erfindungsmeldung nach deutschem Recht — Neuheit, erfinderische Tätigkeit, technischer Charakter (EPÜ), Schutzfähigkeit, Arbeitnehmererfindung (ArbnErfG) und strategischer Wert. Lädt, wenn eine Erfindungsmeldung eingereicht wird und eine Ersteinschätzung zu Anmeldung, Weiterverfolgung oder Ablehnung benötigt wird."
+description: "Mitarbeiter meldet eine Erfindung oder Unternehmen prueft eingegangene Erfindungsmeldung. ArbnErfG Arbeitnehmererfindungsgesetz. Pruefraster: Neuheit erfinderische Taetigkeit technischer Charakter EPUe Schutzfaehigkeit Arbeitnehmererfindung Inanspruchnahme vs. Freistellung Frist 4 Monate § 6 ArbnErfG strategischer Wert. Output: Ersteinschaetzung Anmeldung/Weiterverfolgung/Ablehnung. Abgrenzung zu fto-triage (Freiheitsgrad) und schutzrechts-portfolio (Portfolioverwaltung)."
 ---
 
 # Erfindungseingang — Erstprüfung

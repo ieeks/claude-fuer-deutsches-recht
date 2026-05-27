@@ -1,6 +1,6 @@
 ---
 name: kyc-aml-geldwaesche
-description: "KYC nach GwG fuer alle Parteien des Wandeldarlehens: wirtschaftlich Berechtigte (§ 3 GwG, mehr als fuenfundzwanzig Prozent), Transparenzregisterabgleich (§ 19 GwG), PEP-Status (§ 1 Abs. 12 GwG), Sanktionslisten EU/OFAC/UN, Mittelherkunft, Verdachtsmeldepflicht (§ 43 GwG), Dokumentation und Aktenanlage."
+description: "KYC- und AML-Anforderungen bei Wandeldarlehensmandat pruefen wenn Investor oder Darlehensgeberin auftritt. §§ 10 11 GwG Sorgfaltspflichten. Pruefraster: wirtschaftlich Berechtigter Risikoklasse PEP-Status Herkunft Kapital Dokumentation. Output: KYC-Checkliste Risikoeinschaetzung Dokumentationspaket. Abgrenzung: nicht fuer Vertragspruefung oder Wandlungsmechanik."
 ---
 
 # KYC / AML / Geldwäscheprävention

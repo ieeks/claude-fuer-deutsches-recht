@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-intake-decision-tree
-description: "Decision Tree fuer das Intake-Formular als Mermaid-Diagramm. Conditional Logic Knoten Verzweigungen Pflichtfelder Trigger-Events Validierung. Vom Rechtsformwahl ueber Class-Shares Sperrminoritaet Sozialversicherung Notar-Pflicht bis Streit-Eskalation. Mit Workflow-Engine-Hinweisen Bryter Josef Documate. Outlook-Export Fristen-Engine."
+description: "Entscheidungsbaum fuer GmbH-Gruendung: Rechtsformwahl, Gruendungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Pruefraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster."
 ---
 
 # Intake Decision Tree

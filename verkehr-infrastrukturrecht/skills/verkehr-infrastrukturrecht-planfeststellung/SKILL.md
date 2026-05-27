@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-planfeststellung
-description: "Planfeststellung Plangenehmigung fuer Strassenbau Schienenverkehr § 17 FStrG § 18 AEG § 28 PBefG. Einwendungsfristen Eroerrterungstermin Abwaegungsgebot § 17 VwVfG. BVerwG-Rspr Abwaegungsfehler. Klagebefugnis § 42 Abs. 2 VwGO NGO. Rechtsschutz Normenkontrolle."
+description: "Planfeststellung fuer Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot), BVerwG-Rspr Abwaegungsfehler. Pruefraster: Einwendungsfristen, Eroerrterungstermin, Klagebefugnis § 42 Abs. 2 VwGO, UmwRG-Verbandsklage, Eilrechtsschutz. Output Einwendungsschrift oder Klageschrift-Entwurf. Abgrenzung: Normenkontrolle Bauleitplan siehe normenkontrolle-bauleitplanung-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz."
 ---
 
 # Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur

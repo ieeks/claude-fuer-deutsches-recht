@@ -1,6 +1,6 @@
 ---
 name: eilantrag-80-abs-5-vwgo
-description: Pruefraster und Schriftsatz-Vorbereitung Eilantrag § 80 Abs. 5 VwGO. Wiederherstellung der aufschiebenden Wirkung (bei behoerdlich angeordneter Vollziehung) oder Anordnung der aufschiebenden Wirkung (bei gesetzlich entfallender Wirkung oeffentliche Abgaben § 80 Abs. 2 VwGO). Abwaegung Vollziehungsinteresse Behoerde vs. Aussetzungsinteresse Betroffener. Erfolgsaussicht Hauptsache als wesentliches Kriterium. Substantiierte Begruendung sofortige Vollziehung erforderlich § 80 Abs. 3 VwGO. Verfahren beim VG sachlich zustaendig. Streitwertbemessung Bruchteil Hauptsache typisch ein Halb.
+description: "Eilantrag auf Wiederherstellung oder Anordnung aufschiebender Wirkung nach § 80 Abs. 5 VwGO stellen: Mandant hat Widerspruch eingelegt oder Klage erhoben aber die Behoerde hat sofortige Vollziehung angeordnet. Normen: § 80 Abs. 2 VwGO (gesetzlicher Entfall AW: oeffentliche Abgaben, Polizei), § 80 Abs. 3 VwGO (Begruendungspflicht sofortige Vollziehung). Pruefraster: Interessenabwaegung Vollziehungs- vs. Aussetzungsinteresse, Erfolgsaussichten Hauptsache, substantiierte Begruendung. Output Schriftsatz Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: § 123 VwGO (andere Antragsart) siehe einstweiliger-rechtsschutz-skill; Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift."
 ---
 
 # Eilantrag § 80 Abs. 5 VwGO

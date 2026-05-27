@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-sha-satzung-stimmverpflichtung
-description: "Stimmverpflichtung im Gesellschaftervereinbarung SHA gegenueber der Satzung. Innenverhaeltnis schuldrechtlich Aussenverhaeltnis gesellschaftsrechtlich. Vertragsstrafen Poenalen Erfuellung. SHA-Vorrang oder Satzung-Vorrang. BGH-Linie zu schuldrechtlichen Stimmbindungen. Drittwirkung. Bei Anteilsuebertragung Joinder Agreement."
+description: "Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Pruefraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag."
 ---
 
 # Stimmverpflichtung SHA <-> Satzung

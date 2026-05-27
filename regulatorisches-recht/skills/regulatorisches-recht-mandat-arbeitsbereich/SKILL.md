@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-mandat-arbeitsbereich
-description: "Mandat-Workspaces verwalten (nur Kanzleibetrieb mit mehreren Mandanten). Laden, um ein neues Mandat anzulegen, zwischen Mandaten zu wechseln, ein Mandat zu schließen oder Workspaces zu deaktivieren."
+description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Pruefraster: Mandatsumfang Zustaendigkeiten Fristen Risikostufe beteiligte Behoerden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht fuer inhaltliche Regulierungspruefung."
 ---
 
 # Mandat-Workspace-Verwaltung

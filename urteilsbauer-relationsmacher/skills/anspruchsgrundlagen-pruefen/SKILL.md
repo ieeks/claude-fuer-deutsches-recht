@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlagen-pruefen
-description: "Identifiziert die einschlaegigen Anspruchsgrundlagen aus BGB HGB CISG GmbHG StVG ProdHG und Spezialgesetzen Reihenfolge vertraglich quasi-vertraglich dinglich deliktisch bereicherungsrechtlich. Pruefungsschema fuer jede Anspruchsgrundlage mit Tatbestandsmerkmalen Rechtsfolge Einwendungen Einreden Verjaehrung. Beruecksichtigt Internationales Privatrecht Rom-I und Rom-II."
+description: "Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz loesen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Pruefraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjaehrung. Output Anspruchsgrundlagen-Baum mit Pruefungsschema. Abgrenzung: CISG-spezifisch siehe cisg-pruefen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil."
 ---
 
 # Anspruchsgrundlagen-Prüfung

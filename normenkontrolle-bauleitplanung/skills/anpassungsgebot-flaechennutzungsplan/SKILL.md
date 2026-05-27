@@ -1,6 +1,6 @@
 ---
 name: anpassungsgebot-flaechennutzungsplan
-description: Pruefung des Anpassungsgebots Paragraf 8 Abs. 2 BauGB. Bebauungsplaene sind aus dem Flaechennutzungsplan zu entwickeln. Entwicklungsgebot als zentrale Wirksamkeitsbedingung. Paragraf 8 Abs. 3 BauGB Aufstellung Bebauungsplan vor Flaechennutzungsplan in Ausnahmefaellen. Paragraf 8 Abs. 4 BauGB selbstaendige Bebauungsplaene. Paragraf 13a Abs. 2 BauGB Berichtigungsmoeglichkeit ohne foermliche Aenderung FNP bei B-Plan der Innenentwicklung. Parallelverfahren Paragraf 8 Abs. 3 S. 1 BauGB beide Plaene gleichzeitig. Pruefung Entwicklungssaussage des FNP bezogen auf das Plangebiet. Konflikt zwischen FNP-Darstellung und B-Plan-Festsetzung als beachtlicher Verfahrensfehler. Audit auf konsistente Darstellung Wohnbauflaeche Mischgebiet Gewerbeflaeche.
+description: "Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Pruefraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Parallelverfahren § 13a Abs. 2 BauGB. Output: Entwicklungsgebot-Pruefprotokoll und Angriffspunkt fuer Normenkontrollantrag. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und planerhaltung-214-215-baugb."
 ---
 
 # Anpassungsgebot — Flächennutzungsplan

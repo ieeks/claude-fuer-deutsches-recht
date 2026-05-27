@@ -1,6 +1,6 @@
 ---
 name: iv-plan-gerichtliche-schritte
-description: "Führt durch Einreichung, Vorprüfung, Erörterung, Abstimmung, Bestätigung, Rechtsmittel, Aufhebung und Planüberwachung."
+description: "Gerichtliche Verfahrensschritte fuer Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Bestätigung. §§ 231 232 248 InsO Vorpruefung Bestaetigung §§ 45 ff. StaRUG Gerichtsverfahren. Pruefraster: Einreichungsantrag Vorlaufpruefung Eroerterungstermin Abstimmung Bestaetigung Rechtsmittel Planueberwachung. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht fuer aussergerichtliche Stakeholder-Kommunikation."
 ---
 
 # IV-integrierte Gerichtliche Schritte

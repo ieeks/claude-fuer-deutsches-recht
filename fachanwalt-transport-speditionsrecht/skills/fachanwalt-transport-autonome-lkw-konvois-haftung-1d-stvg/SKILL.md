@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-autonome-lkw-konvois-haftung-1d-stvg
-description: "Autonome LKW-Konvois (Platooning) im Speditionsverkehr nach § 1d StVG (Reform 2021) und EU-VO 2022/1426. Haftung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG bei autonomer Steuerung. Schadensaufklaerung Daten aus Black-Box-Speicher § 1g StVG. Speditions-Frachtfuehrer-Haftung CMR Art. 17. Versicherungsdeckung autonome Fahrzeuge GDV-Bedingungen."
+description: "Haftung bei autonomen LKW-Konvois nach § 1d StVG analysieren: Fahrzeughalterhaftung, KI-Systemfehler. Normen: § 1d StVG, §§ 7 18 StVG, §§ 407 ff. HGB. Pruefraster: Halterhaftung, technisches Versagen, Konvoi-Fuehrer, Regulierung. Output: Haftungsanalyse autonomer LKW. Abgrenzung: nicht klassische Frachtfuehrerhaftung ohne Automatisierung."
 ---
 
 # Autonome LKW-Konvois – Haftung § 1d StVG und CMR

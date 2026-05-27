@@ -1,6 +1,6 @@
 ---
 name: ki-verordnung-compliance
-description: KI-Verordnung (VO EU 2024/1689) Compliance-Pruefung. Anwendungsbereich Risiko-Klassifikation Verbotene Praktiken Art. 5 Hochrisiko-Systeme Anhang III Transparenz-Pflichten Art. 50 General Purpose AI Models Art. 51 ff. Konformitaetserklaerung CE-Kennzeichnung Marktueberwachung. Pruefung ob Mandant Anbieter Betreiber Importeur Haendler Bevollmaechtigter. Geltungsbeginn gestaffelt 2.2.2025 verbotene Praktiken 2.8.2025 GPAI-Modelle 2.8.2026 Hochrisiko 2.8.2027 Anhang I. Schnittstelle DSGVO Art. 22 Art. 35 DSFA bei KI-DPIA. Sanktionen bis 7 Prozent Konzernumsatz. Aufsicht BNetzA fuer Marktueberwachung Bundesbeauftragter Datenschutz fuer Hochrisiko-Bereiche.
+description: "KI-Systeme auf Anforderungen der KI-VO und Datenschutz pruefen. KI-VO Risikoklassen Art. 5 9 DSGVO Einwilligung. Pruefraster: Risikoklasse Verbote Hochrisiko-KI Dokumentationspflichten DSGVO-Schnittmengen Transparenzpflichten. Output: KI-Compliance-Pruefmemo Massnahmenliste. Abgrenzung: nicht fuer allgemeine KI-Governance ohne Datenschutzbezug."
 ---
 
 # KI-Verordnung — Compliance-Prüfung

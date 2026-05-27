@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gewerbeanmeldung-finanzamt
-description: "Gewerbeanmeldung beim oertlichen Gewerbeamt Paragraf 14 GewO. Fragebogen steuerliche Erfassung ELSTER Paragraf 138 AO. Steuernummer USt-IdNr Steuerart-Wahl Vorauszahlungen Kleinunternehmer Paragraf 19 UStG. Fristen Bussgelder Schaetzung. Standortwechsel. Checkliste und Workflow."
+description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gruendung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Pruefraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB."
 ---
 
 # Gewerbeanmeldung und Finanzamt-Erfassung

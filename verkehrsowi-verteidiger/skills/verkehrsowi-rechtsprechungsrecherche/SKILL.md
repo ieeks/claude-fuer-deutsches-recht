@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-rechtsprechungsrecherche
-description: "Rechtsprechungsrecherche fuer das OWi-Verfahren Verkehrsrecht. OLG-Datenbanken juris beck-online. Suchstrategien fuer Messverfahren Rohmessdaten Verjaehrung Fahrverbot. Kernzitate-Liste BVerfG BGH OLG. Fundstellen NZV DAR NJW NZV-RR."
+description: "Rechtsprechungsrecherche fuer OWi-Verkehrsmandate: Anwalt sucht OLG-Entscheidungen zu Messverfahren, Rohmessdaten und Fahrverbot. Normen: §§ 24 StVG, 25 StVG, 4 StVG; OWiG §§ 67 und 79 und 80. Pruefraster: OLG-Datenbanken (juris, beck-online), Suchstrategien fuer Messverfahren/Rohmessdaten/Verjaehrung/Fahrverbot, Kernzitate BVerfG, BGH, OLGs. Output Fundstellen-Liste mit Aktenzeichen, Datum, Leitsatz, Verwertungsnotiz. Abgrenzung: Messverfahren-Details siehe verkehrsowi-messverfahren-geschwindigkeit; Corporate-Rspr-Recherche siehe corporate-kanzlei-rechtsprechungsrecherche."
 ---
 
 # Rechtsprechungsrecherche OWi-Verkehrsrecht

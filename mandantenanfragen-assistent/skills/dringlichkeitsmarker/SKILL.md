@@ -1,6 +1,6 @@
 ---
 name: dringlichkeitsmarker
-description: "Erkennt Fristen und Eile-Signale in Mandantenanfragen: Hauptverhandlung naechste Woche, Kuendigungsfrist laeuft, Haftungsfalle, Zwangsvollstreckung, Insolvenzantrag. Setzt Dringlichkeitsstufe HOCH/MITTEL/NIEDRIG und markiert: Anwalt muss sofort anrufen statt auf E-Mail zu warten. Laedt wenn der Nutzer 'Dringlichkeit pruefen', 'Frist erkannt', 'Sofortmassnahme Mandant', 'Fristproblem Erstanfrage' oder 'Eilbedarf Anfrage' sagt."
+description: "Eingehende Mandantenanfrage enthaelt moeglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Pruefraster: Signale Hauptverhandlung naechste Woche Kuendigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort)."
 ---
 
 # Dringlichkeitsmarker

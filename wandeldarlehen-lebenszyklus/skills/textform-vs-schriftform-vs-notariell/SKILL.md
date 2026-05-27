@@ -1,6 +1,6 @@
 ---
 name: textform-vs-schriftform-vs-notariell
-description: "Abgrenzung Textform § 126b BGB (DocuSign zulassig), Schriftform § 126 BGB (eigenhändige Unterschrift), Notarielle Beurkundung § 128 BGB. Vorteile und Risiken jeder Form fuer Wandeldarlehen. Heilungsmechanismen bei Formverstoss. Praktische Empfehlung fuer GmbH-Wandeldarlehen."
+description: "Formerfordernis fuer einzelne Wandeldarlehens-Dokumente bestimmen und zuordnen. §§ 126 126a 126b BGB Schriftform Textform elektronische Form. Pruefraster: Vertragstyp Erklaerung Beschluss gesetzliches Formerfordernis vereinbartes Formerfordernis. Output: Formzuordnungs-Memo je Dokument. Abgrenzung: nicht fuer Beurkundungspflicht bei Kapitalerhohung (beurkundungserfordernis-pruefung)."
 ---
 
 # Textform vs. Schriftform vs. Notarielle Beurkundung

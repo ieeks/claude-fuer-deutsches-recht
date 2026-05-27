@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-aufnahme
-description: "Vorbereitende Informationserhebung für ein Mahnschreiben oder eine vorgerichtliche Aufforderung – Parteien, Sachverhalt, Anspruchsgrundlage, Forderungsbetrag, BATNA und Vertraulichkeitsfilter – wird als strukturierte intake.md gespeichert, auf die der mahnschreiben-Skill zugreift. Verwenden, wenn der Nutzer ein Mahnschreiben vorbereiten, einen Intake vor dem Entwurf durchführen oder Kontext für eine Zahlungsaufforderung, Mängelrüge oder Abmahnung erfassen möchte."
+description: "Erhaltenes Mahnschreiben der Gegenseite aufnehmen und einordnen: Anerkennungsgefahr, Verjaebrungshemmung. Normen: §§ 204 212 BGB, § 93 ZPO. Pruefraster: Fristenlauf, Anerkennungsrisiko, Reaktionsoptionen. Output: Einordnungsnotiz und Empfehlung Reaktion. Abgrenzung: nicht eigenes Mahnschreiben erstellen."
 ---
 
 # Mahnschreiben-Intake

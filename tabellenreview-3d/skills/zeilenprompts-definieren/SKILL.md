@@ -1,6 +1,6 @@
 ---
 name: zeilenprompts-definieren
-description: "Definiert die Zeilenprompts der zweiten Wuerfel-Achse — pro Dokument eine optionale Sonderanweisung die das Lesen genau dieses Dokuments steuert. Beispiele: 'Konzernvertrag — AktG Paragraph 311 zusaetzlich pruefen' / 'Anlage 7 fehlt — als Luecke markieren' / 'Auf englisch verfasst — uebersetzungspflichtig' / 'Aelter als 5 Jahre — Aenderungsvereinbarungen pruefen' / 'Mit Insolvenzklausel der Gegenseite gemaess InsO Paragraph 119 unwirksam'. Zeilenprompts ueberschreiben oder ergaenzen die Spaltenprompts dieser Zeile. Erzeugt `zeilenprompts.yaml`."
+description: "Zeilenprompts fuer einzelne Pruefpositionen im 3D-Tabellenreview definieren. Normen: §§ 174 ff. InsO. Pruefraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Output: Zeilenprompts-Dokument. Abgrenzung: nicht Spaltenprompts."
 ---
 
 # /tabellenreview-3d:zeilenprompts-definieren

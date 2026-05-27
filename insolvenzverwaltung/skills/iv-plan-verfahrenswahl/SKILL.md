@@ -1,6 +1,6 @@
 ---
 name: iv-plan-verfahrenswahl
-description: "Vergleicht Insolvenzplan, Eigenverwaltung, Schutzschirm, StaRUG, außergerichtliche Einigung und Regelabwicklung mit Warnschwellen."
+description: "Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und aussergerichtliche Einigung vergleichen. §§ 270 270a 270d InsO §§ 29 42 StaRUG. Pruefraster: Zahlungsunfaehigkeit Ueberschuldung Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung Risikoampel. Abgrenzung: nicht fuer Detailplanung der gewaehlten Route."
 ---
 
 # IV-integrierte Verfahrenswahl und Routenentscheidung

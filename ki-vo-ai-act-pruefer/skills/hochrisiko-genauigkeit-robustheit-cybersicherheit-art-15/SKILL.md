@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-genauigkeit-robustheit-cybersicherheit-art-15
-description: "Mindeststandards fuer Genauigkeit Robustheit und Cybersicherheit von Hochrisiko-KI nach Art. 15 KI-VO: Leistungsmetriken Fehlertoleranz Resilienz gegen Angriffe Datenvergiftung adversarielle Eingaben. Prueffragen und Nachweise."
+description: "Anbieter von Hochrisiko-KI fragt: Welche Leistungsstandards fuer Genauigkeit Robustheit und Cybersicherheit muessen wir nachweisen und dokumentieren? Art. 15 KI-VO Mindeststandards. Pruefraster: Genauigkeitsmetriken und Leistungserklaerung Fehlertoleranz-Anforderungen Resilienz gegen adversarielle Eingaben Datenvergiftung Modell-Extraktion Backdoor-Angriffe. Output: Anforderungskatalog und Muster-Testprotokolle. Abgrenzung zu hochrisiko-risikomanagementsystem-art-9 (Risikobewertung) und hochrisiko-konformitaetsbewertung-art-43-bis-49 (Bewertungsverfahren)."
 ---
 
 # Genauigkeit, Robustheit und Cybersicherheit — Art. 15 KI-VO

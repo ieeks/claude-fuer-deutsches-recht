@@ -1,6 +1,6 @@
 ---
 name: digitalregulierung-schnittstellen-dsgvo-p2b-19a-gwb
-description: "Schnittstellen-Skill: Wie verhalten sich DSA und DMA zur DSGVO zur P2B-VO und zu § 19a GWB? Art. 2 IV DSA und Art. 1 V DMA verdrängen DSGVO nicht. P2B-VO 2019/1150 läuft parallel im Verhältnis Plattform zu gewerblichem Nutzer. § 19a GWB greift unterhalb der DMA-Schwellen oder bei marktübergreifender Bedeutung. Anwaltliche Mehr-Anker-Strategie: Welcher Anspruch aus welcher Norm bringt welche Rechtsfolge?"
+description: "Schnittstellen zwischen DSA/DMA und DSGVO, P2B-VO und § 19a GWB analysieren: Mehrere Regelwerke treffen gleichzeitig auf einen Sachverhalt. Normen: Art. 2 Abs. 4 DSA (kein Verdrangen DSGVO), Art. 1 Abs. 5 DMA, P2B-VO (EU) 2019/1150 (Plattform-Nutzer-Beziehungen), § 19a GWB (unterhalb DMA-Schwellen). Pruefraster: Konkurrenz DSA/DMA vs. DSGVO vs. P2B-VO, § 19a GWB als Luecken-Fuelung, Mehr-Anker-Strategie fuer welche Rechtsfolge. Output Schnittstellen-Memo, Anspruchs-Matrix. Abgrenzung: VLOP-Designation siehe dsa-vlop-vlose-einordnung-und-pflichten; Gatekeeper DMA siehe dma-gatekeeper-schwellen-und-kernplattformdienste."
 ---
 
 # Schnittstellen — DSA, DMA, DSGVO, P2B-VO und § 19a GWB

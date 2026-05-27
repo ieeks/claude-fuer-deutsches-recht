@@ -1,6 +1,6 @@
 ---
 name: iv-plan-abstimmung-mehrheiten
-description: "Simuliert Abstimmung, Kopf und Summenmehrheit im Insolvenzplan, StaRUG Mehrheiten, Stimmrechte, Streitwerte und Stimmrechtsrisiken."
+description: "Abstimmungsmehrheiten fuer Insolvenzplan und StaRUG-Plan simulieren und Abstimmungstermin vorbereiten. §§ 244 245 InsO Kopf- und Summenmehrheit §§ 25 26 StaRUG Klassenmehrheit. Pruefraster: Stimmberechtigte Forderungshoehen Ausfallwerte bestrittene Rechte Ablehnungsszenarien. Output: Abstimmungsrechner Mehrheitssimulation Stimmrechtsfragen. Abgrenzung: nicht fuer Gruppenbildung (iv-plan-gruppen-klassenbildung) oder Cramdown."
 ---
 
 # IV-integrierte Abstimmung und Mehrheiten

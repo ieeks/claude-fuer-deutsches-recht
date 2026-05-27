@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-orientierung
-description: "Orientierung im gewerblichen Rechtsschutz. FAO 14k Voraussetzungen 80 Faelle davon 50 rechtsfoermlich. MarkenG DesignG UWG PatG GebrMG. UrhG-Schnittstellen. Typische Mandate Markenanmeldung Markenstreit Designverletzung UWG-Abmahnung einstweilige Verfuegung lizenzanaloger Schadensersatz. Stroeble/Hacker Koehler/Bornkamm Ingerl/Rohnke Benkard."
+description: "Gewerblichen Rechtsschutz-Mandat einordnen und Bearbeitungsroute bestimmen. § 14 MarkenG § 139 PatG § 8 UWG GeschmMG UWG. Pruefraster: Schutzrecht Verletzungsart Parteistellung Route Fristen Eilbeduerfnis. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Orientierung Gewerblicher Rechtsschutz

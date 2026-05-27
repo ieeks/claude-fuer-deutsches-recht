@@ -1,6 +1,6 @@
 ---
 name: ips-insolvenzplan-architektur
-description: "Entwirft die Architektur eines Insolvenzplans mit darstellendem Teil, gestaltendem Teil, Gruppen, Anlagen, Abstimmung, Vollzug und Überwachung."
+description: "Vollstaendigen Insolvenzplan nach §§ 217 ff. InsO strukturieren und alle Pflichtbestandteile verbinden. §§ 217 220 221 InsO Planarchitektur §§ 222 229 InsO Gruppen und Anlagen. Pruefraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug Ueberwachung. Output: Insolvenzplan-Skelett Bausteinliste Schnittstellenrisiken. Abgrenzung: nicht fuer StaRUG-Plan (ips-starug-plan-architektur)."
 ---
 
 # Insolvenzplan-Architektur

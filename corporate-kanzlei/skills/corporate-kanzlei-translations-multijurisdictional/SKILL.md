@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-translations-multijurisdictional
-description: "Multijurisdiktionale Uebersetzungen und Dokumente: Erstellt und prueft mehrsprachige Transaktionsdokumente in DE/EN. Rechtliche Terminologie-Konsistenz, Governing-Language-Klausel, Notaruebersetzungen. Normen: § 184 GVG, EGBGB Art. 10 ff."
+description: "Mehrsprachige Transaktionsdokumente in DE/EN erstellen und pruefen: Internationale M&A-Transaktion erfordert konsistente Terminologie in beiden Sprachen. Normen: § 184 GVG (Deutsch als Gerichtssprache), EGBGB Art. 10 ff. (Sprache des Rechtsgeschaefts), Governing-Language-Klauseln. Pruefraster: Terminologie-Konsistenz, Governing-Language, Notarerfordernis Uebersetzung, Divergenz-Risiken. Output Mehrsprachiges Dokument, Terminologie-Glossar, Gouvernance-Language-Klausel. Abgrenzung: Reine Uebersetzung ohne Rechtsinhalt ist kein Rechtsfall; substantielle Aenderungen siehe spa-apa-entwurf."
 ---
 
 # Multijurisdiktionale Uebersetzungen und Dokumente

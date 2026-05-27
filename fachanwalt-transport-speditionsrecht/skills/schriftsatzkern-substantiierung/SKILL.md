@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Frachtklage, Klage CMR-Schaden, Klage HGB-Spediteur-Haftung: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Pruefraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollstaendiger Schriftsatz."
 ---
 
 # Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht

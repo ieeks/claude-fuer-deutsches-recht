@@ -1,6 +1,6 @@
 ---
 name: energierecht-vertrieb-marktrollen
-description: Stromlieferungs-AGB EnWG § 36-42 Grundversorger Sonderkunden Sondertarif Tarif-Aenderung. Bilanzkreis-Verantwortlicher GPKE-Prozesse Stromkennzeichnung § 42 EnWG Herkunftsnachweis HKN UBA-Register. Strompreisbremse Nachlauf Auskehr-Verfahren 2024 2025. Direktvermarktung EEG fluktuierende Wechseln. Endkundenrechte Vertragsbeendigung Wechsel-Erleichterung Lieferanten-Insolvenz Ersatzversorger § 38 EnWG Grundversorger § 36 EnWG. Marktstammdatenregister Pflichten Sanktionen § 35 MaStRV. PPA Corporate eindirekt Bilanzkreis.
+description: "Energievertrieb und Marktrollen im liberalisierten Energiemarkt: Lieferant, Netzbetreiber, Bilanzkreis. Normen: §§ 4 ff. EnWG, MaBiS-Prozesse. Pruefraster: Marktrollen, Bilanzkreisvertrag, Lieferantenwechsel. Output: Marktrollenanalyse und Vertriebsstruktur. Abgrenzung: nicht Energieliefervertrag (eigener Skill)."
 ---
 
 # Vertrieb und Marktrollen

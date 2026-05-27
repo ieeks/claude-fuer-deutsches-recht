@@ -1,6 +1,6 @@
 ---
 name: eilantrag-sozialrecht
-description: Eilrechtsschutz nach § 86b SGG — Antrag auf Anordnung der aufschiebenden Wirkung (§ 86b Abs. 1 SGG bei Aufhebungs- und Rueckforderungsbescheiden) oder einstweilige Anordnung (§ 86b Abs. 2 SGG bei Verpflichtungs- und Leistungsbegehren). Pruefraster Anordnungsanspruch und Anordnungsgrund. Glaubhaftmachung § 86b Abs. 2 SGG iVm § 920 Abs. 2 ZPO. Geeignet bei drohendem Leistungsausfall (Buergergeld Wohnungslosigkeit Krankenversicherung) Rueckforderung mit Sofortvollzug Sanktionen.
+description: "Mandant ist auf Sozialleistung angewiesen die sofort wegfaellt oder verweigert wird (Buergergeld Wohnungslosigkeit Krankenversicherung). § 86b SGG Eilrechtsschutz. Pruefraster: Abs. 1 SGG aufschiebende Wirkung bei Aufhebungs-/Rueckforderungsbescheiden vs. Abs. 2 SGG einstweilige Anordnung bei Leistungsbegehren. Anordnungsanspruch und Anordnungsgrund Glaubhaftmachung § 920 Abs. 2 ZPO. Output: Eilantrag SG fertig zum Versand. Abgrenzung zu klage-sozialgericht (Hauptsache) und fachanwalt-sozialrecht-widerspruch-sozialleistung."
 ---
 
 # Eilantrag Sozialrecht (§ 86b SGG)

@@ -1,6 +1,6 @@
 ---
 name: marktueberwachung-meldung-vorfaelle-art-72-bis-79
-description: "Post-Market-Monitoring und Vorfallmeldepflichten fuer Hochrisiko-KI nach Art. 72 bis 79 KI-VO: serious incident reporting Fristen Inhalt Meldewege. Marktueberwauchungsmassnahmen nationaler Behoerden Rueckruf Aussetzen des Betriebs."
+description: "Anbieter oder Betreiber hat einen schwerwiegenden Vorfall mit einem Hochrisiko-KI-System und fragt: Was muss gemeldet werden an wen und innerhalb welcher Fristen? Art. 72 bis 79 KI-VO Post-Market-Monitoring und Meldepflichten. Pruefraster: serious incident reporting Definition schwerwiegender Vorfall Art. 3 Nr. 49 Meldefristen Inhalt der Meldung Meldewege nationale Aufsichtsbehoerde. Marktueberwauchungsmassnahmen Rueckruf Aussetzen des Betriebs. Output: Melde-Checkliste und Vorlage Vorfallmeldung. Abgrenzung zu governance-aufsichtsbehoerden-art-70 (zustaendige Stellen) und hochrisiko-bestaetigt-end-to-end-roadmap."
 ---
 
 # Marktüberwachung und Vorfallmeldung — Art. 72 bis 79 KI-VO

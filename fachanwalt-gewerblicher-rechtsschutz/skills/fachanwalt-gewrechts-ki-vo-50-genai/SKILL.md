@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewrechts-ki-vo-50-genai
-description: "Transparenzpflichten Generative KI nach Art. 50 EU-KI-VO 2024/1689 ab 2.8.2026: Kennzeichnungspflicht KI-generierter Inhalte (Audio, Bild, Video, Text), maschinenlesbare Markierung Art. 50 Abs. 2, Deep-Fake-Kennzeichnung Art. 50 Abs. 4, Chatbot-Offenlegung Art. 50 Abs. 1. Wechselwirkung UWG § 5a (Irreführung durch Unterlassen), § 2 UrhG (kein Urheberrecht an KI-Output). Bußgeld Art. 99 KI-VO bis 15 Mio. EUR / 3 % Umsatz. Compliance-Workflow, Disclaimer-Texte, Risikomatrix."
+description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz pruefen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Pruefraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art. 50 KI-VO Verletzungsrisiken. Output: Compliance-Memo Empfehlungen fuer KI-Nutzung. Abgrenzung: nicht fuer allgemeine KI-Governance."
 ---
 
 ## Mandantenfragen beim Kaltstart

@@ -1,6 +1,6 @@
 ---
 name: kompetenz-zweifel-respektvoll
-description: "Formuliert Zweifel an der fachlichen Leistung oder Kompetenz des Adressaten in respektvoller, sachlicher Form. Trennung von Sachkritik und Personenangriff. Verweis auf Rechtsprechung statt auf persoenliches Versagen."
+description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Pruefraster: sachliche Kritik ohne Abwertung Begruendung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklaerung. Abgrenzung: nicht fuer direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen)."
 ---
 
 # Kompetenz-Zweifel respektvoll formulieren

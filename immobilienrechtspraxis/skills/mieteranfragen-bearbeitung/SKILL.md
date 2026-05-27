@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-bearbeitung
-description: Bearbeitet eingehende mietrechtliche Anfragen — Mietmaengelanzeigen Kuendigungen Mieterhoehungsverlangen Widersprueche nach § 574 BGB Betriebskosten-Einwendungen Untervermietungsanfragen — und erstellt fundierte Antwortschreiben mit BGH-Verankerung. Jede Anfrage wird klassifiziert dem passenden Antwortmuster zugeordnet und mit Pinpoint-Zitierung versehen (juengere Rechtsprechung zuerst Randnummer angefuegt). Output ist .docx auf Kanzlei- oder Abteilungsbriefkopf mit zweiter Datei Aktenvermerk. Geeignet fuer Wohnraum und Gewerberaum. Bei nicht-standardisierbaren Konstellationen weist der Skill auf manuelle Pruefung hin.
+description: "Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung. Normen: §§ 535 536 556 573 BGB, WEG. Pruefraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output: Bearbeitungsprotokoll Mieteranfrage. Abgrenzung: nicht WEG-Verwaltungsrecht."
 ---
 
 # Mieteranfragen Bearbeitung

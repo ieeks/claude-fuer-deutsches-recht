@@ -1,6 +1,6 @@
 ---
 name: zulaessigkeit-pruefen
-description: "Pruefstation Zulaessigkeit Zivilklage: Rechtsweg Paragraf 13 GVG Paragraf 17 GVG internationale Zustaendigkeit EuGVVO Brussel Ia oertliche Zustaendigkeit Paragraf 12 ff ZPO sachliche Zustaendigkeit Paragraf 23 GVG Streitwert Paragraf 1 GKG Paragraf 39 ff GKG Partei- und Prozessfaehigkeit Vertretung Rechtsschutzbeduerfnis Verbund einstweiliger Rechtsschutz besondere Verfahrensarten."
+description: "Zulaessigkeit der Zivilklage systematisch pruefen: Richter oder Referendar prueft Pruefstation Zulaessigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zustaendigkeit), §§ 12 ff. ZPO (oertliche Zustaendigkeit), § 23 GVG (sachliche Zustaendigkeit), §§ 1 ff. GKG (Streitwert). Pruefraster: Rechtsweg, internationale Zustaendigkeit, oertliche und sachliche Zustaendigkeit, Partei-/Prozessfaehigkeit, Rechtsschutzbeduerfnis, besondere Verfahrensarten. Output Zulaessigkeits-Pruefungsschema. Abgrenzung: Meritorische Pruefung siehe anspruchsgrundlagen-pruefen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin."
 ---
 
 # Zulässigkeit der Zivilklage

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bau-architektenrecht
-description: Strukturierte Eingangs-Abfrage fuer bau- und architektenrechtliche Mandate. Klaert Mandantenrolle (Bauherr Unternehmer Subunternehmer Architekt Bautraeger Investor) Vertragstyp (BGB-Werkvertrag VOB/B-Werkvertrag Verbraucherbauvertrag Bautraegervertrag § 650 ff. BGB Architektenvertrag § 650p) Phase (vor Vertragsschluss Bauphase nach Abnahme Streit ueber Mangel ueber Schlussrechnung) Fristen Verjaehrung § 634a BGB Vertragsstrafen Abschlagsrechnungen. Eskalation Telefon-Sofort bei Bauunterbrechung drohendem Baustillstand Insolvenz Auftragnehmer. Routing zu werkmangel-vob-bgb-pruefen.
+description: "Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Pruefraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
 ---
 
 # Mandat-Triage Bau- und Architektenrecht

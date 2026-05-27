@@ -1,6 +1,6 @@
 ---
 name: jveg-festsetzung-beschwerde
-description: "Fuehrt durch gerichtliche Festsetzung, Erinnerung und Beschwerde nach § 4 Abs. 3 JVEG: Beschwer, Frist, Begruendung und Angriffsmittel gegen Kostenfestsetzungsbeschluesse."
+description: "Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen: Zulaessigkeit, Frist, Begruendung. Normen: § 4 Abs. 3 JVEG, §§ 569 ff. ZPO. Pruefraster: Beschwerdewert, Beschwerdefrist, Verfahrensart. Output: Beschwerdeschrift JVEG. Abgrenzung: nicht Antragsgenerator (Erstantrag)."
 ---
 
 # JVEG-Festsetzung-Beschwerde

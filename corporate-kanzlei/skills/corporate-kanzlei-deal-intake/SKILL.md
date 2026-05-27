@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-deal-intake
-description: "Deal-Intake: Strukturiert neue Transaktionsmandate aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder Datenraum-Einladung. Erstellt Deal-Karte, IRL, Conflict-Check und Insider-Log. Normen: BRAO, GwG, WpHG/MAR."
+description: "Neues Transaktionsmandat strukturiert aufnehmen aus E-Mail, Teaser, NDA, Term Sheet, Teams-Message oder DR-Einladung. Anwendungsfall: Erster Mandantenkontakt oder Deal-Beauftragung eingetroffen. Normen: BRAO § 43a, GwG §§ 10 ff. (KYC), WpHG/MAR Insider-Register. Pruefraster: Parteienerfassung, Dealtyp, Phase, Konflikt- und GwG-Check, Insider-Log. Output Deal-Karte, IRL-Startliste, Conflict-Check-Protokoll. Abgrenzung: Routet danach an Spezialskills (SPA, DD, Regulatory); fuer laufendes Mandat siehe kommandocenter."
 ---
 
 # Deal-Intake

@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rechtsschutz-anpassen
-description: "Kanzleiprofil nachträglich anpassen: Durchsetzungsstrategie, Genehmigungsmatrix, Portfolio-Register, OSS-Richtlinie oder Überwachungslisten aktualisieren, ohne das gesamte kaltstart-interview erneut auszuführen."
+description: "Kanzlei moechte ihr gewerbliches-Rechtsschutz-Profil nachjustieren ohne das gesamte Ersteinrichtungsinterview zu wiederholen. Profil-Update Gewerblicher Rechtsschutz. Pruefraster: Durchsetzungsstrategie Genehmigungsmatrix Portfolio-Register OSS-Richtlinie Ueberwachungslisten. Output: aktualisiertes Kanzleiprofil CLAUDE.md. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Ersteinrichtung) und gewerblicher-rechtsschutz-mandat-arbeitsbereich."
 ---
 
 # Kanzleiprofil anpassen

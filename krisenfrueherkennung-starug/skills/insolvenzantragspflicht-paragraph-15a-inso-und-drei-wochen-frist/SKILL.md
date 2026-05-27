@@ -1,6 +1,6 @@
 ---
 name: insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist
-description: "§ 15a InsO Insolvenzantragspflicht: Triggerlogik, Maximalfrist drei Wochen, strafrechtliche Sanktion § 15a Abs. 4 InsO, Quasi-Notgeschäftsführer, Handlungskorridore zur Enthaftung, Verhältnis zu StaRUG."
+description: "Insolvenzantragspflicht nach § 15a InsO und Drei-Wochen-Frist: GF prueft ob Insolvenzantrag gestellt werden muss. Normen: § 15a InsO (Antragspflicht), § 15a Abs. 4 InsO (Strafbarkeit), § 18 InsO (drohende ZU als StaRUG-Tor), § 1 StaRUG (Fruehwarnung). Pruefraster: Triggerlogik (ZU oder Ueberschuldung), Maximalfrist 3 Wochen, Handlungskorridore in der Frist, Verhaeltnis zu StaRUG. Output Handlungs-Memo mit Optionen (Antrag, StaRUG, aussergerichtliche Sanierung), Zeitplan. Abgrenzung: Fortbestehensprognose siehe fortbestehensprognose-zweistufig; StaRUG-Plan siehe restrukturierungsplan-architektur-paragraph-7ff-starug."
 ---
 
 # Insolvenzantragspflicht — § 15a InsO und die Drei-Wochen-Frist

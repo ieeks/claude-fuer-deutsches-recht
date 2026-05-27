@@ -1,6 +1,6 @@
 ---
 name: luecken-aufzeiger
-description: "Gap-Analyse interner Richtlinien gegen aktuelle Aufsichtsverlautbarungen (BaFin-Rundschreiben, MaRisk-Novellen, EBA-Leitlinien). Laden bei Vergleich von Bestandsrichtlinien mit neuen regulatorischen Anforderungen."
+description: "Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Pruefraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen Verbesserungsvorschlaege. Output: Lueckenanalyse Stellungnahmen-Vorentwurf. Abgrenzung: nicht fuer interne Compliance-Luecken (luecken)."
 ---
 
 # Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen

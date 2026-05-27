@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-stammkapital-einzahlung
-description: "Stammkapital-Einzahlung GmbH UG bei Bargruendung. Mindestbetrag 12500 EUR GmbH 100 Prozent UG. Sachgruendung vollstaendig. Freie Verfuegung Geschaeftsfuehrer Paragraf 7 II 2 GmbHG. Geschaeftskonto-Eroeffnung GwG-Identifikation. Bank-Bestaetigung. Spaetere Kapitalerhoehung. Hin- und Herzahlen Verbot Paragraf 19 GmbHG."
+description: "Stammkapitaleinzahlung bei GmbH-Gruendung nachweisen: Mindesteinzahlung, Bankbescheinigung, Sacheinlage. Normen: §§ 7 Abs. 2 und 19 GmbHG. Pruefraster: Mindesteinzahlung 50 Prozent, Bankbescheinigung, Sacheinlagepruefung, verdeckte Sacheinlage. Output: Einzahlungsdokumentation und Bankbescheinigungsvorlage. Abgrenzung: nicht Kapitalerhöhung nach Gruendung."
 ---
 
 # Stammkapital-Einzahlung

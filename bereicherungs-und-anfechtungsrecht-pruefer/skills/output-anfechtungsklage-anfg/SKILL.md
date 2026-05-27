@@ -1,6 +1,6 @@
 ---
 name: output-anfechtungsklage-anfg
-description: "Strukturhilfe fuer eine Anfechtungsklage nach AnfG durch den Vollstreckungsglaeubiger: Rubrum, Duldungsantrag, Hilfsantrag Wertersatz, Begruendungsaufbau mit Anfechtungstatbestand."
+description: "Klageschrift fuer AnfG-Anfechtungsklage des Vollstreckungsglaeubigers aufbauen: Rubrum, Duldungsantrag, Begruendungsstruktur. Normen: §§ 2 11 13 AnfG. Pruefraster: Antragsformulierung, Begruendungsaufbau Anfechtungstatbestand, Streitwertangabe. Output: Klageschriftentwurf AnfG mit Tenorvorschlag. Abgrenzung: nicht InsO-Anfechtungsklage durch Insolvenzverwalter."
 ---
 
 # Output: Anfechtungsklage nach AnfG

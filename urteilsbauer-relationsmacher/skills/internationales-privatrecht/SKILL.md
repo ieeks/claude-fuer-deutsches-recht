@@ -1,6 +1,6 @@
 ---
 name: internationales-privatrecht
-description: "Prueft das anwendbare Recht bei Auslandsbezug: Rom-I-Verordnung fuer vertragliche Schuldverhaeltnisse Rom-II-Verordnung fuer ausservertragliche Schuldverhaeltnisse Artikel 4 ff EGBGB autonomes IPR. Eingriffsnormen Artikel 9 Rom-I (z. B. DSGVO als Eingriffsnorm) ordre public Artikel 21 Rom-I. Verhaeltnis IPR zu CISG."
+description: "Anwendbares Recht bei grenzueberschreitenden Vertraegen und Delikten bestimmen: Auslandsbezug im Prozess erfordert IPR-Pruefung. Normen: Rom-I-VO (vertragliche Schuldverhaeltnisse), Rom-II-VO (ausservertragliche), Art. 4 ff. EGBGB (autonomes IPR), Art. 9 Rom-I (Eingriffsnormen, z.B. DSGVO). Pruefraster: Rechtswahlklausel, Anknuepfung ohne Rechtswahl, Eingriffsnormen, ordre public Art. 21 Rom-I, Verhaeltnis zu CISG. Output IPR-Pruefschema, anwendbares Recht. Abgrenzung: CISG siehe cisg-pruefen; Incoterms siehe incoterms-und-gefahruebergang; EU-Zustaendigkeit siehe zulaessigkeit-pruefen."
 ---
 
 # Internationales Privatrecht

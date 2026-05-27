@@ -1,6 +1,6 @@
 ---
 name: slogan-marke
-description: "Slogan-Marken fuer Luxus-Mode: Anforderungen an Unterscheidungskraft, EuGH C-398/08 Vorsprung durch Technik, BGH GRUR 2018 darferdas, BGH I ZB 22/20 Quadratisch Praktisch Gut. Pruefung, ob Slogan reines Werbemittel oder echter Herkunftshinweis. Laedt, wenn der Nutzer 'Slogan-Marke', 'Werbeslogan schützen', 'Slogan eintragen', 'Kampagnen-Claim Marke' oder 'Unterscheidungskraft Slogan' sagt."
+description: "Slogan-Marken fuer Luxus-Mode auf Eintragbarkeit pruefen und anmelden: Kampagnen-Claim soll als Marke geschuetzt werden. Normen: §§ 3 und 8 MarkenG, Art. 7 Abs. 1 lit. b UMV, EuGH C-398/08 Audi/Vorsprung durch Technik, BGH I ZB 22/20 Quadratisch Praktisch Gut. Pruefraster: Unterscheidungskraft (kein reines Werbemittel), Freihaltebeduerftigkeit, Verkehrsdurchsetzung. Output Pruefgutachten Eintragbarkeit, Anmelde-Strategie fuer Slogan. Abgrenzung: Wortmarke (keine Slogan-Thematik) siehe wortmarke-anmeldung-dpma; Bildmarke siehe bildmarke-und-wort-bild."
 ---
 
 # Slogan-Marken für Luxus-Mode

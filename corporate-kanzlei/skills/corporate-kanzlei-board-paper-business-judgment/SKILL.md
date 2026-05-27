@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-board-paper-business-judgment
-description: "Board Paper und Business Judgment: Erstellt Entscheidungsunterlagen für Vorstand/Geschäftsführung/Aufsichtsrat mit Informationsgrundlage, Alternativen, Risiken und KI-Einsatztransparenz."
+description: "Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage fuer Vorstand/Geschaeftsfuehrung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Pruefraster: Informationsgrundlage, Entscheidungsalternativen, Interessenkonflikte, KI-Einsatztransparenz. Output strukturiertes Board Paper mit Beschlussempfehlung, Risikoabwaegung, BJR-Dokumentation. Abgrenzung: nicht fuer Hauptversammlungs-Beschluesse (siehe Gesellschaftsrecht-Register) und nicht fuer Insolvenz-Entscheidungen (siehe StaRUG-Skill)."
 ---
 
 # Board Paper und Business Judgment

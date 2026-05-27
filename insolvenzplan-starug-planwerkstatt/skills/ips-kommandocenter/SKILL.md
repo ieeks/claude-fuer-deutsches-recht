@@ -1,6 +1,6 @@
 ---
 name: ips-kommandocenter
-description: "Startet die Insolvenzplan und StaRUG Planwerkstatt, erkennt Rolle, Verfahrensroute, Datenlage, Fristen, Planreife und nächste sichere Aktion."
+description: "Insolvenzplan- oder StaRUG-Mandat starten und Verfahrensroute Ampelstatus und naechste Schritte bestimmen. §§ 217 218 InsO §§ 29 ff. StaRUG. Pruefraster: Rolle Verfahrensziel Datenraumstand Zahlenstand Stakeholder Fristen naechste Aktion. Output: Startvermerk Datenlückenliste priorisierte To-do-Liste. Abgrenzung: Einstieg und Steuerung; Detailarbeit in ips-Spezialist-Skills."
 ---
 
 # Kommandocenter für Planverfahren

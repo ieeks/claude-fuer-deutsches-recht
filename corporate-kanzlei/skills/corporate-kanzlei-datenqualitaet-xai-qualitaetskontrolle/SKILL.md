@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle
-description: "Datenqualitaet und Qualitaetskontrolle im Corporate/M&A-Mandat: Sichert analytische Arbeitsergebnisse gegen fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schlussfolgerungen ab. Liefert Qualitaetsprotokoll mit Belegkette, Lueckenanalyse und Human-in-the-loop-Gate."
+description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prueft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Pruefraster: Belegkette vollstaendig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Pruefung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet."
 ---
 
 # Datenqualität und Qualitätskontrolle im M&A-Mandat

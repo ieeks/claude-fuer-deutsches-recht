@@ -1,6 +1,6 @@
 ---
 name: zv-kontensuche-drittschuldner
-description: "Konten und Drittschuldner des Schuldners finden, wenn Bank, Arbeitgeber oder Forderungsschuldner unbekannt sind. Nutzt § 802l ZPO Drittauskünfte (Rentenversicherung Bund, Bundeszentralamt für Steuern Kontenabruf, Kraftfahrt-Bundesamt) sowie Schuldnerverzeichnis § 882b ZPO. Lädt vor jeder PfÜB-Pfändung ohne bekannten Drittschuldner."
+description: "Glaeubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Pruefraster: Rentenversicherung Bund Bundeszentralamt fuer Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermoegensauskunft-gv (Glaeubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung)."
 ---
 
 # Kontensuche und Drittschuldnerermittlung

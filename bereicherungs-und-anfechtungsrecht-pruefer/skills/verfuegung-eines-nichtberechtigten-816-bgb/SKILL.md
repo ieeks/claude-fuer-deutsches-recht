@@ -1,6 +1,6 @@
 ---
 name: verfuegung-eines-nichtberechtigten-816-bgb
-description: "§ 816 BGB: entgeltliche und unentgeltliche Verfuegung eines Nichtberechtigten. Wirksamkeit durch Gutglaubenserwerb oder Genehmigung. Anspruch des wahren Berechtigten auf das Erlangte."
+description: "Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verfuegenden Nichtberechtigten pruefen. Normen: § 816 BGB. Pruefraster: wirksame Verfuegung durch Gutglaubenserwerb oder Genehmigung, entgeltlich vs. unentgeltlich, Anspruch auf Erlangtes. Output: Pruefergebnis Anspruch § 816 BGB. Abgrenzung: nicht § 822 BGB (unentgeltliche Weitergabe)."
 ---
 
 # Verfügung eines Nichtberechtigten — § 816 BGB

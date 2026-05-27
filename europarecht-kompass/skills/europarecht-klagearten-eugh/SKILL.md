@@ -1,6 +1,6 @@
 ---
 name: europarecht-klagearten-eugh
-description: "Ordnet Nichtigkeitsklage, Untätigkeitsklage, Amtshaftung, Vorabentscheidung und nationale Rechtsschutzwege ein."
+description: "Klagemoglichkeiten vor dem EuGH und EuG einordnen und Zulassigkeitsvoraussetzungen pruefen. Art. 263 265 268 340 AEUV Nichtigkeitsklage Untaetigkeitsklage Schadensersatz. Pruefraster: Klageart Klagebefugnis Fristen Zustaendigkeit Zulaessigkeit Begruendung. Output: Klagearten-Pruefschema Zulaessigkeitsanalyse. Abgrenzung: nicht fuer Vertragsverletzungsverfahren (europarecht-vertragsverletzung-durchsetzung)."
 ---
 
 # EuGH-Klagearten und Rechtsschutz

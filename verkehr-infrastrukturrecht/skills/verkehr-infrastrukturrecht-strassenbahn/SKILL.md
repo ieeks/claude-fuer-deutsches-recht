@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-strassenbahn
-description: "Strassenbahn und OEPNV-Infrastrukturrecht. Konzession § 9 PBefG. Planfeststellung § 28 PBefG. Linienbuendelung § 39 PBefG. Direktvergabe § 8a PBefG. Laermschutz Erschuetterungen § 41 BImSchG. Betreibermodelle Verkehrsverbund Delegationsrecht."
+description: "Strassenbahn- und OEPNV-Infrastrukturrecht: Betreiber beantragt Konzession oder Planfeststellung, oder Gemeinde will Linie neu planen. Normen: § 9 PBefG (Konzession), § 28 PBefG (Planfeststellung Strassenbahn), § 39 PBefG (Linienbuendelung), § 8a PBefG (Direktvergabe), § 41 BImSchG (Laermschutz). Pruefraster: Konzessionsvoraussetzungen, Planfeststellungsverfahren, Direktvergabe-Zulassigkeit, Laerm-/Erschuetterungsschutz Anwohner. Output Konzessionsantrag-Pruefung, Planfeststellungs-Einwendung. Abgrenzung: Planfeststellung Schiene siehe verkehr-infrastrukturrecht-planfeststellung; Foerderung siehe verkehr-infrastrukturrecht-foerderung-vergabe."
 ---
 
 # Strassenbahn und OEPNV — Infrastrukturrecht

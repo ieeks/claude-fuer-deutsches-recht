@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-verjaehrung-zustellung
-description: "Verfolgungsverjaehrung im OWi-Verfahren § 26 StVG i.V.m. § 31 OWiG. Verjährungsfrist 3 Monate nach Tatende. Unterbrechungshandlungen § 33 OWiG. Zustellungsmaengel als Verjaehrungseinwand. Absolute Verjaehrung 6 Monate. Verjaehrung als prozessuale Einrede."
+description: "Verfolgungsverjaehrung im OWi-Verfahren pruefen: Anwalt will Verjaehrungseinwand erheben. Normen: § 26 StVG i.V.m. § 31 OWiG (Verjaehrungsfrist 3 Monate nach Tatende), § 33 OWiG (Unterbrechungshandlungen), absolute Verjaehrung 6 Monate. Pruefraster: Tatdatum, Unterbrechungshandlungen, Zustellungsmaengel als Verjaehrungseinwand, Absolute-Verjaehrungs-Frist. Output Verjaehrungs-Berechnungs-Memo, Einwand-Schrift. Abgrenzung: Einspruchsfrist siehe verkehrsowi-fristen-einspruch; Zustellungsfehler siehe verkehrsowi-anhoerung-bussgeldbescheid."
 ---
 
 # Verfolgungsverjaehrung und Zustellungsmaengel — § 31 OWiG

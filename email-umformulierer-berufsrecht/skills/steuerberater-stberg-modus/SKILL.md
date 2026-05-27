@@ -1,6 +1,6 @@
 ---
 name: steuerberater-stberg-modus
-description: "Umformulierung von Steuerberater-Korrespondenz nach den Berufspflichten des StBerG: gewissenhafte Berufsausuebung (§ 57 StBerG), Verhalten gegenueber anderen Berufsangehoerigen (§ 9 BOStB) und Verschwiegenheit. Mit berufsrechtsspezifischen Formulierungshilfen."
+description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformitaet anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Pruefraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhaengigkeit. Output: angepasste Version mit Pruefprotokoll. Abgrenzung: nicht fuer allgemeine Anwaltskorrespondenz."
 ---
 
 # Steuerberater-Modus (StBerG/BOStB)

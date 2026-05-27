@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-kaltstart-interview
-description: "Kaltstart-Interview fuer das tabellenreview-3d-Plugin. Erfragt typische Anwendungsfaelle (M&A-DD / Immobilienportfolio / Vendor-Onboarding / Arbeitsvertraege / Mietvertraege / Anlagedokumente / freie Eigenwuerfel), Standard-Wuerfeldimensionen (Spalten Zeilen Arbeitsblaetter), Hauszitierweise, Schwellen fuer Risikoampel (gruen / gelb / rot), Excel-Vorlagen-Pfade, Verzeichnis fuer Belegkette, Reviewer-Eskalationspfad und Standard-Materialitaet. Schreibt das Praxisprofil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/tabellenreview-3d/CLAUDE.md. Mit --redo neu interviewen, mit --integrationen-pruefen nur Konnektoren testen."
+description: "Kaltstart-Interview fuer den 3D-Tabellenreview: Fallkategorie, Tabellengrösse, Pruefzweck erfassen. Normen: §§ 174 ff. InsO, HGB. Pruefraster: Zweck, Datenlage, Perspektivenwahl, Exportformat. Output: Konfigurationsdokument fuer 3D-Review-Start. Abgrenzung: nicht Pruefungsdurchfuehrung."
 ---
 
 # /tabellenreview-3d:tabellenreview-3d-kaltstart-interview

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-urheber-medienrecht
-description: "Strukturierte Eingangs-Abfrage fuer urheber- und medienrechtliche Mandate. Sachgebiet: Urheberrecht Filesharing Foto-Lizenz Persoenlichkeitsrecht Presserecht KUG Rundfunk Streaming DSA DDG Verlags- und Buchrecht Musikrecht GEMA VG Wort. Mandantenrolle Sofort-Fristen Routing. BGH I ZR VI ZR Schricker/Loewenheim."
+description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Pruefraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Urheber- und Medienrecht

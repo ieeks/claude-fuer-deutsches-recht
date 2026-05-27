@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-antwort
-description: "Modus fuer Anfragen auf Englisch, Franzoesisch oder Italienisch: uebernimmt die Sprache der Anfrage in der Erstantwort. Deutsche Anfragen erhalten deutschsprachige Antwort. Anredekonventionen Schlussformeln und Datenschutzhinweise in der jeweiligen Sprache. Laedt wenn der Nutzer 'Antwort auf Englisch', 'repondre en francais', 'risposta in italiano', 'mehrsprachige Erstantwort' oder 'Sprache der Anfrage erkennen' sagt."
+description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Pruefraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede)."
 ---
 
 # Mehrsprachige-Antwort

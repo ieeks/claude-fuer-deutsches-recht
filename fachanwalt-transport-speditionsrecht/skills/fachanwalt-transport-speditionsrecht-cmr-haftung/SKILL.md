@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-cmr-haftung
-description: "Haftung des grenzueberschreitenden Strassenfrachtfuehrers nach CMR-UEbereinkommen 1956. Obhutshaftung Art. 17 Abs. 1 CMR. Haftungsbefreiungen Art. 17 Abs. 2 und 4 CMR. Haftungshoechstbetrag 8 33 Sonderziehungsrechte pro kg Art. 23 Abs. 3 CMR. Qualifiziertes Verschulden Art. 29 CMR unbegrenzte Haftung. Reklamation Art. 30 CMR. Verjaehrung Art. 32 CMR ein Jahr bzw. drei Jahre bei Vorsatz oder gleichstehendem Verschulden."
+description: "CMR-Haftung des Frachtfuehrers im internationalen Strassengueterverkehr pruefen. Normen: Art. 17 23 29 CMR. Pruefraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungspruefergebnis. Abgrenzung: nicht CMR-Schadensregulierung."
 ---
 
 # CMR-Haftung – Grenzüberschreitender Straßengüterverkehr

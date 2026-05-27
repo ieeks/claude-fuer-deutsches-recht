@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-presse-gegendarstellung
-description: "Gegendarstellung nach Landespressegesetzen z.B. § 11 BlnPrG § 10 PresseG NRW. Voraussetzung Tatsachenbehauptung berechtigtes Interesse Unverzueglichkeit Schriftform Unterschrift Beschraenkung auf Tatsachenbehauptung kein Werturteil keine Strafbarkeit. Abdruckpflicht gleichwertig Platzierung Aufmachung. Einstweilige Verfuegung § 935 § 940 ZPO Sache hat Eilcharakter. Rundfunkstaatsvertrag analog § 9 MStV."
+description: "Gegendarstellungsanspruch in der Presse pruefen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Pruefraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht fuer Widerruf oder Unterlassung von Tatsachenbehauptungen."
 ---
 
 # Presse-Gegendarstellung

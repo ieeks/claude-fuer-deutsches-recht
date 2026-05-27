@@ -1,6 +1,6 @@
 ---
 name: belegkette-rueckverfolgung
-description: "Sichert die Belegkette jeder Zelle des Wuerfels — von der Antwort ueber das woertliche Zitat bis zur Originalstelle im Quelldokument mit Seite Absatz und Datei-Hash. Erkennt Belegkette-Brueche (Datei-Hash weicht ab / Zitat nicht im Originaltext auffindbar / Fundstelle ausserhalb des Dokuments). Erlaubt umgekehrte Suche: 'welche Zellen zitieren Seite 14 von Vertrag-042?' Generiert `belegkette.csv` mit allen Zitaten plus Fundstellen plus Dokumenten-Hashes als Pflichtanhang zur Mandatsuebergabe."
+description: "Belegkette fuer Forderungen und Zahlungen zurueckverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Pruefraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Uebersicht. Abgrenzung: nicht Excel-Export."
 ---
 
 # /tabellenreview-3d:belegkette-rueckverfolgung

@@ -1,6 +1,6 @@
 ---
 name: inkasso-zahlungsklage-ersteller
-description: "Freistehender Inkasso-Zahlungsklage-Ersteller: Mahnvorlauf, Anspruchs-Gatekeeper, Teilzahlung/Erfuellung, Verzug, Inkassokosten, Gerichtsortfindung. Klage nur fuer klare, faellige und belegte Ansprueche."
+description: "Glaeubiger hat offene Forderung die er vor Gericht einklagen will. Zahlungsklage Forderungsmanagement §§ 286 ff. BGB ZPO. Pruefraster: Mahnvorlauf Anspruchs-Gatekeeper faellig belegt Teilzahlung Verzug Inkassokosten § 288 BGB Gerichtsortfindung §§ 12 13 29 ZPO. Output: Klage-Entwurf Zahlungsklage fuer klare faellige belegte Ansprueche. Abgrenzung zu zv-mahnbescheid-online (Mahnverfahren) und klagevorlage-aus-eigenen-mustern (hauseigene Muster)."
 ---
 
 # Inkasso-Zahlungsklage-Ersteller

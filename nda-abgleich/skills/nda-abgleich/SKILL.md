@@ -1,6 +1,6 @@
 ---
 name: nda-abgleich
-description: "NDA-Verhandlungshilfe fuer die empfangende Seite. Zwei Modi: (A) Standard-Destillation aus 1 bis n eigenen NDAs und frei beschreibbarer Erfahrung in einen konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN; (B) Redlining-Lauf, der einen Entwurf der Gegenseite gegen genau diesen Standard chirurgisch mit echten Word-Tracked-Changes umarbeitet (w:ins und w:del als Geschwister auf Laufebene, mit author und date). Keine Absatzloeschungen, keine kompletten Klausel-Neufassungen, jede Aenderung minimalinvasiv. Verwenden bei Formulierungen wie 'aus unseren NDAs einen Standard ableiten', 'Haltelinien aus mehreren Vertraegen destillieren', 'NDA der Gegenseite anpassen', 'NDA Redlining', 'Standard durchsetzen', 'NDA Tracked Changes', 'NDA chirurgisch redigieren'."
+description: "Empfangende Seite soll NDA der Gegenseite pruefen und verhandeln oder Kanzlei will aus mehreren NDAs einen eigenen Standard destillieren. NDA-Verhandlungshilfe. Modus A Destillation: 1 bis n eigene NDAs in konsolidierten Haltelinien-Standard mit Ampelmatrix ROT/GELB/GRUEN. Modus B Redlining: Gegenseiten-Entwurf gegen Standard chirurgisch mit echten Word-Tracked-Changes (w:ins und w:del Laufebene) ueberarbeiten — minimalinvasiv keine Absatzloeschungen. Output: Standard-NDA-Haltelinien oder redigiertes DOCX mit Tracked Changes. Abgrenzung zu ip-klausel-pruefung (IP-Klauseln) und vertragsrecht-plugin allgemein."
 ---
 
 # NDA-Abgleich: eigenen Standard destillieren und chirurgisch durchsetzen

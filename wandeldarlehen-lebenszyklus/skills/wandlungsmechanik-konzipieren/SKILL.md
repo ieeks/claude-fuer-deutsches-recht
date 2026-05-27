@@ -1,6 +1,6 @@
 ---
 name: wandlungsmechanik-konzipieren
-description: "Konzeption der Wandlungsmechanik: Bewertungslogik mit Cap und Discount, Trigger-Logik (Qualified Financing mit Mindest-Bewertung und Mindest-Investitionsvolumen, Maturity, Liquidation Event), Wandlungspreis-Formel MIN(Pre-Money/Anteile; Cap/Anteile; Discount-Preis/Anteile), Berechnung Geschaeftsanteile mit anteiliger Aufrundung und Most-Favoured-Nation."
+description: "Wandlungsmechanik eines SAFE oder Convertible Note konzipieren: Preis Verwasserungsschutz Sonderrechte. SAFE Y-Combinator-Terminologie §§ 53 55 GmbHG §§ 488 ff. BGB. Pruefraster: Wandlungspreis Bewertungsdeckel Rabatt Verwasserungsschutz MFN-Klausel Liquidationspraeference. Output: Term-Sheet Wandlungsmechanik-Beschreibung. Abgrenzung: nicht fuer konkrete Wandlungsberechnung (wandlungspreis-berechnung)."
 ---
 
 # Wandlungsmechanik konzipieren

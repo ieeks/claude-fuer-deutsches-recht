@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-eilverfuegung
-description: Strukturierte Schutzschrift zur Abwehr drohender einstweiliger Verfuegung. Hinterlegung beim zentralen elektronischen Schutzschriftenregister § 945a ZPO. Aufbau Sachverhalt aus Sicht potenziell Antragsgegner rechtliche Gegenrede zu erwarteten Beanstandungen Glaubhaftmachung mit eidesstattlicher Versicherung Wertangabe Senatsauswahl Gerichts-Wahl. Ziel Antrag mit muendlicher Verhandlung oder Ablehnung des Antrags ohne mundliche Verhandlung. Gueltigkeit sechs Monate § 945a ZPO. Beratungs-Trigger nach Abmahnung Schreiben Verletzungs-Erstkontakt. Strategischer Einsatz bei verschiedenen Gerichten Senatsauswahl.
+description: "Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befuerchtet einstweilige Verfuegung ohne Anhoerung. § 945a ZPO Schutzschrift ZSER. Pruefraster: Hinterlegung zentrales elektronisches Schutzschriftenregister § 945a ZPO Sachverhalt Gegenrede Glaubhaftmachung eidesstattliche Versicherung Wertangabe Senatsauswahl. Output: Schutzschrift-Entwurf fuer sofortige Hinterlegung. Abgrenzung zu unterlassungsverlangen (Abwehr der Abmahnung selbst) und verletzungs-triage."
 ---
 
 # Schutzschrift gegen Eilverfügung

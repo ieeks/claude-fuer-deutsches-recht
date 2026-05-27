@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-transparenz-und-informationen-fuer-betreiber-art-13
-description: "Transparenz- und Informationspflichten gegenueber Betreibern fuer Hochrisiko-KI nach Art. 13 KI-VO: Gebrauchsanweisung Mindestinhalt Verstaendlichkeitsanforderungen Sprache Aktualisierungspflichten. Abgrenzung zur Endnutzer-Transparenz."
+description: "Anbieter von Hochrisiko-KI fragt: Welche Informationen muessen wir dem Betreiber in der Gebrauchsanweisung zur Verfuegung stellen? Art. 13 KI-VO Transparenz und Informationspflichten. Pruefraster: Gebrauchsanweisung Mindestinhalt Art. 13 Abs. 3 Systembeschreibung Zweck Genauigkeitsmetriken Risiken menschliche Aufsicht Verstaendlichkeitsanforderungen Sprachanforderungen Aktualisierungspflichten. Output: Vorlage Gebrauchsanweisung Hochrisiko-KI. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (interne Doku) und begrenztes-risiko-art-50-transparenzpflichten (Endnutzer-Transparenz)."
 ---
 
 # Transparenz und Informationen für Betreiber — Art. 13 KI-VO

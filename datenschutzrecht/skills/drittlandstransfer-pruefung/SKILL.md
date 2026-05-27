@@ -1,6 +1,6 @@
 ---
 name: drittlandstransfer-pruefung
-description: "Prueft Datenuebermittlungen in Drittlaender nach Art. 44 ff. DSGVO: Angemessenheitsbeschluesse (USA: EU-US Data Privacy Framework 2023, UK, Schweiz), Standardvertragsklauseln (SCC 2021 Module 1 bis 4), Transfer Impact Assessment nach EuGH C-311/18 Schrems II, BCR und Ausnahmen nach Art. 49 DSGVO."
+description: "Datentransfer in Drittlaender ausserhalb EU und EWR auf Zulässigkeit pruefen. Art. 44 ff. DSGVO Kapitel V Drittlandstransfer. Pruefraster: Angemessenheitsbeschluss SCC BCR Schrems-II-Folgen Transfer Impact Assessment zusaetzliche Massnahmen. Output: Drittlandstransfer-Pruefmemo TIA-Vorlage. Abgrenzung: nicht fuer innereuroaeischen Datenaustausch."
 ---
 
 # Drittlandstransfer-Prüfung (Art. 44 ff. DSGVO)

@@ -1,6 +1,6 @@
 ---
 name: territorialer-anwendungsbereich-art-2
-description: "Prueft den territorialen Anwendungsbereich der KI-VO nach Art. 2: Inverkehrbringen in der EU Nutzung in der EU Ausgaben die in der EU verwendet werden auch bei Betrieb ausserhalb der EU. Extraterritoriale Wirkung und Drittstaaten-Konstellationen."
+description: "Nicht-EU-Unternehmen oder Exporteur fragt: Gilt die KI-VO auch fuer uns obwohl wir ausserhalb der EU sind? Art. 2 KI-VO territorialer Anwendungsbereich. Pruefraster: Inverkehrbringen in der EU Nutzung in der EU durch Betreiber Ausgaben die in der EU verwendet werden auch bei Betrieb ausserhalb der EU Marktortprinzip. Drittstaaten-Konstellationen und extraterritoriale Wirkung. Output: Anwendbarkeits-Entscheidung mit Begruendung. Abgrenzung zu sachlicher-ausschluss-art-2-abs-3-bis-12 (sachliche Ausnahmen) und persoenlicher-anwendungsbereich-rollen-art-3."
 ---
 
 # Territorialer Anwendungsbereich — Art. 2 KI-VO

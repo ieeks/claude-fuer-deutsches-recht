@@ -1,6 +1,6 @@
 ---
 name: wandlungspreis-berechnung
-description: "Konkrete Formel fuer den Wandlungspreis: Anteile = (Darlehen + aufgelaufene Zinsen) / Wandlungspreis. Wandlungspreis = MIN(Pre-Money/vollverwaesserte Anteile, (1-Discount) x Pre-Money/Anteile, Cap/Anteile). Schritt-fuer-Schritt-Beispielrechnung fuer alle drei Trigger-Typen. Aufrundungsregel nach § 5 GmbHG."
+description: "Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandlung ausgeloest wird. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Bewertungsdeckel Rabatt Qualified-Financing-Preis MFN Verwasserungsschutz Rundungsregel. Output: Berechnungsnachweis Wandlungspreis neue Anteile. Abgrenzung: nicht fuer Cap-Table-Update (cap-table-update-pre-post)."
 ---
 
 # Wandlungspreis-Berechnung

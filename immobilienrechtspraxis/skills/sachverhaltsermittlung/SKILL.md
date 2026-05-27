@@ -1,6 +1,6 @@
 ---
 name: sachverhaltsermittlung
-description: Unterstuetzt Inhouse-Juristen bei der zeitraubendsten Phase eines Vorgangs — der Sachverhaltsermittlung. Statt sofort den vollen Sachverhalt zu fordern, fuehrt der Skill einen strukturierten Frageprozess in mehreren Stufen. Stufe eins extrahiert Eckpunkte aus vorhandenen Unterlagen. Stufe zwei stellt gezielte Rueckfragen an Asset-Management oder Hausverwaltung. Stufe drei rekonstruiert eine zeitliche Abfolge. Stufe vier markiert Beweisluecken. Ausgabe ist ein konsolidiertes Sachverhalts-Memo mit klarer Trennung gesichert plausibel offen. Geeignet fuer Mietstreitigkeiten Mietmaengelanzeigen Kuendigungen Bauschadensfaelle und Property-Management-Konflikte.
+description: "Sachverhalt in Immobilienrechtsstreitigkeiten ermitteln: Eigentumsverhaeltnisse, Vertragshistorie, Beweismittel. Normen: §§ 873 ff. BGB, GBO, WEG. Pruefraster: Grundbuch, Kaufvertrag, Mietvertrag, Beweismittelkatalog. Output: Sachverhalts-Ermittlungsbericht. Abgrenzung: nicht rechtliche Bewertung."
 ---
 
 # Sachverhaltsermittlung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-orientierung
-description: Orientierung im Internationalen Wirtschaftsrecht — FAO Voraussetzungen Normen typische Mandate Standardliteratur. CISG UN-Kaufrecht Bruessel Ia VO Rom I und Rom II VO grenzueberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC LCIA Investitionsschutzrecht ICSID-Bilateral Investment Treaty BIT EU Welthandelsrecht WTO Aussenhandel und Sanktionen EU-Sanktionen Compliance LkSG.
+description: "Einstieg in den Skill-Verbund Internationales Wirtschaftsrecht. FAO § 14i IWR CISG UN-Kaufrecht Bruessel-Ia-VO Rom I und II VO grenzueberschreitende Vertragspraxis Schiedsverfahren ICC UNCITRAL VIAC. Investitionsschutzrecht ICSID Welthandelsrecht WTO. Sanktionen EU-Russland USA-OFAC LkSG. Output: Routing zu passendem Folge-Skill. Abgrenzung zu mandat-triage-iwr (konkrete Falltriage) und sanktions-compliance-pruefung."
 ---
 
 # Fachanwalt für Internationales Wirtschaftsrecht — Orientierung
