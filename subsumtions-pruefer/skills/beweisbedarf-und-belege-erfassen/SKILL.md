@@ -1,6 +1,6 @@
 ---
 name: beweisbedarf-und-belege-erfassen
-description: "Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverstaendige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Strukturiertes Beweis-Tracking nach §§ 355-484 ZPO."
+description: "Erfasst pro Tatbestandsmerkmal den Beweisbedarf: Beweismittel-Katalog (Urkunden, Zeugen, Sachverständige, Augenschein, Parteivernehmung), Belege hochladen, Tatsachenbehauptung eintragen oder 'beweise ich spaeter'-Markierung setzen. Strukturiertes Beweis-Tracking nach §§ 355-484 ZPO."
 ---
 
 # Beweisbedarf und Belege erfassen

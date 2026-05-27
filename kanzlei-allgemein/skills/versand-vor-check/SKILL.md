@@ -1,6 +1,6 @@
 ---
 name: versand-vor-check
-description: Pflicht-Pre-Check vor jedem ausgehenden Versand — prueft Dokumentidentitaet (das richtige PDF? Stand vom richtigen Datum? Aktenzeichen passt?) Unterschrift (durch berechtigte Person? eigenhaendig oder qualifizierte elektronische Signatur?) Adressat (richtiges Gericht / Behoerde / Mandant? richtige Adresse beA-SAFE-ID EGVP-Adresse?) Anlagen (vollstaendig? im Inhaltsverzeichnis aufgefuehrt? Sigel richtig?) Versandweg (Post / beA / EGVP / E-Mail / De-Mail). Versandquittung sichern. Audit-Eintrag. Bei Mangel Versand sperren.
+description: Pflicht-Pre-Check vor jedem ausgehenden Versand — prüft Dokumentidentität (das richtige PDF? Stand vom richtigen Datum? Aktenzeichen passt?) Unterschrift (durch berechtigte Person? eigenhaendig oder qualifizierte elektronische Signatur?) Adressat (richtiges Gericht / Behoerde / Mandant? richtige Adresse beA-SAFE-ID EGVP-Adresse?) Anlagen (vollständig? im Inhaltsverzeichnis aufgeführt? Sigel richtig?) Versandweg (Post / beA / EGVP / E-Mail / De-Mail). Versandquittung sichern. Audit-Eintrag. Bei Mangel Versand sperren.
 ---
 
 # Versand-Vor-Check (Pflicht vor jedem Versand)

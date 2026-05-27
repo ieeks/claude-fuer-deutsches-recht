@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-werkstudent-pauschalen
-description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Pruefung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung."
+description: "Werkstudent SV-Status 20-Stunden-Grenze pauschale Beitraege. Anwendungsfall Beschaeftigung Student Werkstudentenprivileg KV-Befreiung RV-Pflicht JAEG nicht relevant Klassifizierung. Methodik Prüfung 20-Stunden-Woche vorlesungsfreie Zeit Antrag KV-Befreiung. Output Werkstudenten-Abrechnung."
 ---
 
 # Werkstudent — SV-Status und Pauschalen

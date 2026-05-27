@@ -1,6 +1,6 @@
 ---
 name: mieteranfragen-bearbeitung
-description: "Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kuendigung. Normen: §§ 535 536 556 573 BGB, WEG. Pruefraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output: Bearbeitungsprotokoll Mieteranfrage. Abgrenzung: nicht WEG-Verwaltungsrecht."
+description: "Mieteranfragen im Miet- und WEG-Recht bearbeiten: Instandsetzung, Betriebskosten, Kündigung. Normen: §§ 535 536 556 573 BGB, WEG. Prüfraster: Anfragetyp, Rechtsgrundlage, Fristen, Handlungspflichten. Output: Bearbeitungsprotokoll Mieteranfrage. Abgrenzung: nicht WEG-Verwaltungsrecht."
 ---
 
 # Mieteranfragen Bearbeitung

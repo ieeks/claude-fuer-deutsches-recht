@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-schufa-eintrag
-description: "Mandant erhaelt negativen SCHUFA-Eintrag und will diesen loeschen oder berichtigen lassen. Art. 16 17 DSGVO § 31 BDSG Scoring EuGH C-634/21. Normen Art. 6 16 17 82 DSGVO § 31 BDSG BGH VI ZR 1213/22. Pruefraster Eintragungsvoraussetzungen Loeschungsanspruch Scoring-Transparenz Schadensersatz Art. 82 DSGVO. Output Loeschungsschreiben SCHUFA Widerspruch Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-schufa-loeschungsanspruch (Detail) und mandat-triage (Ersterfassung)."
+description: "Mandant erhaelt negativen SCHUFA-Eintrag und will diesen löschen oder berichtigen lassen. Art. 16 17 DSGVO § 31 BDSG Scoring EuGH C-634/21. Normen Art. 6 16 17 82 DSGVO § 31 BDSG BGH VI ZR 1213/22. Prüfraster Eintragungsvoraussetzungen Löschungsanspruch Scoring-Transparenz Schadensersatz Art. 82 DSGVO. Output Löschungsschreiben SCHUFA Widerspruch Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-schufa-löschungsanspruch (Detail) und mandat-triage (Ersterfassung)."
 ---
 
 # SCHUFA-Eintrag

@@ -1,6 +1,6 @@
 ---
 name: joint-controller-vereinbarung
-description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Pruefraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Pruefprotokoll. Abgrenzung: nicht fuer Auftragsverarbeitung (avv-pruefung)."
+description: "Joint-Controller-Vereinbarung nach Art. 26 DSGVO erstellen wenn zwei oder mehr Verantwortliche gemeinsam entscheiden. Art. 26 DSGVO Gemeinsame Verantwortlichkeit. Prüfraster: gemeinsame Zwecke und Mittel Aufgabenverteilung Anlaufstelle Betroffenenrechte interne Haftungsverteilung. Output: Vereinbarungsentwurf Prüfprotokoll. Abgrenzung: nicht für Auftragsverarbeitung (avv-prüfung)."
 ---
 
 # Gemeinsame Verantwortlichkeit Art. 26 DSGVO

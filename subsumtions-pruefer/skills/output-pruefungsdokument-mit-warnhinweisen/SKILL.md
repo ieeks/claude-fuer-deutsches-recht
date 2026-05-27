@@ -1,6 +1,6 @@
 ---
 name: output-pruefungsdokument-mit-warnhinweisen
-description: "Erzeugt das vollstaendige Pruefungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Pruefung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und Abschluss-Disclaimer."
+description: "Erzeugt das vollständige Prüfungsdokument mit Pflicht-Kopfhinweis: kein Rechtsgutachten, kein Rechtsrat, nur mechanische Prüfung anhand Nutzerangaben. Enthaelt alle Warnhinweise an markanten Stellen des Dokuments und Abschluss-Disclaimer."
 ---
 
 # Output: Prüfungsdokument mit Warnhinweisen

@@ -1,6 +1,6 @@
 ---
 name: iv-massemehrung-asset-realisation
-description: "Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung § 133 InsO Vorsatzanfechtung § 15b InsO Haftungsansprueche. Pruefraster: Werthebel Assets Prozesse Anfechtung D und O Vergleichspotenzial Kosten-Nutzen. Output: Verwertungskonzept Strategiematrix Beschlussvorlage. Abgrenzung: nicht fuer reine Masseeinsammlung (iv-masseeinsammlung) oder Betriebsfortfuehrung."
+description: "Verwertungsstrategie und Massemehrung entwickeln wenn Masse niedrig oder Quote ungewiss ist. §§ 159 160 InsO Verwertung § 133 InsO Vorsatzanfechtung § 15b InsO Haftungsansprüche. Prüfraster: Werthebel Assets Prozesse Anfechtung D und O Vergleichspotenzial Kosten-Nutzen. Output: Verwertungskonzept Strategiematrix Beschlussvorlage. Abgrenzung: nicht für reine Masseeinsammlung (iv-masseeinsammlung) oder Betriebsfortführung."
 ---
 
 # Massemehrung und Verwertung

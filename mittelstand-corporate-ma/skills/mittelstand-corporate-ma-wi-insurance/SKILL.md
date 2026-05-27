@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-wi-insurance
-description: "W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter fuer M&A."
+description: "W&I-Versicherung: W&I-Prozess, Underwriting, DD-Berichte, Deckungsausschluesse, AI-DD-Transparenz, Synthetic Warranties, Materiality Scrape und Disclosure Letter für M&A."
 ---
 
 # W&I-Versicherung

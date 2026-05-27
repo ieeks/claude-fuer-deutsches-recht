@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer die berufsrechtliche und strafrechtliche Vorpruefung von Vertraegen mit privaten Legal-AI-Anbietern. Fuer Rechtsanwaelte, Steuerberater, Wirtschaftspruefer, Patentanwaelte und Notare. Abdeckung von §§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO sowie § 203 StGB."
+description: "Einstieg und Überblick für die berufsrechtliche und strafrechtliche Vorprüfung von Vertraegen mit privaten Legal-AI-Anbietern. Für Rechtsanwaelte, Steuerberater, Wirtschaftsprüfer, Patentanwaelte und Notare. Abdeckung von §§ 43e BRAO, 62a StBerG, 50a WPO, 39c PAO, 26a BNotO sowie § 203 StGB."
 ---
 
 # Berufsrecht KI-Vertragspruefung — Allgemein

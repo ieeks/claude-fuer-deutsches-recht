@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-datenqualitaet-register
-description: "Prueft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollstaendige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister § 23a GwG Unstimmigkeitsmeldung. Pruefraster Datenfelder Dubletten Schreibweisen Registerquellen Trefferqualitaet Auditierbarkeit. Output Datenqualitaetsbericht mit Bereinigungsliste Dubletten-Protokoll und Transparenzregister-Abgleich. Abgrenzung zu geldwaesche-ubo-wirtschaftlich-berechtigte und geldwaesche-transparenzregister."
+description: "Prüft Datenqualitaet im KYC-System und Transparenzregister-Abgleich. Anwendungsfall KYC-Daten enthalten Dubletten fehlerhafte Schreibweisen oder unvollständige UBO-Daten. Normen § 11 GwG Identifizierungspflicht § 20 GwG Transparenzregister § 23a GwG Unstimmigkeitsmeldung. Prüfraster Datenfelder Dubletten Schreibweisen Registerquellen Trefferqualitaet Auditierbarkeit. Output Datenqualitaetsbericht mit Bereinigungsliste Dubletten-Protokoll und Transparenzregister-Abgleich. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-transparenzregister."
 ---
 
 # Datenqualität, Register und Screening-Tools

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-elternzeit-mutterschutz
-description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Pruefung MuschG Beschaeftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung."
+description: "Elternzeit Mutterschutz Mutterschaftsgeld Elterngeld lohnrelevant. Anwendungsfall AN-Schwangerschaft Geburt Antrag Mutterschutz Elternzeit Auswirkung auf Lohn SV-Status Steuerprogression. Methodik Prüfung MuschG Beschaeftigungsverbot BEEG. Output Lohn-Abrechnung Elternzeit Bescheinigung."
 ---
 
 # Elternzeit, Mutterschutz, Mutterschaftsgeld, Elterngeld

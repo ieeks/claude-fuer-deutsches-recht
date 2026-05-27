@@ -1,6 +1,6 @@
 ---
 name: kueschk-output-warnschriftsatz-laie
-description: "Ausgabe vollstaendige Klageschrift mit Pflicht-Disclaimer-Kopf fuer Laien; Zusammenfuehrung aller Bausteine zu einem druckfertigen Schriftsatz; Ausfuellanleitung; Einreichungshinweise fuer Arbeitsgericht."
+description: "Ausgabe vollständige Klageschrift mit Pflicht-Disclaimer-Kopf für Laien; Zusammenführung aller Bausteine zu einem druckfertigen Schriftsatz; Ausfuellanleitung; Einreichungshinweise für Arbeitsgericht."
 ---
 
 # Ausgabe: Vollständige Klageschrift mit Pflicht-Disclaimer (Laie)

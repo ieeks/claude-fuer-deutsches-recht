@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-orientierung
-description: "Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Uebersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht fuer konkreten Mandats-Einstieg."
+description: "Anwalt will ueberblicken welche Normen und Mandate das Agrarrecht umfasst oder Fachanwaltschaft vorbereiten. Orientierung HoefeO Anerbenrecht Landpachtrecht §§ 581 ff. BGB GVG-Grund EU-Agrarpolitik GAP Direktzahlungen Duengerecht Tierschutz Pflanzenschutz Naturschutz Forstrecht. FAO-Voraussetzungen typische Mandate Notfristen Sammelantrag 15. Mai. Output Orientierungs-Übersicht mit Norm-Landkarte und Routing zu Spezial-Skills. Abgrenzung: mandat-triage-agrarrecht für konkreten Mandats-Einstieg."
 ---
 
 # Fachanwalt für Agrarrecht — Orientierung

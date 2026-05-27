@@ -1,6 +1,6 @@
 ---
 name: kyc-aml-geldwaesche
-description: "KYC- und AML-Anforderungen bei Wandeldarlehensmandat pruefen wenn Investor oder Darlehensgeberin auftritt. §§ 10 11 GwG Sorgfaltspflichten. Pruefraster: wirtschaftlich Berechtigter Risikoklasse PEP-Status Herkunft Kapital Dokumentation. Output: KYC-Checkliste Risikoeinschaetzung Dokumentationspaket. Abgrenzung: nicht fuer Vertragspruefung oder Wandlungsmechanik."
+description: "KYC- und AML-Anforderungen bei Wandeldarlehensmandat prüfen wenn Investor oder Darlehensgeberin auftritt. §§ 10 11 GwG Sorgfaltspflichten. Prüfraster: wirtschaftlich Berechtigter Risikoklasse PEP-Status Herkunft Kapital Dokumentation. Output: KYC-Checkliste Risikoeinschaetzung Dokumentationspaket. Abgrenzung: nicht für Vertragsprüfung oder Wandlungsmechanik."
 ---
 
 # KYC / AML / Geldwäscheprävention

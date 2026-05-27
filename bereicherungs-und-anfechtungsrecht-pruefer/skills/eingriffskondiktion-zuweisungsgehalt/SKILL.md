@@ -1,6 +1,6 @@
 ---
 name: eingriffskondiktion-zuweisungsgehalt
-description: "Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klaeren: Immaterialgueterrechte, Persoenlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Pruefraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden)."
+description: "Nichtleistungskondiktion wegen Eingriffs in fremde Rechtsposition klaeren: Immaterialgueterrechte, Persoenlichkeitsrechte. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: Zuweisungsgehalt der Rechtsposition, Eingriff ohne Leistung, Fallgruppen. Output: Anspruchsanalyse Eingriffskondiktion mit Bereicherungsumfang. Abgrenzung: nicht Leistungskondiktion Alt. 1 (Leistungsbeziehung vorhanden)."
 ---
 
 # Eingriffskondiktion — Zuweisungsgehalt

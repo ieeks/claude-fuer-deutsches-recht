@@ -1,6 +1,6 @@
 ---
 name: vertretungsberechtigte-personen
-description: "Ermittelt gesetzliche Vertretungen, Leitungspersonen und Zeichnungsberechtigte fuer Registerangaben und Bestaetigungsdokument. Normen § 3 und § 4 LobbyRG. Output Vertretungsmatrix."
+description: "Ermittelt gesetzliche Vertretungen, Leitungspersonen und Zeichnungsberechtigte für Registerangaben und Bestätigungsdokument. Normen § 3 und § 4 LobbyRG. Output Vertretungsmatrix."
 ---
 
 # Vertretungsberechtigte Personen

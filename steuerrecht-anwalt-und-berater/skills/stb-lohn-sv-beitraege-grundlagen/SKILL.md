@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-sv-beitraege-grundlagen
-description: "Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Pruefraster SV-Beitraege."
+description: "Sozialversicherungs-Beitraege Grundlagen RV KV PV AV Umlagen. Anwendungsfall monatliche Lohnabrechnung mit SV-Berechnung Beitragsbemessungsgrenzen AG-AN-Aufteilung Sonderfaelle. Methodik Beitragsberechnung mit JAEG BBG Zusatzbeitrag KV. Output Prüfraster SV-Beitraege."
 ---
 
 # SV-Beitraege Grundlagen — RV KV PV AV und Umlagen

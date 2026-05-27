@@ -1,6 +1,6 @@
 ---
 name: discounter-und-graumarkt-brezelmann
-description: "Erschoepfungsdoktrin und Graumarkt-Kontrolle im Luxussegment: Markeninhaber will gegen Parallelimporte oder Discounter-Verkauf vorgehen. Normen: § 24 MarkenG (Erschoepfung), Art. 15 UMV, EuGH C-59/08 Copad/Dior (Erschoepfung Lizenzvertrag), EuGH C-337/95 Dior/Evora. Pruefraster: Erschoepfungs-Tatbestand, berechtigter Einwand gegen Erschoepfung (Imageschutz), Umverpacken bei Parallelimporten. Output Rechtsgutachten-Entwurf Erschoepfung, Unterlassungsanspruch oder Verteidigung. Abgrenzung: Zoll-Grenzbeschlagnahme siehe produktpiraterie-und-zoll; Selektivvertrieb siehe selektiver-vertrieb-coty."
+description: "Erschoepfungsdoktrin und Graumarkt-Kontrolle im Luxussegment: Markeninhaber will gegen Parallelimporte oder Discounter-Verkauf vorgehen. Normen: § 24 MarkenG (Erschoepfung), Art. 15 UMV, EuGH C-59/08 Copad/Dior (Erschoepfung Lizenzvertrag), EuGH C-337/95 Dior/Evora. Prüfraster: Erschoepfungs-Tatbestand, berechtigter Einwand gegen Erschoepfung (Imageschutz), Umverpacken bei Parallelimporten. Output Rechtsgutachten-Entwurf Erschoepfung, Unterlassungsanspruch oder Verteidigung. Abgrenzung: Zoll-Grenzbeschlagnahme siehe produktpiraterie-und-zoll; Selektivvertrieb siehe selektiver-vertrieb-coty."
 ---
 
 # Erschöpfung, Graumarkt und Brezelmann-Strategie

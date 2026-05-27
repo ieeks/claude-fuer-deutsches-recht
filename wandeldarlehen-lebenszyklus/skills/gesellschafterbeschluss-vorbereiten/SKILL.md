@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss-vorbereiten
-description: "Gesellschafterbeschluss fuer Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Pruefraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht fuer Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung)."
+description: "Gesellschafterbeschluss für Wandeldarlehensaufnahme oder Satzungsaenderung vorbereiten. §§ 46 53 GmbHG Gesellschafterbeschluesse. Prüfraster: Beschlussgegenstand Mehrheiten Ladungspflicht Form Anlagen. Output: Beschlussentwurf Sitzungsprotokoll. Abgrenzung: nicht für Beschluss zur Kapitalerhohung nach Wandlung (gesellschafterbeschluss-kapitalerhoehung)."
 ---
 
 # Gesellschafterbeschluss vorbereiten (vor Unterzeichnung)

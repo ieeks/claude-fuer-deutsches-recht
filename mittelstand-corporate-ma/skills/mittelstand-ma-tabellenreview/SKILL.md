@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-tabellenreview
-description: "Kanzlei prueft Dokumente Tabellen Formeln und Datenpunkte fuer Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Pruefraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet)."
+description: "Kanzlei prüft Dokumente Tabellen Formeln und Datenpunkte für Corporate/M&A mit interner Review-Matrix aus drei Perspektiven: Recht Steuer Wirtschaft. Normen §§ 276 278 BGB Sorgfaltspflicht. Prüfraster Formel-Validierung Datenpunkt-Konsistenz Perspektiven-Abgleich Fehlermarkierung. Output Review-Matrix Fehlerliste Korrekturen. Abgrenzung zu tabellenreview-3d-datenraum (Datenraum-spezifisch) und datenqualitaet-xai (KI-Qualitaet)."
 ---
 
 # Freistehender Tabellenreview (Mittelstand)

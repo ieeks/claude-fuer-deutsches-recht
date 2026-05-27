@@ -1,6 +1,6 @@
 ---
 name: notar-paket-uebermittlung
-description: "Notarpaket fuer Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Pruefraster: Vollstaendigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitaetsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht fuer Handelsregisteranmeldung nach Beurkundung."
+description: "Notarpaket für Beurkundungstermin bei Kapitalerhohung durch Wandlung zusammenstellen und uebermitteln. §§ 15 55 GmbHG BeurkG. Prüfraster: Vollständigkeit Beschluss Zeichnungsschein Gesellschafterliste Vollmachten Identitätsnachweise. Output: Notarpaket Checkliste Begleitschreiben. Abgrenzung: nicht für Handelsregisteranmeldung nach Beurkundung."
 ---
 
 # Notar-Paket zur Handelsregister-Anmeldung

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-handelsregisterabruf
-description: "Handelsregister- und Registerabruf: offizielle Registerabrufe fuer Zielgesellschaft, Kaeufer, Erwerber, Beteiligungsketten, KG und Organstellung; §§ 8-10 GmbHG, §§ 29 HGB ff."
+description: "Handelsregister- und Registerabruf: offizielle Registerabrufe für Zielgesellschaft, Kaeufer, Erwerber, Beteiligungsketten, KG und Organstellung; §§ 8-10 GmbHG, §§ 29 HGB ff."
 ---
 
 # Handelsregister- und Registerabruf

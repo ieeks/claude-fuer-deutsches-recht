@@ -1,6 +1,6 @@
 ---
 name: mandat-briefing
-description: "Mandantenbriefing fuer Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: §§ 373 ff. ZPO. Pruefraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument fuer Mandanten vor Termin. Abgrenzung: nicht Zeugenvorbereitung (eigener Skill)."
+description: "Mandantenbriefing für Gerichtstermin erstellen: Ablauf, Verhaltenshinweise, Beweisfragen. Normen: §§ 373 ff. ZPO. Prüfraster: Beweislast, Zeugenvorbereitung, Verhandlungsstrategien. Output: Briefingdokument für Mandanten vor Termin. Abgrenzung: nicht Zeugenvorbereitung (eigener Skill)."
 ---
 
 # Mandat-Briefing

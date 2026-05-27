@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-orientierung
-description: "Orientierung im Insolvenz- und Sanierungsrecht fuer Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltspruefung vor. Normen §§ 17-19 InsO Eroeffnungsgruende § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Pruefraster Eroeffnungsgruende Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen Standardliteratur. Output Rechtsgebietsuebersicht mit Normenkarte Standardliteratur und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
+description: "Orientierung im Insolvenz- und Sanierungsrecht für Mandate und Fachanwaltschaft nach § 14 FAO. Anwendungsfall Kanzlei will Insolvenzmandat beurteilen oder Anwalt bereitet sich auf FAO-Fachanwaltsprüfung vor. Normen §§ 17-19 InsO Eroeffnungsgründe § 15a InsO Antragspflicht §§ 270 ff. InsO Eigenverwaltung § 270d InsO Schutzschirm StaRUG EuInsVO. Prüfraster Eroeffnungsgründe Antragspflicht Plan-Verfahren Anfechtung Fachanwalt-Voraussetzungen Standardliteratur. Output Rechtsgebietsuebersicht mit Normenkarte Standardliteratur und Routing zu Mandatsskills. Abgrenzung zu erstgespraech-mandatsannahme und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
 ---
 
 # Fachanwalt für Insolvenz- und Sanierungsrecht — Orientierung

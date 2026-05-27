@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-teaser-im-processdocs
-description: "Teaser, Information Memorandum und Prozessdokumente fuer M&A-Auktionsprozesse erstellen: Verkaeuferkanzlei oder Investmentbank benoetigt anonymisierten Teaser, IM und VDD. Normen: § 311 Abs. 2 BGB (vorvertragliche Haftung), MAR (Insiderinformationen), WpueG (Public M&A). Pruefraster: Anonymisierungsgrad, Disclaimer, Materialitaet, Konsistenz mit DR-Inhalt. Output Teaser-Entwurf, IM-Gliederung, Management-Presentation-Template. Abgrenzung: Bieter-Prozess siehe simulation-bidder-process; Datenraum siehe datenraum-aufbau."
+description: "Teaser, Information Memorandum und Prozessdokumente für M&A-Auktionsprozesse erstellen: Verkaeuferkanzlei oder Investmentbank benoetigt anonymisierten Teaser, IM und VDD. Normen: § 311 Abs. 2 BGB (vorvertragliche Haftung), MAR (Insiderinformationen), WpueG (Public M&A). Prüfraster: Anonymisierungsgrad, Disclaimer, Materialitaet, Konsistenz mit DR-Inhalt. Output Teaser-Entwurf, IM-Gliederung, Management-Presentation-Template. Abgrenzung: Bieter-Prozess siehe simulation-bidder-process; Datenraum siehe datenraum-aufbau."
 ---
 
 # Teaser, Information Memorandum und Prozessdokumente
@@ -18,15 +18,15 @@ description: "Teaser, Information Memorandum und Prozessdokumente fuer M&A-Aukti
 
 - **§§ 311 II, 241 II BGB** — vorvertragliche Aufklaerungspflichten; IM-Inhalt muss vollstaendig und korrekt sein; Haftung bei Fehlinformationen
 - **§ 123 BGB** — Anfechtung bei arglistiger Taeuschung im IM; 1 Jahr Frist (§ 124 BGB)
-- **Art. 17 MAR / § 15 WpHG** — kursrelevante Informationen im IM nicht ohne Ad-hoc veroeffentlichen
-- **§ 26 WpUeG** — Angebotsunterlage bei borsennotierten Zielgesellschaften muss BaFin-geprueft sein
+- **Art. 17 MAR** — kursrelevante Informationen im IM nicht ohne Ad-hoc-Prüfung veröffentlichen; nationale Sanktionen nach WpHG mitdenken
+- **§§ 11, 14, 15 WpUeG** — Angebotsunterlage bei börsennotierten Zielgesellschaften erstellen, der BaFin übermitteln und erst nach Prüfung veröffentlichen
 - **§§ 8-15 UWG** — irreführende Werbung; IM darf keine unwahren Angaben enthalten
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.02.2014 - II ZR 89/13, NJW 2014, 1955 — Information Memorandum: Angaben im IM binden den Verkaefer; Fehler koennen c.i.c.-Haftung ausloesen (§ 311 II BGB); kein Haftungsausschluss bei Arglist
-- BGH, Urt. v. 29.11.2013 - V ZR 73/13, NJW 2014, 775 — Taetigkeitsbeschreibung im IM: offensichtliche Fehler oder Uebertreibungen schaden nicht; wesentliche Falschangaben ueber finanzielle Kennzahlen koennen Anfechtung ausloesen
-- OLG Frankfurt, Urt. v. 20.11.2018 - 1 U 98/18, NZG 2019, 175 — Haftungsfreizeichnungsklausel im IM (Disclaimer): beschraenkt Haftung; bei Arglist keine Wirkung; bei fahrlässiger Fehlinformation Schutz moeglich
+- BGH, Urt. v. 15.09.2023 - V ZR 77/22 — Datenraum-Offenlegung erfüllt Aufklärungspflichten nur, wenn der Verkäufer nach den Umständen berechtigterweise erwarten darf, dass der Käufer die Information tatsächlich zur Kenntnis nimmt.
+- BGH, Urt. v. 04.04.2001 - VIII ZR 32/00, NJW 2001, 2163 — ungefragte Aufklärungspflicht über Umstände, die für den Vertragsentschluss wesentlich sind und den Vertragszweck gefährden können.
+- OLG Frankfurt, Urt. v. 20.11.2018 - 1 U 98/18, NZG 2019, 175 — Disclaimer und Haftungsfreizeichnung im Transaktionsprozess ersetzen keine Offenlegung bei Arglist oder wesentlichen Falschangaben.
 
 ## Kommentarliteratur
 
@@ -113,6 +113,6 @@ ANLAGEN (Phase II)
 
 ## Quellen
 
-- §§ 311 II, 241 II, 123 BGB; Art. 17 MAR; § 26 WpUeG; §§ 8-15 UWG
-- BGH II ZR 89/13 (IM-Haftung); BGH V ZR 73/13 (Fehler im IM); OLG Frankfurt 1 U 98/18 (Disclaimer)
+- §§ 311 II, 241 II, 123 BGB; Art. 17 MAR; §§ 11, 14, 15 WpUeG; §§ 8-15 UWG
+- BGH V ZR 77/22 (Datenraum-Aufklärung); BGH VIII ZR 32/00 (vorvertragliche Aufklärung); OLG Frankfurt 1 U 98/18 (Disclaimer)
 - Holzapfel/Poellath, Unternehmenskauf (16. Aufl. 2022) Kap. 2

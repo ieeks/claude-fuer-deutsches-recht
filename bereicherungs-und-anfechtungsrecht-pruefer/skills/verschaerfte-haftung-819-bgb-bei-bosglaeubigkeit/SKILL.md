@@ -1,6 +1,6 @@
 ---
 name: verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit
-description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigkeit oder Rechtshaengigkeit pruefen. Normen: §§ 819 818 Abs. 4 BGB. Pruefraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschaerfte Haftung, Rechtshaengigkeitswirkung. Output: Pruefergebnis verschaerfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutglaeubiger Entreicherungsschutz § 818 Abs. 3 BGB."
+description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigkeit oder Rechtshaengigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschaerfte Haftung, Rechtshaengigkeitswirkung. Output: Prüfergebnis verschaerfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB."
 ---
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit

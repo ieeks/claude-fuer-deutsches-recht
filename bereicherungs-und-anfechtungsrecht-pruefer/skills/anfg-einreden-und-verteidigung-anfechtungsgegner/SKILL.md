@@ -1,6 +1,6 @@
 ---
 name: anfg-einreden-und-verteidigung-anfechtungsgegner
-description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Pruefraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschaeftsargument, Verjaebrung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO."
+description: "Mandant ist Anfechtungsgegner und will sich gegen AnfG-Anfechtungsklage verteidigen. Normen: §§ 3 4 11 AnfG, §§ 195 199 BGB, § 142 InsO analog. Prüfraster: Entreicherungseinwand, fehlende Kenntnis des Benachteiligungsvorsatzes, Bargeschäftsargument, Verjaebrung. Output: Verteidigungsschriftsatz mit Einredestruktur. Abgrenzung: nicht Insolvenzanfechtungsabwehr nach §§ 129 ff. InsO."
 ---
 
 # Einreden und Verteidigung des Anfechtungsgegners — AnfG

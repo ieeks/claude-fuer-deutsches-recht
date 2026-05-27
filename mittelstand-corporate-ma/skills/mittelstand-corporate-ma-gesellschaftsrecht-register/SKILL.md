@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-gesellschaftsrecht-register
-description: "Corporate Housekeeping und Register: prueft HRB/HRA, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten, Organstellung, Transparenzregister und Corporate Approvals fuer M&A."
+description: "Corporate Housekeeping und Register: prüft HRB/HRA, Gesellschafterlisten, Satzungen, Beschluesse, Vollmachten, Organstellung, Transparenzregister und Corporate Approvals für M&A."
 ---
 
 # Corporate Housekeeping und Register

@@ -1,6 +1,6 @@
 ---
 name: stb-dba-lizenzgebuehren-art-12-bzst
-description: "Lizenzgebuehren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebuehren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
+description: "Lizenzgebühren nach Art. 12 OECD-MA und EU-Zins-Lizenzgebühren-Richtlinie. Anwendungsfall Software-Lizenz Patent Marken IP-Box-Konstruktionen. § 50g EStG ZinsLizenzRL § 50a EStG Steuerabzug § 50c EStG BZSt-Entlastung. Anti-Treaty-Shopping § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
 ---
 
 # Lizenzgebuehren (Art. 12 OECD-MA)

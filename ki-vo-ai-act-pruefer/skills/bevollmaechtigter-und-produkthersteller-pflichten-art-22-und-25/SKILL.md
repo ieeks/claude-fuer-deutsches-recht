@@ -1,6 +1,6 @@
 ---
 name: bevollmaechtigter-und-produkthersteller-pflichten-art-22-und-25
-description: "Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet fuer integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Pruefraster: Bevollmaechtigter als EU-Vertreter fuer Drittstaaten-Anbieter schriftliches Mandat Pflichten gegenueber Aufsichtsbehoerden. Produkthersteller-Verantwortung bei Integration von Hochrisiko-KI als Sicherheitsbauteil in eigenes Produkt. Output: Pflichtenliste und Muster-Bevollmaechtigungsvereinbarung. Abgrenzung zu rolle-anbieter-pruefen-art-3-nr-3 und einfuehrer-importer-pflichten-art-23."
+description: "Drittstaaten-Anbieter ohne EU-Niederlassung oder Produkthersteller fragt: Wer vertritt uns in der EU und wer haftet für integrierte KI-Komponenten? Art. 22 KI-VO Bevollmaechtigter Art. 25 Produkthersteller. Prüfraster: Bevollmaechtigter als EU-Vertreter für Drittstaaten-Anbieter schriftliches Mandat Pflichten gegenüber Aufsichtsbehoerden. Produkthersteller-Verantwortung bei Integration von Hochrisiko-KI als Sicherheitsbauteil in eigenes Produkt. Output: Pflichtenliste und Muster-Bevollmaechtigungsvereinbarung. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 und einführer-importer-pflichten-art-23."
 ---
 
 # Bevollmächtigter und Produkthersteller — Art. 22 und 25 KI-VO

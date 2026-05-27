@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gf-sozialversicherungs-status
-description: "Sozialversicherungsrechtlichen Status des GmbH-Geschaeftsfuehrers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Pruefraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte."
+description: "Sozialversicherungsrechtlichen Status des GmbH-Geschäftsführers klaeren: Pflichtversicherung vs. Befreiung bei beherrschendem Gesellschafter-GF. Normen: § 7 SGB IV, §§ 1 ff. SGB VI. Prüfraster: Beteiligungshoehe, Weisungsabhaengigkeit, BSG-Rechtsprechung. Output: Statusbewertung GF-Sozialversicherung mit Handlungsempfehlung. Abgrenzung: nicht Einkommensteueraspekte."
 ---
 
 # Sozialversicherungs-Status des Geschäftsführers

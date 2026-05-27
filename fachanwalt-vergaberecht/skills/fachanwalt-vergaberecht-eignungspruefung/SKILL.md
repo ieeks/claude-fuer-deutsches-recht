@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-eignungspruefung
-description: "Bieter-Eignungspruefung im Vergabeverfahren pruefen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgruende), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Pruefraster: Befaehigung, Zuverlaessigkeit, wirtschaftliche/finanzielle/technische Leistungsfaehigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachpruefungsantrag siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2."
+description: "Bieter-Eignungsprüfung im Vergabeverfahren prüfen: Bieter wurde ausgeschlossen oder will Eignung nachweisen. Normen: § 122 GWB (Eignungskriterien), §§ 123 und 124 GWB (Ausschlussgründe), § 125 GWB (Selbstreinigung), § 50 VgV (EEE). Prüfraster: Befähigung, Zuverlässigkeit, wirtschaftliche/finanzielle/technische Leistungsfähigkeit, Eigenerklarung EEE, Selbstreinigung. Output Eignungsnachweis-Paket oder Angriff gegen Ausschluss. Abgrenzung: Gesamtnachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; IT-Sicherheits-Eignung siehe fachanwalt-vergaberecht-it-sicherheits-vergabe-bsi-it-sig-2."
 ---
 
 # Eignungsprüfung

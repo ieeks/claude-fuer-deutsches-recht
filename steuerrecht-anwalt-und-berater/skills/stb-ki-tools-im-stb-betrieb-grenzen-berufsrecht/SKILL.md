@@ -1,6 +1,6 @@
 ---
 name: stb-ki-tools-im-stb-betrieb-grenzen-berufsrecht
-description: "KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Pruefung Compliance KI-VO Pruefraster. Output KI-Richtlinie Kanzlei."
+description: "KI-Tools im StB-Betrieb Berufsrechtliche Grenzen § 57 StBerG. Anwendungsfall ChatGPT Claude Microsoft Copilot Datev-KI Nutzung Mandantenkommunikation Berufsverschwiegenheit. Methodik Prüfung Compliance KI-VO Prüfraster. Output KI-Richtlinie Kanzlei."
 ---
 
 # KI-Tools im StB-Betrieb — Berufsrechtliche Grenzen

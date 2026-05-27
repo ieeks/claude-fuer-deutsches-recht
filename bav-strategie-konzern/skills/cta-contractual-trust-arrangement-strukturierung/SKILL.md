@@ -1,6 +1,6 @@
 ---
 name: cta-contractual-trust-arrangement-strukturierung
-description: "CTA-Struktur fuer Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Pruefraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich)."
+description: "CTA-Struktur für Auslagerung von Pensionsverpflichtungen aufsetzen: Treuhandmodell, IFRS-Saldierung. Normen: § 6a EStG, IFRS, BetrAVG. Prüfraster: Treuhandvertragsstruktur, Insolvenzsicherung, Bilanzauswirkung. Output: CTA-Strukturierungsmemo. Abgrenzung: nicht PSV-Pflichtversicherung (gesetzlich)."
 ---
 
 # CTA — Contractual Trust Arrangement: Strukturierung und Dokumentation

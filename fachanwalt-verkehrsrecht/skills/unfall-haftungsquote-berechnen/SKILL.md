@@ -1,6 +1,6 @@
 ---
 name: unfall-haftungsquote-berechnen
-description: "Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Pruefraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverstaendige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Glaeubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
+description: "Mandant hatte Verkehrsunfall und fragt: Wer haftet wie viel und welche Schadensposten koennen geltend gemacht werden? §§ 7 17 18 StVG iVm § 254 BGB Haftungsquote. Prüfraster: Betriebsgefahr beidseitig Anscheinsbeweis Auffahrunfall Spurwechsel Rotlicht Vorfahrt Mithaftung Tempo Sicherheitsabstand Anschnall. Schadenspositionen Reparatur fiktive Abrechnung Mietwagen Nutzungsausfall Sachverständige Schmerzensgeld. Output: Haftungsquoten-Berechnung und Schadenstabelle. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (Gläubigerseite vs. Versicherer) und fachanwalt-verkehrsrecht-versicherer-quotenverhandlung-vergleich."
 ---
 
 # Unfall-Haftungsquote berechnen

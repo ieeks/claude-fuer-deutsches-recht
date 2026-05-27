@@ -1,6 +1,6 @@
 ---
 name: taetigkeitsbeschreibung
-description: "Formuliert die allgemeine Taetigkeit der Interessenvertretung klar, nicht irrefuehrend und updatefaehig. Normen § 3 und § 5 LobbyRG. Output Portaltext."
+description: "Formuliert die allgemeine Tätigkeit der Interessenvertretung klar, nicht irreführend und updatefähig. Normen § 3 und § 5 LobbyRG. Output Portaltext."
 ---
 
 # Taetigkeitsbeschreibung

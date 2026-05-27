@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in das Datenschutzrecht-Plugin: DSGVO, BDSG, TDDDG, PIA/DPIA, AVV, Auskunftsersuchen, Datenpannenmeldung, Drittlandstransfer und Drift-Monitoring im Ueberblick."
+description: "Einstieg in das Datenschutzrecht-Plugin: DSGVO, BDSG, TDDDG, PIA/DPIA, AVV, Auskunftsersuchen, Datenpannenmeldung, Drittlandstransfer und Drift-Monitoring im Überblick."
 ---
 
 # Datenschutzrecht — Allgemein

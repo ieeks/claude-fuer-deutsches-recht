@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-lohnsteuer-anmeldung-elster
-description: "Elektronische Lohnsteuer-Anmeldung ueber ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Uebermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Pruefen Senden. Output ELSTER-Quittung."
+description: "Elektronische Lohnsteuer-Anmeldung über ELSTER. Anwendungsfall monatliche oder vierteljaehrliche LSt-Anmeldung KiSt SolZ Pauschalierung Anmeldungs-Schema technische Übermittlung. Methodik Daten aus Lohnabrechnung ELSTER-Formular Prüfen Senden. Output ELSTER-Quittung."
 ---
 
 # Lohnsteuer-Anmeldung ueber ELSTER

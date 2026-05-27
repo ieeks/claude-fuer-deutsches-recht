@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlungs-Strategie fuer Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will aussergerichtlichen Vergleich mit Behoerde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Pruefraster: ZOPA (Zone of Possible Agreement), BATNA, Verhandlungsfenster, Druckmittel (Klagehaeufung, UmwRG), Settlement-Skript, Vergleichsentwurf. Output Verhandlungsstrategie-Memo, Vergleichsentwurf. Abgrenzung: Prozessvergleich VG siehe fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde; Anfechtungsklage (wenn kein Vergleich) siehe fachanwalt-verwaltungsrecht-anfechtungsklage."
+description: "Vergleichsverhandlungs-Strategie für Verwaltungsrechtsstreitigkeiten: Partei oder Anwalt will außergerichtlichen Vergleich mit Behoerde oder am VG erzielen. Normen: § 106 VwGO, § 55 VwVfG. Prüfraster: ZOPA (Zone of Possible Agreement), BATNA, Verhandlungsfenster, Druckmittel (Klagehaeufung, UmwRG), Settlement-Skript, Vergleichsentwurf. Output Verhandlungsstrategie-Memo, Vergleichsentwurf. Abgrenzung: Prozessvergleich VG siehe fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde; Anfechtungsklage (wenn kein Vergleich) siehe fachanwalt-verwaltungsrecht-anfechtungsklage."
 ---
 
 # Vergleichsverhandlung und Einigung im Allgemeines Verwaltungs- und Bauplanungsrecht

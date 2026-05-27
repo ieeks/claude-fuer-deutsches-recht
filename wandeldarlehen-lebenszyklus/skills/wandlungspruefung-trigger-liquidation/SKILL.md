@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-liquidation
-description: "Wandlung bei Liquidationsereignis Aufloesung oder Exit pruefen. §§ 60 ff. GmbHG Aufloesungsgruende § 179a AktG. Pruefraster: Liquidationstatbestand Liquidationspraeference Verwasserungsschutz Rangordnung Zahlungsreihenfolge. Output: Pruefprotokoll Liquidationsszenarien. Abgrenzung: nicht fuer Qualified-Financing-Trigger (wandlungspruefung-trigger-qualified-financing)."
+description: "Wandlung bei Liquidationsereignis Auflösung oder Exit prüfen. §§ 60 ff. GmbHG Auflösungsgründe § 179a AktG. Prüfraster: Liquidationstatbestand Liquidationspraeference Verwasserungsschutz Rangordnung Zahlungsreihenfolge. Output: Prüfprotokoll Liquidationsszenarien. Abgrenzung: nicht für Qualified-Financing-Trigger (wandlungsprüfung-trigger-qualified-financing)."
 ---
 
 # Wandlungsprüfung – Trigger Liquidation Event

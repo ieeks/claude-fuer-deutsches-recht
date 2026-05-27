@@ -1,6 +1,6 @@
 ---
 name: output-fremdsprachig-en-fr
-description: "Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. Enthaelt obligatorischen Hinweis auf nicht-amtliche Uebersetzung und Abweichung von deutschen Originalnormen. Nuetzlich fuer internationale Mandanten, grenzueberschreitende Sachverhalte und EU-Verfahren."
+description: "Gibt das Subsumtionsergebnis auf Englisch oder Franzoesisch aus. Enthaelt obligatorischen Hinweis auf nicht-amtliche Übersetzung und Abweichung von deutschen Originalnormen. Nuetzlich für internationale Mandanten, grenzüberschreitende Sachverhalte und EU-Verfahren."
 ---
 
 # Output: Fremdsprachig (Englisch und Französisch)

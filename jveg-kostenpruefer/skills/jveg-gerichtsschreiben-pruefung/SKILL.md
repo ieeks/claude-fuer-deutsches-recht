@@ -1,6 +1,6 @@
 ---
 name: jveg-gerichtsschreiben-pruefung
-description: "Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich pruefen und widersprechen. Normen: §§ 2 4 JVEG, GKG. Pruefraster: Kuerzungsbegruendung, fehlerhafte Berechnung, Widerspruchsmoeglichkeit. Output: Widerspruchsschreiben gegen JVEG-Kuerzung. Abgrenzung: nicht formelle Beschwerde."
+description: "Gerichtsschreiben zur JVEG-Kostenkuerzung rechtlich prüfen und widersprechen. Normen: §§ 2 4 JVEG, GKG. Prüfraster: Kuerzungsbegründung, fehlerhafte Berechnung, Widerspruchsmöglichkeit. Output: Widerspruchsschreiben gegen JVEG-Kuerzung. Abgrenzung: nicht formelle Beschwerde."
 ---
 
 # JVEG-Gerichtsschreiben-Pruefung

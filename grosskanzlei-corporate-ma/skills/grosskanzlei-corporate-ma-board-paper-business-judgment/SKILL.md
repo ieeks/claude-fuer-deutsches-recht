@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-board-paper-business-judgment
-description: "Board Paper und Business Judgment Rule Pruefung fuer M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschaeftsfuehrer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG ausserordentliche Gesellschafterversammlung. Pruefraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs."
+description: "Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business Judgment Rule Informationsgrundlage, § 179a AktG Hauptversammlungsvorbehalt, § 49 Abs. 2 GmbHG außerordentliche Gesellschafterversammlung. Prüfraster Entscheidungsalternativen dokumentiert, Risikoeinschaetzung nachvollziehbar, Freigabevorbehalte geprüft, Legalitaetspflicht abgedeckt. Output Entscheidungsvorlage Board Paper mit Risikokarte und Freigabeprotokoll. Abgrenzung zu SPA/APA-Entwurf und zu Signing-Closing-CPs."
 ---
 
 # Board Paper und Business Judgment (Corporate M&A)

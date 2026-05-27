@@ -1,6 +1,6 @@
 ---
 name: fristen-buch-fuehren-laien
-description: "Eigenes Fristen-System fuer Selbstvertreter aufbauen. Tabelle Reminder Vorfristen Doppelpruefung Aufbewahrung der Zustellungs-Belege Backup-Strategien. Wie Anwalts-Kanzleien Fristen verwalten und was Sie selbst nutzen koennen."
+description: "Eigenes Fristen-System für Selbstvertreter aufbauen. Tabelle Reminder Vorfristen Doppelprüfung Aufbewahrung der Zustellungs-Belege Backup-Strategien. Wie Anwalts-Kanzleien Fristen verwalten und was Sie selbst nutzen koennen."
 ---
 
 # Ein eigenes Fristen-Buch fuehren

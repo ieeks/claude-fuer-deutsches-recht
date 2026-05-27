@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-familienrecht
-description: "Eingangs-Triage fuer familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich. Normen: § 63 FamFG (Beschwerde 1 Monat), § 1600b BGB (Vaterschaftsanfechtung 2 Jahre), § 1666 BGB (Kindeswohlgefaehrdung Eilantrag). Pruefraster: Konflikt-Check, Eilbeduerftigkeit (Gewaltschutz, Sorge-Eilantrag), Streitwert, Komplexitaet. Output Triage-Protokoll, Fristen-Ampel, Folge-Skill-Empfehlung. Abgrenzung: Detailberechnung siehe Spezialskills; Schriftsatzkern siehe schriftsatzkern-substantiierung."
+description: "Eingangs-Triage für familienrechtliche Mandate: Routing zu Scheidung, Sorge, Umgang, Unterhalt, Zugewinn oder Versorgungsausgleich. Normen: § 63 FamFG (Beschwerde 1 Monat), § 1600b BGB (Vaterschaftsanfechtung 2 Jahre), § 1666 BGB (Kindeswohlgefaehrdung Eilantrag). Prüfraster: Konflikt-Check, Eilbedürftigkeit (Gewaltschutz, Sorge-Eilantrag), Streitwert, Komplexitaet. Output Triage-Protokoll, Fristen-Ampel, Folge-Skill-Empfehlung. Abgrenzung: Detailberechnung siehe Spezialskills; Schriftsatzkern siehe schriftsatzkern-substantiierung."
 ---
 
 # Mandat-Triage Familienrecht

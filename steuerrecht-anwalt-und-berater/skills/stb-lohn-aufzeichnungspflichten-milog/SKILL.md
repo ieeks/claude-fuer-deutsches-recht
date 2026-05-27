@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-aufzeichnungspflichten-milog
-description: "Aufzeichnungspflichten nach MiLoG § 17 fuer Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Pruefung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Loesungen. Output Aufzeichnungssystem Mandanten-Notiz."
+description: "Aufzeichnungspflichten nach MiLoG § 17 für Mindestlohn-relevante Branchen Geringfuegige Beschaeftigung. Anwendungsfall Prüfung Aufzeichnungspflicht 2 Jahre Aufbewahrung Schwarzarbeitsbekaempfung. Methodik Form der Aufzeichnung digitale Lösungen. Output Aufzeichnungssystem Mandanten-Notiz."
 ---
 
 # Aufzeichnungspflichten nach MiLoG § 17

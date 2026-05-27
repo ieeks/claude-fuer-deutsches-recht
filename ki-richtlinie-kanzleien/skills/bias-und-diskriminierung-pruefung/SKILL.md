@@ -1,6 +1,6 @@
 ---
 name: bias-und-diskriminierung-pruefung
-description: "Bias und Diskriminierung in KI-Outputs fuer Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Pruefraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Pruefprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
+description: "Bias und Diskriminierung in KI-Outputs für Kanzleien prüfen: Anwendungsfall Kanzlei nutzt KI-System bei Personalentscheidungen Mandantenberatung oder Rechercheaufgaben und muss sicherstellen dass keine diskriminierenden Ergebnisse entstehen. AGG Allgemeines Gleichbehandlungsgesetz, Anhang III Nr. 4 KI-VO Hochrisiko-Personalwesen. Prüfraster Bias-Quellen identifizieren, AGG-relevante Kategorien prüfen, diskriminierende Outputs erkennen, Schulungsanforderungen. Output Bias-Prüfprotokoll mit Kategorien und Korrekturmassnahmen. Abgrenzung zu KI-VO-Hochrisiko-Personalwesen und zu Compliance-Regelsatz."
 ---
 
 # Bias und Diskriminierung Prüfung

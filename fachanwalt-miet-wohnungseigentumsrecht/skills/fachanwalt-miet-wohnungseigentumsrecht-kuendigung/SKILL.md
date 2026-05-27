@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-kuendigung
-description: "Vermieter will Mietverhaeltnis kuendigen oder Mieter erhaelt Kuendigung und prueft Wirksamkeit. Ordentliche Kuendigung § 573 BGB ausserordentliche Kuendigung §§ 543 569 BGB Eigenbedarfskuendigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Pruefraster Kuendigungs-Grund Abmahnung Kuendigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kuendigungs-Schreiben Widerspruch Raeumugsklage. Abgrenzung zu eigenbedarfskuendigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht)."
+description: "Vermieter will Mietverhältnis kündigen oder Mieter erhaelt Kündigung und prüft Wirksamkeit. Ordentliche Kündigung § 573 BGB außerordentliche Kündigung §§ 543 569 BGB Eigenbedarfskündigung § 573 Abs. 2 Nr. 2 BGB. Normen §§ 535 543 569 573 573c BGB. Prüfraster Kündigungs-Grund Abmahnung Kündigungsfristen Schonfristzahlung § 569 Abs. 3 BGB Haerteklausel §§ 574 ff. BGB. Output Kündigungs-Schreiben Widerspruch Räumugsklage. Abgrenzung zu eigenbedarfskündigung (Eigenbedarfs-Spezifik) und mietminderung-schimmel (Maengelrecht)."
 ---
 
 # Kündigung eines Wohnraummietverhältnisses

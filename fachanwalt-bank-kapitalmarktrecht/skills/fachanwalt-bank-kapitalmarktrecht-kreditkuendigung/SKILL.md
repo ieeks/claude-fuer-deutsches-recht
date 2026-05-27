@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-kreditkuendigung
-description: "Bank kuendigt Kredit ordentlich oder ausserordentlich und Mandant will Kuendigung anfechten oder verhandeln. §§ 488 490 498 BGB ordentliche Kuendigung ausserordentliche Kuendigung Verbraucherdarlehen. Normen §§ 488 490 498 BGB AGB-Banken Nr. 19 26. Pruefraster Kuendigungs-Voraussetzungen Vorfaelligkeitsentschaedigung Schadensberechnung BGH XI ZR. Output Widerspruch Verhandlungs-Strategie Klage. Abgrenzung zu kreditkuendigung-490-bgb (Sofortfall) und widerrufsjoker (Belehrungsfehler)."
+description: "Bank kündigt Kredit ordentlich oder außerordentlich und Mandant will Kündigung anfechten oder verhandeln. §§ 488 490 498 BGB ordentliche Kündigung außerordentliche Kündigung Verbraucherdarlehen. Normen §§ 488 490 498 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Vorfälligkeitsentschaedigung Schadensberechnung BGH XI ZR. Output Widerspruch Verhandlungs-Strategie Klage. Abgrenzung zu kreditkündigung-490-bgb (Sofortfall) und widerrufsjoker (Belehrungsfehler)."
 ---
 
 # Kreditkündigung

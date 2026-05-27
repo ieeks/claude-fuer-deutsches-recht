@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-einbuergerung
-description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmaessiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulaessig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untaetigkeitsklage § 75 VwGO."
+description: "Antrag auf Einbuergerung nach StAG. Anspruchseinbuergerung § 10 StAG fuenf Jahre rechtmäßiger Aufenthalt unbefristeter Aufenthaltstitel ausreichende Deutschkenntnisse B1 Lebensunterhaltssicherung Einbuergerungstest Bekenntnis zur freiheitlich-demokratischen Grundordnung kein Ausweisungsinteresse. Mehrstaatigkeit nach Reform 2024 grundsaetzlich zulässig § 12 StAG. Ermessenseinbuergerung § 8 StAG. Untätigkeitsklage § 75 VwGO."
 ---
 
 # Einbürgerung

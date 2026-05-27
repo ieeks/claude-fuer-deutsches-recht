@@ -1,6 +1,6 @@
 ---
 name: gliederungs-baukasten
-description: "Gliederungs-Baukasten fuer juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung fuer Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Pruefraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Ueberschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben fuer Formulierung und zu Subsumtionslehre fuer Argumentation."
+description: "Gliederungs-Baukasten für juristische Hausarbeiten und Seminararbeiten: Anwendungsfall Student erstellt Gliederung für Hausarbeit Seminararbeit oder wissenschaftliche Arbeit und braucht strukturierten Aufbau. Methodenlehre, Gutachtenstil, wissenschaftliches Arbeiten. Prüfraster Gliederungstiefe A-B-C-I-II-III, Oberabschnitte Problemaufriss Hauptteil Ergebnis, Argumentationsfluss prüfen. Output Gliederungsentwurf mit Überschriften und Hinweisen zu Gewichtung. Abgrenzung zu Juristisches-Schreiben für Formulierung und zu Subsumtionslehre für Argumentation."
 ---
 
 # Lernstruktur-Builder

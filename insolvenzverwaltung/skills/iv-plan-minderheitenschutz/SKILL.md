@@ -1,6 +1,6 @@
 ---
 name: iv-plan-minderheitenschutz
-description: "Schlechterstellungsrisiken und Beschwerderisiken einzelner opponierender Beteiligter analysieren und Planverbesserungen vorschlagen. § 251 InsO § 64 StaRUG Minderheitenschutz. Pruefraster: individuelle Schlechterstellung Sicherheitsleistungen Vergleichsrechnung Einwandkatalog Bestaetigungshemmnisse. Output: Minderheitenschutzmatrix Nachbesserungsliste. Abgrenzung: nicht fuer Cramdown-Fragen (iv-plan-cramdown-obstruktion)."
+description: "Schlechterstellungsrisiken und Beschwerderisiken einzelner opponierender Beteiligter analysieren und Planverbesserungen vorschlagen. § 251 InsO § 64 StaRUG Minderheitenschutz. Prüfraster: individuelle Schlechterstellung Sicherheitsleistungen Vergleichsrechnung Einwandkatalog Bestätigungshemmnisse. Output: Minderheitenschutzmatrix Nachbesserungsliste. Abgrenzung: nicht für Cramdown-Fragen (iv-plan-cramdown-obstruktion)."
 ---
 
 # IV-integrierte Minderheitenschutz

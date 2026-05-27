@@ -1,6 +1,6 @@
 ---
 name: anbieter-werden-art-25
-description: "Betreiber Einfuehrer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Pruefraster: vier Fallgruppen wesentliche Aenderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Namen Hochrisiko-Abdeckung ohne Anbieterbenennung. Output: Entscheidungsbaum mit Ja/Nein-Ergebnis und konkreten Folgepflichten. Abgrenzung zu rolle-anbieter-pruefen-art-3-nr-3 (Grunddefinition) und betreiber-deployer-pflichten-art-26 (Betreiberpflichten)."
+description: "Betreiber Einführer oder Haendler fragt: Werde ich durch mein Verhalten selbst zum Anbieter eines KI-Systems mit allen daraus folgenden Pflichten? Art. 25 KI-VO Re-Provisioning. Prüfraster: vier Fallgruppen wesentliche Aenderung des Systems Bestimmungsaenderung Inverkehrbringen unter eigenem Namen Hochrisiko-Abdeckung ohne Anbieterbenennung. Output: Entscheidungsbaum mit Ja/Nein-Ergebnis und konkreten Folgepflichten. Abgrenzung zu rolle-anbieter-prüfen-art-3-nr-3 (Grunddefinition) und betreiber-deployer-pflichten-art-26 (Betreiberpflichten)."
 ---
 
 # Anbieter-Werden — Art. 25 KI-VO

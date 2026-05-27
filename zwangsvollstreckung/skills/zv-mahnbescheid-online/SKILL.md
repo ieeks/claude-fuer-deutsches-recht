@@ -1,6 +1,6 @@
 ---
 name: zv-mahnbescheid-online
-description: "Glaeubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Pruefraster: Schlüssigkeitspruefung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt fuer Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter."
+description: "Gläubiger will Forderung ohne Klage per Mahnbescheid titulieren lassen. §§ 688 ff. ZPO Online-Mahnverfahren. Prüfraster: Schlüssigkeitsprüfung Antragstyp Gerichtsstand Hauptforderung Nebenforderungen Zinsen Kostenansatz beA EGVP Verjährungshemmung § 204 Abs. 1 Nr. 3 BGB. Output: Mahnbescheid-Antrag komplett ausgefuellt für Online-Portal. Abgrenzung zu zv-vollstreckungsbescheid-folge (Folgeschritt nach MB) und zv-kommandocenter."
 ---
 
 # Mahnbescheid online

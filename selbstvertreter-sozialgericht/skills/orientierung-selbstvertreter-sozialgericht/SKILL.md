@@ -1,6 +1,6 @@
 ---
 name: orientierung-selbstvertreter-sozialgericht
-description: "Einstieg fuer Buerger ohne Anwalt vor dem Sozialgericht. Ueberblick ueber Widerspruch Klage Eilantrag und die wichtigen Themen Pflegegrad Krankenkasse Buergergeld Erwerbsminderungs-Rente und Grad der Behinderung. Erklaert Grundregeln des SGG."
+description: "Einstieg für Buerger ohne Anwalt vor dem Sozialgericht. Überblick über Widerspruch Klage Eilantrag und die wichtigen Themen Pflegegrad Krankenkasse Buergergeld Erwerbsminderungs-Rente und Grad der Behinderung. Erklärt Grundregeln des SGG."
 ---
 
 # Orientierung — Sich selbst vertreten am Sozialgericht

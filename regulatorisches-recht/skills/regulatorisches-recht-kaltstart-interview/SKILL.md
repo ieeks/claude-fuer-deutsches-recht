@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-kaltstart-interview
-description: "Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Pruefraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte fehlende Informationen. Abgrenzung: nicht fuer laufendes Mandat."
+description: "Neues regulatorisches Mandat durch strukturiertes Erstgespraech aufnehmen. KWG WpHG DORA VAG GwG. Prüfraster: Branche Regulierungsrahmen Sachverhalt Fristen Pflichten Risiko. Output: Mandatssteckbrief Normenkarte fehlende Informationen. Abgrenzung: nicht für laufendes Mandat."
 ---
 
 # Ersteinrichtung – Regulatorisches Recht

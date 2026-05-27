@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-post-closing-integration
-description: "Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprueche, Betriebsuebergang, § 613a BGB."
+description: "Post-Closing Integration: DD-Findings, SPA-Pflichten und Synergieannahmen in PMI-Plan; Earn-Out-Monitoring, Post-Closing-Ansprüche, Betriebsuebergang, § 613a BGB."
 ---
 
 # Post-Closing Integration

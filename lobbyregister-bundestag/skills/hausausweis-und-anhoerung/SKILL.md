@@ -1,6 +1,6 @@
 ---
 name: hausausweis-und-anhoerung
-description: "Prueft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an oeffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck."
+description: "Prüft Auswirkungen des Registerstatus auf Tagesausweis, Gebaeudezutritt und Teilnahme an öffentlichen Anhoerungen nach § 6 LobbyRG. Output Zutrittscheck."
 ---
 
 # Hausausweis und Anhoerung

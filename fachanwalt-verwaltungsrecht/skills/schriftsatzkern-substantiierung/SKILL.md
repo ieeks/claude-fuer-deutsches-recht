@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierten Schriftsatzkern fuer verwaltungsrechtliche Klagen und Antraege erstellen: Widerspruch, Anfechtungsklage, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO. Normen: §§ 42 und 80 VwGO sowie §§ 28 und 48 VwVfG. Pruefraster: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau. Output Schriftsatz-Geruest mit Klagepunkten und Begruendungs-Bausteine. Abgrenzung: Fertige Klageschrift siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergabe-Schriftsatz siehe fachanwalt-vergaberecht-Plugin."
+description: "Substantiierten Schriftsatzkern für verwaltungsrechtliche Klagen und Anträge erstellen: Widerspruch, Anfechtungsklage, Verpflichtungsklage, Eilantrag § 80 Abs. 5 VwGO. Normen: §§ 42 und 80 VwGO sowie §§ 28 und 48 VwVfG. Prüfraster: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau. Output Schriftsatz-Geruest mit Klagepunkten und Begründungs-Bausteine. Abgrenzung: Fertige Klageschrift siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergabe-Schriftsatz siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Schriftsatzkern und Substantiierung im Allgemeines Verwaltungs- und Bauplanungsrecht

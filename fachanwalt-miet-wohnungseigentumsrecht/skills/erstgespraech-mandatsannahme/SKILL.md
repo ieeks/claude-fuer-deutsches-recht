@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Strukturierter Erstgespraechsleitfaden fuer Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebuehrenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
+description: "Strukturierter Erstgespraechsleitfaden für Wohnraum-, Gewerberaum- und WEG-Recht: Erfassung der Konstellation, Konflikt- und GwG-Check, Vollmacht, Streitwert/Gebührenvereinbarung, Fristen-Erstprognose und Handlungsweichen."
 ---
 
 # Erstgespraech und Mandatsannahme im Wohnraum-, Gewerberaum- und WEG-Recht

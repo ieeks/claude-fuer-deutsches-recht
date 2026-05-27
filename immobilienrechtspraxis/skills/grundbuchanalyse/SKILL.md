@@ -1,6 +1,6 @@
 ---
 name: grundbuchanalyse
-description: "Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Pruefraster: Abteilung I bis III, Widersprueche, Rangverhaeltnisse, Loeschungsansprueche. Output: Grundbuchanalyse-Bericht mit Handlungsempfehlung. Abgrenzung: nicht Kaufvertragspruefung."
+description: "Grundbuchauszug analysieren: Eigentuemer, Belastungen, Grundschulden, Dienstbarkeiten. Normen: §§ 873 ff. 1105 ff. 1191 ff. BGB, GBO. Prüfraster: Abteilung I bis III, Widersprueche, Rangverhältnisse, Löschungsansprüche. Output: Grundbuchanalyse-Bericht mit Handlungsempfehlung. Abgrenzung: nicht Kaufvertragsprüfung."
 ---
 
 # Grundbuchanalyse

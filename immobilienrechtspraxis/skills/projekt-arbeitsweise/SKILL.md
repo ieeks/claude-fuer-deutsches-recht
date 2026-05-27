@@ -1,6 +1,6 @@
 ---
 name: projekt-arbeitsweise
-description: "Projektmethodik fuer Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Pruefraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren."
+description: "Projektmethodik für Immobilienrechtsprojekte: Strukturierung komplexer Mandate mit mehreren Beteiligten. Normen: BGB, WEG, GrEStG. Prüfraster: Beteiligte, Zeitplan, Meilensteine, Dokumentenstruktur. Output: Projektplan Immobilienrechtsmandat. Abgrenzung: nicht Einzelverfahren."
 ---
 
 # Projekt-Arbeitsweise Immobilienrecht

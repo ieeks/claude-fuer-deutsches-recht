@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-eu-us-dpf-data-privacy-framework
-description: "EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge fuer Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen ueber FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzueberschreitende Vertragsklauseln Updates."
+description: "EU-US Data Privacy Framework (DPF) seit 10.7.2023 als Angemessenheitsbeschluss (EU) 2023/1795 nach Schrems II Aufhebung. Folge für Standard Contractual Clauses SCC und Transfer Impact Assessment TIA. Selbstzertifizierung US-Unternehmen über FTC. Liste DPF-zertifizierter Empfaenger. Workflow grenzüberschreitende Vertragsklauseln Updates."
 ---
 
 # EU-US Data Privacy Framework — Folgen für Verträge

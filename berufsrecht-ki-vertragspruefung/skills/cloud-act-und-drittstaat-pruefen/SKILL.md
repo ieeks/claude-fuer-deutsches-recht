@@ -1,6 +1,6 @@
 ---
 name: cloud-act-und-drittstaat-pruefen
-description: "Pruefe Auslandsbezug des KI-Anbieters nach Absatz vier der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). EU/EWR werden als gleichwertig unterstellt. Drittstaaten benoetigen vergleichbares Schutzniveau. US-CLOUD Act und Foreign Intelligence Surveillance Act schaffen Restzugriff. Professional Secrecy Addendum empfohlen. DAV-Stellungnahme Seite fuenfzehn sechzehn."
+description: "Prüfe Auslandsbezug des KI-Anbieters nach Absatz vier der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). EU/EWR werden als gleichwertig unterstellt. Drittstaaten benoetigen vergleichbares Schutzniveau. US-CLOUD Act und Foreign Intelligence Surveillance Act schaffen Restzugriff. Professional Secrecy Addendum empfohlen. DAV-Stellungnahme Seite fuenfzehn sechzehn."
 ---
 
 # Cloud Act und Drittstaat prüfen

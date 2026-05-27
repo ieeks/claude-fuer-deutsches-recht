@@ -1,6 +1,6 @@
 ---
 name: iv-plan-stabilisierung-starug
-description: "StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen wenn Vollstreckungsdruck die Sanierung gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Pruefraster: Stabilisierungsbedarf Verhaeltnismaessigkeit Glaeubiger Dauer Verlaengerung Insolvenznaehe Organpflichten. Output: Stabilisierungsantrag Betroffenenliste Verhaeltnismaessigkeitsnotiz. Abgrenzung: nicht fuer Insolvenzantragsstellung oder Schutzschirmverfahren."
+description: "StaRUG-Stabilisierungsmassnahmen und Vollstreckungssperre beantragen wenn Vollstreckungsdruck die Sanierung gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer Verlaengerung Insolvenznaehe Organpflichten. Output: Stabilisierungsantrag Betroffenenliste Verhältnismäßigkeitsnotiz. Abgrenzung: nicht für Insolvenzantragsstellung oder Schutzschirmverfahren."
 ---
 
 # IV-integrierte StaRUG-Stabilisierung

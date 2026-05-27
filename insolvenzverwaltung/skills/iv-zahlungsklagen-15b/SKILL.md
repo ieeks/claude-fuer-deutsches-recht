@@ -1,6 +1,6 @@
 ---
 name: iv-zahlungsklagen-15b
-description: "Zahlungsklagen nach § 15b InsO gegen Geschaeftsleiter vorbereiten wenn Zahlungen nach Insolvenzreife erfolgt sind. § 15b InsO §§ 17 19 InsO Insolvenzreife. Pruefraster: Insolvenzreifedatum Zahlungen nach Stichtag Organstellung Ausnahmen ordnungsgemaeßer Geschaeftsgang D-und-O-Deckung Vergleichsanker. Output: Haftungsanalyse Klageentwurf Vergleichsrechnung. Abgrenzung: nicht fuer Anfechtungsansprueche (iv-anfechtung-129ff)."
+description: "Zahlungsklagen nach § 15b InsO gegen Geschäftsleiter vorbereiten wenn Zahlungen nach Insolvenzreife erfolgt sind. § 15b InsO §§ 17 19 InsO Insolvenzreife. Prüfraster: Insolvenzreifedatum Zahlungen nach Stichtag Organstellung Ausnahmen ordnungsgemaeßer Geschäftsgang D-und-O-Deckung Vergleichsanker. Output: Haftungsanalyse Klageentwurf Vergleichsrechnung. Abgrenzung: nicht für Anfechtungsansprüche (iv-anfechtung-129ff)."
 ---
 
 # Zahlungsklagen nach § 15b InsO

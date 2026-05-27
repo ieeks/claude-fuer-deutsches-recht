@@ -1,6 +1,6 @@
 ---
 name: dsb-bestellungspflicht-pruefung
-description: "Bestellungspflicht fuer Datenschutzbeauftragten pruefen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Pruefraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungspruefmemo Empfehlung. Abgrenzung: nicht fuer Aufgaben des DSB (Art. 39 DSGVO)."
+description: "Bestellungspflicht für Datenschutzbeauftragten prüfen. Art. 37 DSGVO § 38 BDSG Bestellungspflicht. Prüfraster: Schwellenwerte Art. 37 Abs. 1 Betriebsgroe Verarbeitungsart Pflichtbestellung freiwillige Bestellung. Output: Bestellungsprüfmemo Empfehlung. Abgrenzung: nicht für Aufgaben des DSB (Art. 39 DSGVO)."
 ---
 
 # DSB-Bestellungspflicht und -Anforderungen

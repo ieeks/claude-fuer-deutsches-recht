@@ -1,6 +1,6 @@
 ---
 name: anfg-vorsatzanfechtung-3-i
-description: "Vorsatzanfechtung ausserhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Pruefraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisfuehrung. Output: Pruefergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren)."
+description: "Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners nach § 3 Abs. 1 AnfG. Normen: § 3 Abs. 1 AnfG. Prüfraster: Benachteiligungsvorsatz-Indizien, Kenntnis des Gegners, Zehn-Jahres-Frist, Beweisführung. Output: Prüfergebnis Anfechtbarkeit und Klageschriftstruktur. Abgrenzung: nicht § 133 InsO (nur bei eroffnetem Insolvenzverfahren)."
 ---
 
 # Vorsatzanfechtung — § 3 Abs. 1 AnfG

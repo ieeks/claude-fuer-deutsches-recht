@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-sozialrecht
-description: "Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Pruefraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untaetigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing)."
+description: "Neues sozialrechtliches Mandat: Sekretariat oder Anwalt muss Sachgebiet klaeren und zum richtigen Skill weiterleiten. Eingangs-Triage Sozialrecht SGB I-XIV. Prüfraster: Sachgebiet (SGB II Buergergeld SGB V Krankenversicherung SGB VI Rente SGB IX Reha SGB XI Pflege SGB XII Sozialhilfe SGB VII Unfall) Sofort-Fristen Widerspruch 1 Monat § 84 SGG Klage 1 Monat § 87 SGG Untätigkeitsklage 6 Monate § 88 SGG. Output: Routing-Entscheidung mit Folge-Skill und Fristen. Abgrenzung zu mandanten-intake (Stammdaten) und sozialrecht-fallaufnahme-routing (Master-Routing)."
 ---
 
 # Mandat-Triage Sozialrecht

@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-us-ear-itar
-description: "US-Exportkontrolle EAR ITAR und OFAC fuer Unternehmen mit US-Bezug im Aussenhandel. Anwendungsfall Produkt enthaelt US-Komponenten oder unterliegt US-Recht und Reexport- oder Weitergabepflichten muessen geprueft werden. Normen EAR 15 CFR §§ 730-774 ITAR 22 CFR §§ 120-130 OFAC SDN-Liste Foreign Direct Product Rule. Pruefraster US-Touchpoints Reexport-Risiken US-Origin-Komponenten De-minimis-Regel Foreign Direct Product Rule ITAR-Bezug OFAC-Bezug. Output US-Exportkontroll-Dossier mit Reexport-Klassifizierung Lizenzpfad und OFAC-Screening-Nachweis. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-sanktionen-embargos."
+description: "US-Exportkontrolle EAR ITAR und OFAC für Unternehmen mit US-Bezug im Aussenhandel. Anwendungsfall Produkt enthaelt US-Komponenten oder unterliegt US-Recht und Reexport- oder Weitergabepflichten muessen geprüft werden. Normen EAR 15 CFR §§ 730-774 ITAR 22 CFR §§ 120-130 OFAC SDN-Liste Foreign Direct Product Rule. Prüfraster US-Touchpoints Reexport-Risiken US-Origin-Komponenten De-minimis-Regel Foreign Direct Product Rule ITAR-Bezug OFAC-Bezug. Output US-Exportkontroll-Dossier mit Reexport-Klassifizierung Lizenzpfad und OFAC-Screening-Nachweis. Abgrenzung zu aussenwirtschaft-exportkontrolle-dual-use und aussenwirtschaft-sanktionen-embargos."
 ---
 
 # US EAR, ITAR und Extraterritorialität

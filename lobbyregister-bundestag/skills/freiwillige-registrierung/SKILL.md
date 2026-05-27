@@ -1,6 +1,6 @@
 ---
 name: freiwillige-registrierung
-description: "Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bussgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk."
+description: "Berät zu freiwilliger Eintragung nach § 2 Abs. 5 LobbyRG: Rechte, volle Pflichten, Aktualisierung, Verhaltenskodex und Bußgeldrisiko bei falschen Angaben. Output Entscheidungsvermerk."
 ---
 
 # Freiwillige Registrierung

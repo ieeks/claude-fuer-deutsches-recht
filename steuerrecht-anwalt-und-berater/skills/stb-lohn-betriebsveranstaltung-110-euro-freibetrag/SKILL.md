@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-betriebsveranstaltung-110-euro-freibetrag
-description: "Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Pruefung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung."
+description: "Betriebsveranstaltung 110 EUR-Freibetrag § 19 Abs 1 Nr 1a EStG. Anwendungsfall Firmenfeier Sommerfest Weihnachtsfeier Kostenkalkulation 110 EUR pro AN Pauschalierung. Methodik Berechnung Prüfung Belege. Output Lohn-Abrechnung mit Betriebsveranstaltung."
 ---
 
 # Betriebsveranstaltung — 110-EUR-Freibetrag § 19 Abs. 1 Nr. 1a EStG

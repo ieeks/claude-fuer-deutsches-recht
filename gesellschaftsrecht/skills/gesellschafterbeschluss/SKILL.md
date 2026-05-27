@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss
-description: "Erstellung, Pruefung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfaehigkeit, Formfragen, Protokollfuehrung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung."
+description: "Erstellung, Prüfung und Anfechtung von Gesellschafterbeschluessen in GmbH (47 und 48 GmbHG) und AG (133 ff. AktG); Mehrheitserfordernisse, Beschlussfähigkeit, Formfragen, Protokollführung sowie Nichtigkeit (241 AktG analog) und Anfechtbarkeit (246 AktG analog). Laedt bei Mandaten zur Beschlussfassung, Anfechtungsklage oder Nichtigkeitsfeststellung."
 ---
 
 # Gesellschafterbeschluss – GmbH und AG

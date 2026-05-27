@@ -1,6 +1,6 @@
 ---
 name: nicht-aktualisiert-risiko
-description: "Prueft Kennzeichnung nicht aktualisiert, Nachholfristen, Uebertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan."
+description: "Prüft Kennzeichnung nicht aktualisiert, Nachholfristen, Übertragung in fruehere Interessenvertreter und Reputationsfolgen. Output Rettungsplan."
 ---
 
 # Nicht-aktualisiert Risiko

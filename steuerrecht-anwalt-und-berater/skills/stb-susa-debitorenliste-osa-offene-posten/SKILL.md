@@ -1,6 +1,6 @@
 ---
 name: stb-susa-debitorenliste-osa-offene-posten
-description: "Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Faelligkeitsstrukur Top-Schuldner Risikopruefung. Output OPOS-Liste mit Faelligkeitsstaffel."
+description: "Debitoren-Saldenliste und Offene-Posten-Auswertung OPOS. Anwendungsfall Monats- oder Quartalsauswertung Mahnwesen Forderungsanalyse Bilanzvorbereitung. Methodik OPOS-Liste Fälligkeitsstrukur Top-Schuldner Risikoprüfung. Output OPOS-Liste mit Fälligkeitsstaffel."
 ---
 
 # Debitoren-Saldenliste / Offene-Posten-Auswertung (OPOS)

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Produktrecht-Plugin. Klaert produktrechtliche Pruefpflichten vor Launch, Impressumspflicht nach DDG, Preisangaben nach PAngV, Werbeaussagen nach UWG und Risikobewertung fuer Features."
+description: "Einstieg und Orientierung im Produktrecht-Plugin. Klaert produktrechtliche Prüfpflichten vor Launch, Impressumspflicht nach DDG, Preisangaben nach PAngV, Werbeaussagen nach UWG und Risikobewertung für Features."
 ---
 
 # Produktrecht — Allgemein

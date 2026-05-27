@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Aktenauszug-Plugin: strukturierte Einarbeitung in deutsche Gerichtsverfahren mit Verfahrensidentifikation, Einleitungssatz, Sachverhaltschronologie, Verfahrensgeschichte, Parteivortrag-Gegenueberstellung, Beweismittel und Rechtsargumenten fuer Zivil-, Straf-, Verwaltungs-, Arbeits- und Sozialgerichtsverfahren."
+description: "Einstieg und Überblick für das Aktenauszug-Plugin: strukturierte Einarbeitung in deutsche Gerichtsverfahren mit Verfahrensidentifikation, Einleitungssatz, Sachverhaltschronologie, Verfahrensgeschichte, Parteivortrag-Gegenüberstellung, Beweismittel und Rechtsargumenten für Zivil-, Straf-, Verwaltungs-, Arbeits- und Sozialgerichtsverfahren."
 ---
 
 # Aktenauszug Gerichtsverfahren — Allgemein

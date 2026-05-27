@@ -1,6 +1,6 @@
 ---
 name: wandlungsausschluss-pruefung
-description: "Pruefen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Pruefraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Pruefmemo Empfehlung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
+description: "Prüfen ob Wandlung gesperrt oder ausgeschlossen ist bei vertraglichen oder gesetzlichen Hindernissen. §§ 134 138 BGB Nichtigkeit § 30 GmbHG Kapitalerhaltung. Prüfraster: Ausschlusstatbestaende Insolvenzreife Kapitalerhaltungsverbot Vorzugsrecht Dritter. Output: Ausschluss-Prüfmemo Empfehlung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Wandlungsausschluss-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: forderungsanmeldung-glaeubiger-174-177-inso
-description: "Glaeubiger meldet Forderung im Insolvenzverfahren an §§ 174-177 InsO: Fristen Form Anlagen Rang § 39 InsO Vorsatz § 174 Abs. 2 InsO nachtraegliche Anmeldung § 177 InsO Pruefungstermin § 176 Bestreiten § 178 Tabelle § 179 InsO. Mit Mustertexten und Fehlerkatalog."
+description: "Gläubiger meldet Forderung im Insolvenzverfahren an §§ 174-177 InsO: Fristen Form Anlagen Rang § 39 InsO Vorsatz § 174 Abs. 2 InsO nachtraegliche Anmeldung § 177 InsO Prüfungstermin § 176 Bestreiten § 178 Tabelle § 179 InsO. Mit Mustertexten und Fehlerkatalog."
 ---
 
 # Forderungsanmeldung im Insolvenzverfahren — Gläubiger-Sicht (§§ 174-177 InsO)

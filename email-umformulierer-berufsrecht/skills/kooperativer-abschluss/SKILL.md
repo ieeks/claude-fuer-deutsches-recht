@@ -1,6 +1,6 @@
 ---
 name: kooperativer-abschluss
-description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Pruefraster: offen fuer Gespraeich konstruktiver Ausblick ohne Ueberversprechung. Output: optimierter Abschlusssatz mit Erklaerung. Abgrenzung: nicht fuer die Grussformel (anrede-und-grussformeln)."
+description: "E-Mail oder Schreiben mit kooperativem und prozessfoerderlichem Abschluss versehen. § 43a BRAO § 26 BORA. Prüfraster: offen für Gespraeich konstruktiver Ausblick ohne Überversprechung. Output: optimierter Abschlusssatz mit Erklärung. Abgrenzung: nicht für die Grussformel (anrede-und-grussformeln)."
 ---
 
 # Kooperativer Abschluss

@@ -1,6 +1,6 @@
 ---
 name: zeugnis-ueberblick-extraktion
-description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen fuer Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen fuer Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbildungszeugnis. Pruefraster Arbeitgeber Arbeitnehmer Beschaeftigungszeitraum Position Ausstellungsdatum Unterschriftsberechtigte Vollstaendigkeit. Output Strukturiertes Kopfdatenblatt mit Vollstaendigkeitspruefung und Zeugnisart-Einordnung als Eingabe fuer alle Folge-Analyse-Skills. Abgrenzung zu zeugnisart-erkennung und notenrelevante-saetze-identifizieren."
+description: "Extrahiert Kopfdaten aus deutschen Arbeitszeugnissen für Mandatsanlage und Analysestart. Anwendungsfall Zeugnis wurde hochgeladen und Basisdaten sollen für Akte und Analyse erfasst werden. Normen § 109 GewO Pflichtinhalt § 16 BBiG Ausbildungszeugnis. Prüfraster Arbeitgeber Arbeitnehmer Beschaeftigungszeitraum Position Ausstellungsdatum Unterschriftsberechtigte Vollständigkeit. Output Strukturiertes Kopfdatenblatt mit Vollständigkeitsprüfung und Zeugnisart-Einordnung als Eingabe für alle Folge-Analyse-Skills. Abgrenzung zu zeugnisart-erkennung und notenrelevante-saetze-identifizieren."
 ---
 
 # Zeugnis-Überblick und Kopfdaten-Extraktion

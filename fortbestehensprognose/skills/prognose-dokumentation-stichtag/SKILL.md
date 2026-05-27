@@ -1,6 +1,6 @@
 ---
 name: prognose-dokumentation-stichtag
-description: "Abschliessende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenueber dem Geschaeftsleiter dass er aktiv geprueft hat (Haftung § 15b InsO § 43 GmbHG) und gegenueber Glaeubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung."
+description: "Abschließende Selbstdokumentation der Fortbestehensprognose zum konkreten Stichtag. Enthaelt Ausgangslage Annahmen Plausibilisierung Liquiditaet Szenarien Sanierungsbausteine mit Belegen Gesamtergebnis. Dient als Beleg gegenüber dem Geschäftsleiter dass er aktiv geprüft hat (Haftung § 15b InsO § 43 GmbHG) und gegenüber Gläubigern Banken Patron Steuerberater. Wiedervorlage zur Aktualisierung vierteljaehrlich oder bei wesentlicher Aenderung."
 ---
 
 # Prognose-Dokumentation Stichtag

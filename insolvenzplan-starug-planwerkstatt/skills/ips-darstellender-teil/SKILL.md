@@ -1,6 +1,6 @@
 ---
 name: ips-darstellender-teil
-description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollstaendig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Pruefraster: Krisengeschichte Massnahmen Finanzplanung Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung Widerspruchsfreiheit. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht fuer gestaltenden Teil (ips-gestaltender-teil)."
+description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Finanzplanung Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung Widerspruchsfreiheit. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht für gestaltenden Teil (ips-gestaltender-teil)."
 ---
 
 # Darstellender Teil

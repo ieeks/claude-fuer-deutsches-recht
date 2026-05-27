@@ -1,6 +1,6 @@
 ---
 name: iv-masseeinsammlung
-description: "Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprueche Versicherungen Rueckstaende. §§ 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Pruefraster: Massekarte Priorisierung realisierbare Forderungen Sicherungsrechte Drittschuldneranschreiben. Output: Massekarte Drittschuldnerschreiben Herausgabeanforderungen. Abgrenzung: nicht fuer aktive Massemehrung durch Verkauf oder Klage (iv-massemehrung-asset-realisation)."
+description: "Massepositionen erfassen und realisieren: Bankguthaben Debitoren Herausgabeansprüche Versicherungen Rückstaende. §§ 80 148 InsO Verwaltungsbefugnis und Massezugehoerigkeit. Prüfraster: Massekarte Priorisierung realisierbare Forderungen Sicherungsrechte Drittschuldneranschreiben. Output: Massekarte Drittschuldnerschreiben Herausgabeanforderungen. Abgrenzung: nicht für aktive Massemehrung durch Verkauf oder Klage (iv-massemehrung-asset-realisation)."
 ---
 
 # Masseeinsammlung

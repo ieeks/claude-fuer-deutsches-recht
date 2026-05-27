@@ -1,6 +1,6 @@
 ---
 name: anfg-grundtatbestand-und-anfechtungsberechtigte
-description: "Grundvoraussetzungen der ausserinsolvenzlichen Glaeubigeranfechtung klaeren: vollstreckbarer Titel, faellige Forderung, Glaeubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Pruefraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Pruefergebnis Anspruchsgrundlage mit Lueckenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeroffnung."
+description: "Grundvoraussetzungen der außerinsolvenzlichen Gläubigeranfechtung klaeren: vollstreckbarer Titel, fällige Forderung, Gläubigerbenachteiligung. Normen: §§ 1 2 AnfG, §§ 195 199 BGB. Prüfraster: Anfechtungsberechtigung, Rechtshandlungsbegriff, Schuldnereigenschaft. Output: Prüfergebnis Anspruchsgrundlage mit Lueckenanalyse. Abgrenzung: nicht InsO-Grundtatbestand § 129 InsO ohne Insolvenzeroffnung."
 ---
 
 # AnfG-Grundtatbestand und Anfechtungsberechtigte

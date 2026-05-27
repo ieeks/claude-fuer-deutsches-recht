@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-mindestlohn-aktuell-2026-anpassung
-description: "Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Pruefung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen Mandantenkommunikation. Output MiLo-Uebersicht aktuell Verifikations-Hinweis."
+description: "Aktueller Mindestlohn 2026 Anpassung. Anwendungsfall Prüfung des aktuellen MiLo-Wertes Auswirkung auf Mini- Midi-Job-Grenzen Vertragsklauseln Mandanten-Information. Methodik Verifikation amtliche Quellen Mandantenkommunikation. Output MiLo-Übersicht aktuell Verifikations-Hinweis."
 ---
 
 # Aktueller Mindestlohn 2026 — Anpassung und Wirkung

@@ -1,6 +1,6 @@
 ---
 name: cas-berufung-vorbereiten
-description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten. Art. R49 CAS Code Frist 21 Tage Sprache Englisch. Normen CAS Code Art. R49 R52 R57 WADA-Code Art. 13 IPRG Art. 77 (Schweizer BGer). Pruefraster Statement of Appeal Appeal Brief Fristen-Check Verfahrenswahl Kosten-Abschaetzung. Output Berufungsschrift-Entwurf Verfahrens-Checkliste. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (Doping-Spezifisch) und verbandsstrafe-anfechten (Allgemein)."
+description: "Sportler oder Verein will Entscheidung eines Sportverbands vor dem Court of Arbitration for Sport Lausanne anfechten. Art. R49 CAS Code Frist 21 Tage Sprache Englisch. Normen CAS Code Art. R49 R52 R57 WADA-Code Art. 13 IPRG Art. 77 (Schweizer BGer). Prüfraster Statement of Appeal Appeal Brief Fristen-Check Verfahrenswahl Kosten-Abschaetzung. Output Berufungsschrift-Entwurf Verfahrens-Checkliste. Abgrenzung zu fachanwalt-sportrecht-doping-cas-berufung (Doping-Spezifisch) und verbandsstrafe-anfechten (Allgemein)."
 ---
 
 # CAS-Berufung vorbereiten

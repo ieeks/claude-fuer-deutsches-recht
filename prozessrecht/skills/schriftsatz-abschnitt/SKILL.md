@@ -1,6 +1,6 @@
 ---
 name: schriftsatz-abschnitt
-description: "Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begruendung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Pruefraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt fuer Einbau in Klageschrift oder Erwiderung. Abgrenzung: nicht vollstaendige Klageschrift."
+description: "Einzelne Abschnitte eines Schriftsatzes erstellen: Tatbestand, Begründung, Beweisangebot nach ZPO-Schema. Normen: §§ 253 313 ZPO. Prüfraster: Schluessigskeit, Beweisangebot, Normzitat. Output: Schriftsatz-Abschnitt für Einbau in Klageschrift oder Erwiderung. Abgrenzung: nicht vollständige Klageschrift."
 ---
 
 # Schriftsatzabschnitt-Entwurf

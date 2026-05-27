@@ -1,6 +1,6 @@
 ---
 name: buergerversammlung-protokoll-audit
-description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollstaendigkeit pruefen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Pruefraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemaesse Niederschrift Vorfestlegungs-Anzeichen Auswertung fuer Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz."
+description: "Mandant war bei Buergerversammlung und moechte Niederschrift auf Vollständigkeit prüfen. § 3 Abs. 1 BauGB Buergerversammlung Eroerterungstermin. Prüfraster: Einladung Tagesordnung Sitzungsleitung Wortbeitraege sinngemäße Niederschrift Vorfestlegungs-Anzeichen Auswertung für Mandantenchronologie. Output: Audit-Protokoll Buergerversammlung mit Bewertung Fehlstellen. Abgrenzung zu beteiligung-frueh-foermlich (Beteiligungsverfahren gesamt) und normenkontrollantrag-schriftsatz."
 ---
 
 # Bürgerversammlung — Protokoll-Audit

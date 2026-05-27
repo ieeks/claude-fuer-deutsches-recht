@@ -1,6 +1,6 @@
 ---
 name: antragsbefugnis-eigentuemer-nachbar
-description: "Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Pruefraster: Moeglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist)."
+description: "Grundstueckseigentuemer oder Nachbar moechte Normenkontrollantrag stellen und fragt ob er antragsbefugt ist. § 47 Abs. 2 S. 1 VwGO Antragsbefugnis Normenkontrolle. Prüfraster: Möglichkeitstheorie als Massstab Eigentuemer im Plangebiet immer antragsbefugt Nachbar bei abwaegungserheblichem Belang BVerwG vom 31.1.2017 Verbandsklagebefugnis § 64 BNatSchG § 2 UmwRG. Output: Antragsbefugnis-Analyse und Empfehlung Mandatsannahme. Abgrenzung zu statthaftigkeit-47-vwgo (Statthatfigkeit) und jahresfrist-47-abs-2-vwgo (Frist)."
 ---
 
 # Antragsbefugnis § 47 Abs. 2 VwGO

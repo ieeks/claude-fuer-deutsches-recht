@@ -1,6 +1,6 @@
 ---
 name: beweissicherung
-description: "Beweissicherungsantrag im selbstaendigen Beweisverfahren vorbereiten: Sachverstaendigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Pruefraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf. Output: Antrag auf selbstaendiges Beweisverfahren. Abgrenzung: nicht einstweilige Verfuegung."
+description: "Beweissicherungsantrag im selbständigen Beweisverfahren vorbereiten: Sachverständigengutachten vor Klageerhebung sichern. Normen: §§ 485 ff. ZPO. Prüfraster: Beweissicherungsinteresse, Antragstellung, Gutachterauswahl, Verfahrensablauf. Output: Antrag auf selbständiges Beweisverfahren. Abgrenzung: nicht einstweilige Verfuegung."
 ---
 
 # Aufbewahrungspflicht und Beweissicherung

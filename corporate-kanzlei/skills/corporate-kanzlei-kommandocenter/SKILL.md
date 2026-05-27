@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-kommandocenter
-description: "Deal-Kommandocenter Corporate/M&A: Schnellstart fuer Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Spezialskill (SPA, DD, StaRUG, Kapitalmarkt, Register)."
+description: "Deal-Kommandocenter Corporate/M&A: Schnellstart für Mandate. Erkennt Dealtyp, Phase und Parteiperspektive; erzeugt Deal-Karte mit Ampel, Rollen, naechster Aktion und Freigabegrad. Routet an passenden Spezialskill (SPA, DD, StaRUG, Kapitalmarkt, Register)."
 ---
 
 # Deal-Kommandocenter — Corporate/M&A
@@ -25,7 +25,7 @@ description: "Deal-Kommandocenter Corporate/M&A: Schnellstart fuer Mandate. Erke
 ## Aktuelle Rechtsprechung
 
 - BGH, Urt. v. 19.06.2018 - II ZR 277/16, NJW 2018, 2723 Rn. 18 — Insolvenzantragspflicht beginnt mit objektivem Eintritt der Insolvenzreife; subjektive Unkenntnis des Geschäftsführers entbindet nicht von der Antragspflicht.
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 — GmbH-Geschäftsführer kann sich auf Business Judgment Rule nur berufen, wenn er Entscheidungsgrundlagen aktiv beschafft und verifiziert hat.
+- BGH, Urt. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — GmbH-Geschäftsführer kann sich auf unternehmerisches Ermessen nur stützen, wenn er die Entscheidungsgrundlagen sorgfältig ermittelt hat.
 - OLG Frankfurt, Urt. v. 07.12.2021 - 5 U 134/20, ZIP 2022, 310 — Lückenhafte Disclosure Schedules begründen Garantieverletzung im SPA; Verkäufer muss bekannte Risiken vollständig offenlegen.
 - EuGH, Urt. v. 04.03.2020 - C-10/18 P (Mowi/Kommission), NJW 2020, 1589 — Vorwegnahme des Zusammenschlusses vor Fusionskontrollfreigabe (Gun-Jumping) begründet eigenständigen Kartellrechtsverstoß.
 
@@ -124,5 +124,5 @@ FREIGABEGRAD: [Entwurf / Freigegeben durch Partner / Vertraulich — nur intern]
 - Art. 17 MAR; § 26 WpHG (Insiderinformation)
 - §§ 2 ff. StaRUG (Restrukturierungsanzeige)
 - BGH II ZR 277/16, NJW 2018, 2723 (Insolvenzantragspflicht)
-- BGH II ZR 234/20, NJW 2022, 1381 (GmbH-GF BJR)
+- BGH II ZR 202/07, NJW 2008, 3361 (GmbH-GF BJR / Informationsgrundlage)
 - MüKo InsO/Klöhn, § 15a Rn. 1-80

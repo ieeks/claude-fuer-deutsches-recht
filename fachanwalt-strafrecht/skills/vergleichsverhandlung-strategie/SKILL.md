@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich fuer prozessuale Einigung und Strafverteidiger will Verstaendigung Einstellung oder TOA vorbereiten. § 257c StPO Verstaendigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Pruefraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verstaendigung-257c-TOA-46a und zu Plaedoyer."
+description: "Verhandlungs- und Einigungsstrategie im Strafverfahren: Anwendungsfall Sachverhalt eignet sich für prozessuale Einigung und Strafverteidiger will Verständigung Einstellung oder TOA vorbereiten. § 257c StPO Verständigung, § 153a StPO Einstellung gegen Auflage, §§ 403-406c StPO Adhaesionsvergleich, § 46a StGB Taeter-Opfer-Ausgleich. Prüfraster ZOPA BATNA Verhandlungsfenster bestimmen, Mandant belehren, Settlement-Skript vorbereiten, prozessuale Absicherung prüfen. Output Verhandlungs-Strategie-Papier mit Skript und Einigungsentwurf. Abgrenzung zu Verständigung-257c-TOA-46a und zu Plaedoyer."
 ---
 
 # Verhandlungs- und Einigungsstrategie im Strafverfahren

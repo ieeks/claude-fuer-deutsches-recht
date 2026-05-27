@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-public-ma-kapitalmarkt-mar
-description: "Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Pruefung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG."
+description: "Public M&A Kapitalmarkt und MAR: boersennotierte Transaktionen, WpUEG-Unterlagen, Ad-hoc-Prüfung, Insiderlisten, Stellungnahmen, Marktgerueichte; WpUEG, MAR VO 596/2014, WpHG."
 ---
 
 # Public M&A, Kapitalmarkt und MAR

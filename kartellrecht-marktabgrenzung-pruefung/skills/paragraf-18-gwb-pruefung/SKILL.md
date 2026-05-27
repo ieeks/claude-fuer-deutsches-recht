@@ -1,6 +1,6 @@
 ---
 name: paragraf-18-gwb-pruefung
-description: "Prueft Marktbeherrschung nach Paragraf 18 GWB: Einzelmarktbeherrschung Abs 1 Marktanteils-Schwellen Abs 4 (40 Prozent) gemeinsame Marktbeherrschung Abs 5 und 6 intermediaere Plattformen Abs 3a sowie relative Marktmacht nach Paragraf 20 GWB. Fuer BKartA-Verfahren und nationale Gerichte."
+description: "Prüft Marktbeherrschung nach Paragraf 18 GWB: Einzelmarktbeherrschung Abs 1 Marktanteils-Schwellen Abs 4 (40 Prozent) gemeinsame Marktbeherrschung Abs 5 und 6 intermediaere Plattformen Abs 3a sowie relative Marktmacht nach Paragraf 20 GWB. Für BKartA-Verfahren und nationale Gerichte."
 ---
 
 # § 18 GWB — Marktbeherrschung: Prüfung

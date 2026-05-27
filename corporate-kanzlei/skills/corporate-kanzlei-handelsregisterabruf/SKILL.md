@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-handelsregisterabruf
-description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhaeltnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Pruefraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening."
+description: "Handelsregister-Daten abrufen und analysieren: Anwalt oder Mandant benoetigt Gesellschaftsstruktur, Haftungsverhältnisse, Offenlegungspflichten aus HRA/HRB, Bundesanzeiger und Transparenzregister. Normen: §§ 8-15 HGB, § 9 GmbHG, §§ 67-68 AktG, GwG §§ 18-20 (Transparenzregister). Prüfraster: Gesellschafterliste, Jahresabschluesse, Prokura, Eintragungsketten, UBO-Identifikation. Output Registerauszug-Analyse, Struktur-Memo, Risikobewertung Offenlegung. Abgrenzung: Anmeldungen siehe gesellschaftsrecht-register; Zielunternehmen-Screening siehe outside-in-target-screening."
 ---
 
 # Handelsregisterabruf und -analyse

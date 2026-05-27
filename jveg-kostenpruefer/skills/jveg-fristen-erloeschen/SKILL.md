@@ -1,6 +1,6 @@
 ---
 name: jveg-fristen-erloeschen
-description: "Antragsfristen nach JVEG pruefen: drei Monate Ausschlussfrist fuer Verguetungsantrag. Normen: § 2 Abs. 1 JVEG. Pruefraster: Fristbeginn, Fristende, Wiedereinsetzungsmoeglichkeit. Output: Fristenpruefung JVEG mit Empfehlung. Abgrenzung: nicht materiell-rechtliche Verguetungsberechnung."
+description: "Antragsfristen nach JVEG prüfen: drei Monate Ausschlussfrist für Verguetungsantrag. Normen: § 2 Abs. 1 JVEG. Prüfraster: Fristbeginn, Fristende, Wiedereinsetzungsmöglichkeit. Output: Fristenprüfung JVEG mit Empfehlung. Abgrenzung: nicht materiell-rechtliche Verguetungsberechnung."
 ---
 
 # JVEG-Fristen-Erloeschen

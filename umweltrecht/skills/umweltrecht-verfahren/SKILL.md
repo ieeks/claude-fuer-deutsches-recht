@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-verfahren
-description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Pruefraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zustaendigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bussgeld-sanktionen (Ordnungsrecht)."
+description: "Umweltrechtssache geht in Verwaltungsgericht: Ausgangsverfahren Anhoerung Widerspruch Eil- und Klageverfahren. Normen VwGO §§ 42 43 47 80 80a 80b 113 123 VwVfG §§ 28 39 UmwRG §§ 1 2 4. Prüfraster Klagebefugnis Praeklusion Eilantrag-Grounds Planfeststellungs-Zuständigkeit. Output Klage-Entwurf Eilantrag Schriftsatz. Abgrenzung zu klimaklagen-verbandsklage-umwrg (spezielle Klage) und umweltrecht-bußgeld-sanktionen (Ordnungsrecht)."
 ---
 
 # Umweltrechtliche Verwaltungs- und Gerichtsverfahren

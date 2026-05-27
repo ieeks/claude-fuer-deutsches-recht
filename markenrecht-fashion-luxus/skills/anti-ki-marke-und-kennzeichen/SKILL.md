@@ -1,6 +1,6 @@
 ---
 name: anti-ki-marke-und-kennzeichen
-description: "Neue Kennzeichenstrategien fuer KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfaehigkeit), UWG § 5 (Irrefuehrung). Pruefraster: Markenfaehigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill."
+description: "Neue Kennzeichenstrategien für KI-Authentizitaet in Haute-Couture: Modehaus will Human-Made-Labels, Anti-KI-Marken oder Authentizitaetszertifikate etablieren. Normen: EU AI Act (VO) 2024/1689 (Transparenzpflichten), MarkenG § 3 (Markenfähigkeit), UWG § 5 (Irreführung). Prüfraster: Markenfähigkeit des Zeichens, EU AI Act Compliance, Abgrenzung zur Herkunftszeichengebung. Output Kennzeichen-Strategie-Memo, Anmeldungsempfehlung, Compliance-Checkliste AI Act. Abgrenzung: Klassische Wortmarke siehe wortmarke-anmeldung-dpma; IT-Recht und KI-Haftung siehe KI-Governance-Skill."
 ---
 
 # Anti-KI-Marken und Authentizitätskennzeichen

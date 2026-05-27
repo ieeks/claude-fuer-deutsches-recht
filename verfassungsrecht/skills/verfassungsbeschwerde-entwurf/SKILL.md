@@ -1,6 +1,6 @@
 ---
 name: verfassungsbeschwerde-entwurf
-description: "Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch oeffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Pruefraster: Beschwerdefuehrerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output: Verfassungsbeschwerde-Schriftsatz mit Zulaessigkeit Begruendung. Abgrenzung: nicht fuer abstrakte oder konkrete Normenkontrolle."
+description: "Verfassungsbeschwerde beim BVerfG nach §§ 90 ff. BVerfGG formulieren wenn Grundrechtsverletzung durch öffentliche Gewalt geltend gemacht wird. §§ 90 93 BVerfGG Art. 93 Abs. 1 Nr. 4a GG. Prüfraster: Beschwerdeführerbefugnis Beschwerdeobjekt Rechtswegerschoepfung Frist Grundrechtsverletzung. Output: Verfassungsbeschwerde-Schriftsatz mit Zulässigkeit Begründung. Abgrenzung: nicht für abstrakte oder konkrete Normenkontrolle."
 ---
 
 # Verfassungsbeschwerde-Entwurf

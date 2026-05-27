@@ -1,6 +1,6 @@
 ---
 name: strafrecht-tatbestand-rechtswidrigkeit-schuld
-description: "Student prueft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgruende Schuldfaehigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Ruecktritt § 24 StGB Konkurrenzen. Pruefraster Stufenpruefung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Pruefungsschema Begruendung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-fuer-schritt (Methode)."
+description: "Student prüft Strafbarkeit in der Hausarbeit: Drei-Stufen-Schema Tatbestand Rechtswidrigkeit Schuld. Objektiver subjektiver Tatbestand Rechtfertigungsgründe Schuldfähigkeit. §§ 242 263 223 212 StGB Versuch § 22 StGB Rücktritt § 24 StGB Konkurrenzen. Prüfraster Stufenprüfung Vorsatz-Fahrl-saessigkeitsabgrenzung Konkurrenzen. Output strafrechtliches Prüfungsschema Begründung. Abgrenzung zu fachgebiet-routing (Gebietswahl) und subsumtion-schritt-fuer-schritt (Methode)."
 ---
 
 # Strafrecht — Drei-Stufen-Aufbau: Tatbestand, Rechtswidrigkeit, Schuld

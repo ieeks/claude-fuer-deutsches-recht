@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchfuehren: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Pruefraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift."
+description: "Erstgespraeches-Aufnahme im Transport- und Speditionsrecht strukturiert durchführen: Sachverhalt, Vertragstyp, Schadenstyp. Normen: §§ 407 ff. HGB, CMR, BRAO. Prüfraster: Sachverhaltserfassung, Frachtvertrag vs. Speditionsauftrag, Interessenlage, Fristen. Output: Erstgespraeches-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Klageschrift."
 ---
 
 # Erstgespraech und Mandatsannahme im Transport-, Speditions- und Logistikrecht

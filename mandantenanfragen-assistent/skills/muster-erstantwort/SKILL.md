@@ -1,6 +1,6 @@
 ---
 name: muster-erstantwort
-description: "Kanzlei benoetigt fertige ausfuellbare Vorlage fuer die Erstantwort auf Mandantenanfragen. Template Erstantwort. Pruefraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollstaendiges Template-Set fuer Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser."
+description: "Kanzlei benoetigt fertige ausfuellbare Vorlage für die Erstantwort auf Mandantenanfragen. Template Erstantwort. Prüfraster: Platzhalter KANZLEI-NAME SEKRETARIATS-TELEFON TRANSKRIPTIONS-TELEFON UNTERZEICHNENDE-RA. Drei Varianten Standard nur Vorname Transkriptionsservice-Modus. Output: vollständiges Template-Set für Erstantwort. Abgrenzung zu erstantwort-generator (konkrete Antwort erstellen) und anfrage-eingang-parser."
 ---
 
 # Muster-Erstantwort

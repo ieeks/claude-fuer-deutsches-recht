@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-arbeitsvertrag-pruefung-lohn-relevant
-description: "Arbeitsvertrag aus lohnrelevanter Sicht pruefen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermoegenswirksame Leistungen. Methodik Pruefraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Pruefnotiz Empfehlung."
+description: "Arbeitsvertrag aus lohnrelevanter Sicht prüfen. Anwendungsfall Onboarding neuer AN Vertragsaenderungen Stundenlohn Festgehalt Sonderverguetungen Sachbezuege Dienstwagen JobRad bAV Vermögenswirksame Leistungen. Methodik Prüfraster lohnsteuer- und sv-rechtlich relevante Klauseln. Output Prüfnotiz Empfehlung."
 ---
 
 # Arbeitsvertrag aus lohnrelevanter Sicht pruefen

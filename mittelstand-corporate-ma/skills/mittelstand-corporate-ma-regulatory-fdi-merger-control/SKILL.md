@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-regulatory-fdi-merger-control
-description: "Fusionskontrolle und FDI: Freigabe-Landkarte fuer Kartellrecht GWB/FKVO, AWV-Investitionspruefung, Sektorregulierung; Multi-Jurisdiction-Filings; §§ 35-44 GWB, Art. 4 FKVO."
+description: "Fusionskontrolle und FDI: Freigabe-Landkarte für Kartellrecht GWB/FKVO, AWV-Investitionsprüfung, Sektorregulierung; Multi-Jurisdiction-Filings; §§ 35-44 GWB, Art. 4 FKVO."
 ---
 
 # Fusionskontrolle und Investitionskontrolle

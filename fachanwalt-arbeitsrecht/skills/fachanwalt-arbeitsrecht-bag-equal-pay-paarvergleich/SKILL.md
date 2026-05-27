@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-equal-pay-paarvergleich
-description: "BAG 23.10.2025 8 AZR 300/24 Equal Pay Paarvergleich genuegt fuer Lohngleichheitsklage. Anwendungsfall Arbeitnehmerin wird schlechter bezahlt als ein maennlicher Kollege bei gleicher oder gleichwertiger Arbeit. Normen § 3 § 7 EntgTranspG § 22 AGG Beweislastumkehr Art. 157 AEUV § 15 AGG Entschaedigung. Pruefraster Paarvergleich einzelner besser bezahlter Kollege Beweislast Arbeitgeber objektive geschlechtsneutrale Gruende keine Berufung auf Median. Auskunftsanspruch § 10 EntgTranspG Frist zwei Monate § 15 AGG. Output Klageschrift-Baustein mit Paarvergleich AGG-Antrag und Auskunftsverlangen. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und schriftsatzkern-substantiierung."
+description: "BAG 23.10.2025 8 AZR 300/24 Equal Pay Paarvergleich genuegt für Lohngleichheitsklage. Anwendungsfall Arbeitnehmerin wird schlechter bezahlt als ein maennlicher Kollege bei gleicher oder gleichwertiger Arbeit. Normen § 3 § 7 EntgTranspG § 22 AGG Beweislastumkehr Art. 157 AEUV § 15 AGG Entschaedigung. Prüfraster Paarvergleich einzelner besser bezahlter Kollege Beweislast Arbeitgeber objektive geschlechtsneutrale Gründe keine Berufung auf Median. Auskunftsanspruch § 10 EntgTranspG Frist zwei Monate § 15 AGG. Output Klageschrift-Baustein mit Paarvergleich AGG-Antrag und Auskunftsverlangen. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und schriftsatzkern-substantiierung."
 ---
 
 # BAG 23.10.2025 — Equal Pay durch Paarvergleich (8 AZR 300/24)

@@ -1,6 +1,6 @@
 ---
 name: zvg-miet-und-pachtverwaltung
-description: "Miet- und Pachtverwaltung in der Zwangsverwaltung einschliesslich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhaeltnisse und muss diese weiter verwalten. Normen § 152 ZVG Mieteinzug §§ 535 ff. BGB Mietrecht § 150 ZVG Vorausverfuegungen des Schuldners. Pruefraster Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten Nutzungsregelungen. Output Mieterliste mit Vertragsuebersicht Kautionsnachweis und Zahlungsplan fuer Verteilungsrechnung. Abgrenzung zu zvg-mieteinzug-rueckstaende und zvg-raeumung-kuendigung."
+description: "Miet- und Pachtverwaltung in der Zwangsverwaltung einschließlich Vertragsuebernahme und Zahlungseinzug. Anwendungsfall Zwangsverwalter uebernimmt bestehende Mietverhältnisse und muss diese weiter verwalten. Normen § 152 ZVG Mieteinzug §§ 535 ff. BGB Mietrecht § 150 ZVG Vorausverfuegungen des Schuldners. Prüfraster Mietvertraege Pachtvertraege Zahlstellen Vorausverfuegungen Kautionen Nebenkosten Nutzungsregelungen. Output Mieterliste mit Vertragsuebersicht Kautionsnachweis und Zahlungsplan für Verteilungsrechnung. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-räumung-kündigung."
 ---
 
 # Miet- und Pachtverwaltung

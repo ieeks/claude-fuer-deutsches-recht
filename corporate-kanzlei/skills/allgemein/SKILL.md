@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in das Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I-Insurance, Signing/Closing und PMI fuer M&A-Mandate."
+description: "Einstieg in das Corporate-Kanzlei-Plugin: Deal-Kommandocenter, Datenraum, Due Diligence, SPA/APA, Umwandlung, StaRUG, Insolvenzplan, W&I-Insurance, Signing/Closing und PMI für M&A-Mandate."
 ---
 
 # Corporate-Kanzlei — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-outside-in-target-screening
-description: "Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus oeffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen."
+description: "Outside-in Target Screening: Erstellt fruehe Zielobjekt- und Pipeline-Analysen aus öffentlichen Informationen, Nachrichten, Registern, Finanzdaten und Branchenhinweisen."
 ---
 
 # Outside-in Target Screening

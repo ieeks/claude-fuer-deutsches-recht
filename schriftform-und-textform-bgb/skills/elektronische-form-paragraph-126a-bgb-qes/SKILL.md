@@ -1,6 +1,6 @@
 ---
 name: elektronische-form-paragraph-126a-bgb-qes
-description: "Mandant moechte einen Vertrag elektronisch unterzeichnen der gesetzlich Schriftform erfordert und fragt ob die qES genuegt. § 126a BGB elektronische Form als Schriftformersatz eIDAS-VO (EU) 910/2014. Pruefraster: qES-Anforderungen Zertifikatskette qualifizierter Vertrauensdiensteanbieter Signaturpruefung technische Gueltigkeit Zugangserfordernis BGH VIII ZR 159/23. Output: Formwirksamkeits-Einschaetzung und Empfehlung fuer Vertragsgestaltung. Abgrenzung zu schriftform-paragraph-126-bgb-eigenhaendige-unterschrift (Papierform) und befristungsabrede-qes-rechtsprechung-stand-2026."
+description: "Mandant moechte einen Vertrag elektronisch unterzeichnen der gesetzlich Schriftform erfordert und fragt ob die qES genuegt. § 126a BGB elektronische Form als Schriftformersatz eIDAS-VO (EU) 910/2014. Prüfraster: qES-Anforderungen Zertifikatskette qualifizierter Vertrauensdiensteanbieter Signaturprüfung technische Gueltigkeit Zugangserfordernis BGH VIII ZR 159/23. Output: Formwirksamkeits-Einschaetzung und Empfehlung für Vertragsgestaltung. Abgrenzung zu schriftform-paragraph-126-bgb-eigenhaendige-unterschrift (Papierform) und befristungsabrede-qes-rechtsprechung-stand-2026."
 ---
 
 # Elektronische Form § 126a BGB — Qualifizierte Elektronische Signatur

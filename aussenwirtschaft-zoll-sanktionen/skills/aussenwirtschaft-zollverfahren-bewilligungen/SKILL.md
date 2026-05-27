@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-zollverfahren-bewilligungen
-description: "Zollverfahren und Bewilligungen im Union-Zollkodex fuer AEO vereinfachte Anmeldung und besondere Verfahren. Anwendungsfall Unternehmen will Versandverfahren Zolllager aktive Veredelung oder AEO-Zertifizierung nutzen. Normen UZK Art. 77 ff. Anmeldung Art. 210 ff. besondere Verfahren Art. 38 ff. AEO Delegierte VO 2015/2446. Pruefraster Versandverfahren Zolllager aktive Veredelung Endverwendung AEO-Antrag vereinfachte Anmeldung Buergschaft Bewilligungsrisiken. Output Verfahrenskonzept mit Bewilligungsantrag Buergschaftsplan und Compliance-Checkliste fuer Zollabteilung. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-cbam-co2-zoll."
+description: "Zollverfahren und Bewilligungen im Union-Zollkodex für AEO vereinfachte Anmeldung und besondere Verfahren. Anwendungsfall Unternehmen will Versandverfahren Zolllager aktive Veredelung oder AEO-Zertifizierung nutzen. Normen UZK Art. 77 ff. Anmeldung Art. 210 ff. besondere Verfahren Art. 38 ff. AEO Delegierte VO 2015/2446. Prüfraster Versandverfahren Zolllager aktive Veredelung Endverwendung AEO-Antrag vereinfachte Anmeldung Buergschaft Bewilligungsrisiken. Output Verfahrenskonzept mit Bewilligungsantrag Buergschaftsplan und Compliance-Checkliste für Zollabteilung. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-cbam-co2-zoll."
 ---
 
 # Zollverfahren, Bewilligungen und Vereinfachungen

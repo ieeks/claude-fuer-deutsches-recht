@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-bautraeger-insolvenz
-description: "Insolvenz des Bautraegers: Ansprueche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Pruefraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkuendigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung."
+description: "Insolvenz des Bautraegers: Ansprüche des Erwerbers, Schutzrechte, Sicherheitsleistungen. Normen: §§ 648 650u BGB, MaBV, InsO. Prüfraster: Buergschaft oder Grundschuld, Insolvenzforderungsanmeldung, Sonderkündigungsrecht. Output: Handlungsempfehlung Erwerber bei Bautraegerinsolvenz. Abgrenzung: nicht allgemeine Bautraeger-Vertragsgestaltung."
 ---
 
 # Bauträger-Insolvenz — Erwerber-Schutz

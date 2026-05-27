@@ -1,6 +1,6 @@
 ---
 name: verbaendeanhoerung-ressortabstimmung
-description: "Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten. Anwendungsfall Referentenentwurf ist fertig und muss Verbaenden und Ressorts zugeleitet werden vor Kabinettsbefassung. Anschreiben Liste zu beteiligender Verbaende Ressorts Fristsetzung drei bis sechs Wochen. Auswertung Stellungnahmen zustimmend kritisch ablehnend mit konkreten Aenderungsvorschlaegen. Eigene Stellungnahme je kritischer Position Aenderungen dokumentiert. Output Auswertungsmatrix geaenderter Entwurf bereit fuer Kabinett. Abgrenzung zu begruendung-allgemein-und-besonders inhaltliche Begruendung."
+description: "Verbandeanhoerung und Ressortabstimmung nach GGO steuern und auswerten. Anwendungsfall Referentenentwurf ist fertig und muss Verbaenden und Ressorts zugeleitet werden vor Kabinettsbefassung. Anschreiben Liste zu beteiligender Verbaende Ressorts Fristsetzung drei bis sechs Wochen. Auswertung Stellungnahmen zustimmend kritisch ablehnend mit konkreten Aenderungsvorschlaegen. Eigene Stellungnahme je kritischer Position Aenderungen dokumentiert. Output Auswertungsmatrix geaenderter Entwurf bereit für Kabinett. Abgrenzung zu begründung-allgemein-und-besonders inhaltliche Begründung."
 ---
 
 # Verbändeanhörung und Ressortabstimmung

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-due-diligence-legal
-description: "Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report fuer Share Deal und Asset Deal."
+description: "Legal Due Diligence: standardisierte Legal DD mit Findings, Materiality, Quellenbelegen, Human-in-the-loop und Red-Flag-Report für Share Deal und Asset Deal."
 ---
 
 # Legal Due Diligence

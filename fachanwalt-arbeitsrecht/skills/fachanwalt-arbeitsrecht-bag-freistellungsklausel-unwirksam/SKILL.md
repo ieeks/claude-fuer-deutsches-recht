@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-bag-freistellungsklausel-unwirksam
-description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Kuendigung unwirksam nach § 307 BGB. Anwendungsfall Arbeitsvertrag enthaelt pauschale Freistellungsklausel und Arbeitnehmer will weiterarbeiten oder Annahmeverzug geltend machen. Normen § 307 BGB AGB-Kontrolle Freistellung § 615 BGB Annahmeverzug BAG GS 1/84 Beschaeftigungsanspruch. Pruefraster Klauselinhalt tragfaehiger Grund im konkreten Fall schutzwuerdige Interessen Geheimhaltung Konkurrenzsorge Betriebsfrieden. Output Schriftsatz-Baustein mit AGB-Angriff Beschaeftigungsantrag und Annahmeverzugs-Berechnung. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und schriftsatzkern-substantiierung."
+description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Kündigung unwirksam nach § 307 BGB. Anwendungsfall Arbeitsvertrag enthaelt pauschale Freistellungsklausel und Arbeitnehmer will weiterarbeiten oder Annahmeverzug geltend machen. Normen § 307 BGB AGB-Kontrolle Freistellung § 615 BGB Annahmeverzug BAG GS 1/84 Beschaeftigungsanspruch. Prüfraster Klauselinhalt tragfähiger Grund im konkreten Fall schutzwürdige Interessen Geheimhaltung Konkurrenzsorge Betriebsfrieden. Output Schriftsatz-Baustein mit AGB-Angriff Beschaeftigungsantrag und Annahmeverzugs-Berechnung. Abgrenzung zu fachanwalt-arbeitsrecht-aufhebungsvertrag-sperrzeit und schriftsatzkern-substantiierung."
 ---
 
 # BAG 25.03.2026 — Pauschale Freistellungsklausel nach Kündigung unwirksam (5 AZR 108/25)

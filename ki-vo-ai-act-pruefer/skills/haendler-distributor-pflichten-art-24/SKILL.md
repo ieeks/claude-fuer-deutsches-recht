@@ -1,6 +1,6 @@
 ---
 name: haendler-distributor-pflichten-art-24
-description: "Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Pruefraster: Plausibilitaetspruefung CE-Kennzeichnung vorhanden EU-Konformitaetserklaerung vorhanden Lagerung und Transport risikofrei keine wesentliche Aenderung. Wann wird Haendler zum Anbieter oder Einfuehrer Art. 25 KI-VO. Output: Checkliste Haendler-Sorgfaltspflichten. Abgrenzung zu einfuehrer-importer-pflichten-art-23 (Import) und anbieter-werden-art-25 (Rollenwechsel)."
+description: "Distributeur oder Grosshaendler von KI-Systemen fragt: Welche Sorgfaltspflichten habe ich beim Weitervertrieb von Hochrisiko-KI? Art. 24 KI-VO Haendler-Pflichten. Prüfraster: Plausibilitaetsprüfung CE-Kennzeichnung vorhanden EU-Konformitätserklärung vorhanden Lagerung und Transport risikofrei keine wesentliche Aenderung. Wann wird Haendler zum Anbieter oder Einführer Art. 25 KI-VO. Output: Checkliste Haendler-Sorgfaltspflichten. Abgrenzung zu einführer-importer-pflichten-art-23 (Import) und anbieter-werden-art-25 (Rollenwechsel)."
 ---
 
 # Händler-Pflichten (Distributor) — Art. 24 KI-VO

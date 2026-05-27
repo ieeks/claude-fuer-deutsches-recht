@@ -1,6 +1,6 @@
 ---
 name: output-warnhinweis-und-pruefungsdokument
-description: "Pflicht-Header und Warnblock fuer alle Pruefungsdokumente generieren: kein Rechtsrat, nur mechanische Pruefung. Normen: BRAO § 3. Pruefraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollstaendige Sachverhalte. Output: Standardisierter Warnblock als Dokumentkopf. Abgrenzung: nicht inhaltliche Anspruchspruefung."
+description: "Pflicht-Header und Warnblock für alle Prüfungsdokumente generieren: kein Rechtsrat, nur mechanische Prüfung. Normen: BRAO § 3. Prüfraster: Warnhinweis, Haftungsausschluss, Hinweis auf unvollständige Sachverhalte. Output: Standardisierter Warnblock als Dokumentkopf. Abgrenzung: nicht inhaltliche Anspruchsprüfung."
 ---
 
 # Output: Warnhinweis und Prüfungsdokument-Header

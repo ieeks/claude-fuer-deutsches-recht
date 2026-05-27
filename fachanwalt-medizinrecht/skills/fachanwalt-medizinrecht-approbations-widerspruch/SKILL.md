@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-approbations-widerspruch
-description: "Approbationswiderruf und Berufsrecht fuer Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwuerdigkeit Unzuverlaessigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Pruefraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Moeglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht."
+description: "Approbationswiderruf und Berufsrecht für Aerzte Apotheker Zahnaerzte: Anwendungsfall Heilberufler erhaelt Widerrufs-Bescheid oder Ruhens-Anordnung der Approbationsbehoerde. § 5 BAerztO Widerruf Unwürdigkeit Unzuverlässigkeit, § 6 BAerztO Ruhen, § 4 Abs. 1 BOeRP Wiedererteilung. Prüfraster Widerrufsgrund Strafurteil BtmG-Strafverfahren oder Steuerstrafverfahren, Rechtskraft-Status, Wiedererteilungsvoraussetzungen, Widerspruch und Klage-Optionen. Output Verteidigungs-Strategie mit Widerspruchsschreiben und Eilantrag-Möglichkeiten. Abgrenzung zu Behandlungsvertrag-630a und zu Kassenarztrecht."
 ---
 
 # Approbations-Widerspruch

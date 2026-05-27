@@ -1,6 +1,6 @@
 ---
 name: stb-dba-ukraine
-description: "DBA Deutschland Ukraine. Anwendungsfall Mittelstand IT Pflege Holding Beteiligungen mit Konfliktrelevanz seit 2022. Sanktionen Devisenkontrollen Ueberweisungssperren. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Konflikt-Lagebild."
+description: "DBA Deutschland Ukraine. Anwendungsfall Mittelstand IT Pflege Holding Beteiligungen mit Konfliktrelevanz seit 2022. Sanktionen Devisenkontrollen Überweisungssperren. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Konflikt-Lagebild."
 ---
 
 # DBA Deutschland-Ukraine

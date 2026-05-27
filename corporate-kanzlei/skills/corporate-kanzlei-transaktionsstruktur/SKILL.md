@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-transaktionsstruktur
-description: "Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen fuer M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH."
+description: "Transaktionsstruktur: Entwickelt und bewertet Transaktionsstrukturen für M&A (Share Deal, Asset Deal, Merger, Carve-out, Holding-Interposition). Normen: KStG, UmwStG, GrEStG, GmbHG, AktG. Leitentscheidungen BGH und BFH."
 ---
 
 # Transaktionsstruktur

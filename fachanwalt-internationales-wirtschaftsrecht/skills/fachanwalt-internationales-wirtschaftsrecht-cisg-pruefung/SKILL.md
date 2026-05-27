@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung
-description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner ueber Kaufvertrag und fragt: Gilt UN-Kaufrecht und welche Ansprueche bestehen? CISG UN-Kaufrecht. Pruefraster: Anwendungsbereich Art. 1-5 CISG Abbedingung Art. 6 Vertragsschluss Art. 14-24 Vertragsmaeßigkeit Art. 35 Untersuchungspflicht Art. 38 Ruegepflicht Art. 39 (1-Monats-Faustregel BGH VIII ZR 159/94) Rechtsbehelfe Art. 45-52 Schadensersatz Art. 74-77 Befreiung Art. 79. Output: Anspruchsanalyse und Schriftsatz-Entwurf. Abgrenzung zu fachanwalt-iwr-cisg-anwendbarkeit (Anwendbarkeitspruefung)."
+description: "Deutsches Unternehmen hat Streit mit auslaendischem Handelspartner über Kaufvertrag und fragt: Gilt UN-Kaufrecht und welche Ansprüche bestehen? CISG UN-Kaufrecht. Prüfraster: Anwendungsbereich Art. 1-5 CISG Abbedingung Art. 6 Vertragsschluss Art. 14-24 Vertragsmaeßigkeit Art. 35 Untersuchungspflicht Art. 38 Ruegepflicht Art. 39 (1-Monats-Faustregel BGH VIII ZR 159/94) Rechtsbehelfe Art. 45-52 Schadensersatz Art. 74-77 Befreiung Art. 79. Output: Anspruchsanalyse und Schriftsatz-Entwurf. Abgrenzung zu fachanwalt-iwr-cisg-anwendbarkeit (Anwendbarkeitsprüfung)."
 ---
 
 ## Mandantenfragen beim Kaltstart

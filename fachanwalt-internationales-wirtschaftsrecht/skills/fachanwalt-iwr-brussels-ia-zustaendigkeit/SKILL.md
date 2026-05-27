@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-brussels-ia-zustaendigkeit
-description: "Grenzueberschreitender Rechtsstreit: Glaeubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zustaendig ist. VO 1215/2012 Bruessel-Ia. Pruefraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zustaendigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zustaendigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-pruefen."
+description: "Grenzüberschreitender Rechtsstreit: Gläubigerseite oder Beklagter fragt vor Klageerhebung welches EU-Gericht zuständig ist. VO 1215/2012 Bruessel-Ia. Prüfraster: allgemeiner Gerichtsstand Art. 4 Beklagter-Wohnsitz besondere Zuständigkeit Art. 7 Vertrag Erfuellungsort Delikt Tatort Verbraucher Art. 17-19 Gerichtsstandsvereinbarung Art. 25 asymmetrische Klauseln. Output: Zuständigkeits-Analyse und Klage-Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-rom-i-anwendbarkeit (anwendbares Recht) und gerichtsstand-und-rechtswahl-prüfen."
 ---
 
 # Brüssel-Ia-VO Internationale Zuständigkeit

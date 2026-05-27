@@ -1,6 +1,6 @@
 ---
 name: glaeubigerausschuss-mitwirkung
-description: "Mandant ist Mitglied des Glaeubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Pruefraster §§ 67 ff. InsO Glaeubigerausschuss vorlaeufiger Glaeubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Ueberwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungspruefung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Pruefung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: glaeubigerantrag-pruefung fuer Eroefffnungsantrag des Glaeubiger."
+description: "Mandant ist Mitglied des Gläubiger-ausschusses oder soll in den Ausschuss gewählt werden und fragt nach Rechten Pflichten und Haftung. Prüfraster §§ 67 ff. InsO Gläubigerausschuss vorlaeufiger Gläubigerausschuss § 22a InsO Schwellenwerte. Aufgaben Überwachung Insolvenzverwalter Beschlussfassung wesentliche Verwertungs-Entscheidungen Verguetungsprüfung. Rechte Akteneinsicht Anhoerung Beschlussantrag Kassen-Prüfung Haftung § 71 InsO. Output Ausschuss-Arbeitsmemo mit Checkliste laufender Pflichten und Risiko-Hinweisen. Abgrenzung: gläubigerantrag-prüfung für Eroefffnungsantrag des Gläubiger."
 ---
 
 # Gläubigerausschuss-Mitwirkung

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gv-einladung-tagesordnung
-description: "Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Pruefraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfaehigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll."
+description: "Gesellschafterversammlungs-Einladung und Tagesordnung nach GmbHG erstellen: Fristen, Formen, Mindestinhalt. Normen: §§ 49 51 GmbHG. Prüfraster: Ladungsfrist, Schriftform, Tagesordnungspunkte, Beschlussfähigkeit. Output: GV-Einladungsschreiben mit Tagesordnung. Abgrenzung: nicht GV-Protokoll."
 ---
 
 # Einladung zur Gesellschafterversammlung

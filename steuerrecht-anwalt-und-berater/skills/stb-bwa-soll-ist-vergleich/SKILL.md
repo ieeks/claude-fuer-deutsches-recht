@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-soll-ist-vergleich
-description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext fuer Mandant Querverweis stb-bwa-mandantenreport-monatlich."
+description: "Soll-Ist-Vergleich in der BWA. Anwendungsfall Monats- oder Quartals-BWA mit Plan-Werten aus Wirtschaftsplan Unternehmensplanung Forecast. Methodik Planeingabe Abweichungsanalyse Steuerungsempfehlung. Output BWA mit Spalte Plan Ist Abweichung Erlaeuterungstext für Mandant Querverweis stb-bwa-mandantenreport-monatlich."
 ---
 
 # Soll-Ist-Vergleich in der BWA

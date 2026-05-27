@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-mandantengespraech-uebergabe
-description: "BWA-Uebergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
+description: "BWA-Übergabegespraech mit dem Mandanten. Anwendungsfall persoenliche oder telefonische Besprechung der monatlichen oder quartalsweisen BWA mit dem GF Klaerung der Abweichungen Steuerungsempfehlungen Risikoeskalation. Methodik Vorbereitung Agenda Gespraechsleitfaden Dokumentation. Output Gespraechsnotiz mit Massnahmen-Liste."
 ---
 
 # BWA-Uebergabegespraech mit dem Mandanten

@@ -1,6 +1,6 @@
 ---
 name: stb-ueberschuldungspruefung-19-inso
-description: "Stichtagsbezogene Ueberschuldungspruefung einer GmbH nach § 19 Abs. 2 InsO durch den Steuerberater. Anwendungsfall Jahresabschluss oder BWA zeigt Krisensignale Steuerberater muss Ueberschuldung rechtssicher pruefen. Zweistufig rechnerische Ueberschuldung Aktiva vs. Passiva Liquidationswerte und Fortbestehensprognose 24 Monate nach SanInsKG IDW S 6 IDW S 11. Passiva II BGH II ZR 233/18 und BGH II ZR 88/16. Output Ampel-Bewertung Pruefprotokoll Uebergang zu stb-warnschreiben-krisensignale bei roter Ampel."
+description: "Stichtagsbezogene Überschuldungsprüfung einer GmbH nach § 19 Abs. 2 InsO durch den Steuerberater. Anwendungsfall Jahresabschluss oder BWA zeigt Krisensignale Steuerberater muss Überschuldung rechtssicher prüfen. Zweistufig rechnerische Überschuldung Aktiva vs. Passiva Liquidationswerte und Fortbestehensprognose 24 Monate nach SanInsKG IDW S 6 IDW S 11. Passiva II BGH II ZR 233/18 und BGH II ZR 88/16. Output Ampel-Bewertung Prüfprotokoll Übergang zu stb-warnschreiben-krisensignale bei roter Ampel."
 ---
 
 # Überschuldungsprüfung § 19 InsO (Steuerberater-Sicht)

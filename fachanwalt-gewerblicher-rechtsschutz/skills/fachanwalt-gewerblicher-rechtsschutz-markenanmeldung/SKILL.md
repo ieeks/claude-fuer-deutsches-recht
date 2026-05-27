@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-markenanmeldung
-description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Pruefraster: Markenfaehigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht fuer Markenrechtsverletzungen (§ 14 MarkenG)."
+description: "Markenanmeldung beim DPMA oder EUIPO vorbereiten und stratgisch gestalten. §§ 3 7 8 9 MarkenG Schutzvoraussetzungen Art. 4 7 EUTMR. Prüfraster: Markenfähigkeit absolute Schutzhindernisse Waren- und Dienstleistungsverzeichnis Klassen Strategie. Output: Anmeldungsunterlagen Klasseneinteilung Strateiegempfehlung. Abgrenzung: nicht für Markenrechtsverletzungen (§ 14 MarkenG)."
 ---
 
 ## Mandantenfragen beim Kaltstart

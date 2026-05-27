@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-sv-meldungen-dakota-svnet
-description: "SV-Meldungen ueber sv.net oder DAKOTA. Anwendungsfall Beitragsnachweis Meldung an Krankenkassen elektronische Uebermittlung Pruefung Quittungen. Methodik System-Wahl Konfiguration. Output Meldebescheinigungen Quittungen."
+description: "SV-Meldungen über sv.net oder DAKOTA. Anwendungsfall Beitragsnachweis Meldung an Krankenkassen elektronische Übermittlung Prüfung Quittungen. Methodik System-Wahl Konfiguration. Output Meldebescheinigungen Quittungen."
 ---
 
 # SV-Meldungen ueber sv.net oder DAKOTA

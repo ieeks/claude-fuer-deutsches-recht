@@ -1,6 +1,6 @@
 ---
 name: vorhabenbezogener-bebauungsplan-12-baugb
-description: "Mandant ist Vorhabentraeger eines VEP oder sieht sich durch vorhabenbezogenen B-Plan benachteiligt. § 12 BauGB vorhabenbezogener Bebauungsplan. Pruefraster: Drei-Saeulen-Konstruktion Vorhaben- und Erschliessungs-Plan Durchfuehrungsvertrag Satzung Identitaets-Erfordernis § 12 Abs. 6 BauGB Realisierungsverzug-Verlust BVerwG 4 CN 5.16. Output: VEP-Pruefprotokoll und Angriffspunkte. Abgrenzung zu festsetzungskatalog-9-baugb-baunvo (normale B-Plan-Festsetzungen) und normenkontrollantrag-schriftsatz."
+description: "Mandant ist Vorhabentraeger eines VEP oder sieht sich durch vorhabenbezogenen B-Plan benachteiligt. § 12 BauGB vorhabenbezogener Bebauungsplan. Prüfraster: Drei-Saeulen-Konstruktion Vorhaben- und Erschließungs-Plan Durchführungsvertrag Satzung Identitäts-Erfordernis § 12 Abs. 6 BauGB Realisierungsverzug-Verlust BVerwG 4 CN 5.16. Output: VEP-Prüfprotokoll und Angriffspunkte. Abgrenzung zu festsetzungskatalog-9-baugb-baunvo (normale B-Plan-Festsetzungen) und normenkontrollantrag-schriftsatz."
 ---
 
 # Vorhabenbezogener Bebauungsplan § 12 BauGB

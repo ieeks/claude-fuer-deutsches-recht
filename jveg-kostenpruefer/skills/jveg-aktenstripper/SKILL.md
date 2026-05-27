@@ -1,6 +1,6 @@
 ---
 name: jveg-aktenstripper
-description: "JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen extrahieren: Termine, Stunden, Auslagen. Normen: §§ 2 ff. JVEG. Pruefraster: Terminsprotokoll, Stundennachweis, Belegstruktur. Output: Extrahierter Datensatz fuer Kostenpruefung. Abgrenzung: nicht Kostenberechnung."
+description: "JVEG-relevante Daten aus Gerichtsakten und Gutachterunterlagen extrahieren: Termine, Stunden, Auslagen. Normen: §§ 2 ff. JVEG. Prüfraster: Terminsprotokoll, Stundennachweis, Belegstruktur. Output: Extrahierter Datensatz für Kostenprüfung. Abgrenzung: nicht Kostenberechnung."
 ---
 
 # JVEG-Aktenstripper

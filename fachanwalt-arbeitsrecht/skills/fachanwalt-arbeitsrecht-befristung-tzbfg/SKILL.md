@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-befristung-tzbfg
-description: "Befristungskontrolle und Befristungsgestaltung nach TzBfG fuer Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprueft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sachgrundlose Befristung § 14 Abs. 4 TzBfG Schriftform vor Beschaeftigungsbeginn § 17 TzBfG Klagefrist drei Wochen. Pruefraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot § 14 Abs. 2 S. 2 BAG-Linie. Output Befristungspruef-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kuendigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung."
+description: "Befristungskontrolle und Befristungsgestaltung nach TzBfG für Arbeitgeber und Arbeitnehmer. Anwendungsfall befristeter Arbeitsvertrag soll geprüft oder neuer Befristungsvertrag gestaltet werden. Normen § 14 TzBfG Sachgrundbefristung sachgrundlose Befristung § 14 Abs. 4 TzBfG Schriftform vor Beschaeftigungsbeginn § 17 TzBfG Klagefrist drei Wochen. Prüfraster Schriftform-Zeitpunkt Sachgrund Vorbeschaeftigungsverbot § 14 Abs. 2 S. 2 BAG-Linie. Output Befristungsprüf-Protokoll oder Befristungsvertrags-Entwurf mit Klagefrist-Hinweis. Abgrenzung zu fachanwalt-arbeitsrecht-kündigungsschutzklage und fachanwalt-arbeitsrecht-betriebsratsanhoerung."
 ---
 
 # Befristung nach TzBfG (Teilzeit- und Befristungsgesetz)

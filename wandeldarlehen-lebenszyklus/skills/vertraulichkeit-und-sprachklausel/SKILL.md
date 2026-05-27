@@ -1,6 +1,6 @@
 ---
 name: vertraulichkeit-und-sprachklausel
-description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag pruefen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Pruefraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Pruefprotokoll. Abgrenzung: nicht fuer gesamte Vertragserstellung (einsprachige-vertragsfassung-de)."
+description: "Vertraulichkeits- und Sprachklauseln in Wandeldarlehensvertrag prüfen oder formulieren. §§ 307 ff. BGB AGB-Recht § 5 BDSG Datengeheimnis. Prüfraster: Geheimhaltungsumfang Ausnahmen Vertragssprache Kollisionsregel Sprachklausel. Output: Klauselentwuerfe Prüfprotokoll. Abgrenzung: nicht für gesamte Vertragserstellung (einsprachige-vertragsfassung-de)."
 ---
 
 # Vertraulichkeit und Sprachklausel

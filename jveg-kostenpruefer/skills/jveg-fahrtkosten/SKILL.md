@@ -1,6 +1,6 @@
 ---
 name: jveg-fahrtkosten
-description: "Fahrtkosten nach JVEG berechnen: eigenes Fahrzeug, oeffentliche Verkehrsmittel, Flug. Normen: § 5 JVEG. Pruefraster: Wegstrecke, Verkehrsmittelwahl, Parkgebuehren, Taxikosten. Output: Fahrtkosten-Berechnung JVEG. Abgrenzung: nicht Uebernachtungskosten."
+description: "Fahrtkosten nach JVEG berechnen: eigenes Fahrzeug, öffentliche Verkehrsmittel, Flug. Normen: § 5 JVEG. Prüfraster: Wegstrecke, Verkehrsmittelwahl, Parkgebühren, Taxikosten. Output: Fahrtkosten-Berechnung JVEG. Abgrenzung: nicht Übernachtungskosten."
 ---
 
 # JVEG-Fahrtkosten

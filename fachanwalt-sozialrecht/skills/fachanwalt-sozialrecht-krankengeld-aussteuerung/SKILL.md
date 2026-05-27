@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-krankengeld-aussteuerung
-description: "Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Pruefraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Workflow Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht."
+description: "Mandant war langzeitkrank und Krankengeld laeuft nach 78 Wochen aus oder ist ausgelaufen und fragt nach Anschlusssicherung. § 44 SGB V Krankengeld Bezugsdauer 78 Wochen innerhalb 3 Jahren. Prüfraster: Anschluss ALG I § 145 SGB III Erwerbsminderungsrente § 43 SGB VI Reha-Antrag. Nahtlosigkeitsprinzip und typische Luecken. Output: Workflow Anschlussversorgung mit konkreten Antragsschritten und Fristen. Abgrenzung zu fachanwalt-sozialrecht-erwerbsminderungsrente (Rentenanspruch) und eilantrag-sozialrecht."
 ---
 
 # Krankengeld-Aussteuerung

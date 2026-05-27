@@ -90,7 +90,7 @@ Die formelle Mehrheit von 75 % wurde damit erreicht.
 
 Paragraf 55 IV GmbHG verlangt fuer den Bezugsrechtsausschluss eine **sachliche Rechtfertigung**. Dabei traegt der Mehrheits-Beschluss zwingend die Begruendungs- und Beweislast.
 
-Die BGH-Linie ist eindeutig (BGH BGHZ 71, 40 — Kali+Salz-Entscheidung, vertieft in BGH NJW 2005, 985 — Macrotron, und in BGH NJW 2011, 1144 — Faktura):
+Die BGH-Linie zum Bezugsrechtsausschluss beginnt mit der Kali+Salz-Entscheidung (BGH, Urt. v. 13.03.1978 - II ZR 142/76, BGHZ 71, 40):
 
 > „Der Bezugsrechtsausschluss ist nur zulaessig, wenn er
 > (a) durch einen sachlichen Grund gerechtfertigt ist,
@@ -112,7 +112,7 @@ Auch die **Erforderlichkeit** fehlt:
 
 ##### 2. Verstoss gegen Treuepflicht (Paragraf 242 BGB analog)
 
-Die Mehrheits-Gesellschafter unterliegen einer **Treuepflicht** gegenueber den Minderheits-Gesellschaftern (BGH NJW 2007, 917; BGH NJW 2018, 1233).
+Die Mehrheits-Gesellschafter unterliegen einer **Treuepflicht** gegenüber den Minderheits-Gesellschaftern (BGH, Urt. v. 25.01.2022 - II ZR 50/20; BGH, Beschl. v. 08.11.2022 - II ZR 91/21).
 
 Diese verbietet:
 

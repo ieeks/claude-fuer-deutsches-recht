@@ -1,6 +1,6 @@
 ---
 name: ips-starug-plan-architektur
-description: "Vollstaendigen StaRUG-Restrukturierungsplan strukturieren von Planbetroffenenauswahl bis Bestaetigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung Gerichtsverfahren. Pruefraster: Restrukturierungsfaehigkeit drohende ZU gestaltbare Rechtsverhaeltnisse Plananlagen Bestaetigungsvoraussetzungen Abstimmung. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht fuer InsO-Plan (ips-insolvenzplan-architektur)."
+description: "Vollständigen StaRUG-Restrukturierungsplan strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvoraussetzungen Abstimmung. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht für InsO-Plan (ips-insolvenzplan-architektur)."
 ---
 
 # StaRUG-Plan-Architektur

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-orientierung
-description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat bearbeiten: FAO § 14e 120 Faelle 30 rechtsfoermlich. Normen §§ 535 ff. BGB WEG §§ 1-49 BetrKV HeizkostenV. Pruefraster FAO-Voraussetzungen Mandatstypen Normen-Karte BGH VIII ZR Mietrechtssenat. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
+description: "Anwalt will Fachanwaltschaft Miet-WEG-Recht erwerben oder Mandat bearbeiten: FAO § 14e 120 Faelle 30 rechtsfoermlich. Normen §§ 535 ff. BGB WEG §§ 1-49 BetrKV HeizkostenV. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte BGH VIII ZR Mietrechtssenat. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing)."
 ---
 
 # Orientierung Miet- und Wohnungseigentumsrecht

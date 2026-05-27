@@ -1,6 +1,6 @@
 ---
 name: energietrassen-planfeststellung-rechtsschutz
-description: "Rechtsschutz gegen Planfeststellungsbeschluss fuer Strom- und Gastrassen klagen: Anlieger oder Umweltverband klagt gegen Netzausbau. Normen: § 43 EnWG, BBPlG, NABEG, EnLAG, LNG-Beschleunigungsgesetz; BVerwG als Erstinstanz. Pruefraster: Klagebefugnis, verkuerzte Klagefrist 1 Monat, UmwRG-Verbandsklage, Aarhus-Konvention, Erdkabel-Vorrang. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: BImSchG-Anlagen siehe energieanlagen-bimschg-genehmigung-verfahren; Planfeststellung allgemein VwVfG siehe schriftsatzkern-substantiierung."
+description: "Rechtsschutz gegen Planfeststellungsbeschluss für Strom- und Gastrassen klagen: Anlieger oder Umweltverband klagt gegen Netzausbau. Normen: § 43 EnWG, BBPlG, NABEG, EnLAG, LNG-Beschleunigungsgesetz; BVerwG als Erstinstanz. Prüfraster: Klagebefugnis, verkuerzte Klagefrist 1 Monat, UmwRG-Verbandsklage, Aarhus-Konvention, Erdkabel-Vorrang. Output Klageschrift-Entwurf, Klagebefugungs-Memo. Abgrenzung: BImSchG-Anlagen siehe energieanlagen-bimschg-genehmigung-verfahren; Planfeststellung allgemein VwVfG siehe schriftsatzkern-substantiierung."
 ---
 
 # Energietrassen — Planfeststellung und Rechtsschutz

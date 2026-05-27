@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-dokumentieren
-description: "Pruefe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenueber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist nach DAV-Stellungnahme zweiunddreissig der Zweck der Offenlegung nicht die KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen."
+description: "Prüfe die Erforderlichkeit der Offenlegung von Berufsgeheimnissen gegenüber dem KI-Dienstleister nach Absatz eins der einschlaegigen Dienstleisterregelung (BRAO StBerG WPO PAO BNotO). Bezugspunkt ist nach DAV-Stellungnahme zweiunddreissig der Zweck der Offenlegung nicht die KI-Strategie der Kanzlei. Erstelle einen internen Compliance-Vermerk mit Beurteilungsspielraum und Grenzen."
 ---
 
 # Erforderlichkeit dokumentieren

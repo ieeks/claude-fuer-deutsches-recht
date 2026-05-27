@@ -1,6 +1,6 @@
 ---
 name: drehtuer-angaben
-description: "Fuehrt durch Angaben zu Mandat, Amt oder Funktion in Bundestag, Bundesregierung oder Bundesverwaltung aktuell oder in den letzten fuenf Jahren. Output Drehtuer-Pruefprotokoll."
+description: "Führt durch Angaben zu Mandat, Amt oder Funktion in Bundestag, Bundesregierung oder Bundesverwaltung aktuell oder in den letzten fuenf Jahren. Output Drehtuer-Prüfprotokoll."
 ---
 
 # Drehtuer-Angaben

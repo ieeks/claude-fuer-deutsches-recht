@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-abfindungen-besteuerung-funftel-regel
-description: "Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kuendigung mit Abfindung Pruefung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS. Output Lohn-Abrechnung Abfindung mit ermaessigter Besteuerung."
+description: "Abfindungen Besteuerung Fuenftel-Regelung § 34 EStG. Anwendungsfall Aufhebungsvertrag Kündigung mit Abfindung Prüfung Voraussetzungen Fuenftel-Regel Berechnung Vorteilsvergleich. Methodik Berechnung mit DATEV LODAS. Output Lohn-Abrechnung Abfindung mit ermäßigter Besteuerung."
 ---
 
 # Abfindungen — Besteuerung mit Fuenftel-Regelung § 34 EStG

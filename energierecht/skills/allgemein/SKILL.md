@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in das Energierecht-Plugin fuer Stadtwerke, Versorger, Netzbetreiber, Industrie und Projektierer: EEG, KWKG, EnWG, Waerme, Netz, Vertrieb, Transaktionen und Verfahren im Ueberblick."
+description: "Einstieg in das Energierecht-Plugin für Stadtwerke, Versorger, Netzbetreiber, Industrie und Projektierer: EEG, KWKG, EnWG, Waerme, Netz, Vertrieb, Transaktionen und Verfahren im Überblick."
 ---
 
 # Energierecht — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: bussgeld-einspruch-pruefen
-description: "Mandant erhielt Bussgeldbescheid wegen Tempoverstoß Rotlichtvergehen Handynutzung oder Abstandsmangel und fragt nach Einspruch. OWiG § 67 Abs. 1 Einspruchsfrist. Pruefraster: Tatvorwurf § 24 StVG BKatV Bussgeldhoehe Punkte Fahrverbot Messverfahren (PoliScan TraffiStar Lidar) Eichung Toleranzabzug BGH 4 StR 627/92 Identitaetsbestreitung Akteneinsicht. Output: Einspruch-Pruefliste und Einspruchsschreiben-Entwurf. Abgrenzung zu fachanwalt-verkehrsrecht-bussgeldbescheid-pruefen (Detailpruefung) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug."
+description: "Mandant erhielt Bußgeldbescheid wegen Tempoverstoß Rotlichtvergehen Handynutzung oder Abstandsmangel und fragt nach Einspruch. OWiG § 67 Abs. 1 Einspruchsfrist. Prüfraster: Tatvorwurf § 24 StVG BKatV Bußgeldhoehe Punkte Fahrverbot Messverfahren (PoliScan TraffiStar Lidar) Eichung Toleranzabzug BGH 4 StR 627/92 Identitätsbestreitung Akteneinsicht. Output: Einspruch-Prüfliste und Einspruchsschreiben-Entwurf. Abgrenzung zu fachanwalt-verkehrsrecht-bußgeldbescheid-prüfen (Detailprüfung) und fachanwalt-verkehrsrecht-fahrerlaubnis-entzug."
 ---
 
 # Bußgeldbescheid prüfen und Einspruch

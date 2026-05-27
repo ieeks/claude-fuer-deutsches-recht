@@ -1,6 +1,6 @@
 ---
 name: europarecht-vorrang-unmittelbare-wirkung
-description: "Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen pruefen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Pruefraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Pruefmemo Anwendungsempfehlung. Abgrenzung: nicht fuer Richtlinienumsetzung (europarecht-richtlinie-umsetzung)."
+description: "Vorrang des EU-Rechts und unmittelbare Wirkung von EU-Normen prüfen wenn nationales Recht entgegensteht. Art. 288 AEUV Costa v. ENEL Van Gend en Loos EuGH-Judikatur. Prüfraster: Vorrangprinzip Kollision nationales EU-Recht unmittelbare Wirkung Vertikal-Horizontal-Wirkung richtlinienkonforme Auslegung. Output: Vorrang-Prüfmemo Anwendungsempfehlung. Abgrenzung: nicht für Richtlinienumsetzung (europarecht-richtlinie-umsetzung)."
 ---
 
 # Vorrang und unmittelbare Wirkung

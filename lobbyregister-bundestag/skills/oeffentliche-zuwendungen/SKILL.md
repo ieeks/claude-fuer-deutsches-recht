@@ -1,6 +1,6 @@
 ---
 name: oeffentliche-zuwendungen
-description: "Prueft Zuwendungen und Zuschuesse der deutschen oeffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste."
+description: "Prüft Zuwendungen und Zuschuesse der deutschen öffentlichen Hand, EU, Mitgliedstaaten oder Drittstaaten mit Schwelle je Geber. Output Zuwendungsliste."
 ---
 
 # Oeffentliche Zuwendungen

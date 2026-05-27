@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-kaltstart-interview
-description: "Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschaeftigtendaten. Pruefraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger Aufbewahrungsdauer Risiken. Output: Mandatssteckbrief Verarbeitungsregister-Entwurf fehlende Informationen. Abgrenzung: nicht fuer laufendes Mandat."
+description: "Neues Datenschutzmandat durch strukturiertes Erstgespraech aufnehmen. Art. 5 6 DSGVO Grundsaetze § 26 BDSG Beschaeftigtendaten. Prüfraster: Verarbeitungszweck Datenarten betroffene Personen Empfaenger Aufbewahrungsdauer Risiken. Output: Mandatssteckbrief Verarbeitungsregister-Entwurf fehlende Informationen. Abgrenzung: nicht für laufendes Mandat."
 ---
 
 # Kaltstart-Interview – Datenschutzrecht

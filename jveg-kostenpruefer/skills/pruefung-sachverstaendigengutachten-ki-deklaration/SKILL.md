@@ -1,6 +1,6 @@
 ---
 name: pruefung-sachverstaendigengutachten-ki-deklaration
-description: "KI-Deklaration in Sachverstaendigengutachten pruefen: Hat der Sachverstaendige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Pruefraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Pruefergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht allgemeine Gutachtenpruefung."
+description: "KI-Deklaration in Sachverständigengutachten prüfen: Hat der Sachverständige KI-Nutzung offengelegt? Normen: §§ 404 ff. ZPO, JVEG. Prüfraster: Deklarationspflicht, Methodentransparenz, Beeinflussung des Gutachtenwertes. Output: Prüfergebnis KI-Deklaration mit Handlungsempfehlung. Abgrenzung: nicht allgemeine Gutachtenprüfung."
 ---
 
 # Prüfung Sachverständigengutachten — KI-Deklaration und JVEG

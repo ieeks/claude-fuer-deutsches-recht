@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-spa-apa-entwurf
-description: "SPA/APA-Entwurf: Kaufvertragsentwuerfe fuer Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur; §§ 433 BGB, 15 GmbHG, 179 AktG, Garantiekatalog, MAC, Earn-Out."
+description: "SPA/APA-Entwurf: Kaufvertragsentwuerfe für Share Deal und Asset Deal aus Term Sheet, DD-Findings und Transaktionsstruktur; §§ 433 BGB, 15 GmbHG, 179 AktG, Garantiekatalog, MAC, Earn-Out."
 ---
 
 # SPA/APA-Entwurf

@@ -1,6 +1,6 @@
 ---
 name: stabilisierungsanordnung-und-vollstreckungssperre
-description: "Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhaeltnis zum vorlaeufigen Insolvenzverfahren. Pruefraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begruendungs-Memo. Abgrenzung: Gerichtliche Planbestaetigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin."
+description: "Stabilisierungsanordnung und Vollstreckungssperre nach §§ 49-59 StaRUG beantragen: Schuldner braucht Schutz vor Einzelvollstreckung waehrend Restrukturierung. Normen: §§ 49-59 StaRUG (Stabilisierungsanordnung), § 51 StaRUG (Dauer max. 3 Monate plus Verlaengerung), Verhältnis zum vorlaeufigen Insolvenzverfahren. Prüfraster: Antragsvoraussetzungen, Schutzwirkung, Ausnahmen, Beendigung. Output Stabilisierungsanordnungs-Antrag, Begründungs-Memo. Abgrenzung: Gerichtliche Planbestätigung siehe restrukturierungsplan-architektur-paragraph-7ff-starug; InsO-Vorlaeufig siehe insolvenzrecht-Plugin."
 ---
 
 # Stabilisierungsanordnung und Vollstreckungssperre — §§ 49-59 StaRUG

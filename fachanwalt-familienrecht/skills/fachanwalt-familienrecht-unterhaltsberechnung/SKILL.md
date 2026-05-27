@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-unterhaltsberechnung
-description: "Kindes- und Ehegattenunterhalt vollstaendig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trennungsunterhalt), §§ 1569 ff. BGB (nachehelicher Unterhalt), § 1574 BGB (Erwerbsobliegenheit). Pruefraster: Bereinigtes Nettoeinkommen, Halbteilungsgrundsatz, Selbstbehalt, Mangelfall, fiktives Einkommen bei Obliegenheitsverletzung. Output Unterhalts-Berechnung mit Rechenschritten. Abgrenzung: Duesseldorfer-Tabelle Uebersicht siehe unterhalt-duesseldorfer-tabelle; Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich."
+description: "Kindes- und Ehegattenunterhalt vollständig berechnen: Mandant trennt sich oder wurde getrennt und will Unterhaltshoehe festlegen. Normen: §§ 1601 ff. BGB (Kindesunterhalt), § 1361 BGB (Trennungsunterhalt), §§ 1569 ff. BGB (nachehelicher Unterhalt), § 1574 BGB (Erwerbsobliegenheit). Prüfraster: Bereinigtes Nettoeinkommen, Halbteilungsgrundsatz, Selbstbehalt, Mangelfall, fiktives Einkommen bei Obliegenheitsverletzung. Output Unterhalts-Berechnung mit Rechenschritten. Abgrenzung: Duesseldorfer-Tabelle Übersicht siehe unterhalt-duesseldorfer-tabelle; Versorgungsausgleich siehe fachanwalt-familienrecht-versorgungsausgleich."
 ---
 
 # Unterhaltsberechnung

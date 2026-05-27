@@ -1,6 +1,6 @@
 ---
 name: schutzrechts-portfolio
-description: "Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Pruefraster: Eintragungen Verlaengerungen Jahresgebuehren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma."
+description: "Unternehmen oder Kanzlei muss IP-Portfolio verwalten und anstehende Fristen im Blick behalten. Schutzrechtsportfolio-Verwaltung. Prüfraster: Eintragungen Verlaengerungen Jahresgebühren Benutzungsnachweise Fristkalender. Output: Fristenkalender und Portfolio-Audit mit Luecken Verfall und Benutzungsfragen. Abgrenzung zu schutzschrift-eilverfuegung (Verletzungsverteidigung) und markenanmeldung-dpma."
 ---
 
 # IP-Portfolio-Verwaltung

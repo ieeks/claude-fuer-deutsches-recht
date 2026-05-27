@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-aufzeichnungspflichten-logging-art-12
-description: "Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange muessen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Pruefraster: Mindestinhalte der Logs Zeitstempel Eingabedaten Ausgaben Fehlermeldungen Aufbewahrungsfrist drei Jahre bzw. Vertragsdauer Verantwortlichkeitsteilung Anbieter vs. Betreiber. Besondere Anforderungen biometrische Identifikation Art. 12 Abs. 3. Output: Logging-Anforderungskatalog und Muster-Log-Schema. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Dokumentationspflichten) und betreiber-deployer-pflichten-art-26."
+description: "Anbieter von Hochrisiko-KI fragt: Was muss unser System automatisch aufzeichnen und wie lange muessen wir die Logs aufbewahren? Art. 12 KI-VO Logging-Pflichten. Prüfraster: Mindestinhalte der Logs Zeitstempel Eingabedaten Ausgaben Fehlermeldungen Aufbewahrungsfrist drei Jahre bzw. Vertragsdauer Verantwortlichkeitsteilung Anbieter vs. Betreiber. Besondere Anforderungen biometrische Identifikation Art. 12 Abs. 3. Output: Logging-Anforderungskatalog und Muster-Log-Schema. Abgrenzung zu hochrisiko-technische-dokumentation-art-11-und-anhang-iv (Dokumentationspflichten) und betreiber-deployer-pflichten-art-26."
 ---
 
 # Aufzeichnungspflichten und Logging — Art. 12 KI-VO

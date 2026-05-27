@@ -1,6 +1,6 @@
 ---
 name: iv-regelverfahren-eroeffnung
-description: "Regelinsolvenzverfahren nach Eroffnungsbeschluss umsetzen: Besitzuebergang Masse Tabelle Berichtstermin Verwertung. §§ 80 148 149 InsO §§ 151 ff. InsO Masseberechnung. Pruefraster: Verfuegungsbefugnis Bekanntmachungen Leistungssperren Massekonto Tabellenvorbereitung erste Verwertung. Output: Verfahrensplan Masseregister Tabellenstruktur. Abgrenzung: nicht fuer Eroeffnungsgutachten (iv-eroeffnungsgutachten) oder Abschlussphase."
+description: "Regelinsolvenzverfahren nach Eroffnungsbeschluss umsetzen: Besitzuebergang Masse Tabelle Berichtstermin Verwertung. §§ 80 148 149 InsO §§ 151 ff. InsO Masseberechnung. Prüfraster: Verfuegungsbefugnis Bekanntmachungen Leistungssperren Massekonto Tabellenvorbereitung erste Verwertung. Output: Verfahrensplan Masseregister Tabellenstruktur. Abgrenzung: nicht für Eroeffnungsgutachten (iv-eroeffnungsgutachten) oder Abschlussphase."
 ---
 
 # Regelverfahren nach Eröffnung

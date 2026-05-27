@@ -1,6 +1,6 @@
 ---
 name: musterklauseln-it-vertrag
-description: "Musterklauseln fuer IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Loeschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklaerung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Pruefraster Verschwiegenheits- und § 43e-Erklaerung, Training-Opt-out, Loeschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung fuer IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Pruefen und zu Dienstleister-Due-Diligence."
+description: "Musterklauseln für IT-Vertraege mit KI-Dienstleistern in Kanzleien: Anwendungsfall Kanzlei verhandelt Vertrag mit KI-Anbieter und braucht Klauseln zu Verschwiegenheit Training-Opt-out Löschpflichten und Haftung. § 43e BRAO Verschwiegenheits-Erklärung, Art. 28 DSGVO AVV, § 203 StGB Berufsgeheimnis. Prüfraster Verschwiegenheits- und § 43e-Erklärung, Training-Opt-out, Löschpflichten, Auditrrechte, Haftungsregelung, Subprozessoren-Genehmigung. Output Musterklausel-Sammlung für IT-Vertrag mit KI-Dienstleister. Abgrenzung zu Auftragsverarbeitungsvertrag-Prüfen und zu Dienstleister-Due-Diligence."
 ---
 
 # Musterklauseln IT-Vertrag

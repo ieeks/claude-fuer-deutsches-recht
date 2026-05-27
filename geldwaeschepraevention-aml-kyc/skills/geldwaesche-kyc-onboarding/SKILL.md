@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kyc-onboarding
-description: "KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freigabe nach GwG. Anwendungsfall neue Geschaeftsbeziehung soll aufgenommen werden und GwG-Identifizierung muss durchgefuehrt werden. Normen §§ 10 11 GwG allgemeine Sorgfaltspflichten § 15 GwG verstaerkte Sorgfaltspflicht § 14 GwG vereinfachte Sorgfaltspflicht. Pruefraster Identifizierung Zweck Geschaeftsbeziehung Mittelherkunft Eigentumsstruktur Risikoeinstufung Freigabe. Output KYC-Akte mit Identifizierungsprotokoll Risikoeinstufung Freigabevermerk und periodischer Aktualisierungsplan. Abgrenzung zu geldwaesche-pep-hochrisikoland und geldwaesche-ubo-wirtschaftlich-berechtigte."
+description: "KYC-Onboarding neuer Kunden mit Identifizierung Risikoklassifizierung und Freigabe nach GwG. Anwendungsfall neue Geschäftsbeziehung soll aufgenommen werden und GwG-Identifizierung muss durchgeführt werden. Normen §§ 10 11 GwG allgemeine Sorgfaltspflichten § 15 GwG verstaerkte Sorgfaltspflicht § 14 GwG vereinfachte Sorgfaltspflicht. Prüfraster Identifizierung Zweck Geschäftsbeziehung Mittelherkunft Eigentumsstruktur Risikoeinstufung Freigabe. Output KYC-Akte mit Identifizierungsprotokoll Risikoeinstufung Freigabevermerk und periodischer Aktualisierungsplan. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-ubo-wirtschaftlich-berechtigte."
 ---
 
 # KYC-Onboarding und Kundenprüfung

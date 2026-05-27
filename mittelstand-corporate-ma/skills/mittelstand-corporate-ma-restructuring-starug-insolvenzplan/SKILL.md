@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-restructuring-starug-insolvenzplan
-description: "Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Glaeubigerklassen Liquiditaetspruefung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Pruefraster Plan-Optionen Glaeubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Pruefung. Output Planstruktur-Entwurf Glaeubigerklassen-Matrix Liquiditaetspruefung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills."
+description: "Unternehmen in Krise oder Insolvenz braucht Restrukturierungsplan: StaRUG Insolvenzplan Gläubigerklassen Liquiditaetsprüfung Distressed M&A. Normen §§ 1-93 StaRUG §§ 217-269 InsO §§ 17-19 InsO Antragspflichten. Prüfraster Plan-Optionen Gläubigerklassen Cram-Down Abstimmungsquoren Antragspflicht-Prüfung. Output Planstruktur-Entwurf Gläubigerklassen-Matrix Liquiditaetsprüfung. Abgrenzung zu distressed-ma (Unternehmenskauf) und fortbestehensprognose-Skills."
 ---
 
 # StaRUG und Insolvenzplan

@@ -1,6 +1,6 @@
 ---
 name: fruehere-interessenvertretung-exit
-description: "Fuehrt durch Anzeige, dass keine registrierungspflichtige Interessenvertretung mehr betrieben wird, sowie Archivierung und Monitoring der Liste frueherer Eintraege. Output Exit-Akte."
+description: "Führt durch Anzeige, dass keine registrierungspflichtige Interessenvertretung mehr betrieben wird, sowie Archivierung und Monitoring der Liste frueherer Eintraege. Output Exit-Akte."
 ---
 
 # Exit und fruehere Interessenvertretung

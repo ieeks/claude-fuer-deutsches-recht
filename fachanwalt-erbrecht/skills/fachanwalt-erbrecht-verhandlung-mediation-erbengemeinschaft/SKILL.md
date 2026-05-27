@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft
-description: "Streit in der Erbengemeinschaft durch Verhandlung oder Mediation loesen. §§ 2032 2042 2047 BGB Erbengemeinschaft. Pruefraster: Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht fuer gerichtliche Teilungsklage."
+description: "Streit in der Erbengemeinschaft durch Verhandlung oder Mediation lösen. §§ 2032 2042 2047 BGB Erbengemeinschaft. Prüfraster: Erbteile Nachlassbestand Verwaltungsmassnahmen Teilungsklage Auseinandersetzung Erbauseinandersetzungsvertrag. Output: Verhandlungsstrategie Mediationsagenda Auseinandersetzungsvertrag. Abgrenzung: nicht für gerichtliche Teilungsklage."
 ---
 
 # Mediation / Vergleich bei Erbengemeinschaft

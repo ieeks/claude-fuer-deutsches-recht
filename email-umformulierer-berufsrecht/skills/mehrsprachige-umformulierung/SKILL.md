@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-umformulierung
-description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Pruefraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialitaet Zielkultur. Output: umformulierte Version mit Erklaerung sprachlicher Besonderheiten. Abgrenzung: nicht fuer rein deutsche Korrespondenz."
+description: "Anwaltskorrespondenz in einer anderen Sprache berufsrechtskonform und sachgerecht umformulieren. § 43a BRAO §§ 26 ff. BORA internat. Anwaltsstandards. Prüfraster: Aequivalenz der Rechtsbegriffe Sachlichkeit Kollegialität Zielkultur. Output: umformulierte Version mit Erklärung sprachlicher Besonderheiten. Abgrenzung: nicht für rein deutsche Korrespondenz."
 ---
 
 # Mehrsprachige Umformulierung

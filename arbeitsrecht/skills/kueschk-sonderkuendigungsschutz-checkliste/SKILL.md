@@ -1,6 +1,6 @@
 ---
 name: kueschk-sonderkuendigungsschutz-checkliste
-description: "Checkliste Sonderkuendigungsschutz: Schwangerschaft § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratsmitglied § 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche Zustimmungserfordernisse."
+description: "Checkliste Sonderkündigungsschutz: Schwangerschaft § 17 MuSchG; Elternzeit § 18 BEEG; Schwerbehinderung §§ 168 ff. SGB IX; Betriebsratsmitglied § 15 KSchG; Datenschutzbeauftragter; Voraussetzungen und behoerdliche Zustimmungserfordernisse."
 ---
 
 # Sonderkündigungsschutz-Checkliste

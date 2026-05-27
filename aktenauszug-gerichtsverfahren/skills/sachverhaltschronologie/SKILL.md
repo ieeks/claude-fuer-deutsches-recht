@@ -1,6 +1,6 @@
 ---
 name: sachverhaltschronologie
-description: "Erstellt eine chronologische Bullet-Liste aller wesentlichen ausserprozessualen Tatsachen: Vertragsschluss Vorfaelle vorgerichtliche Korrespondenz Schadensereignisse und Behoerdenakte. Datum fett vorangestellt knappe Beschreibung ohne Wertung. Fundstellen in der Akte werden angegeben. Normen §§ 145-157 BGB Vertragsschluss §§ 280 631 BGB."
+description: "Erstellt eine chronologische Bullet-Liste aller wesentlichen außerprozessualen Tatsachen: Vertragsschluss Vorfaelle vorgerichtliche Korrespondenz Schadensereignisse und Behoerdenakte. Datum fett vorangestellt knappe Beschreibung ohne Wertung. Fundstellen in der Akte werden angegeben. Normen §§ 145-157 BGB Vertragsschluss §§ 280 631 BGB."
 ---
 
 # Sachverhaltschronologie

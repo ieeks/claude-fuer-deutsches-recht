@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-behandlungsfehler-pruefen
-description: "Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalitaet bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjaehrung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist."
+description: "Behandlungsfehler §§ 630a 630h BGB Verletzung medizinischer Standard. Diagnosefehler Therapiefehler Befunderhebungsfehler Hygienefehler. Beweisregeln § 630h BGB Vermutung Kausalität bei grobem Behandlungsfehler § 630h Abs. 5 BGB Befunderhebungsfehler Dokumentationsmangel. Schadensersatzanspruch §§ 280 823 BGB Schmerzensgeld § 253 BGB. Verjährung drei Jahre § 195 BGB ab Kenntnis 30 Jahre Hoechstfrist."
 ---
 
 # Behandlungsfehler prüfen

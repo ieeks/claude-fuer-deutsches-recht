@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-freundlicher-copilot
-description: "Freundlicher Corporate-Copilot: Einstiegshilfe fuer alle Corporate/M&A-Aufgaben. Erklaert Fachbegriffe, gibt Ueberblicke zu Transaktionsstrukturen, beantwortet Erstfragen und leitet zu passenden Fach-Skills weiter."
+description: "Freundlicher Corporate-Copilot: Einstiegshilfe für alle Corporate/M&A-Aufgaben. Erklärt Fachbegriffe, gibt Überblicke zu Transaktionsstrukturen, beantwortet Erstfragen und leitet zu passenden Fach-Skills weiter."
 ---
 
 # Freundlicher Corporate-Copilot
@@ -47,7 +47,7 @@ Mehrheitsaktionaer mit >95 % (AktG §§ 327a-f) kann Minderheitsaktionaere gegen
 
 ## Aktuelle Rechtsprechung (Grundbegriffe)
 
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 — BJR fuer GmbH-GF analog §43 GmbHG; Informationsgrundlage als Voraussetzung
+- BGH, Urt. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — BJR für GmbH-GF: Informationsgrundlage als Voraussetzung unternehmerischen Ermessens
 - BGH, Urt. v. 19.06.2022 - II ZR 98/20, NJW 2022, 2965 — MAC-Klausel; branchenweite Krise reicht nicht als MAC
 
 ## Kommentarliteratur (Grundlagenwerke)

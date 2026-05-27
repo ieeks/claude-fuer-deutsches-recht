@@ -1,6 +1,6 @@
 ---
 name: end-to-end-registrierungswizard
-description: "Gefuehrter Gesamtworkflow mit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollstaendige Registrierungsmappe."
+description: "Geführter Gesamtworkflow mit 50-Skill-Routing: Pflicht, Datenraum, Portal, Freigabe, Aktualisierung, Kodex und Monitoring. Output vollständige Registrierungsmappe."
 ---
 
 # End-to-End Registrierungswizard

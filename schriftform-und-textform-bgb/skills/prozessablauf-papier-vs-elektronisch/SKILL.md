@@ -1,6 +1,6 @@
 ---
 name: prozessablauf-papier-vs-elektronisch
-description: "Kanzlei oder Mandant muss entscheiden ob Kuendigung Maklervertrag oder Buergschaft per Papier oder elektronisch uebermittelt werden soll. Prozessablauf Formwahl praktisch. Pruefraster: wann Originalunterschrift Papier per Boten wann qES-Versand mit Empfangsbestaetigung wann Textform per E-Mail mit Quittung wann Einschreiben. Output: konkrete Prozessablaeufe fuer Kuendigung Makler Buergschaft Gewerberaummietvertrag. Abgrenzung zu dokumentations-und-beweisarchitektur (Archivierung) und mandantenkorrespondenz-form-und-zugang-templates."
+description: "Kanzlei oder Mandant muss entscheiden ob Kündigung Maklervertrag oder Buergschaft per Papier oder elektronisch uebermittelt werden soll. Prozessablauf Formwahl praktisch. Prüfraster: wann Originalunterschrift Papier per Boten wann qES-Versand mit Empfangsbestätigung wann Textform per E-Mail mit Quittung wann Einschreiben. Output: konkrete Prozessablaeufe für Kündigung Makler Buergschaft Gewerberaummietvertrag. Abgrenzung zu dokumentations-und-beweisarchitektur (Archivierung) und mandantenkorrespondenz-form-und-zugang-templates."
 ---
 
 # Prozessablauf — Papier vs. Elektronisch

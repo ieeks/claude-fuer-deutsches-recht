@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-vergleich-106-vwgo-behoerde
-description: "Verwaltungsrechts-Vergleich nach § 106 VwGO und oeffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behoerde aussergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhoerung). Pruefraster: Vergleichsfaehigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin."
+description: "Verwaltungsrechts-Vergleich nach § 106 VwGO und öffentlich-rechtlicher Vertrag nach § 55 VwVfG: Mandant will Streit mit Behoerde außergerichtlich beilegen. Normen: § 106 VwGO (Prozessvergleich), § 55 VwVfG (Vergleichsvertrag), § 28 VwVfG (Anhoerung). Prüfraster: Vergleichsfähigkeit, Mediation VwG, Eroerrterungstermin, Petitionsweg, Protokoll-Anforderungen. Output Vergleichs-Entwurf, Strategie-Memo. Abgrenzung: Klage-Strategie siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Vergleich Vergabe siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Verwaltungsrechts-Vergleich / Behördenkommunikation

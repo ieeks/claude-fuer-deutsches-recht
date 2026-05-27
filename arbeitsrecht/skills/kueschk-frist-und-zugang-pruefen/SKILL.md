@@ -1,6 +1,6 @@
 ---
 name: kueschk-frist-und-zugang-pruefen
-description: "Fristpruefung Kuendigungsschutzklage: § 4 KSchG drei Wochen ab Zugang; § 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach §§ 187 und 188 BGB."
+description: "Fristprüfung Kündigungsschutzklage: § 4 KSchG drei Wochen ab Zugang; § 5 KSchG nachtraegliche Klagezulassung bei unverschuldeter Versaeumung; Zugangsbeweis-Fragen; Fristberechnung nach §§ 187 und 188 BGB."
 ---
 
 # Frist und Zugang prüfen

@@ -1,6 +1,6 @@
 ---
 name: interessenvertretung-begriff
-description: "Prueft, ob eine Kontaktaufnahme unmittelbare oder mittelbare Einflussnahme auf Willensbildungs- oder Entscheidungsprozesse nach § 1 LobbyRG ist. Abgrenzung zu Information, Petition, Servicekontakt und rein lokalem Anliegen. Output Subsumtionsmatrix."
+description: "Prüft, ob eine Kontaktaufnahme unmittelbare oder mittelbare Einflussnahme auf Willensbildungs- oder Entscheidungsprozesse nach § 1 LobbyRG ist. Abgrenzung zu Information, Petition, Servicekontakt und rein lokalem Anliegen. Output Subsumtionsmatrix."
 ---
 
 # Begriff der Interessenvertretung

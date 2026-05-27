@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-vergaberecht
-description: "Eingangs-Triage fuer vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Pruefraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailpruefung siehe vergabe-nachpruefung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen."
+description: "Eingangs-Triage für vergaberechtliche Mandate: Mandantenrolle, Schwellenwert, Verfahrensstand und Frist-Sofort-Check. Normen: § 106 GWB (EU-Schwellen), § 134 GWB (Vorabinformation 10 Kalendertage Stillhaltefrist), § 160 Abs. 3 GWB (Ruegefrist 15 Tage). Prüfraster: Mandantenrolle (Bieter/Auftraggeber), Schwelle, Verfahrensstand (Bekanntmachung bis Zuschlag), Frist-Sofort-Check, Eskalation bei drohendem Zuschlag. Output Triage-Protokoll, Fristen-Ampel, Routing. Abgrenzung: Detailprüfung siehe vergabe-nachprüfung-aussicht; Schriftsatz siehe ruegeschriftsatz-erstellen."
 ---
 
 # Mandat-Triage Vergaberecht

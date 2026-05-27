@@ -1,6 +1,6 @@
 ---
 name: stb-dba-kuenstler-sportler-art-17-ma
-description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Besteuerung. Anwendungsfall Musiker Schauspieler Sportler mit Auftritten in mehreren Staaten. Quellensteuer und BZSt-Antraege Anti-Treaty-Shopping nach § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
+description: "Kuenstler und Sportler nach Art. 17 OECD-MA mit Auftrittsstaat-Besteuerung. Anwendungsfall Musiker Schauspieler Sportler mit Auftritten in mehreren Staaten. Quellensteuer und BZSt-Anträge Anti-Treaty-Shopping nach § 50d Abs. 3 EStG. Output Mandanten-Memo BZSt-Antragspaket Berechnungsbeispiel."
 ---
 
 # Kuenstler und Sportler (Art. 17 OECD-MA)

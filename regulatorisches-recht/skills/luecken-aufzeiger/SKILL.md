@@ -1,6 +1,6 @@
 ---
 name: luecken-aufzeiger
-description: "Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Pruefraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen Verbesserungsvorschlaege. Output: Lueckenanalyse Stellungnahmen-Vorentwurf. Abgrenzung: nicht fuer interne Compliance-Luecken (luecken)."
+description: "Regulatorische Luecken und Inkonsistenzen in Gesetzentwuerfen oder Regulierungsvorhaben aus Mandantensicht aufzeigen. GG Art. 12 80 AEUV Art. 107. Prüfraster: Normtext Regelungsziele Luecken unbeabsichtigte Folgen Verbesserungsvorschlaege. Output: Lueckenanalyse Stellungnahmen-Vorentwurf. Abgrenzung: nicht für interne Compliance-Luecken (luecken)."
 ---
 
 # Gap-Analyse: Interne Richtlinien vs. Aufsichtsverlautbarungen

@@ -1,6 +1,6 @@
 ---
 name: subsumtion-schritt-fuer-schritt
-description: "Student uebrt die Subsumtion Schritt fuer Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Fuehren statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Pruefraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung)."
+description: "Student uebrt die Subsumtion Schritt für Schritt: Tatbestandsmerkmal Definition Sachverhalts-Tatsache Ergebnis sauber trennen. Sokratisches Führen statt Vorgeben gentle Umlenkung bei Fehlern. Normen Methodenlehre §§ 133 157 BGB. Prüfraster TBM-Trennung Definition-Qualitaet Sachverhalts-Zuordnung Ergebnis-Praezision. Output Subsumtions-Uebung Schritt-Protokoll. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und methodenlehre-auslegung (Auslegung)."
 ---
 
 # Subsumtion Schritt für Schritt

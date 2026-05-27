@@ -1,6 +1,6 @@
 ---
 name: kennzahlenset-und-ampelsystem-starug-konform
-description: "StaRUG-konformes KPI-Set und Ampelsystem fuer Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte fuer Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Pruefraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
+description: "StaRUG-konformes KPI-Set und Ampelsystem für Krisenfrueherkennung definieren: Berater oder GF braucht messbare Schwellenwerte für Krisen-Monitoring. Normen: § 1 StaRUG (Frueherkennungspflicht), IDW PS 340 n.F. Prüfraster: Liquiditaetsreichweite, EBITDA-Coverage, Net-Debt-EBITDA, Covenant-Headroom, DSCR — numerische Schwellen gruen/gelb/rot, Berechnungsformeln, Eskalationslogik. Output KPI-Dashboard-Template, Ampelsystem-Beschreibung, Schwellenwert-Dokumentation. Abgrenzung: Fruehwarnsystem-Architektur siehe fruehwarnsystem-architektur-zwei-jahres-horizont; Liquiditaetsplanung siehe rollierende-liquiditaetsplanung-24-monate-template."
 ---
 
 # Kennzahlenset und Ampelsystem — StaRUG-konform

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg fuer das Forderungsmanagement-Klagewerkstatt-Plugin: Zustaendigkeitspruefung, Mahnvorlauf, Inkasso-Zahlungsklage und Gatekeeper-Funktion fuer klare, faellige und belegte Forderungen bis zur gerichtlichen Titulierung."
+description: "Einstieg für das Forderungsmanagement-Klagewerkstatt-Plugin: Zuständigkeitsprüfung, Mahnvorlauf, Inkasso-Zahlungsklage und Gatekeeper-Funktion für klare, fällige und belegte Forderungen bis zur gerichtlichen Titulierung."
 ---
 
 # Forderungsmanagement-Klagewerkstatt — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-vermoegenswirksame-leistungen
-description: "Vermoegenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Pruefung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration."
+description: "Vermögenswirksame Leistungen VL AG-Anteil AN-Sparzulage. Anwendungsfall AG-Zuschuss bis 480 EUR jaehrlich AN-Sparzulage einkommensabhaengig Bausparen Aktien-Fonds. Methodik Prüfung Antrag AN-Sparzulage Beratung. Output VL-Konfiguration."
 ---
 
 # Vermoegenswirksame Leistungen (VL) und AN-Sparzulage

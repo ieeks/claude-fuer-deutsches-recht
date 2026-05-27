@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-gesellschaftsrecht-register
-description: "Gesellschaftsrechtliche Registeranmeldungen und Satzungsaenderungen durchfuehren: Handelsregister-Anmeldung von GF-Bestellung, Kapitalerhoehung, Satzungsaenderung, Verschmelzung. Normen: §§ 39-45 GmbHG, §§ 36-39 AktG, HRV, §§ 8-15 HGB. Pruefraster: Anmeldepflicht, Notarerfordernis, Fristen, Registerinhalt, Eintragungshindernisse. Output Anmeldungs-Entwurf, Checkliste Registerunterlagen, Eingabe-Protokoll. Abgrenzung: Umwandlungsrecht siehe umwandlungsrecht-skill; Handelsregister-Analyse bestehender Eintraege siehe handelsregisterabruf."
+description: "Gesellschaftsrechtliche Registeranmeldungen und Satzungsaenderungen durchführen: Handelsregister-Anmeldung von GF-Bestellung, Kapitalerhoehung, Satzungsaenderung, Verschmelzung. Normen: §§ 39-45 GmbHG, §§ 36-39 AktG, HRV, §§ 8-15 HGB. Prüfraster: Anmeldepflicht, Notarerfordernis, Fristen, Registerinhalt, Eintragungshindernisse. Output Anmeldungs-Entwurf, Checkliste Registerunterlagen, Eingabe-Protokoll. Abgrenzung: Umwandlungsrecht siehe umwandlungsrecht-skill; Handelsregister-Analyse bestehender Eintraege siehe handelsregisterabruf."
 ---
 
 # Gesellschaftsrecht und Register

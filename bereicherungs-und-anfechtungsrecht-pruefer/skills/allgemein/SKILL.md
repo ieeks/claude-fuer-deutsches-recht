@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Bereicherungs- und Anfechtungsrecht-Pruefer-Plugin. Klaert Weichenstellung zwischen §§ 812 ff. BGB, AnfG und §§ 129-147 InsO, Triage, Konkurrenzfragen und Routing zu allen 40 Spezial-Skills."
+description: "Einstieg und Orientierung im Bereicherungs- und Anfechtungsrecht-Prüfer-Plugin. Klaert Weichenstellung zwischen §§ 812 ff. BGB, AnfG und §§ 129-147 InsO, Triage, Konkurrenzfragen und Routing zu allen 40 Spezial-Skills."
 ---
 
 # Bereicherungs- und Anfechtungsrecht-Pruefer — Allgemein

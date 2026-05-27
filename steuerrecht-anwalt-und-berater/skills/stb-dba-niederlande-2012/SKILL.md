@@ -1,6 +1,6 @@
 ---
 name: stb-dba-niederlande-2012
-description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzueberschreitende Arbeitsverhaeltnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Niederlande aktuelle Fassung 2012 in Kraft seit 2016. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Pensionen Beteiligungen Logistikbetriebsstaetten. Aktive Einkuenfte Freistellung mit Aktivitaetsklausel. Passive Einkuenfte Anrechnung. MLI-Anpassungen. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Niederlande (2012/2016)

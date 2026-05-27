@@ -1,6 +1,6 @@
 ---
 name: textform-paragraph-126b-bgb-dauerhafter-datentraeger
-description: "Mandant schickte Erklaerung per E-Mail WhatsApp oder SMS und fragt ob Textform eingehalten wurde. § 126b BGB Textform dauerhafter Datentraeger. Pruefraster: lesbare Erklaerung Person des Erklaerenden erkennbar Abschluss der Erklaerung erkennbar (Provisionshinweis unter Grussformel BGH I ZR 202/25). E-Mail WhatsApp SMS PDF im Vergleich. Output: Textform-Pruefung und Empfehlung. Abgrenzung zu schriftform-paragraph-126-bgb-eigenhaendige-unterschrift (strengere Form) und maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25."
+description: "Mandant schickte Erklärung per E-Mail WhatsApp oder SMS und fragt ob Textform eingehalten wurde. § 126b BGB Textform dauerhafter Datentraeger. Prüfraster: lesbare Erklärung Person des Erklärenden erkennbar Abschluss der Erklärung erkennbar (Provisionshinweis unter Grussformel BGH I ZR 202/25). E-Mail WhatsApp SMS PDF im Vergleich. Output: Textform-Prüfung und Empfehlung. Abgrenzung zu schriftform-paragraph-126-bgb-eigenhaendige-unterschrift (strengere Form) und maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25."
 ---
 
 # Textform § 126b BGB — Dauerhafter Datenträger

@@ -1,6 +1,6 @@
 ---
 name: zurechnungsproblem-versand-durch-dritte
-description: "Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbstverantwortungs-Linie und BGH zur Wiedereinsetzung. Wer den Versand einem Dritten ueberlaesst traegt das Risiko der rechtzeitigen Einreichung. Praktische Konsequenzen fuer Selbstvertreter."
+description: "Risiko des Versands von Schriftsaetzen durch Dritte. BVerfG-Selbstverantwortungs-Linie und BGH zur Wiedereinsetzung. Wer den Versand einem Dritten ueberlaesst traegt das Risiko der rechtzeitigen Einreichung. Praktische Konsequenzen für Selbstvertreter."
 ---
 
 # Risiko: Versand durch Dritte (Boten, Bekannte, Familie)

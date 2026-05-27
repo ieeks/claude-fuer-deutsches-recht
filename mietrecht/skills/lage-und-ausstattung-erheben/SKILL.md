@@ -1,6 +1,6 @@
 ---
 name: lage-und-ausstattung-erheben
-description: Strukturierte Datenerhebung fuer die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnungsausstattung Gebaeudeausstattung. Erfasst alle Merkmale die in qualifizierten Mietspiegeln als Sondermerkmale bewertet werden (Bodenbelag Fenster Balkon Terrasse Aufzug Stellplatz Energieeffizienz). Erzeugt eine Checkliste und ein strukturiertes Erhebungsprotokoll als Grundlage fuer ortsuebliche Vergleichsmiete Mieterhoehung Mietsenkungsverlangen oder Klage.
+description: Strukturierte Datenerhebung für die Einordnung in den Mietspiegel — Adresse Baujahr Wohnflaeche Bad Kueche Heizung Wohnungsausstattung Gebaeudeausstattung. Erfasst alle Merkmale die in qualifizierten Mietspiegeln als Sondermerkmale bewertet werden (Bodenbelag Fenster Balkon Terrasse Aufzug Stellplatz Energieeffizienz). Erzeugt eine Checkliste und ein strukturiertes Erhebungsprotokoll als Grundlage für ortsuebliche Vergleichsmiete Mieterhoehung Mietsenkungsverlangen oder Klage.
 ---
 
 # Lage und Ausstattung erheben

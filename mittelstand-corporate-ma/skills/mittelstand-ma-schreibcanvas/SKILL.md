@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-schreibcanvas
-description: "Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Pruefraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollstaendigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Pruefung. Abgrenzung zu vertragsmarkup-key-issues (Vertragspruefung) und output-versand-signing (Ausgabe)."
+description: "Kanzlei-Anwalt schreibt SPA Replik Board Paper Mandatsvereinbarung DD-Report oder Registertext und braucht substanzorientierten Feedback-Begleiter. Normen BRAO § 43 Sorgfalt Zitierstandards. Prüfraster Sachverhalts-Unterlegung Quellenbelege Praezision Stil Vollständigkeit. Output Kommentierter-Entwurf Verbesserungshinweise Substanz-Prüfung. Abgrenzung zu vertragsmarkup-key-issues (Vertragsprüfung) und output-versand-signing (Ausgabe)."
 ---
 
 # Freistehender Corporate-Schreibcanvas

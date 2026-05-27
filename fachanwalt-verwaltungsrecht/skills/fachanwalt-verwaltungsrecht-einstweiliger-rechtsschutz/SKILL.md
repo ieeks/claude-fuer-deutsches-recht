@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-einstweiliger-rechtsschutz
-description: "Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbeduerftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Pruefraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begruendung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo."
+description: "Einstweiligen Rechtsschutz nach § 80 Abs. 5 VwGO oder § 123 VwGO beantragen: Dringendes Handlungsbedürftigkeit in einem laufenden Verwaltungsstreit. Normen: § 80 Abs. 5 VwGO (aufschiebende Wirkung), § 123 VwGO (einstweilige Anordnung), § 920 Abs. 2 ZPO i.V.m. § 123 Abs. 3 VwGO (Glaubhaftmachung). Prüfraster: Abgrenzung § 80 Abs. 5 vs. § 123 VwGO, Anordnungsgrund, Anordnungsanspruch, Interessenabwaegung. Output Antrags-Entwurf mit Begründung, Eidesstattliche Versicherung. Abgrenzung: § 80 Abs. 5 spezifisch siehe eilantrag-80-abs-5-vwgo; Normenkontrolle siehe fachanwalt-verwaltungsrecht-normenkontrolle-47-vwgo."
 ---
 
 # Einstweiliger Rechtsschutz

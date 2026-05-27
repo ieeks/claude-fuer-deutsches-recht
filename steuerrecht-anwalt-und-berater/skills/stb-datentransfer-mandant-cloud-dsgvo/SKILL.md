@@ -1,6 +1,6 @@
 ---
 name: stb-datentransfer-mandant-cloud-dsgvo
-description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Pruefung der DSGVO-Konformitaet beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Pruefliste. Output DSGVO-Compliance-Dokument."
+description: "Datentransfer Mandant zu Cloud DSGVO-Aspekte. Anwendungsfall Prüfung der DSGVO-Konformität beim Cloud-Datentransfer AVV Auftragsverarbeitung TOM technisch-organisatorische Massnahmen Drittlandtransfer. Methodik Prüfliste. Output DSGVO-Compliance-Dokument."
 ---
 
 # Datentransfer Mandant-Cloud — DSGVO-Aspekte

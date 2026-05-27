@@ -1,6 +1,6 @@
 ---
 name: pflegegrad-streit-mdk-pflegekasse-sgb-xi
-description: "Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte fuer Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden fuer Betroffene und Angehoerige."
+description: "Pflegegrad-Streit nach SGB XI. MD-Gutachten Module Punkte für Pflegegrad 1 bis 5. Pflegeprotokoll Widerspruch Klage Eilantrag. Praxis-Leitfaden für Betroffene und Angehoerige."
 ---
 
 # Pflegegrad-Streit nach SGB XI

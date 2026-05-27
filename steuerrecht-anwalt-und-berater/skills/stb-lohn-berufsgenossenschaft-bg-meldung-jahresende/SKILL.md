@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-berufsgenossenschaft-bg-meldung-jahresende
-description: "Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zustaendige BG Vorauszahlung BG-Beitrag Schluesseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis ueber sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid."
+description: "Berufsgenossenschaft Lohnnachweis Jahresende. Anwendungsfall jaehrlicher Lohnnachweis an die zuständige BG Vorauszahlung BG-Beitrag Schluesseldaten Gefahrtarif. Methodik elektronischer Lohnnachweis über sv.net oder DAKOTA. Output BG-Lohnnachweis Beitragsbescheid."
 ---
 
 # Berufsgenossenschaft — Lohnnachweis Jahresende

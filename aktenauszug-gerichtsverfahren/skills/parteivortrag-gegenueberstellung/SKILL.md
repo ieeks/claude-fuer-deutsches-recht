@@ -1,6 +1,6 @@
 ---
 name: parteivortrag-gegenueberstellung
-description: "Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) fuer streitige Sachverhaltsangaben Punkt fuer Punkt. Jeder Streitpunkt wird als eigene Zeile gegenuebergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine Wertung welcher Vortrag zutreffend ist. Massstab §§ 138 286 ZPO."
+description: "Erstellt eine Tabelle mit zwei Spalten (Klaegerseite und Beklagtenseite) für streitige Sachverhaltsangaben Punkt für Punkt. Jeder Streitpunkt wird als eigene Zeile gegenübergestellt. Fundstellen in Schriftsaetzen werden angegeben. Keine Wertung welcher Vortrag zutreffend ist. Massstab §§ 138 286 ZPO."
 ---
 
 # Parteivortrag — Gegenüberstellung

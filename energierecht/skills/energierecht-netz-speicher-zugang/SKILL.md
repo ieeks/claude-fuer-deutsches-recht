@@ -1,6 +1,6 @@
 ---
 name: energierecht-netz-speicher-zugang
-description: "Netzanschluss und Netzzugang fuer Erzeugungsanlagen und Speicher pruefen. Normen: §§ 17 ff. 20 ff. EnWG, NAV. Pruefraster: Netzanschlussrecht, Anschlussbegehren, Kapazitaetspruefung, Diskriminierungsfreiheit. Output: Netzanschluss-Rechtsgutachten. Abgrenzung: nicht EEG-Verguetungsrecht."
+description: "Netzanschluss und Netzzugang für Erzeugungsanlagen und Speicher prüfen. Normen: §§ 17 ff. 20 ff. EnWG, NAV. Prüfraster: Netzanschlussrecht, Anschlussbegehren, Kapazitaetsprüfung, Diskriminierungsfreiheit. Output: Netzanschluss-Rechtsgutachten. Abgrenzung: nicht EEG-Verguetungsrecht."
 ---
 
 # Netz- und Speicher-Zugang

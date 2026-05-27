@@ -1,6 +1,6 @@
 ---
 name: jveg-sachverstaendigenrechnung
-description: "Sachverstaendigenrechnung nach JVEG pruefen oder erstellen: Stundenverguetung, Nebenkosten, Festbetrag. Normen: §§ 8 9 JVEG, Anlage 1 JVEG. Pruefraster: Verguetungshoehe, Berichtumfang, Auslagen. Output: Geprufte Sachverstaendigenrechnung. Abgrenzung: nicht Zeugenentschaedigung."
+description: "Sachverständigenrechnung nach JVEG prüfen oder erstellen: Stundenverguetung, Nebenkosten, Festbetrag. Normen: §§ 8 9 JVEG, Anlage 1 JVEG. Prüfraster: Verguetungshoehe, Berichtumfang, Auslagen. Output: Geprufte Sachverständigenrechnung. Abgrenzung: nicht Zeugenentschaedigung."
 ---
 
 # JVEG-Sachverstaendigenrechnung

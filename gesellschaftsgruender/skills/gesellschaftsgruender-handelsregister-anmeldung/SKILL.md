@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-handelsregister-anmeldung
-description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gruendungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Pruefraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gruendung."
+description: "Erstanmeldung der GmbH zum Handelsregister vorbereiten: Notarauftrag, Eintragungsvoraussetzungen, Gründungsunterlagen. Normen: §§ 7 ff. GmbHG, §§ 12 ff. HGB. Prüfraster: Einzahlungsnachweis, Notarbeglaubigung, Gesellschafterliste, HR-Formblatt. Output: Checkliste Handelsregisteranmeldung GmbH. Abgrenzung: nicht laufende HR-Aenderungen nach Gründung."
 ---
 
 # Handelsregister-Anmeldung

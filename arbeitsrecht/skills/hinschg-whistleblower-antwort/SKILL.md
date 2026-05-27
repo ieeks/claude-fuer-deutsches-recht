@@ -1,6 +1,6 @@
 ---
 name: hinschg-whistleblower-antwort
-description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Pruefraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt fuer Justiz § 19 ff. HinSchG. Geschuetzte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bussgelder § 40 HinSchG bis 50000 EUR. Output Pruef-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben."
+description: "Arbeitnehmer hat einen internen Hinweis gegeben oder Unternehmen muss internen Meldekanal einrichten oder Repressalie abwehren. Prüfraster HinSchG seit 2.7.2023 Umsetzung EU-Richtlinie 2019/1937. Pflicht interner Meldekanal ab 50 Beschaeftigte § 12 HinSchG. Meldungsschutz Repressalienverbot Beweislastumkehr § 36 HinSchG. Externe Meldung beim Bundesamt für Justiz § 19 ff. HinSchG. Geschützte Verstoesse § 2 HinSchG Schadensersatz § 37 HinSchG Bußgelder § 40 HinSchG bis 50000 EUR. Output Prüf-Memo Meldekanal-Konzept Repressalien-Abwehrschreiben."
 ---
 
 # HinSchG — Hinweisgeberschutz-Compliance und -Verteidigung

@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-6-abs-1-sicherheitsbauteil
-description: "Unternehmen integriert KI-Komponente in ein reguliertes Produkt (Medizinprodukt Maschine Fahrzeug) und fragt: Wird das Gesamtprodukt dadurch zum Hochrisiko-KI-System? Art. 6 Abs. 1 KI-VO Sicherheitsbauteil Anhang I. Pruefraster: ist Produkt in Anhang I gelistet (MDR IVDR Luftfahrt Kfz Spielzeug Maschinen etc.) und ist KI-Komponente Sicherheitsbauteil und erfordert das Sektorrecht Drittbeurteilung. Output: Entscheidungsbaum mit Ergebnis und Begruendung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (eigenstaendige Anhang-III-Hochrisiko-Einstufung)."
+description: "Unternehmen integriert KI-Komponente in ein reguliertes Produkt (Medizinprodukt Maschine Fahrzeug) und fragt: Wird das Gesamtprodukt dadurch zum Hochrisiko-KI-System? Art. 6 Abs. 1 KI-VO Sicherheitsbauteil Anhang I. Prüfraster: ist Produkt in Anhang I gelistet (MDR IVDR Luftfahrt Kfz Spielzeug Maschinen etc.) und ist KI-Komponente Sicherheitsbauteil und erfordert das Sektorrecht Drittbeurteilung. Output: Entscheidungsbaum mit Ergebnis und Begründung. Abgrenzung zu hochrisiko-art-6-abs-2-anhang-iii (eigenständige Anhang-III-Hochrisiko-Einstufung)."
 ---
 
 # Hochrisiko-KI: Sicherheitsbauteil — Art. 6 Abs. 1 KI-VO

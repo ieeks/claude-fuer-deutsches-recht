@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr, § 106 SGB V Wirtschaftlichkeitspruefung. Pruefraster Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette § 630a bis h BGB, Beweisangebote Sachverstaendigen-Gutachten, Hilfsantraege Replik-Vorausschau. Output vollstaendiger Schriftsatz mit Antrag Begruendung Beweis und Prozesskostenausblick. Abgrenzung zu Vergleichsverhandlung und zu Gutachterkommission."
+description: "Substantiierter Schriftsatzkern für Arzthaftungsklage und KV-Streit: Anwendungsfall Medizinrechts-Anwalt muss vollwertigen Schriftsatz in Arzthaftungssache Sozialgericht oder Berufsrechtsbeschwerde verfassen. § 630a BGB Behandlungsvertrag, § 630h BGB Beweislastumkehr, § 106 SGB V Wirtschaftlichkeitsprüfung. Prüfraster Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette § 630a bis h BGB, Beweisangebote Sachverständigen-Gutachten, Hilfsanträge Replik-Vorausschau. Output vollständiger Schriftsatz mit Antrag Begründung Beweis und Prozesskostenausblick. Abgrenzung zu Vergleichsverhandlung und zu Gutachterkommission."
 ---
 
 # Schriftsatzkern und Substantiierung im Arzthaftungs-, Berufs- und Vertragsarztrecht

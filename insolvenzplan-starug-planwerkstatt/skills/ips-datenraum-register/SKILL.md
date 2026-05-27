@@ -1,6 +1,6 @@
 ---
 name: ips-datenraum-register
-description: "Planbegleitenden Datenraum aufbauen und Dokumentenregister fuehren damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Pruefraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle Beweiswert. Output: Datenraumregister Lueckenliste Versionskontrolle. Abgrenzung: nicht fuer Anlagenpaket (ips-anlagenpaket)."
+description: "Planbegleitenden Datenraum aufbauen und Dokumentenregister führen damit alle Planbausteine belegbar sind. §§ 218 229 InsO §§ 14 15 StaRUG Planunterlagen. Prüfraster: Pflichtunterlagen Jahresabschluesse BWA OPOS Vertraege Sicherheiten Luecken Versionskontrolle Beweiswert. Output: Datenraumregister Lueckenliste Versionskontrolle. Abgrenzung: nicht für Anlagenpaket (ips-anlagenpaket)."
 ---
 
 # Datenraum und Dokumentenregister

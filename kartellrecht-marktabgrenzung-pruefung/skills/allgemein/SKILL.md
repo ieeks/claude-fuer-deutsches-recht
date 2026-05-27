@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Kartellrecht-Marktabgrenzungs-Pruefer-Plugin. Klaert Verfahrenskontext, SSNIP-Test, Nachfrage- und Angebotsumstellung, raeumlicher Markt, Beherrschungspruefung und Routing zu allen 24 Spezial-Skills."
+description: "Einstieg und Orientierung im Kartellrecht-Marktabgrenzungs-Prüfer-Plugin. Klaert Verfahrenskontext, SSNIP-Test, Nachfrage- und Angebotsumstellung, räumlicher Markt, Beherrschungsprüfung und Routing zu allen 24 Spezial-Skills."
 ---
 
 # Kartellrecht-Marktabgrenzungs-Pruefer — Allgemein

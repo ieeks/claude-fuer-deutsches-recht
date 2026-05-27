@@ -1,6 +1,6 @@
 ---
 name: energierecht-waerme-quartier
-description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Pruefraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energieliefervertraege."
+description: "Waermenetze und Quartiersversorgung rechtlich strukturieren: Fernwaerme, GEG-Erfuellung, lokale Waermewende. Normen: AVBFernwaermeV, GEG, EnWG, EEG. Prüfraster: Konzessionspflicht, Preisanpassungsklauseln, GEG-Anforderungen. Output: Waermenetz-Rechtsgutachten. Abgrenzung: nicht allgemeine Energieliefervertraege."
 ---
 
 # Wärme, Quartier und Fernwärme

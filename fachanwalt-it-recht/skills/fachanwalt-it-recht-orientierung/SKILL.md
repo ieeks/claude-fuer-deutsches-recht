@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-orientierung
-description: "Orientierung im IT-Recht fuer Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Pruefraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie Standardliteratur und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme."
+description: "Orientierung im IT-Recht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will IT-Mandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung IT-Recht vor. Normen DSGVO BDSG TDDDG TKG NIS2UmsuCG BSIG DDG DSA DMA KI-VO 2024/1689 EVB-IT. Prüfraster Sachgebiet IT-Vertragsrecht Datenschutzrecht IT-Sicherheitsrecht NIS-2 KI-VO Cyber-Vorfall. Output Rechtsgebietsuebersicht mit Normenhierarchie Standardliteratur und Routing zu Folge-Skills. Abgrenzung zu mandat-triage-it-recht und erstgespraech-mandatsannahme."
 ---
 
 # Fachanwalt für Informationstechnologierecht — Orientierung

@@ -1,6 +1,6 @@
 ---
 name: jveg-quality-gate
-description: "Qualitaets-Gate fuer JVEG-Kostenberechnungen: Vollstaendigkeits- und Konsistenzpruefung aller Positionen. Normen: JVEG. Pruefraster: Vollstaendigkeit, Rechenfehler, Normzitate, Belegpflicht. Output: Quality-Gate-Pruefbericht JVEG. Abgrenzung: nicht Einzelberechnungs-Skill."
+description: "Qualitaets-Gate für JVEG-Kostenberechnungen: Vollständigkeits- und Konsistenzprüfung aller Positionen. Normen: JVEG. Prüfraster: Vollständigkeit, Rechenfehler, Normzitate, Belegpflicht. Output: Quality-Gate-Prüfbericht JVEG. Abgrenzung: nicht Einzelberechnungs-Skill."
 ---
 
 # JVEG-Quality-Gate

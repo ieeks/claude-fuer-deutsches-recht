@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im JVEG-Kostenpruefer-Plugin. Klaert Anspruchsberechtigung, Verguetungskategorien (Sachverstaendige, Dolmetscher, Zeugen), Fristen, Festsetzung, Beschwerde und Routing zu allen 19 Spezial-Skills."
+description: "Einstieg und Orientierung im JVEG-Kostenprüfer-Plugin. Klaert Anspruchsberechtigung, Verguetungskategorien (Sachverständige, Dolmetscher, Zeugen), Fristen, Festsetzung, Beschwerde und Routing zu allen 19 Spezial-Skills."
 ---
 
 # JVEG-Kostenpruefer — Allgemein

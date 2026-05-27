@@ -1,6 +1,6 @@
 ---
 name: output-juristisch-gestochen-de
-description: "Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antrag-Begruendung-Beweismittel-Struktur, Subsumtionsdarstellung im Vier-Schritt, Zitierweise nach BGH-Standard, Rubrum, Tenor. Fuer Schriftsaetze, Klageschriften, Widersprueche und Beschwerden."
+description: "Erzeugt Ausgaben im juristischen Schriftsatzstil auf Deutsch: Antrag-Begründung-Beweismittel-Struktur, Subsumtionsdarstellung im Vier-Schritt, Zitierweise nach BGH-Standard, Rubrum, Tenor. Für Schriftsaetze, Klageschriften, Widersprueche und Beschwerden."
 ---
 
 # Output: Juristisch gestochen (Deutsch)

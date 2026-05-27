@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Aussenwirtschaft-Zoll-Sanktionen-Plugin: Exportkontrolle, Dual-Use, BAFA, TARIC, Zollverfahren, Sanktionen/Embargos, CBAM, AWV-Meldung, AML/KYC, ICP und Begleitung von Pruefungen und Ermittlungen fuer Aussenhandelsunternehmen."
+description: "Einstieg und Überblick für das Aussenwirtschaft-Zoll-Sanktionen-Plugin: Exportkontrolle, Dual-Use, BAFA, TARIC, Zollverfahren, Sanktionen/Embargos, CBAM, AWV-Meldung, AML/KYC, ICP und Begleitung von Prüfungen und Ermittlungen für Aussenhandelsunternehmen."
 ---
 
 # Aussenwirtschaft, Zoll und Sanktionen — Allgemein

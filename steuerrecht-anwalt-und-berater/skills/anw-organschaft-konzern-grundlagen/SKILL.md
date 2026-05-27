@@ -1,6 +1,6 @@
 ---
 name: anw-organschaft-konzern-grundlagen
-description: "Beratung zur ertragsteuerlichen gewerbesteuerlichen und umsatzsteuerlichen Organschaft bei Holding- oder Konzernstrukturen. Anwendungsfall Mandant plant Organschaft Holding oder prueft ob bestehende Organschaft wirksam ist. Voraussetzungen KSt-Organschaft § 14 KStG finanzielle Eingliederung Gewinnabfuehrungsvertrag fuenf Jahre GewSt-Organschaft § 2 Abs. 2 GewStG USt-Organschaft § 2 Abs. 2 UStG finanziell wirtschaftlich organisatorisch eingegliedert. EuGH C-141/20 Norddeutsche Gesellschaft fuer Diakonie USt-Organschaft Reform. Output Beratungsmemo Wirksamkeitspruefung Risiken Mehrmuetter-Organschaft Vorlage Gewinnabfuehrungsvertrag."
+description: "Beratung zur ertragsteuerlichen gewerbesteuerlichen und umsatzsteuerlichen Organschaft bei Holding- oder Konzernstrukturen. Anwendungsfall Mandant plant Organschaft Holding oder prüft ob bestehende Organschaft wirksam ist. Voraussetzungen KSt-Organschaft § 14 KStG finanzielle Eingliederung Gewinnabführungsvertrag fuenf Jahre GewSt-Organschaft § 2 Abs. 2 GewStG USt-Organschaft § 2 Abs. 2 UStG finanziell wirtschaftlich organisatorisch eingegliedert. EuGH C-141/20 Norddeutsche Gesellschaft für Diakonie USt-Organschaft Reform. Output Beratungsmemo Wirksamkeitsprüfung Risiken Mehrmuetter-Organschaft Vorlage Gewinnabführungsvertrag."
 ---
 
 # Organschaft — KSt / GewSt / USt: Grundlagen, Begründung, Risiken

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-closing-bible-archiv
-description: "Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Pruefraster Vollstaendigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess)."
+description: "Transaktion vor Closing und Anwalt muss Closing Bible erstellen: Versionierung Signaturketten Registerbelege Deal-Archiv. Normen §§ 311b 15 GmbHG BeurkG SPA-Pflichten Notarrecht. Prüfraster Vollständigkeit Unterlagen Signatur-Tracking Register-Check Archivierungspflichten. Output Closing-Bible-Entwurf Signatur-Checkliste Archivplan. Abgrenzung zu mittelstand-ma-aktenanlage (Anlage) und signing-closing-conditions (Prozess)."
 ---
 
 # Closing Bible und Archiv

@@ -1,6 +1,6 @@
 ---
 name: energierecht-verfahren
-description: "Regulierungsverfahren und Gerichtsverfahren im Energierecht durchfuehren: BNetzA-Verfahren, Kartellamt. Normen: §§ 75 ff. EnWG, GWB, VwGO. Pruefraster: Verfahrenstyp, Beschwerde, Klage, Fristenmanagement. Output: Verfahrensstrategie Energierecht. Abgrenzung: nicht Genehmigungsverfahren Infrastruktur."
+description: "Regulierungsverfahren und Gerichtsverfahren im Energierecht durchführen: BNetzA-Verfahren, Kartellamt. Normen: §§ 75 ff. EnWG, GWB, VwGO. Prüfraster: Verfahrenstyp, Beschwerde, Klage, Fristenmanagement. Output: Verfahrensstrategie Energierecht. Abgrenzung: nicht Genehmigungsverfahren Infrastruktur."
 ---
 
 # Verfahren — Behörden und Gerichte

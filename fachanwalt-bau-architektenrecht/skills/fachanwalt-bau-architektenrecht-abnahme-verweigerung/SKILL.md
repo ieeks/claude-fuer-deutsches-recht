@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-abnahme-verweigerung
-description: "Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begruendungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Pruefraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt."
+description: "Abnahme des Bauwerks verweigern: wesentliche Maengel als Verweigerungsgrund, Begründungspflicht. Normen: § 640 Abs. 1 S. 2 BGB, § 12 Abs. 3 VOB/B. Prüfraster: wesentlicher Mangel-Begriff, Dokumentation, Fristsetzung, Gutachtereinschaltung. Output: Abnahmeverweigerungsschreiben. Abgrenzung: nicht Abnahme mit Vorbehalt."
 ---
 
 # Abnahme-Verweigerung wegen Mängeln

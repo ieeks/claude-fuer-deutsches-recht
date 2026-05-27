@@ -1,6 +1,6 @@
 ---
 name: parallelnormen-andere-berufe
-description: "Norm-Adapter-Referenz fuer alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftspruefer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln fuer Berufsausuebungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen."
+description: "Norm-Adapter-Referenz für alle fuenf Berufsgeheimnistraeger Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar. Mapping der Dienstleisterregelungen Verschwiegenheitspflichten und § 203 StGB-Tatbestaende. Sonderregeln für Berufsausübungsgesellschaften (§ 59c WPO) Anwaltsnotare gemischte Sozietaeten und multidisziplinaere Praxen."
 ---
 
 # Parallelnormen — alle fünf Berufe

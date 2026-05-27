@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsordnung-gf
-description: "Geschaeftsordnung fuer GmbH-Geschaeftsfuehrung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Pruefraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschaeftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung."
+description: "Geschäftsordnung für GmbH-Geschäftsführung entwerfen: Ressortzuteilung, Zustimmungsvorbehalte, Berichtspflichten. Normen: §§ 35 37 GmbHG. Prüfraster: Kompetenzbereiche, interne Beschraenkungen, Zustimmungskataloge. Output: Geschäftsordnungs-Entwurf GF. Abgrenzung: nicht Gesellschaftsvertrag oder Beiratssatzung."
 ---
 
 # Geschäftsordnung Geschäftsführung

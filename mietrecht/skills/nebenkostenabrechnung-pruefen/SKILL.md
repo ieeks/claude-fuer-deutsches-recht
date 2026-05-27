@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-pruefen
-description: Mietersicht — pruefe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefaehigkeit nach BetrKV Verteilerschluessel rechnerische Richtigkeit Belegrecht (§ 259 BGB) und Einhaltung der HeizkostenV. Erzeugt einen Rueckfrage- oder Beanstandungsbrief mit Berechnung des etwaigen Guthabens. Disclaimer am Anfang und vor jedem Schreiben.
+description: Mietersicht — prüfe eine Betriebskostenabrechnung auf Form (§ 556 Abs. 3 BGB) Frist (Zugang innerhalb von zwoelf Monaten nach Abrechnungszeitraum) Umlagefähigkeit nach BetrKV Verteilerschluessel rechnerische Richtigkeit Belegrecht (§ 259 BGB) und Einhaltung der HeizkostenV. Erzeugt einen Rückfrage- oder Beanstandungsbrief mit Berechnung des etwaigen Guthabens. Disclaimer am Anfang und vor jedem Schreiben.
 ---
 
 # Nebenkostenabrechnung prüfen (Mietersicht)

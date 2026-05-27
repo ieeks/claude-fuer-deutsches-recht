@@ -1,6 +1,6 @@
 ---
 name: orientierung-selbstvertreter-amtsgericht
-description: "Triage und Einstieg fuer Buerger die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klaert Rolle (Klaeger oder Beklagter) Streitwert Zustaendigkeit und verweist auf die fuer Ihre Situation passenden Skills."
+description: "Triage und Einstieg für Buerger die sich ohne Anwalt vor dem Amtsgericht vertreten wollen. Klaert Rolle (Klaeger oder Beklagter) Streitwert Zuständigkeit und verweist auf die für Ihre Situation passenden Skills."
 ---
 
 # Orientierung: Sie wollen sich selbst vor dem Amtsgericht vertreten

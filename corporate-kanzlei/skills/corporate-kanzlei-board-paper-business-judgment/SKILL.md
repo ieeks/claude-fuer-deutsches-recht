@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-board-paper-business-judgment
-description: "Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage fuer Vorstand/Geschaeftsfuehrung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Pruefraster: Informationsgrundlage, Entscheidungsalternativen, Interessenkonflikte, KI-Einsatztransparenz. Output strukturiertes Board Paper mit Beschlussempfehlung, Risikoabwaegung, BJR-Dokumentation. Abgrenzung: nicht fuer Hauptversammlungs-Beschluesse (siehe Gesellschaftsrecht-Register) und nicht fuer Insolvenz-Entscheidungen (siehe StaRUG-Skill)."
+description: "Board Paper und Business Judgment Rule (§ 93 AktG, § 43 GmbHG) erstellen: Vorlage für Vorstand/Geschäftsführung/Aufsichtsrat bei M&A-Entscheidungen, Strukturwahl, Risikotransaktionen. Prüfraster: Informationsgrundlage, Entscheidungsalternativen, Interessenkonflikte, KI-Einsatztransparenz. Output strukturiertes Board Paper mit Beschlussempfehlung, Risikoabwaegung, BJR-Dokumentation. Abgrenzung: nicht für Hauptversammlungs-Beschluesse (siehe Gesellschaftsrecht-Register) und nicht für Insolvenz-Entscheidungen (siehe StaRUG-Skill)."
 ---
 
 # Board Paper und Business Judgment
@@ -26,7 +26,7 @@ Vorstand, Geschäftsführung und Aufsichtsrat müssen Entscheidungen auf der Gru
 
 **§ 93 Abs. 1 S. 2 AktG** — Eine Pflichtverletzung liegt nicht vor, wenn das Vorstandsmitglied bei einer unternehmerischen Entscheidung vernünftigerweise annehmen durfte, auf der Grundlage angemessener Information zum Wohle der Gesellschaft zu handeln.
 
-**§ 43 Abs. 1 GmbHG** — Geschäftsführer haften für die Sorgfalt eines ordentlichen Kaufmanns; BJR gilt entsprechend nach BGH II ZR 234/20.
+**§ 43 Abs. 1 GmbHG** — Geschäftsführer haften für die Sorgfalt eines ordentlichen Kaufmanns; das unternehmerische Ermessen setzt eine angemessene Informationsgrundlage voraus (BGH II ZR 202/07).
 
 **§ 111 Abs. 4 AktG** — Aufsichtsrat kann Vorbehaltsgeschäfte festlegen; ohne Zustimmung keine wirksame Entscheidung.
 
@@ -36,9 +36,8 @@ Vorstand, Geschäftsführung und Aufsichtsrat müssen Entscheidungen auf der Gru
 
 | Gericht | Aktenzeichen | Datum | Leitsatz |
 |---|---|---|---|
-| BGH II ZR 303/02 | BGHZ 135, 244 | 21.04.1997 | ARAG/Garmenbeck: AR muss Vorstandshaftung verfolgen; eigene Pflichten des AR |
-| BGH II ZR 175/95 | BGHZ 135, 244 | 21.04.1997 | BJR: Weite unternehmerische Entscheidungsfreiheit bei angemessener Information |
-| BGH II ZR 234/20 | NJW 2022, 1381 | 04.05.2021 | GmbH-GF BJR analog § 43 GmbHG; angemessene Information als Voraussetzung |
+| BGH II ZR 175/95 | BGHZ 135, 244 | 21.04.1997 | ARAG/Garmenbeck: AR muss Vorstandshaftung eigenverantwortlich prüfen; eigene Pflichten des AR |
+| BGH II ZR 202/07 | NJW 2008, 3361 | 14.07.2008 | GmbH-GF / BJR: angemessene Information als Voraussetzung unternehmerischen Ermessens |
 | BGH II ZR 17/03 | NJW 2004, 1531 | 03.05.2004 | Keine BJR bei Interessenkonflikten; Offenlegungspflicht |
 | LG München I HK O 5765/20 | HK O 5765/20 | 10.12.2021 | Wirecard; Aufsichtsrat; Kontrollpflichten; fehlende Information als Pflichtverletzung |
 
@@ -154,8 +153,8 @@ Freigabe (AR/GV): [Datum, Protokoll-Nr.]
 - AktG §§ 93, 107, 111, 112
 - GmbHG § 43
 - MAR / WpHG (Insiderrecht)
-- BGH II ZR 303/02 (ARAG/Garmenbeck)
-- BGH II ZR 234/20 (GmbH-GF BJR)
+- BGH II ZR 175/95 (ARAG/Garmenbeck)
+- BGH II ZR 202/07 (GmbH-GF BJR / Informationsgrundlage)
 - BGH II ZR 17/03 (Interessenkonflikt BJR ausgeschlossen)
 - LG München I HK O 5765/20 (Wirecard AR-Pflichten)
 - Spindler, in: MüKo AktG, § 93 Rn. 45 ff.

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-lieferverzug
-description: "Lieferverzug im Gueterverkehr pruefen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Pruefraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden."
+description: "Lieferverzug im Gueterverkehr prüfen: Verspaetungsschaden, Haftungshoechstbetrag, Fristen. Normen: §§ 423 425 HGB, Art. 19 23 CMR. Prüfraster: Ablieferungsfrist, Verspaetungsschaden, Haftungsgrenze dreifacher Frachtpreis, Verjaebrung. Output: Lieferverzug-Haftungsanalyse. Abgrenzung: nicht Ladungsschaden."
 ---
 
 # Lieferverzug

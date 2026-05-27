@@ -1,6 +1,6 @@
 ---
 name: excel-multi-sheet-export
-description: "3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Pruefraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht."
+description: "3D-Review-Ergebnis als Excel-Datei mit mehreren Arbeitsblaettern exportieren: je Perspektive ein Sheet. Normen: HGB, InsO. Prüfraster: Formatvorgaben, Zellenformatierung, Formelkonsistenz. Output: Excel-Exportdatei Multisheet-Struktur. Abgrenzung: nicht PDF-Bericht."
 ---
 
 # /tabellenreview-3d:excel-multi-sheet-export

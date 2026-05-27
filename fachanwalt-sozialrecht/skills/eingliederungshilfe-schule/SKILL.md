@@ -1,6 +1,6 @@
 ---
 name: eingliederungshilfe-schule
-description: "Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen. SGB IX Teil 2 §§ 90 ff. Eingliederungshilfe § 35a SGB VIII bei seelischer Behinderung. Pruefraster: Behinderungsbegriff § 99 SGB IX zustaendiger Traeger (Eingliederungshilfetraeger Jugendamt) Antragspraxis Gesamtplanverfahren UN-BRK Inklusionsrecht. Output: Widerspruchsentwurf oder Klagebaustein Eingliederungshilfe Schulbegleitung. Abgrenzung zu hilfsmittelantrag-pruefen (Sachmittel) und fachanwalt-sozialrecht-gdb-schwerbehinderung."
+description: "Kind mit Behinderung benoetigt Schulbegleitung und Eltern oder Anwalt muessen Anspruch klaeren und durchsetzen. SGB IX Teil 2 §§ 90 ff. Eingliederungshilfe § 35a SGB VIII bei seelischer Behinderung. Prüfraster: Behinderungsbegriff § 99 SGB IX zuständiger Traeger (Eingliederungshilfetraeger Jugendamt) Antragspraxis Gesamtplanverfahren UN-BRK Inklusionsrecht. Output: Widerspruchsentwurf oder Klagebaustein Eingliederungshilfe Schulbegleitung. Abgrenzung zu hilfsmittelantrag-prüfen (Sachmittel) und fachanwalt-sozialrecht-gdb-schwerbehinderung."
 ---
 
 # Eingliederungshilfe in Schule und Bildung

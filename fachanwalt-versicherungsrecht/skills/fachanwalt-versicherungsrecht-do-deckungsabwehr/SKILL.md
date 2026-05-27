@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-do-deckungsabwehr
-description: "D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsanspruechen. Anwendungsfall Versicherung hat Deckung fuer Geschaeftsfuehrerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschaeftsfuehrer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Pruefraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschaeftsbereich AVB-Auslegung. Output Deckungsanfragen-Pruefung mit AVB-Analyse Widerspruchsbegruendung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-pruefen."
+description: "D-und-O-Versicherung Directors-and-Officers Deckungsabwehr durch Versicherer bei Pflichtverletzungsansprüchen. Anwendungsfall Versicherung hat Deckung für Geschäftsführerhaftungsanspruch nach § 43 GmbHG abgelehnt. Normen § 43 GmbHG Haftung Geschäftsführer § 276 BGB Verschulden § 1 VVG Versicherungsleistung. Prüfraster Pflichtverletzung Deckungsausschluss Vorsatz Insider-Trading verbotener Geschäftsbereich AVB-Auslegung. Output Deckungsanfragen-Prüfung mit AVB-Analyse Widerspruchsbegründung und Klageeinschaetzung gegen Versicherer. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und deckungsanfrage-prüfen."
 ---
 
 # D&O-Deckungsabwehr

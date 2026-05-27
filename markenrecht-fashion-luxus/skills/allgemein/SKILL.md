@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Markenrecht-Fashion-Luxus-Plugin: DPMA/EUIPO/USPTO-Anmeldungen, alle Markenarten (Wort, Bild, Sound, Duft, 3D, Position, Haptik, Anti-KI), Widerspruch, Loeschung, Verletzung, Produktpiraterie und Selektivvertrieb fuer Luxus-Modehaeuser."
+description: "Einstieg und Überblick für das Markenrecht-Fashion-Luxus-Plugin: DPMA/EUIPO/USPTO-Anmeldungen, alle Markenarten (Wort, Bild, Sound, Duft, 3D, Position, Haptik, Anti-KI), Widerspruch, Löschung, Verletzung, Produktpiraterie und Selektivvertrieb für Luxus-Modehaeuser."
 ---
 
 # Markenrecht Fashion und Luxus — Allgemein

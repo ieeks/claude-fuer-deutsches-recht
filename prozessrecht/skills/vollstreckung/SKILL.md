@@ -1,6 +1,6 @@
 ---
 name: vollstreckung
-description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Pruefraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung."
+description: "Zwangsvollstreckung aus Zivilurteil vorbereiten und einleiten: Pfaendung, Sachpfaendung, Forderungspfaendung. Normen: §§ 704 ff. ZPO. Prüfraster: vollstreckbarer Titel, Klausel, Zustellungsnachweis, Vollstreckungsarten. Output: Vollstreckungsauftrag und Pfaendungsbeschluss-Antrag. Abgrenzung: nicht AnfG-Anfechtung."
 ---
 
 # Zwangsvollstreckung – Überblick und Praxis

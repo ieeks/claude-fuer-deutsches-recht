@@ -1,6 +1,6 @@
 ---
 name: gesellschafterbeschluss-kapitalerhoehung
-description: "Gesellschafterbeschluss fuer Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Pruefraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht fuer allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen)."
+description: "Gesellschafterbeschluss für Kapitalerhohung nach Wandlung vorbereiten. §§ 53 55 56 GmbHG Kapitalerhohung. Prüfraster: Beschlussinhalt Mehrheitserfordernisse notarielle Form neues Stammkapital Einlagepflicht Handelsregistereintrag. Output: Beschlussentwurf Ladungsunterlagen. Abgrenzung: nicht für allgemeine Gesellschafterversammlung (gesellschafterversammlung-einberufen)."
 ---
 
 # Gesellschafterbeschluss – Kapitalerhöhung gegen Sacheinlage

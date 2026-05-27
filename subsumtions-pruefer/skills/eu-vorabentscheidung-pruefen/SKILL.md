@@ -1,6 +1,6 @@
 ---
 name: eu-vorabentscheidung-pruefen
-description: "Prueft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen."
+description: "Prüft die Voraussetzungen des Vorabentscheidungsersuchens nach Art. 267 AEUV: Vorlagebefugnis und -pflicht, CILFIT-Ausnahmen (acte clair/eclaire), Consorzio-Erweiterung, Vorlagepflicht letzter Instanz, Formulierung der Vorlagefrage, curia.europa.eu-Fundstellen."
 ---
 
 # EU-Vorabentscheidung prüfen (Art. 267 AEUV)

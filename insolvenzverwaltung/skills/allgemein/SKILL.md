@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Insolvenzverwaltungs-Plugin: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungspruefung, Insolvenzplan, StaRUG-Planwerkstatt, Eroeffnungsgutachten, Berichte und Schlussrechnung aus Sicht von Insolvenzverwalter, Sachwalter und vorlaeufliger Verwaltung."
+description: "Einstieg und Überblick für das Insolvenzverwaltungs-Plugin: Regelverfahren, Eigenverwaltung, Schutzschirm, Anfechtung, § 15b InsO, Masse, Forderungsprüfung, Insolvenzplan, StaRUG-Planwerkstatt, Eroeffnungsgutachten, Berichte und Schlussrechnung aus Sicht von Insolvenzverwalter, Sachwalter und vorlaeufliger Verwaltung."
 ---
 
 # Insolvenzverwaltung — Allgemein

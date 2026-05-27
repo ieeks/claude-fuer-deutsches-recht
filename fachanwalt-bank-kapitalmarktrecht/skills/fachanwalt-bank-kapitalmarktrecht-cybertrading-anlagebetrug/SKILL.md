@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-cybertrading-anlagebetrug
-description: "Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurueck. § 263 StGB Betrug Zivilansprueche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwaeschegesetz. Pruefraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-pruefen (legale Beratung)."
+description: "Mandant ist Opfer eines Online-Trading-Betrugs (Cybertrading fake Plattform) und will Geld zurück. § 263 StGB Betrug Zivilansprüche gegen Vermittler Bank. Normen §§ 263 27 StGB §§ 823 826 BGB Geldwäschegesetz. Prüfraster Sofort-Beweis-Sicherung Zahlungsverfolgung Crypto-Tracing BaFin-Whistleblower Strafanzeige Klage. Output Strafanzeige Klage-Entwurf BaFin-Beschwerde. Abgrenzung zu mandat-triage-bank-kapitalmarktrecht (Ersterfassung) und anlageberatungsfehler-prüfen (legale Beratung)."
 ---
 
 # Cybertrading-Anlagebetrug

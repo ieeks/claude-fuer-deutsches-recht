@@ -1,6 +1,6 @@
 ---
 name: iv-plan-insolvenzplan-architektur
-description: "Vollstaendigen Insolvenzplan nach §§ 217 ff. InsO von Grund auf strukturieren. §§ 217 220 221 InsO Planarchitektur. Pruefraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug. Output: Insolvenzplan-Skelett Bausteinliste Schnittstellenrisiken. Abgrenzung: nicht fuer StaRUG-Plan (iv-plan-starug-plan-architektur) oder einzelne Planbestandteile."
+description: "Vollständigen Insolvenzplan nach §§ 217 ff. InsO von Grund auf strukturieren. §§ 217 220 221 InsO Planarchitektur. Prüfraster: Planvorlageberechtigung darstellender gestaltender Teil Anlagen Gruppen Sicherheiten Planvollzug. Output: Insolvenzplan-Skelett Bausteinliste Schnittstellenrisiken. Abgrenzung: nicht für StaRUG-Plan (iv-plan-starug-plan-architektur) oder einzelne Planbestandteile."
 ---
 
 # IV-integrierte Insolvenzplan-Architektur

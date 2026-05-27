@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Umweltrecht-Plugin: BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Bussgeld, Umwelt-Due-Diligence, Klimaklagen nach UmwRG, LkSG/CSDDD, ESG-Greenwashing und CSRD fuer Anlagenbetreiber, Unternehmen und Verwaltungsjuristen."
+description: "Einstieg und Überblick für das Umweltrecht-Plugin: BImSchG, TEHG, Abfall, Wasser, Boden, Naturschutz, UIG, Bußgeld, Umwelt-Due-Diligence, Klimaklagen nach UmwRG, LkSG/CSDDD, ESG-Greenwashing und CSRD für Anlagenbetreiber, Unternehmen und Verwaltungsjuristen."
 ---
 
 # Umweltrecht — Allgemein

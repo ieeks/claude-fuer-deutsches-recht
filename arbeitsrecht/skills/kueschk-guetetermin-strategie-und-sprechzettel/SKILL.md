@@ -1,6 +1,6 @@
 ---
 name: kueschk-guetetermin-strategie-und-sprechzettel
-description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template fuer den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen."
+description: "Guetetermin nach § 54 ArbGG: Ablauf und Funktion; was sagen und was nicht sagen; Sprechzettel-Template für den Guetetermin; Vergleichsbereitschaft signalisieren ohne Positionen aufzugeben; typische Richter-Fragen."
 ---
 
 # Gütetermin: Strategie und Sprechzettel

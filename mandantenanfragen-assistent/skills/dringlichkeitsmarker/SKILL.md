@@ -1,6 +1,6 @@
 ---
 name: dringlichkeitsmarker
-description: "Eingehende Mandantenanfrage enthaelt moeglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Pruefraster: Signale Hauptverhandlung naechste Woche Kuendigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort)."
+description: "Eingehende Mandantenanfrage enthaelt möglicherweise Fristenproblem oder dringenden Handlungsbedarf. Dringlichkeitscheck Kanzlei-Intake. Prüfraster: Signale Hauptverhandlung naechste Woche Kündigungsfrist Zwangsvollstreckung Insolvenzantrag. Dringlichkeitsstufen HOCH (sofortiger Anwalt-Anruf) MITTEL NIEDRIG. Output: Dringlichkeits-Einschaetzung mit konkreter Handlungsempfehlung. Abgrenzung zu anfrage-eingang-parser (Datenextraktion) und erstantwort-generator (Antwort)."
 ---
 
 # Dringlichkeitsmarker

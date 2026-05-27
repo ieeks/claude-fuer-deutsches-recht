@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-firmenname-pruefung
-description: "Firmenname auf Zulaessigkeit und Verwechslungsgefahr pruefen: Differenzierungsgebot, Irrefuehrungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Pruefraster: Unterscheidungskraft, Irrefuehrungsverbot, Handelsregisterfaehigkeit, Markenrecherche-Empfehlung. Output: Pruefergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA."
+description: "Firmenname auf Zulässigkeit und Verwechslungsgefahr prüfen: Differenzierungsgebot, Irreführungsverbot. Normen: §§ 17 18 HGB, § 4 GmbHG. Prüfraster: Unterscheidungskraft, Irreführungsverbot, Handelsregisterfähigkeit, Markenrecherche-Empfehlung. Output: Prüfergebnis Firmenname mit Handlungsempfehlung. Abgrenzung: nicht Markenanmeldung beim DPMA."
 ---
 
 # Firmenname-Prüfung

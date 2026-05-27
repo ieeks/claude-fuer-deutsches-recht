@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-output-versand-signing
-description: "Signing-Management und Output-Verteilung fuer M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und 127 BGB (Schriftform, eSignatur), BeurkG (Notarerfordernis), eIDAS-VO. Pruefraster: Formerfordernis pro Vertrag, Signatur-Reihenfolge, Counterpart-Klauseln, Exekutions-Bestaetigungen. Output Signing-Protokoll, Signaturseiten-Matrix, Verteilungsliste. Abgrenzung: Closing-Bedingungen siehe signing-closing-conditions; Archivierung siehe closing-bible-archiv."
+description: "Signing-Management und Output-Verteilung für M&A-Vertraege: Koordiniert physisches und virtuelles Signing, Signaturseiten-Protokoll, qualifizierte eSignatur (QES), Exekution und Verteilung. Normen: §§ 126 und 126a und 127 BGB (Schriftform, eSignatur), BeurkG (Notarerfordernis), eIDAS-VO. Prüfraster: Formerfordernis pro Vertrag, Signatur-Reihenfolge, Counterpart-Klauseln, Exekutions-Bestätigungen. Output Signing-Protokoll, Signaturseiten-Matrix, Verteilungsliste. Abgrenzung: Closing-Bedingungen siehe signing-closing-conditions; Archivierung siehe closing-bible-archiv."
 ---
 
 # Output, Versand und Signing-Management

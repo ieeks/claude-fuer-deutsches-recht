@@ -1,6 +1,6 @@
 ---
 name: stb-eau-elektronische-arbeitsunfaehigkeit-2023
-description: "eAU elektronische Arbeitsunfaehigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration."
+description: "eAU elektronische Arbeitsunfähigkeitsbescheinigung seit 2023. Anwendungsfall AN-Krankmeldung AG-Abruf bei Krankenkasse Entgeltfortzahlung. Methodik Schnittstelle Konfiguration Workflow. Output eAU-Konfiguration."
 ---
 
 # eAU — Elektronische Arbeitsunfaehigkeitsbescheinigung

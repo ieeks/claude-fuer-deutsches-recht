@@ -1,6 +1,6 @@
 ---
 name: fluggastrechte-anlagen-bauen
-description: "Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestaetigung Boardingpass Annullierungsbestaetigung E-Mail-Verkehr Quittungen. Konvertiert alles nach PDF nummeriert in der Reihenfolge der ersten Erwaehnung im Schriftsatz stempelt oben rechts Anlage K 1 in Arial 12 fett und benennt beA-tauglich. Liefert Einzel-PDFs Konvolut-PDF Anlagenverzeichnis und optional ein Schriftsatz-mit-Anlagen-Bundle als ein PDF."
+description: "Baut aus den Belegen eines Fluggastrechte-Mandats ein beA-konformes Anlagenkonvolut. Verwendet zum bestehenden Schriftsatz (Forderungsschreiben Mahnung Klage) die Belege Buchungsbestätigung Boardingpass Annullierungsbestätigung E-Mail-Verkehr Quittungen. Konvertiert alles nach PDF nummeriert in der Reihenfolge der ersten Erwaehnung im Schriftsatz stempelt oben rechts Anlage K 1 in Arial 12 fett und benennt beA-tauglich. Liefert Einzel-PDFs Konvolut-PDF Anlagenverzeichnis und optional ein Schriftsatz-mit-Anlagen-Bundle als ein PDF."
 ---
 
 # Fluggastrechte — Anlagen bauen

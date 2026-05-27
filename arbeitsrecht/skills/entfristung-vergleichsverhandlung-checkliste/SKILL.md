@@ -1,6 +1,6 @@
 ---
 name: entfristung-vergleichsverhandlung-checkliste
-description: "Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestaetigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung; Erledigungsklausel-Risiken."
+description: "Typische Vergleichsbausteine in der Entfristungsklage: Entfristungsbestätigung oder Beendigungsdatum mit Abfindung; Weiterbeschaeftigung oder Aufhebung; Zeugnis; Freistellung; Urlaubsabgeltung; Klageerledigung; Erledigungsklausel-Risiken."
 ---
 
 # Vergleichsverhandlung: Checkliste Entfristungsklage

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-orientierung
-description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Ueberblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Pruefraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
+description: "Anwalt will Fachanwaltschaft Bank-Kapitalmarktrecht erwerben oder Mandat bearbeiten und braucht Normen-Überblick. KWG ZAG WpHG WpIG MiFID-II MAR MiCAR BGB-Verbraucherkreditrecht §§ 491 ff. Normen KWG §§ 1 32 WpHG §§ 63 ff. §§ 491-505 BGB. Prüfraster FAO-Voraussetzungen Mandatstypen Normen-Karte. Output Orientierungs-Leitfaden. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing)."
 ---
 
 # Fachanwalt für Bank- und Kapitalmarktrecht — Orientierung

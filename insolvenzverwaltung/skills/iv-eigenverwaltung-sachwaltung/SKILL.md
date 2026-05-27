@@ -1,6 +1,6 @@
 ---
 name: iv-eigenverwaltung-sachwaltung
-description: "Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Pruefraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung Glaeubigerinformation. Output: Sachwalterberichte Beanstandungsschreiben Haftungsnotiz. Abgrenzung: nicht fuer Schutzschirm (iv-schutzschirm-270d) oder Planverfahren (iv-plan-kommandocenter)."
+description: "Sachwalter­kontrolle und Schnittstellenmanagement bei Eigenverwaltung nach §§ 270 ff. InsO. §§ 270 274 275 InsO Sachwalterbefugnisse und Kontrollrechte. Prüfraster: Rollenabgrenzung Finanzplankontrolle Rechnungslegung Anfechtung Haftung Gläubigerinformation. Output: Sachwalterberichte Beanstandungsschreiben Haftungsnotiz. Abgrenzung: nicht für Schutzschirm (iv-schutzschirm-270d) oder Planverfahren (iv-plan-kommandocenter)."
 ---
 
 # Eigenverwaltung und Sachwaltung

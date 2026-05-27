@@ -1,6 +1,6 @@
 ---
 name: gesellschafterdarlehen-rangruecktritt
-description: "Erzeugt eine Erklaerung zum qualifizierten Rangruecktritt fuer Gesellschafterdarlehen nach § 19 Abs. 2 S. 2 InsO. BGH-konforme Formulierung BGH II ZR 18/19 — der Rangruecktritt muss sich erstrecken auf Insolvenz Glaeubiger Geschaeftsbeendigung und Liquidation. Effekt im insolvenzrechtlichen Status die Forderung wird nicht passiviert. Form schriftlich beidseitig unterzeichnet — notarielle Beurkundung empfohlen. Verbunden mit Pflicht zur Anzeige beim Finanzamt wegen steuerlichen Folgen."
+description: "Erzeugt eine Erklärung zum qualifizierten Rangrücktritt für Gesellschafterdarlehen nach § 19 Abs. 2 S. 2 InsO. BGH-konforme Formulierung BGH II ZR 18/19 — der Rangrücktritt muss sich erstrecken auf Insolvenz Gläubiger Geschäftsbeendigung und Liquidation. Effekt im insolvenzrechtlichen Status die Forderung wird nicht passiviert. Form schriftlich beidseitig unterzeichnet — notarielle Beurkundung empfohlen. Verbunden mit Pflicht zur Anzeige beim Finanzamt wegen steuerlichen Folgen."
 ---
 
 # Gesellschafterdarlehen — qualifizierter Rangrücktritt

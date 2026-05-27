@@ -1,6 +1,6 @@
 ---
 name: aufforderungsschreiben-arbeitgeber
-description: "Aussergerichtliches Berichtigungsverlangen an den Arbeitgeber. Aufbau mit Mandatsanzeige, konkreter Beanstandung pro Streitstelle (Wortlaut alt, Wortlaut neu, Begruendung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Fristsetzung, Klageandrohung und Kostenfolge. Hoeflich-bestimmter Ton, juristisch sauber, ohne Drohgebaerden. Vorlage und Bausteine."
+description: "Außergerichtliches Berichtigungsverlangen an den Arbeitgeber. Aufbau mit Mandatsanzeige, konkreter Beanstandung pro Streitstelle (Wortlaut alt, Wortlaut neu, Begründung mit BAG-Rechtsprechung und Geheimcode-Hinweis), Fristsetzung, Klageandrohung und Kostenfolge. Hoeflich-bestimmter Ton, juristisch sauber, ohne Drohgebaerden. Vorlage und Bausteine."
 ---
 
 # Aufforderungsschreiben an den Arbeitgeber

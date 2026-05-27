@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-orientierung
-description: "Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken. Normen: VwGO (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Eilrechtsschutz §§ 80 und 123 VwGO), VwVfG, Polizei- und Ordnungsrecht, Baurecht. Pruefraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht), Verfahrensarten, Fristen-Ueberblick. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Detailarbeit in Spezialskills; Mandats-Triage siehe mandat-triage-verwaltungsrecht."
+description: "Orientierung im Fachanwaltsrecht Verwaltungsrecht: FAO-Voraussetzungen, Kerngebiete, typische Mandate und Fristen ueberblicken. Normen: VwGO (Anfechtungs-, Verpflichtungs-, Leistungs-, Feststellungsklage, Eilrechtsschutz §§ 80 und 123 VwGO), VwVfG, Polizei- und Ordnungsrecht, Baurecht. Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht), Verfahrensarten, Fristen-Überblick. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Detailarbeit in Spezialskills; Mandats-Triage siehe mandat-triage-verwaltungsrecht."
 ---
 
 # Fachanwalt für Verwaltungsrecht — Orientierung

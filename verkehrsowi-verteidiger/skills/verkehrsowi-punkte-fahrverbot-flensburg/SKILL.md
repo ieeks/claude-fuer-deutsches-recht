@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-punkte-fahrverbot-flensburg
-description: "Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Fuehrerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Pruefraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Uebersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin."
+description: "Punkte im Fahreignungsregister (FAER) Flensburg und Fahrverbot § 25 StVG: Mandant hat Punktewarnung erhalten oder Führerscheinentzug droht. Normen: § 4 StVG (Punktesystem: Warnung 4 Pkt, Verwarnung 6 Pkt, Entzug 8 Pkt), § 65 StVG (Tilgungsfristen), § 25 StVG (Fahrverbot als Denkzettel). Prüfraster: Punktestand, Tilgungsfristen, freiwilliger Kurs zur Punkte-Reduzierung, Abgrenzung FAER-Punkte vs. Fahrverbot. Output Punkte-Berechnungs-Übersicht, Strategie-Empfehlung. Abgrenzung: Haertefall-Fahrverbot siehe verkehrsowi-haertefall-fahrverbot; Fahrerlaubnisentzug MPU siehe fachanwalt-verkehrsrecht-Plugin."
 ---
 
 # Punkte und Fahrverbot — Fahreignungsregister Flensburg

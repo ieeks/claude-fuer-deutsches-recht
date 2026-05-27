@@ -1,6 +1,6 @@
 ---
 name: widerklage-33-zpo
-description: "Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zustaendigkeit Kostenrisiko Vorteile gegenueber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen."
+description: "Widerklage nach § 33 ZPO als Gegenangriff des Beklagten. Voraussetzungen Konnexitaet Streitgegenstand-Verbindung Zuständigkeit Kostenrisiko Vorteile gegenüber reiner Aufrechnung. Wann lohnt die Widerklage und welcher Antrag ist zu stellen."
 ---
 
 # Widerklage: Eigener Angriff gegen den Klaeger

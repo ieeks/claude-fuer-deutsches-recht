@@ -1,6 +1,6 @@
 ---
 name: ausnahmen-bundesregierung
-description: "Prueft Ausnahmen bei Interessenvertretung gegenueber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschliesslich Buergeranfragen, Sachverstaendigengremien und Ersuchen. Output Ausnahmepruefung."
+description: "Prüft Ausnahmen bei Interessenvertretung gegenüber Bundesregierung und Ministerien nach § 2 Abs. 3 LobbyRG, einschließlich Buergeranfragen, Sachverständigengremien und Ersuchen. Output Ausnahmeprüfung."
 ---
 
 # Ausnahmen Bundesregierung

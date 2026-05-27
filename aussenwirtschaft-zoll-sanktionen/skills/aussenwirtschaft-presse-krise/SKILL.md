@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-presse-krise
-description: "Rechtliche und kommunikative Schadensbegrenzung bei Sanktionsverstoss Behördenmassnahmen oder Lieferkettenvorwuerfen. Anwendungsfall negative Berichterstattung droht oder Behoerde hat Massnahmen eingeleitet und Unternehmen braucht kombinierte Rechts- und PR-Strategie. Normen AWG § 34 Strafrecht § 19 OWiG Sanktionen Art. 215 AEUV EU-Sanktionsrecht. Pruefraster Sachverhalt Behoedenverfahren PR-Linie Kundenkommunikation Remediation Massnahmen Schadensbegrenzung. Output Krisenplan mit Rechts-Strategie Kommunikationslinie Remediation-Nachweis und Behoedenverfahrens-Fahrplan. Abgrenzung zu aussenwirtschaft-pruefung-ermittlung und aussenwirtschaft-icp-kontrollsystem."
+description: "Rechtliche und kommunikative Schadensbegrenzung bei Sanktionsverstoss Behördenmassnahmen oder Lieferkettenvorwuerfen. Anwendungsfall negative Berichterstattung droht oder Behoerde hat Massnahmen eingeleitet und Unternehmen braucht kombinierte Rechts- und PR-Strategie. Normen AWG § 34 Strafrecht § 19 OWiG Sanktionen Art. 215 AEUV EU-Sanktionsrecht. Prüfraster Sachverhalt Behoedenverfahren PR-Linie Kundenkommunikation Remediation Massnahmen Schadensbegrenzung. Output Krisenplan mit Rechts-Strategie Kommunikationslinie Remediation-Nachweis und Behoedenverfahrens-Fahrplan. Abgrenzung zu aussenwirtschaft-prüfung-ermittlung und aussenwirtschaft-icp-kontrollsystem."
 ---
 
 # Presse, Reputation und Krisenkommunikation

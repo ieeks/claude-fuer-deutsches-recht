@@ -1,6 +1,6 @@
 ---
 name: entfristung-rechtsfolge-16-tzbfg-unbefristet
-description: "Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Moeglichkeit der fruehesten ordentlichen Kuendigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprueche Annahmeverzug; Weiterbeschaeftigungsantrag."
+description: "Rechtsfolge unwirksamer Befristung nach § 16 Satz 1 TzBfG: Vertrag gilt als auf unbestimmte Zeit geschlossen; Möglichkeit der fruehesten ordentlichen Kündigung zum vereinbarten Ende nach § 16 Satz 2 TzBfG; Ansprüche Annahmeverzug; Weiterbeschaeftigungsantrag."
 ---
 
 # Rechtsfolge der unwirksamen Befristung — § 16 TzBfG

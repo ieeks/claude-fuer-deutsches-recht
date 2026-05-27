@@ -1,6 +1,6 @@
 ---
 name: folgekorrespondenz-vorbereiten
-description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Pruefraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag fuer CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht."
+description: "Nach Eingang einer Anfrage muss Sekretariat CRM-Eintrag und Akte anlegen. CRM-Eintrag Kanzlei-Intake. Prüfraster: Name Mail Telefon Anliegen-Stichwort Dringlichkeit Datum Sprachkennung Konfliktcheck-Status. Output: Skeleton-Eintrag für CRM und Aktenanlage. Abgrenzung zu anfrage-eingang-parser (Parsing) und mandanten-intake im Sozialrecht."
 ---
 
 # Folgekorrespondenz-Vorbereiten

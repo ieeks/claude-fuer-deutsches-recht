@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-versicherungsrecht
-description: "Strukturierte Eingangs-Abfrage fuer versicherungsrechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues Versicherungsmandat geht ein und muss schnell triagiert werden. Normen § 195 BGB Verjaehrung drei Jahre §§ 12 14 VVG Faelligkeit Schadensmeldung AVB-Klagefristen. Pruefraster Sparte Ereignis Stichtag Deckungsablehnung Hoehe Frist-Sofort-Check Eskalation bei BU-Ablehnung oder lebensbedrohlichen Krankheitskosten. Output Triage-Ergebnis mit Routing zu deckungsanfrage-pruefen und Fristen-Eskalationshinweis. Abgrenzung zu deckungsanfrage-pruefen und erstgespraech-mandatsannahme."
+description: "Strukturierte Eingangs-Abfrage für versicherungsrechtliche Mandate mit Fristen-Sofort-Check. Anwendungsfall neues Versicherungsmandat geht ein und muss schnell triagiert werden. Normen § 195 BGB Verjährung drei Jahre §§ 12 14 VVG Fälligkeit Schadensmeldung AVB-Klagefristen. Prüfraster Sparte Ereignis Stichtag Deckungsablehnung Hoehe Frist-Sofort-Check Eskalation bei BU-Ablehnung oder lebensbedrohlichen Krankheitskosten. Output Triage-Ergebnis mit Routing zu deckungsanfrage-prüfen und Fristen-Eskalationshinweis. Abgrenzung zu deckungsanfrage-prüfen und erstgespraech-mandatsannahme."
 ---
 
 # Mandat-Triage Versicherungsrecht

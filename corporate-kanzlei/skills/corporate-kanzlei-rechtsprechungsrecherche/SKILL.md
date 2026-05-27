@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-rechtsprechungsrecherche
-description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile fuer Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz fuer Vertrag, Memo oder Board Paper."
+description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile für Corporate/M&A, Umwandlung, Organpflichten, Kapitalmarkt, Insolvenz und Restrukturierung. Liefert Fundstellenliste mit Aktenzeichen, Datum, Leitsatz-Paraphrase und Verwertungsnotiz für Vertrag, Memo oder Board Paper."
 ---
 
 # Corporate-Rechtsprechungsrecherche
@@ -29,8 +29,8 @@ description: "Corporate-Rechtsprechungsrecherche: Sucht und bewertet Urteile fue
 ## Rechtsprechungs-Kanon Corporate/M&A
 
 ### Organpflichten / Business Judgment Rule
-- BGH, Urt. v. 21.04.1997 - II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck) — AR-Pflicht, Vorstandshaftung zu verfolgen.
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 — BJR für GmbH-GF analog § 43 GmbHG.
+- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) — AR-Pflicht, Vorstandshaftung eigenverantwortlich zu prüfen.
+- BGH, Urt. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — BJR für GmbH-GF / Informationsgrundlage.
 - BGH, Urt. v. 03.05.2004 - II ZR 17/03, NJW 2004, 1531 — BJR ausgeschlossen bei Interessenkonflikt.
 - LG München I, Urt. v. 10.12.2021 - HK O 5765/20 — Wirecard: AR-Kontrollpflichten bei Indizien für Unregelmäßigkeiten.
 
@@ -93,7 +93,7 @@ RECHERCHEERGEBNISSE
 
 Nr. | Gericht | Aktenzeichen | Datum | Fundstelle | Leitsatz (Paraphrase) | Verwertungsnotiz | Status
 ----|--------|-------------|-------|-----------|----------------------|-----------------|-------
-1   | BGH    | II ZR 234/20 | 04.05.2021 | NJW 2022, 1381 | [Paraphrase 1-2 Sätze] | [Relevanz fuer Sachverhalt] | verifiziert
+1   | BGH    | II ZR 202/07 | 14.07.2008 | NJW 2008, 3361 | [Paraphrase 1-2 Sätze] | [Relevanz für Sachverhalt] | verifiziert
 2   | OLG Frankfurt | 5 U 134/20 | 07.12.2021 | ZIP 2022, 310 | [Paraphrase] | [Relevanz] | verifiziert
 3   | [Gericht] | [Az.] | [Datum] | [Fundstelle] | [Paraphrase] | [Relevanz] | UNVERIFIED — bitte prüfen
 

@@ -1,6 +1,6 @@
 ---
 name: widerspruchsfrist-und-zustellung-sgb
-description: "Anwalt muss bei eingehendem oder ausgehendem Bescheid klaeren ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen. § 37 SGB X Zustellung und Bekanntgabe-Fiktion. Pruefraster: Vier-Tage-Fiktion seit 1.1.2025 PostModG (ehemals drei Tage) 7 Tage Ausland Heilung § 9 VwZG fehlerhafte Rechtsbehelfsbelehrung Jahresfrist § 66 Abs. 2 SGG Wiedereinsetzung § 27 SGB X. Untaetigkeitsklage § 88 SGG 6 Monate. Output: Frist-Berechnung und Zustellungs-Pruefprotokoll. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht."
+description: "Anwalt muss bei eingehendem oder ausgehendem Bescheid klaeren ob und wann die Widerspruchsfrist laeuft und ob Zustellungsmaengel die Frist beeinflussen. § 37 SGB X Zustellung und Bekanntgabe-Fiktion. Prüfraster: Vier-Tage-Fiktion seit 1.1.2025 PostModG (ehemals drei Tage) 7 Tage Ausland Heilung § 9 VwZG fehlerhafte Rechtsbehelfsbelehrung Jahresfrist § 66 Abs. 2 SGG Wiedereinsetzung § 27 SGB X. Untätigkeitsklage § 88 SGG 6 Monate. Output: Frist-Berechnung und Zustellungs-Prüfprotokoll. Abgrenzung zu bescheid-frist-quick-check (Schnellcheck) und fristenbuch-sozialrecht."
 ---
 
 # Widerspruchsfrist und Zustellung im Sozialrecht

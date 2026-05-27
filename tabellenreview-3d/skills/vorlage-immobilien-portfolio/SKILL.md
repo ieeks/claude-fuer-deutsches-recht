@@ -1,6 +1,6 @@
 ---
 name: vorlage-immobilien-portfolio
-description: "Vorlagetabelle fuer Portfolio-Review von Immobilienvertraegen im 3D-Format. Normen: §§ 535 ff. BGB, WEG, GrEStG. Pruefraster: Miete, Grundbuch, steuerliche Belastung, Instandhaltung. Output: Immobilien-Portfolio-Tabelle. Abgrenzung: nicht Einzelvertragspruefung Mietrecht."
+description: "Vorlagetabelle für Portfolio-Review von Immobilienvertraegen im 3D-Format. Normen: §§ 535 ff. BGB, WEG, GrEStG. Prüfraster: Miete, Grundbuch, steuerliche Belastung, Instandhaltung. Output: Immobilien-Portfolio-Tabelle. Abgrenzung: nicht Einzelvertragsprüfung Mietrecht."
 ---
 
 # /tabellenreview-3d:vorlage-immobilien-portfolio

@@ -1,6 +1,6 @@
 ---
 name: visitenkarte-und-nachweise
-description: "Nutzt die Lobbyregister-Visitenkarte, Registerauszug und interne Nachweise fuer Kontaktaufnahme, Hausausweis, Anhoerung und Compliance-Akte. Output Nachweispack."
+description: "Nutzt die Lobbyregister-Visitenkarte, Registerauszug und interne Nachweise für Kontaktaufnahme, Hausausweis, Anhoerung und Compliance-Akte. Output Nachweispack."
 ---
 
 # Visitenkarte und Nachweise

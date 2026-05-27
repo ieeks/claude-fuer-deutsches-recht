@@ -1,6 +1,6 @@
 ---
 name: kontodaten-vertragsverdacht-pruefung
-description: "Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: Anwendungsfall Betreuer oder Betreuungsgericht hat Verdacht auf ungewöhnliche Zahlungen verdächtige Dauerverträge oder Anlagegeschäfte zum Nachteil der betreuten Person. § 1814 BGB Betreuerbestellung, § 1833 BGB Haftung des Betreuers, §§ 1839-1841 BGB Rechnungslegung. Pruefraster Zahlungsauffälligkeiten identifizieren, Vertragsunterlagen auf Unwirksamkeit prüfen, Missbrauchsverdacht von normaler Vermögensverwaltung abgrenzen. Output forensisches Prüfprotokoll mit Handlungsempfehlungen Rückholung Kündigung oder Bericht ans Betreuungsgericht. Abgrenzung zu Genehmigungspflicht-Prüfung und zu Vermögensverzeichnis-Prüfung."
+description: "Kontoauszüge und Vertragsunterlagen in Betreuungsfällen auf Missbrauch prüfen: Anwendungsfall Betreuer oder Betreuungsgericht hat Verdacht auf ungewöhnliche Zahlungen verdächtige Dauerverträge oder Anlagegeschäfte zum Nachteil der betreuten Person. § 1814 BGB Betreuerbestellung, § 1833 BGB Haftung des Betreuers, §§ 1839-1841 BGB Rechnungslegung. Prüfraster Zahlungsauffälligkeiten identifizieren, Vertragsunterlagen auf Unwirksamkeit prüfen, Missbrauchsverdacht von normaler Vermögensverwaltung abgrenzen. Output forensisches Prüfprotokoll mit Handlungsempfehlungen Rückholung Kündigung oder Bericht ans Betreuungsgericht. Abgrenzung zu Genehmigungspflicht-Prüfung und zu Vermögensverzeichnis-Prüfung."
 ---
 
 # Kontodaten- und Vertragsverdacht-Prüfung

@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-kaltstart-interview
-description: "Prozessrechtliches Erstinterview strukturiert durchfuehren: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: §§ 253 261 ZPO, BRAO. Pruefraster: Anspruchsgrundlage, Zustaendigkeit, Verjaebrung, Kostenrisiko. Output: Interviewprotokoll mit Erstbewertung. Abgrenzung: nicht formelle Mandat-Aufnahme."
+description: "Prozessrechtliches Erstinterview strukturiert durchführen: Sachverhalt, Klagebegehren, Fristen, Kosten. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Anspruchsgrundlage, Zuständigkeit, Verjaebrung, Kostenrisiko. Output: Interviewprotokoll mit Erstbewertung. Abgrenzung: nicht formelle Mandat-Aufnahme."
 ---
 
 # Kaltstart-Interview

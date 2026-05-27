@@ -1,6 +1,6 @@
 ---
 name: output-pruefdokument-ki-vo-mit-warnhinweisen
-description: "Am Ende des KI-VO-Workflows wird ein abschliessendes Pruefdokument benoetigt das alle Ergebnisse zusammenfasst und dokumentiert. Art. 2 bis 55 KI-VO Gesamtpruefung. Pruefraster: Pflicht-Header keine Rechtsberatung Ergebnistabelle Risikoklasse Rolle Pflichten offene Punkte Warnhinweise. Output: strukturierter PDF/Word-Pruefbericht mit Disclaimer und Handlungsempfehlungen fuer Anwalt oder Compliance-Team. Abgrenzung zu nicht-hochrisiko-bestaetigt-end-to-end-roadmap (spezifisch Kein-Hochrisiko) und hochrisiko-bestaetigt-end-to-end-roadmap."
+description: "Am Ende des KI-VO-Workflows wird ein abschließendes Prüfdokument benoetigt das alle Ergebnisse zusammenfasst und dokumentiert. Art. 2 bis 55 KI-VO Gesamtprüfung. Prüfraster: Pflicht-Header keine Rechtsberatung Ergebnistabelle Risikoklasse Rolle Pflichten offene Punkte Warnhinweise. Output: strukturierter PDF/Word-Prüfbericht mit Disclaimer und Handlungsempfehlungen für Anwalt oder Compliance-Team. Abgrenzung zu nicht-hochrisiko-bestätigt-end-to-end-roadmap (spezifisch Kein-Hochrisiko) und hochrisiko-bestätigt-end-to-end-roadmap."
 ---
 
 # Output: Prüfdokument KI-VO mit Warnhinweisen

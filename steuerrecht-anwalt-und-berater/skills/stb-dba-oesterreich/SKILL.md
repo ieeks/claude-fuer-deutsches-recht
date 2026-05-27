@@ -1,6 +1,6 @@
 ---
 name: stb-dba-oesterreich
-description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzueberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausfuehrung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-oesterreich-rueckkehr."
+description: "DBA Deutschland Oesterreich aktuelle Fassung mit Protokollen. Anwendungsfall grenzüberschreitende Beschaeftigung Grenzgaenger Pensionen Beteiligungen Lizenzen Bauausführung. Grenzgaengerregelung Konsultations-Vereinbarungen Home Office. Methodenartikel Freistellung mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-oesterreich-rückkehr."
 ---
 
 # DBA Deutschland-Oesterreich

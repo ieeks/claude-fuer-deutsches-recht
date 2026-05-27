@@ -1,6 +1,6 @@
 ---
 name: anw-steuerstrafverteidigung-verstaendigung
-description: "Strafverteidigung in Steuerstrafsachen nach §§ 369 ff. AO mit Ziel Einstellung oder Verstaendigung. Anwendungsfall Mandant ist Beschuldigter wegen Steuerhinterziehung § 370 AO oder leichtfertiger Verkuerzung § 378 AO. Einstellung gegen Auflage § 153a StPO Geldauflage Bemessung an § 398a AO. Verstaendigung § 257c StPO Strafmass Steuerschaden-Bezifferung. Trennung Steuerverfahren Strafverfahren § 393 AO Auskunftsverweigerungsrecht § 393 Abs. 1 S. 2 AO Tateinheit BGH 1 StR 631/10. Output Verteidigungsstrategie-Memo Einstellungsantrag Verstaendigungsprotokoll. Abgrenzung zu anw-selbstanzeige-371."
+description: "Strafverteidigung in Steuerstrafsachen nach §§ 369 ff. AO mit Ziel Einstellung oder Verständigung. Anwendungsfall Mandant ist Beschuldigter wegen Steuerhinterziehung § 370 AO oder leichtfertiger Verkuerzung § 378 AO. Einstellung gegen Auflage § 153a StPO Geldauflage Bemessung an § 398a AO. Verständigung § 257c StPO Strafmass Steuerschaden-Bezifferung. Trennung Steuerverfahren Strafverfahren § 393 AO Auskunftsverweigerungsrecht § 393 Abs. 1 S. 2 AO Tateinheit BGH 1 StR 631/10. Output Verteidigungsstrategie-Memo Einstellungsantrag Verständigungsprotokoll. Abgrenzung zu anw-selbstanzeige-371."
 ---
 
 # Strafverteidigung Steuerstrafsache mit Einstellung und Verständigung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-kreditkuendigung-490-bgb
-description: "Bank kuendigt Kredit nach § 490 BGB wegen wesentlicher Vermoegensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Pruefraster Kuendigungs-Voraussetzungen Ankuendigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkuendigung (allg. Kuendigung) und widerrufsjoker (Widerruf)."
+description: "Bank kündigt Kredit nach § 490 BGB wegen wesentlicher Vermögensverschlechterung und Mandant braucht Sofort-Strategie. AGB-Banken Nr. 19. Normen § 490 BGB § 314 BGB AGB-Banken Nr. 19 26. Prüfraster Kündigungs-Voraussetzungen Ankündigungsfrist Sicherheiten-Verwertung einstweiliger Rechtsschutz. Output Widerspruchs-Schreiben Stundungsantrag Klage einstweiliger Rechtsschutz. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkündigung (allg. Kündigung) und widerrufsjoker (Widerruf)."
 ---
 
 # Kreditkündigung § 490 BGB

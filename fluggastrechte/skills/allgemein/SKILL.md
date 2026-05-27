@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Triage fuer Fluggastrechte nach VO (EG) Nr. 261/2004: Stoerungsereignis einordnen, Ausgleichszahlung berechnen, Airline-Ausreden widerlegen, Forderungsschreiben und Klage vorbereiten."
+description: "Einstieg und Triage für Fluggastrechte nach VO (EG) Nr. 261/2004: Stoerungsereignis einordnen, Ausgleichszahlung berechnen, Airline-Ausreden widerlegen, Forderungsschreiben und Klage vorbereiten."
 ---
 
 # Fluggastrechte — Allgemein

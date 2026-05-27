@@ -1,6 +1,6 @@
 ---
 name: entscheidungsgruende-zivil-schreiben
-description: "Entscheidungsgruende eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begruendung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgruende), § 286 ZPO. Pruefraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswuerdigung, Einwendungen, Verjaehrung, Nebenentscheidungen. Output Entscheidungsgruende-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil."
+description: "Entscheidungsgründe eines Zivilurteils im Urteilsstil schreiben: Richter hat Beweise erhoben und muss Begründung formulieren. Normen: § 313 Abs. 3 ZPO (Entscheidungsgründe), § 286 ZPO. Prüfraster: Urteilsstil (kein Gutachtenstil), Obersatz, Anspruchsgrundlage, Subsumtion, Beweiswürdigung, Einwendungen, Verjährung, Nebenentscheidungen. Output Entscheidungsgründe-Entwurf im korrekten Urteilsstil. Abgrenzung: Tatbestand siehe tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil; Relation (Vorstufe) siehe relation-zivil."
 ---
 
 # Entscheidungsgründe schreiben

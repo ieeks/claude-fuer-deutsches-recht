@@ -1,6 +1,6 @@
 ---
 name: iv-arbeitsrecht-insolvenzgeld
-description: "Personalthemen im Insolvenzverfahren bearbeiten: Lohnrueckstaende Insolvenzgeld Kuendigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Pruefraster: Arbeitnehmerbestand Rueckstaende Insolvenzgeldzeitraum Vorfinanzierung Kuendigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldantraege Kuendigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht fuer uebergreifende Betriebsfortfuehrung (iv-sicherung-betriebsfortfuehrung)."
+description: "Personalthemen im Insolvenzverfahren bearbeiten: Lohnrückstaende Insolvenzgeld Kündigungen Betriebsuebergang Betriebsrat. §§ 113 125 InsO § 165 SGB III Insolvenzgeld. Prüfraster: Arbeitnehmerbestand Rückstaende Insolvenzgeldzeitraum Vorfinanzierung Kündigungsfristen Sozialplan. Output: Massnahmenplan Insolvenzgeldanträge Kündigungsschreiben Betriebsratsunterlagen. Abgrenzung: nicht für uebergreifende Betriebsfortführung (iv-sicherung-betriebsfortführung)."
 ---
 
 # Arbeitsrecht, Personal und Insolvenzgeld

@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-freundlicher-copilot
-description: "Fuehrt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prueft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstantiierten Schriftsatzvortrag. Output Kurze hilfreiche Vorschlaege mit Nachziehmodus Erklaerungen und Weiterleitung zum passenden Skill. Abgrenzung zu kanzlei-allgemein-kommandocenter (Schnellrouting) und kanzlei-allgemein-qualitaetsgate-hardening."
+description: "Führt junge Anwaelte freundlich durch alle Kanzlei-Workflows mit Nachhilfemodus. Anwendungsfall Berufsanfaenger oder Quereinsteiger weiss nicht wie er Akte anlegen Rechnung schreiben oder beA nutzen soll. Prüft Luecken in beA Rechnung Fristen Mandatsannahme GwG Zeitnarrative UStVA und unsubstantiierten Schriftsatzvortrag. Output Kurze hilfreiche Vorschlaege mit Nachziehmodus Erklärungen und Weiterleitung zum passenden Skill. Abgrenzung zu kanzlei-allgemein-kommandocenter (Schnellrouting) und kanzlei-allgemein-qualitaetsgate-hardening."
 ---
 
 # Freundlicher Kanzlei-Copilot

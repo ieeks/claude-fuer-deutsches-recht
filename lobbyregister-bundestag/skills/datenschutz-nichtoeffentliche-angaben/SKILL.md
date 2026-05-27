@@ -1,6 +1,6 @@
 ---
 name: datenschutz-nichtoeffentliche-angaben
-description: "Ordnet oeffentliche und nicht oeffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveroeffentlichung. Output Datenschutzkarte."
+description: "Ordnet öffentliche und nicht öffentliche Registerangaben, personenbezogene Daten, interne Nachweise und Portalveröffentlichung. Output Datenschutzkarte."
 ---
 
 # Datenschutz und nicht oeffentliche Angaben

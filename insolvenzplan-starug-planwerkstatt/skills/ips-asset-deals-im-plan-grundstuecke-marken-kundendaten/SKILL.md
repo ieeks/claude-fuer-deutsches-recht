@@ -1,6 +1,6 @@
 ---
 name: ips-asset-deals-im-plan-grundstuecke-marken-kundendaten
-description: "Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Pruefraster: Uebertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformitaet. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht fuer allgemeine Planarchitektur (ips-insolvenzplan-architektur)."
+description: "Asset-Deals im Insolvenzplan strukturieren wenn Grundstuecke Marken oder Kundendaten uebertragen werden sollen. §§ 311b 398 BGB §§ 27 ff. MarkenG § 15 PatG. Prüfraster: Übertragungsgegenstand Formerfordernis Grundbuch Markenregister Datenschutz DSGVO-Konformität. Output: Transferklauseln Plananlage Checkliste. Abgrenzung: nicht für allgemeine Planarchitektur (ips-insolvenzplan-architektur)."
 ---
 
 # Übertragungsklauseln im Insolvenzplan — aufschiebend vs. auflösend bedingt, mit/ohne Gläubigerzustimmung

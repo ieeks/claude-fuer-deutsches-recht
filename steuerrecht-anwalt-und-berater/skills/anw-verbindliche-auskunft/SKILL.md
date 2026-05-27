@@ -1,6 +1,6 @@
 ---
 name: anw-verbindliche-auskunft
-description: "Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebuehrenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebuehrenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile."
+description: "Antrag auf verbindliche Auskunft nach § 89 Abs. 2 AO vor Verwirklichung eines steuerlich unsicheren Sachverhalts stellen. Anwendungsfall Mandant plant Umstrukturierung Holding Wegzug Schenkung Erbschaft oder internationalen Sachverhalt und will vorab steuerliche Behandlung verbindlich klaeren. Voraussetzungen noch-nicht-verwirklichter Sachverhalt klare Rechtsfrage eigene Rechtsauffassung. Gebührenpflicht SteuAuskV Gegenstandswert § 34 GKG analog Gebührenfreiheit unter 10000 EUR WtcG 2024. Output formgerechter Antrag Bindungswirkung Strategiebewertung Vor- und Nachteile."
 ---
 
 # Verbindliche Auskunft nach § 89 Abs. 2 AO

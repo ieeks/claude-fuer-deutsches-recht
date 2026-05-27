@@ -1,6 +1,6 @@
 ---
 name: takedown-anweisung
-description: "Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Pruefraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage."
+description: "Rechteinhaber findet urheberrechtsverletzende Inhalte online oder erhielt selbst eine Meldung als Hostprovider. Notice-and-Take-Down §§ 7 ff. TMG/DDG DSA Art. 16. Prüfraster: Meldung an Hostprovider Stoererhaftung DSA Meldeformular Gegendarstellung. Output: Meldungs-Entwurf oder Gegendarstellungs-Schriftsatz. Abgrenzung zu abmahnung-urheberrecht (klassische Abmahnung) und verletzungs-triage."
 ---
 
 # Notice-and-Take-Down / Meldeverfahren

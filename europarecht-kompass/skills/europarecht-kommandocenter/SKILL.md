@@ -1,6 +1,6 @@
 ---
 name: europarecht-kommandocenter
-description: "Einstiegspunkt fuer Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Pruefraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
+description: "Einstiegspunkt für Europarechtsmandate: Rechtsgebiet bestimmen relevante Normen identifizieren Bearbeitungsroute festlegen. AEUV EUV GRC EU-Sekundaerrecht. Prüfraster: Sachverhalt EU-Rechtsbezug Rechtsgebiet Route Zeitdruck Mandantensprache. Output: Mandat-Steckbrief Normenmap naechste Schritte. Abgrenzung: Einstieg und Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Europarecht-Kommandocenter

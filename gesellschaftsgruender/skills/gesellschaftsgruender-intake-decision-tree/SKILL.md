@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-intake-decision-tree
-description: "Entscheidungsbaum fuer GmbH-Gruendung: Rechtsformwahl, Gruendungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Pruefraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster."
+description: "Entscheidungsbaum für GmbH-Gründung: Rechtsformwahl, Gründungsweg, Kapitalausstattung. Normen: GmbHG, AktG, PartGG, HGB. Prüfraster: Haftung, Steuer, Kapital, Gesellschafteranzahl. Output: Entscheidungsmatrix Rechtsformwahl. Abgrenzung: nicht detaillierte Vertragsmuster."
 ---
 
 # Intake Decision Tree

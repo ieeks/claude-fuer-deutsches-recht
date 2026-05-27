@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-icp-kontrollsystem
-description: "Entwurf und Haertung eines integrierten Compliance-Programms ICP fuer Exportkontrolle Zoll Sanktionen CBAM und AML. Anwendungsfall Unternehmen will rechtssicheres ICP aufbauen oder bestehendes System haerten. Normen AWG § 22 Sorgfaltspflicht EU-Dual-Use-Verordnung Art. 9 internes Compliance-Programm EU-Sanktionsverordnungen Art. 15b. Pruefraster Rollen Kontrollen Schulungen Audit-Trail Screening-Integration Eskalationswege Dokumentation. Output ICP-Handbuch mit Prozessmatrix Rollenzuordnung Schulungsplan und Audit-Trail-Konzept. Abgrenzung zu aussenwirtschaft-aml-kyc-sanktionen und aussenwirtschaft-pruefung-ermittlung."
+description: "Entwurf und Haertung eines integrierten Compliance-Programms ICP für Exportkontrolle Zoll Sanktionen CBAM und AML. Anwendungsfall Unternehmen will rechtssicheres ICP aufbauen oder bestehendes System haerten. Normen AWG § 22 Sorgfaltspflicht EU-Dual-Use-Verordnung Art. 9 internes Compliance-Programm EU-Sanktionsverordnungen Art. 15b. Prüfraster Rollen Kontrollen Schulungen Audit-Trail Screening-Integration Eskalationswege Dokumentation. Output ICP-Handbuch mit Prozessmatrix Rollenzuordnung Schulungsplan und Audit-Trail-Konzept. Abgrenzung zu aussenwirtschaft-aml-kyc-sanktionen und aussenwirtschaft-prüfung-ermittlung."
 ---
 
 # Internal Compliance Program

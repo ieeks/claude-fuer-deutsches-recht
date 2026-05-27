@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-kapitalerhoehung-bezugsrecht
-description: "Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchfuehren. Normen: §§ 55 56 56a GmbHG. Pruefraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital."
+description: "Kapitalerhöhung der GmbH mit und ohne Bezugsrecht der Gesellschafter durchführen. Normen: §§ 55 56 56a GmbHG. Prüfraster: Gesellschafterbeschluss, Bezugsrechtsausschluss, Einlageverpflichtung, Handelsregisteranmeldung. Output: Beschlussvorlage Kapitalerhöhung und HR-Checkliste. Abgrenzung: nicht genehmigtes Kapital."
 ---
 
 # Kapitalerhöhung und Bezugsrecht

@@ -1,6 +1,6 @@
 ---
 name: gutachten-uebung
-description: "Gutachten Uebung fuer Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht oeffentliches Recht. Pruefraster Gutachten-Schema korrekt, Definitionen vollstaendig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterloesung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre fuer reine Methodik und zu Examensvorbereitung-Fragen."
+description: "Gutachten Uebung für Jurastudium und Examensvorbereitung: Anwendungsfall Student bearbeitet Uebungsfall und soll Klausurtechnik Gutachtenstil Subsumtion und Zeitmanagement trainieren. Gutachtenstil mit Obersatz Definiton Subsumtion Ergebnis, Tatbestaende, Methodenlehre Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Gutachten-Schema korrekt, Definitionen vollständig, Subsumtion in richtiger Reihenfolge, Zeitlimit simuliert. Output kommentierte Musterlösung mit Hinweisen zu Klausurtechnik. Abgrenzung zu Subsumtionslehre für reine Methodik und zu Examensvorbereitung-Fragen."
 ---
 
 # Gutachtenstil-Übung

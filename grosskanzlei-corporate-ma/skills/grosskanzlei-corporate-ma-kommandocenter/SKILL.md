@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-kommandocenter
-description: "Deal-Kommandocenter Corporate/M&A: Schnellstart und Workflow-Routing fuer alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Pruefraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart fuer Erst-Konfiguration und zu Deal-Intake fuer neue Mandate."
+description: "Deal-Kommandocenter Corporate/M&A: Schnellstart und Workflow-Routing für alle Transaktionsphasen. Anwendungsfall Anwalt gibt Kuerzel, Dokument oder Sachverhaltssatz ein und wird in richtigen Deal-Skill geleitet. SPA Share Purchase Agreement, Due Diligence Datenraum, Signing Closing. Prüfraster Deal-Phase erkennen, Workstream zuordnen, Deal-Karte mit Ampel und naechster Aktion erzeugen. Output Deal-Dashboard mit Phasenstatus, Rollen-Matrix und Eskalationshinweisen. Abgrenzung zu Kaltstart für Erst-Konfiguration und zu Deal-Intake für neue Mandate."
 ---
 
 # Deal-Kommandocenter

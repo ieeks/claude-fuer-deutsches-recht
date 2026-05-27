@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-urheber-medienrecht
-description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Pruefraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
+description: "Urheber- und Medienrechtsmandat schnell einordnen und naechste Schritte bestimmen. §§ 1 2 97 UrhG §§ 22 23 KUG LPG. Prüfraster: Schutzgegenstand Verletzungsart Parteistellung Fristen Verfahrensart. Output: Triage-Memo Route Sofortmassnahmen. Abgrenzung: Triage; Detailarbeit in Spezialist-Skills."
 ---
 
 # Mandat-Triage Urheber- und Medienrecht

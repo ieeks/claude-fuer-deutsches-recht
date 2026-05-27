@@ -1,6 +1,6 @@
 ---
 name: schulung-legistik
-description: "Trainerleitfaden fuer Legistik-Schulung mit der Schulungsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begruendung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Musterloesung. Output Trainerleitfaden Aufgabenhefte Musterloesungen je Station. Kompatibel mit Testakte legistik-pflichtpostfach."
+description: "Trainerleitfaden für Legistik-Schulung mit der Schulungsakte elektronisches Pflichtpostfach. Anwendungsfall Referenten oder Mitarbeiter von Verbanden sollen legistische Kernkompetenz in zwei Tagen Inhouse-Schulung oder einer Woche Fortbildung erwerben. Lernziele Auftragsaufnahme Normebenen-Routing Verfassungsrecht- und Europarechts-Quercheck Referentenentwurf Begründung Synopse XML Folgenabschaetzung. Sechs Stationen mit Lernziel Aufgabe Stolperfallen Musterlösung. Output Trainerleitfaden Aufgabenhefte Musterlösungen je Station. Kompatibel mit Testakte legistik-pflichtpostfach."
 ---
 
 # Trainerleitfaden Schulung Legistik

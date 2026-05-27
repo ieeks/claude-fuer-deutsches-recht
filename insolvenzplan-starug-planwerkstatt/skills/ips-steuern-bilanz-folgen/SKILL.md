@@ -1,6 +1,6 @@
 ---
 name: ips-steuern-bilanz-folgen
-description: "Steuerliche und bilanzielle Folgen des Plans pruefen damit Planwirkungen nicht an Nebenfolgen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Pruefraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV Finanzamts-Kommunikation. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht fuer allgemeine IV-Steuerfragen."
+description: "Steuerliche und bilanzielle Folgen des Plans prüfen damit Planwirkungen nicht an Nebenfolgen scheitern. §§ 3a 3c EStG Sanierungsgewinn § 8c KStG Verlustvortrag. Prüfraster: Erlass Stundung Debt-Equity-Swap Bilanzierung Verlustvortraege USt LohnSt SV Finanzamts-Kommunikation. Output: Steuerrisikomatrix Bilanzfolgenliste Beraterfragen. Abgrenzung: nicht für allgemeine IV-Steuerfragen."
 ---
 
 # Steuern und Bilanzfolgen

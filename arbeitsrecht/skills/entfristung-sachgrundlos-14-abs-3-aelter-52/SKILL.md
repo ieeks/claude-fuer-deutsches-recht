@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrundlos-14-abs-3-aelter-52
-description: "Sachgrundlose Befristung fuer aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit Unionsrecht."
+description: "Sachgrundlose Befristung für aeltere Arbeitnehmer nach § 14 Abs. 3 TzBfG: Befristung ab 52 Jahren; Voraussetzung Vorarbeitslosigkeit oder Massnahme aktiver Arbeitsmarktpolitik; EuGH-Entscheidung zur Vereinbarkeit mit Unionsrecht."
 ---
 
 # Sachgrundlose Befristung ab Alter 52 — § 14 Abs. 3 TzBfG

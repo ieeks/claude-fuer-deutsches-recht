@@ -1,6 +1,6 @@
 ---
 name: vorlage-ma-due-diligence
-description: "Vorlagetabelle fuer M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Pruefraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle fuer M-und-A-Transaktionen. Abgrenzung: nicht allgemeines M-und-A-Skill."
+description: "Vorlagetabelle für M-und-A-Due-Diligence im 3D-Format: Forderungen, Verbindlichkeiten, Rechtsrisiken. Normen: GmbHG, AktG, HGB, InsO. Prüfraster: Vertragsrisiken, Haftungsuebernahme, steuerliche Lasten. Output: Due-Diligence-Tabelle für M-und-A-Transaktionen. Abgrenzung: nicht allgemeines M-und-A-Skill."
 ---
 
 # /tabellenreview-3d:vorlage-ma-due-diligence

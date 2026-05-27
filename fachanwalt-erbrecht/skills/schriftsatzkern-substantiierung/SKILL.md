@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren. §§ 2303 2353 BGB §§ 253 286 ZPO. Pruefraster: Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht fuer aussergerichtliche Korrespondenz oder Berechnungen."
+description: "Erbrechtsklage oder erbrechtlichen Antrag substantiiert formulieren. §§ 2303 2353 BGB §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Antrag Streitwert Fristen. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz oder Berechnungen."
 ---
 
 # Schriftsatzkern und Substantiierung im Erb- und Pflichtteilsrecht

@@ -1,6 +1,6 @@
 ---
 name: fremdmandat-agenturfall
-description: "Spezialworkflow fuer Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt."
+description: "Spezialworkflow für Public-Affairs-Agenturen, Kanzleien, Beratungen und Dienstleister mit mehreren Mandanten. Output Mandanten-Trennblatt."
 ---
 
 # Fremdmandat und Agenturfall

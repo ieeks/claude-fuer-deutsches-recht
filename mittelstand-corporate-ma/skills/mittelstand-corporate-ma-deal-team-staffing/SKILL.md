@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-deal-team-staffing
-description: "Kanzlei strukturiert Transaktionsteam fuer grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Pruefraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigramm Deal-Team-Karte. Abgrenzung zu deal-intake (Erstaufnahme) und matter-file (Aktenstruktur)."
+description: "Kanzlei strukturiert Transaktionsteam für grosse M&A-Mandate: Workstreams Rollen Kapazitaetsplanung Review-Level Eskalationswege. Normen BRAO § 43a Berufsrecht Mandantsgeheimnis-Sicherung. Prüfraster Workstream-Karte Rollen-Matrix Kapazitaets-Check Staffing-Risiken. Output Staffing-Plan Organigramm Deal-Team-Karte. Abgrenzung zu deal-intake (Erstaufnahme) und matter-file (Aktenstruktur)."
 ---
 
 # Deal-Team und Staffing

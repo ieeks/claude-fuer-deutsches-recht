@@ -1,6 +1,6 @@
 ---
 name: berufsrecht-ki-vertragspruefung-kaltstart-interview
-description: "Erfasse Beruf des Auftraggebers (Rechtsanwalt Steuerberater Wirtschaftspruefer Patentanwalt Notar) Anbieter Produktname Vertragsdokument Datenarten Verarbeitungszweck Hostingland und Subunternehmerstruktur. Bilde daraus den Norm-Adapter (BRAO StBerG WPO PAO BNotO) und entscheide ob Kanzleiinfrastruktur oder Einzelmandats-Tool im Sinne Absatz fuenf vorliegt. Lade dazu die Skill parallelnormen-andere-berufe."
+description: "Erfasse Beruf des Auftraggebers (Rechtsanwalt Steuerberater Wirtschaftsprüfer Patentanwalt Notar) Anbieter Produktname Vertragsdokument Datenarten Verarbeitungszweck Hostingland und Subunternehmerstruktur. Bilde daraus den Norm-Adapter (BRAO StBerG WPO PAO BNotO) und entscheide ob Kanzleiinfrastruktur oder Einzelmandats-Tool im Sinne Absatz fuenf vorliegt. Lade dazu die Skill parallelnormen-andere-berufe."
 ---
 
 # Kaltstart-Interview

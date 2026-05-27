@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Grosskanzlei-Corporate-MA-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, CP-Kalender, E-Rechnung/GoBD, PMI und KI-Governance fuer Corporate/M&A-Mandate in der Grosskanzlei."
+description: "Einstieg und Überblick für das Grosskanzlei-Corporate-MA-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG, CP-Kalender, E-Rechnung/GoBD, PMI und KI-Governance für Corporate/M&A-Mandate in der Grosskanzlei."
 ---
 
 # Grosskanzlei Corporate/M&A — Allgemein

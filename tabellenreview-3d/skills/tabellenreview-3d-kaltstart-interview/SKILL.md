@@ -1,6 +1,6 @@
 ---
 name: tabellenreview-3d-kaltstart-interview
-description: "Kaltstart-Interview fuer den 3D-Tabellenreview: Fallkategorie, Tabellengrösse, Pruefzweck erfassen. Normen: §§ 174 ff. InsO, HGB. Pruefraster: Zweck, Datenlage, Perspektivenwahl, Exportformat. Output: Konfigurationsdokument fuer 3D-Review-Start. Abgrenzung: nicht Pruefungsdurchfuehrung."
+description: "Kaltstart-Interview für den 3D-Tabellenreview: Fallkategorie, Tabellengrösse, Prüfzweck erfassen. Normen: §§ 174 ff. InsO, HGB. Prüfraster: Zweck, Datenlage, Perspektivenwahl, Exportformat. Output: Konfigurationsdokument für 3D-Review-Start. Abgrenzung: nicht Prüfungsdurchführung."
 ---
 
 # /tabellenreview-3d:tabellenreview-3d-kaltstart-interview

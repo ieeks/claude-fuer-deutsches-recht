@@ -1,6 +1,6 @@
 ---
 name: klauselgenerator-formvorbehalt-und-aenderungsvorbehalt
-description: "Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Aenderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator §§ 305b 305c BGB. Pruefraster: einfache Schriftformklausel doppelte Schriftformklausel BGH-konform (BGH XII ZR 13/13 BGH VII ZR 153/13) Textformklausel AGB-Falle § 305b BGB. Output: fertige Klausel-Texte fuer Miet- Kauf- und Dienstleistungsvertraege. Abgrenzung zu gewerberaummiete-paragraph-550-bgb-langzeitform (Mietrecht) und form-checker-fuer-vertrag-oder-willenserklaerung."
+description: "Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Aenderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator §§ 305b 305c BGB. Prüfraster: einfache Schriftformklausel doppelte Schriftformklausel BGH-konform (BGH XII ZR 13/13 BGH VII ZR 153/13) Textformklausel AGB-Falle § 305b BGB. Output: fertige Klausel-Texte für Miet- Kauf- und Dienstleistungsvertraege. Abgrenzung zu gewerberaummiete-paragraph-550-bgb-langzeitform (Mietrecht) und form-checker-fuer-vertrag-oder-willenserklärung."
 ---
 
 # Klauselgenerator — Formvorbehalt und Änderungsvorbehalt

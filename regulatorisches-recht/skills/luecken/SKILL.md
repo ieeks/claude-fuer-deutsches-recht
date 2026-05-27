@@ -1,6 +1,6 @@
 ---
 name: luecken
-description: "Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Pruefraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit Risikoklassifizierung. Abgrenzung: nicht fuer Lueckenaufzeiger-Perspektive nach aussen (luecken-aufzeiger)."
+description: "Regulatorische Luecken in bestehenden Compliance-Strukturen identifizieren. KWG WpHG DORA VAG GwG. Prüfraster: Ist-Zustand Soll-Anforderungen Luecken Risikograd Priorisierung. Output: Lueckenliste mit Risikoklassifizierung. Abgrenzung: nicht für Lueckenaufzeiger-Perspektive nach aussen (luecken-aufzeiger)."
 ---
 
 # Gap-Tracker

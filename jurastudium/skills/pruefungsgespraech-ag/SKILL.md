@@ -1,6 +1,6 @@
 ---
 name: pruefungsgespraech-ag
-description: "Pruefungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Loesungsschemata, Tatbestaende Zivilrecht Strafrecht oeffentliches Recht. Pruefraster Gespraeachsfuehrung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Pruefungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung fuer Vorbereitung und zu Examensvorbereitung-Fragen."
+description: "Prüfungsgespraech und Sokrates-Methode in Arbeitsgemeinschaft simulieren: Anwendungsfall Student will AG-Diskussion oder Dozentengespraeach simulieren und Argumentation trainieren. Subsumtion, Lösungsschemata, Tatbestaende Zivilrecht Strafrecht öffentliches Recht. Prüfraster Gespraeachsführung Sokrates-Methode, Gegenfragen antizipieren, Argumentationsschwaechen erkennen, Unsicherheiten korrekt kommunizieren. Output simuliertes Prüfungsgespraeach mit Feedbackprotokoll und Verbesserungshinweisen. Abgrenzung zu AG-Vorbereitung für Vorbereitung und zu Examensvorbereitung-Fragen."
 ---
 
 # Prüfungsgespräch nach AG-Tradition

@@ -1,6 +1,6 @@
 ---
 name: zv-vollstreckungsschutz-haertefall-765a
-description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbeduerftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Pruefraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-raeumung-885 (Raeumungsschutz)."
+description: "Schuldner ist schwerkrank suizidgefaehrdet oder sonst besonders schutzbedürftig und will Vollstreckung stoppen. § 765a ZPO Vollstreckungsschutz sittenwidrige Haerte. Prüfraster: Antrag Einstellung oder Beschraenkung Haerteanwendungsfaelle Krankheit Suizidgefahr Obdachlosigkeit Glaubhaftmachung eidesstattliche Versicherung. Output: Schutzantrag § 765a ZPO und Glaubhaftmachungs-Vorlage. Abgrenzung zu zv-abwehr-schuldner (sonstige Abwehr) und zv-räumung-885 (Räumungsschutz)."
 ---
 
 # Vollstreckungsschutz § 765a ZPO — Härtefall

@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-eingang
-description: "Eingehende Wandelereignis-Notification pruefen und naechste Schritte bestimmen wenn Investor Wandlung ankuendigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Pruefraster: Trigger-Typ Frist Preisbestimmung Erklaerung Kapitalerhohungsbedarf Formerfordernisse. Output: Pruefprotokoll Massnahmenplan Fristen. Abgrenzung: nicht fuer Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren)."
+description: "Eingehende Wandelereignis-Notification prüfen und naechste Schritte bestimmen wenn Investor Wandlung ankündigt. §§ 488 ff. BGB Darlehensvertrag §§ 53 55 GmbHG. Prüfraster: Trigger-Typ Frist Preisbestimmung Erklärung Kapitalerhohungsbedarf Formerfordernisse. Output: Prüfprotokoll Massnahmenplan Fristen. Abgrenzung: nicht für Wandlungsmechanik-Konzeption (wandlungsmechanik-konzipieren)."
 ---
 
 # Wandelereignis – Eingang Wandlungserklärung

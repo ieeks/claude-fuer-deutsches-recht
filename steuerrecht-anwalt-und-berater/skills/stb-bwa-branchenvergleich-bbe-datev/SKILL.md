@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-branchenvergleich-bbe-datev
-description: "Branchenvergleich BWA auf Basis BBE-Datenbank ueber DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenpruefung. Output BWA mit Branchenvergleichs-Spalte Erlaeuterung."
+description: "Branchenvergleich BWA auf Basis BBE-Datenbank über DATEV. Anwendungsfall Quartals- oder Jahres-BWA mit anonymisierten Branchen-Mittelwerten Median Top-Quartil. Methodik Branche identifizieren Vergleichsperiode waehlen Kennzahlenprüfung. Output BWA mit Branchenvergleichs-Spalte Erlaeuterung."
 ---
 
 # Branchenvergleich BBE / DATEV in der BWA

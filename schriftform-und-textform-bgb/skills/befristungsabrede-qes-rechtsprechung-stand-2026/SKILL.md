@@ -1,6 +1,6 @@
 ---
 name: befristungsabrede-qes-rechtsprechung-stand-2026
-description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach § 14 Abs. 4 TzBfG. LAG Berlin-Brandenburg 16.03.2022 — 23 Sa 1133/21: eingescannte Unterschrift wahrt Schriftform nicht; nur eigenhändige Unterschrift im Original oder qualifizierte elektronische Signatur reichen. ArbG Berlin: einfache elektronische Signatur unwirksam. ArbG Gera 07.03.2024 — 2 Ca 936/23: qES per DocuSign wahrt Schriftform. Praxisempfehlung, Pruefungsschema und Mandantenhinweise."
+description: "Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach § 14 Abs. 4 TzBfG. LAG Berlin-Brandenburg 16.03.2022 — 23 Sa 1133/21: eingescannte Unterschrift wahrt Schriftform nicht; nur eigenhändige Unterschrift im Original oder qualifizierte elektronische Signatur reichen. ArbG Berlin: einfache elektronische Signatur unwirksam. ArbG Gera 07.03.2024 — 2 Ca 936/23: qES per DocuSign wahrt Schriftform. Praxisempfehlung, Prüfungsschema und Mandantenhinweise."
 ---
 
 # Befristungsabrede — qES-Rechtsprechung Stand 2026

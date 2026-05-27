@@ -1,6 +1,6 @@
 ---
 name: urheber-abmahnung-pruefen
-description: "Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie pruefen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Pruefraster: Schutzfaehigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnpruefmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht fuer Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung)."
+description: "Urheberrechtsabmahnung auf Berechtigung Formwirksamkeit und Reaktionsstrategie prüfen. § 97a UrhG § 97 UrhG Unterlassung Schadensersatz. Prüfraster: Schutzfähigkeit Verletzungshandlung Abmahnberechtigung UE Vertragsstrafe Kosten Gegenwehr. Output: Abmahnprüfmemo Reaktionsstrategie modifizierte UE. Abgrenzung: nicht für Filesharing-Verteidigung (fachanwalt-urheber-medienrecht-filesharing-verteidigung)."
 ---
 
 # Urheber-Abmahnung prüfen

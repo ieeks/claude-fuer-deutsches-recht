@@ -1,6 +1,6 @@
 ---
 name: stb-dba-slowakei
-description: "DBA Deutschland Slowakei aus 1980 fortgeltend gegenueber Nachfolgestaat. Anwendungsfall Automotive Zulieferung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Slowakei aus 1980 fortgeltend gegenüber Nachfolgestaat. Anwendungsfall Automotive Zulieferung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Slowakei

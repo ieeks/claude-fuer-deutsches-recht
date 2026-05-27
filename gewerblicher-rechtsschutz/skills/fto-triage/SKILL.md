@@ -1,6 +1,6 @@
 ---
 name: fto-triage
-description: "Unternehmen will Produkt einfuehren oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Pruefraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket fuer Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte)."
+description: "Unternehmen will Produkt einführen oder Technologie einsetzen und fragt: Verletzen wir fremde Patente? Freedom-to-Operate-Analyse FTO. Prüfraster: Recherche Espacenet DPMApaplus EP-Datenbank sperrende DE- und EP-Patente. Ergebnis Recherchepaket für Patentanwalt kein FTO-Gutachten. Output: Recherche-Bericht mit relevanten Patentfundstellen. Abgrenzung zu erfindungsmeldung-aufnahme (eigene Erfindung) und verletzungs-triage (fremde Schutzrechte)."
 ---
 
 # Freedom-to-Operate-Triage (FTO)

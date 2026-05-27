@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-auslegung
-description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Pruefraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation)."
+description: "Student braucht Anleitung zu den vier Auslegungsmethoden grammatikalisch systematisch historisch teleologisch plus verfassungs- und EU-rechtskonforme Auslegung. Rechtsfortbildung Analogie teleologische Reduktion. Normen §§ 133 157 BGB Art. 20 GG. Prüfraster Methoden-Auswahl Anwendung bei unbestimmten Tatbestandsmerkmalen Streitpunkten. Output Auslegungs-Argumentarium Methodenlehre-Leitfaden. Abgrenzung zu subsumtion-schritt-fuer-schritt (Anwendung) und meinungsstreit-darstellen (Argumentation)."
 ---
 
 # Methodenlehre und Auslegung

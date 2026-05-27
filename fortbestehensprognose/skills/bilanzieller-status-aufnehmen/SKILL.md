@@ -1,6 +1,6 @@
 ---
 name: bilanzieller-status-aufnehmen
-description: "Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Pruefraster bilanzielle Ueberschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und ausserbilanzielle Verpflichtungen (Pensionsrueckstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Ueberschuldung ist nicht automatisch insolvenzrechtliche Ueberschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose)."
+description: "Nimmt die bilanzielle Ausgangslage auf — Aktiva Passiva Eigenkapital nach HGB-Stichtagsbilanz. Prüfraster bilanzielle Überschuldung (Aktiva kleiner als Passiva). Erfasst stille Reserven und stille Lasten Sonderposten und außerbilanzielle Verpflichtungen (Pensionsrückstellungen Buergschaften Comfortletter). Erzeugt Insolvenzstatus als Vorstufe zur Fortbestehensprognose. Wichtig — bilanzielle Überschuldung ist nicht automatisch insolvenzrechtliche Überschuldung (§ 19 Abs. 2 InsO Fortbestehensprognose)."
 ---
 
 # Bilanzieller Status aufnehmen

@@ -1,6 +1,6 @@
 ---
 name: entfristung-triage-was-will-user
-description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kuendigungsschutzklage; Ueberblick Pruefprogramm TzBfG; Weiterleitung zu passenden Folge-Skills."
+description: "Einstieg Entfristungsklage-Workflow: Erkennung ob Nutzer Befristungskontrollklage oder Entfristungsklage anstrebt; Abgrenzung zu Kündigungsschutzklage; Überblick Prüfprogramm TzBfG; Weiterleitung zu passenden Folge-Skills."
 ---
 
 # Entfristungsklage: Was will der Nutzer?

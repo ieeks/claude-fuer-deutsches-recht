@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in den KI-VO-Pruefer (EU 2024/1689): Rollen, Risikoklassen, verbotene Praktiken, Hochrisiko-Diagnose, GPAI, Konformitaetsbewertung, EU-Datenbank, Sanktionen und 12-Schritte-Roadmap bis CE-Kennzeichnung."
+description: "Einstieg in den KI-VO-Prüfer (EU 2024/1689): Rollen, Risikoklassen, verbotene Praktiken, Hochrisiko-Diagnose, GPAI, Konformitätsbewertung, EU-Datenbank, Sanktionen und 12-Schritte-Roadmap bis CE-Kennzeichnung."
 ---
 
 # KI-VO AI-Act-Pruefer — Allgemein

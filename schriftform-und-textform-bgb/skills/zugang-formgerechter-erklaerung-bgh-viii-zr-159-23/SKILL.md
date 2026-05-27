@@ -1,6 +1,6 @@
 ---
 name: zugang-formgerechter-erklaerung-bgh-viii-zr-159-23
-description: "Vermieter hat Kuendigung per qES-E-Mail versandt und Mieter bestreitet wirksamen Zugang. BGH VIII ZR 159/23 vom 27.11.2024. Pruefraster: qES-Dokument muss so in Machtbereich gelangen dass Empfaenger Signatur pruefen kann Ausdruck mit Transfervermerk § 298 Abs. 3 ZPO genuegt nicht. Lehrsatz und Praxisfolgen fuer Vermieter. Output: Zugangs-Pruefung und Handlungsempfehlung Vermieter/Mieter. Abgrenzung zu mandantenwarnung-qes-per-email-whatsapp-und-zugang (Mandantenmemo) und elektronische-form-paragraph-126a-bgb-qes."
+description: "Vermieter hat Kündigung per qES-E-Mail versandt und Mieter bestreitet wirksamen Zugang. BGH VIII ZR 159/23 vom 27.11.2024. Prüfraster: qES-Dokument muss so in Machtbereich gelangen dass Empfaenger Signatur prüfen kann Ausdruck mit Transfervermerk § 298 Abs. 3 ZPO genuegt nicht. Lehrsatz und Praxisfolgen für Vermieter. Output: Zugangs-Prüfung und Handlungsempfehlung Vermieter/Mieter. Abgrenzung zu mandantenwarnung-qes-per-email-whatsapp-und-zugang (Mandantenmemo) und elektronische-form-paragraph-126a-bgb-qes."
 ---
 
 # Zugang der formgerechten Erklärung — BGH VIII ZR 159/23

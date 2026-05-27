@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-qualified-financing
-description: "Wandlung bei qualifizierter Finanzierungsrunde pruefen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Pruefprotokoll Wandlungsberechnung. Abgrenzung: nicht fuer Maturity-Trigger (wandlungspruefung-trigger-maturity)."
+description: "Wandlung bei qualifizierter Finanzierungsrunde prüfen wenn neue Investitionsrunde als Trigger definiert ist. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Qualified-Financing-Definition Mindestbetrag Lead-Investor Wandlungspflicht oder -recht Preisbestimmung. Output: Prüfprotokoll Wandlungsberechnung. Abgrenzung: nicht für Maturity-Trigger (wandlungsprüfung-trigger-maturity)."
 ---
 
 # Wandlungsprüfung – Trigger Qualified Financing

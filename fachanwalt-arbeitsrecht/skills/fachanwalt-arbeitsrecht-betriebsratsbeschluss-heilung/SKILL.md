@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-betriebsratsbeschluss-heilung
-description: "Anwaltsperspektive bei Betriebsratsbeschluss-Maengeln: Mandatsannahme durch den Betriebsrat, Pruefung der ordnungsgemaessen Beschlussfassung (§ 25 Abs. 2, § 29 Abs. 2 BetrVG), strategisches Vorgehen bei festgestelltem Verfahrensmangel inklusive Heilung nach BAG 25.09.2024 — 7 ABR 37/23, Rueckwirkung der Genehmigung nach § 184 Abs. 1 BGB, Anwaltskostenfreistellung nach § 40 Abs. 1 BetrVG auch nach Verfahrensabschluss. Beruecksichtigt BAG 20.05.2025 — 1 AZR 35/24 zur Nachladung von Ersatzmitgliedern."
+description: "Anwaltsperspektive bei Betriebsratsbeschluss-Maengeln: Mandatsannahme durch den Betriebsrat, Prüfung der ordnungsgemäßen Beschlussfassung (§ 25 Abs. 2, § 29 Abs. 2 BetrVG), strategisches Vorgehen bei festgestelltem Verfahrensmangel inklusive Heilung nach BAG 25.09.2024 — 7 ABR 37/23, Rückwirkung der Genehmigung nach § 184 Abs. 1 BGB, Anwaltskostenfreistellung nach § 40 Abs. 1 BetrVG auch nach Verfahrensabschluss. Berücksichtigt BAG 20.05.2025 — 1 AZR 35/24 zur Nachladung von Ersatzmitgliedern."
 ---
 
 # Fachanwalt Arbeitsrecht — Betriebsratsbeschluss-Heilung

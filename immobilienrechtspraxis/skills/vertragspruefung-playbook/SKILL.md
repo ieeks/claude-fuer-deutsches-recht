@@ -1,6 +1,6 @@
 ---
 name: vertragspruefung-playbook
-description: "Immobilienrechtliche Vertraege nach standardisiertem Playbook pruefen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Pruefraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerfordernisse. Output: Vertragspruefergebnis mit Markierungen. Abgrenzung: nicht Vertragserstellung."
+description: "Immobilienrechtliche Vertraege nach standardisiertem Playbook prüfen: Kaufvertrag, Grundschuld, WEG. Normen: §§ 433 ff. 873 ff. BGB, WEG, GrEStG, GBO. Prüfraster: Playbook-Checkliste, Risikoklauseln, Notar- und Formerfordernisse. Output: Vertragsprüfergebnis mit Markierungen. Abgrenzung: nicht Vertragserstellung."
 ---
 
 # Vertragsprüfung gegen Playbook

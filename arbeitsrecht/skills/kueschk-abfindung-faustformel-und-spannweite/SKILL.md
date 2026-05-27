@@ -1,6 +1,6 @@
 ---
 name: kueschk-abfindung-faustformel-und-spannweite
-description: "Abfindung Kuendigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung § 34 EStG; keine gesetzliche Abfindungspflicht ausser §§ 1a und 9 KSchG."
+description: "Abfindung Kündigungsschutzklage: Faustformel halbes Bruttomonatsgehalt pro Beschaeftigungsjahr; Spannweite von einem Viertel bis zu einem ganzen Bruttomonatsgehalt; Einflussfaktoren; steuerliche Behandlung Fuenftel-Regelung § 34 EStG; keine gesetzliche Abfindungspflicht außer §§ 1a und 9 KSchG."
 ---
 
 # Abfindung: Faustformel und Spannweite

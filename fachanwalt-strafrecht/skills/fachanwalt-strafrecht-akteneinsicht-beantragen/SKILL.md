@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-akteneinsicht-beantragen
-description: "Akteneinsicht § 147 StPO durch Verteidiger jederzeit waehrend Ermittlungsverfahren und nach Abschluss. Versagungsgruende § 147 Abs. 2 StPO Gefaehrdung Untersuchungszweck. Beschuldigter selbst nur durch Verteidiger § 147 Abs. 4 StPO. Verletzte / Nebenklaeger § 406e StPO. Elektronische Akteneinsicht. Beschwerde § 147 Abs. 5 StPO. Verteidigung ohne Akteneinsicht in fortgeschrittenem Stadium ist Pflichtverletzung."
+description: "Akteneinsicht § 147 StPO durch Verteidiger jederzeit waehrend Ermittlungsverfahren und nach Abschluss. Versagungsgründe § 147 Abs. 2 StPO Gefaehrdung Untersuchungszweck. Beschuldigter selbst nur durch Verteidiger § 147 Abs. 4 StPO. Verletzte / Nebenklaeger § 406e StPO. Elektronische Akteneinsicht. Beschwerde § 147 Abs. 5 StPO. Verteidigung ohne Akteneinsicht in fortgeschrittenem Stadium ist Pflichtverletzung."
 ---
 
 # Akteneinsicht beantragen

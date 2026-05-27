@@ -1,6 +1,6 @@
 ---
 name: risikoklassen-uebersicht-und-triage
-description: "Nutzer weiss nicht in welche Risikoklasse das KI-System faellt und muss schnell eine Ersteinschaetzung erhalten. Art. 5 Art. 6 Anhang III Art. 50 KI-VO vier Risikoklassen. Pruefraster: verbotene Praktiken Art. 5 Hochrisiko Art. 6 begrenztes Risiko Art. 50 minimales Risiko. Systematischer Entscheidungsbaum mit klaren Verzweigungen und Weiterleitung zu Detailskills. Output: Risikoklassen-Erstdiagnose. Abgrenzung zu entscheidungsbaum-ki-vo-gesamt-workflow (vollstaendiger Pruefpfad) und triage-ki-vo-vorpruefung (Einstiegsinterview)."
+description: "Nutzer weiss nicht in welche Risikoklasse das KI-System faellt und muss schnell eine Ersteinschaetzung erhalten. Art. 5 Art. 6 Anhang III Art. 50 KI-VO vier Risikoklassen. Prüfraster: verbotene Praktiken Art. 5 Hochrisiko Art. 6 begrenztes Risiko Art. 50 minimales Risiko. Systematischer Entscheidungsbaum mit klaren Verzweigungen und Weiterleitung zu Detailskills. Output: Risikoklassen-Erstdiagnose. Abgrenzung zu entscheidungsbaum-ki-vo-gesamt-workflow (vollständiger Prüfpfad) und triage-ki-vo-vorprüfung (Einstiegsinterview)."
 ---
 
 # Risikoklassen-Übersicht und Triage — KI-VO

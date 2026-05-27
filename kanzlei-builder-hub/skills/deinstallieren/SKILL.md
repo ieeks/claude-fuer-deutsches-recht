@@ -1,6 +1,6 @@
 ---
 name: deinstallieren
-description: "Plugins oder Skills vollstaendig deinstallieren: Abhaengigkeitspruefung, Datensicherung. Normen: technisch/intern. Pruefraster: Abhaengigkeitscheck, Datensicherung vor Loeschung, Bestaetigung. Output: Deinstallationsprotokoll. Abgrenzung: nicht temporaeres Deaktivieren."
+description: "Plugins oder Skills vollständig deinstallieren: Abhaengigkeitsprüfung, Datensicherung. Normen: technisch/intern. Prüfraster: Abhaengigkeitscheck, Datensicherung vor Löschung, Bestätigung. Output: Deinstallationsprotokoll. Abgrenzung: nicht temporaeres Deaktivieren."
 ---
 
 # Deinstallation

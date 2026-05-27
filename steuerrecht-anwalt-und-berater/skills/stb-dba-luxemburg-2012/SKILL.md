@@ -1,6 +1,6 @@
 ---
 name: stb-dba-luxemburg-2012
-description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzueberschreitende Arbeitsverhaeltnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-Memo BZSt-Hinweise."
+description: "DBA Deutschland Luxemburg aktuelle Fassung 2012 mit Aenderungsprotokollen. Anwendungsfall Holding-Konstruktionen Soparfi Fondsstrukturen grenzüberschreitende Arbeitsverhältnisse mit hoher Pendlerzahl. Substanz Anti-Treaty-Shopping MLI Hybrid-Regelungen. Output Mandanten-Memo Holding-Substanztest-Memo BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Luxemburg (2012)

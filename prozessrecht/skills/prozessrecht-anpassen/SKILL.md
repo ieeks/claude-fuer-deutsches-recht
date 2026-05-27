@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-anpassen
-description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Ruecknahme. Normen: §§ 263 264 269 ZPO. Pruefraster: Klageaenderungsvoraussetzungen, Ruecknahmefolgen, Widerklagemöglichkeiten. Output: Strategieanpassungs-Vermerk. Abgrenzung: nicht Berufungs-Skill."
+description: "Prozessrechtliche Strategie im laufenden Verfahren anpassen: Klageaenderung, Widerklage, Rücknahme. Normen: §§ 263 264 269 ZPO. Prüfraster: Klageaenderungsvoraussetzungen, Rücknahmefolgen, Widerklagemöglichkeiten. Output: Strategieanpassungs-Vermerk. Abgrenzung: nicht Berufungs-Skill."
 ---
 
 # Praxisprofil anpassen

@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-conflict-gwg-sanctions
-description: "Mandatsannahme-Pruefung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwaeschegesetz-Pruefung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen Gegenparteien. Pruefraster Interessenkonflikt-Check, UBO-Identifikation, Sanktionslisten-Abgleich, Mittelherkunft, Laenderrisiko. Output Annahmevermerk mit Ampelstatus, Dokumentationsprotokoll und ggf. Mandatsablehnungs-Schreiben. Abgrenzung zu KI-Governance-Berufsrecht Skill und zu Datenraum-Aufbau."
+description: "Mandatsannahme-Prüfung im Corporate/M&A-Mandat: Interessenkonflikte nach § 43a BRAO, Geldwäschegesetz-Prüfung wirtschaftlich Berechtigter nach § 3 GwG, Sanktionsscreening nach AWG und EU-Verordnungen. Anwendungsfall neue Transaktionsmandate mit PEP-Verdacht, Sektorrisiken oder konzernverbundenen Gegenparteien. Prüfraster Interessenkonflikt-Check, UBO-Identifikation, Sanktionslisten-Abgleich, Mittelherkunft, Laenderrisiko. Output Annahmevermerk mit Ampelstatus, Dokumentationsprotokoll und ggf. Mandatsablehnungs-Schreiben. Abgrenzung zu KI-Governance-Berufsrecht Skill und zu Datenraum-Aufbau."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck

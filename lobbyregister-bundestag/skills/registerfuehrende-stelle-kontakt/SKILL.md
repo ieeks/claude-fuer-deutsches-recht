@@ -1,6 +1,6 @@
 ---
 name: registerfuehrende-stelle-kontakt
-description: "Bereitet Anfragen an die registerfuehrende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte."
+description: "Bereitet Anfragen an die registerführende Stelle, Nachweisantworten, Korrekturen und Telefonnotizen vor. Output RfS-Kommunikationsakte."
 ---
 
 # Registerfuehrende Stelle Kontakt

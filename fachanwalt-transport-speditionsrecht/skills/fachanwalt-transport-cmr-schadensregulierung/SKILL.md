@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-cmr-schadensregulierung
-description: "Schadensregulierung im grenzueberschreitenden Gueterverkehr nach CMR durchfuehren. Normen: Art. 17 ff. 23 ff. CMR. Pruefraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht."
+description: "Schadensregulierung im grenzüberschreitenden Gueterverkehr nach CMR durchführen. Normen: Art. 17 ff. 23 ff. CMR. Prüfraster: Schadensanzeige, Haftungsgrenzen 8.33 SZR je Kilogramm, Schadensberechnung, Fristen. Output: CMR-Schadensregulierungsschreiben. Abgrenzung: nicht nationales HGB-Recht."
 ---
 
 # CMR-Schadensregulierung

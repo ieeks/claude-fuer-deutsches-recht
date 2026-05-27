@@ -1,6 +1,6 @@
 ---
 name: mandantenkorrespondenz-form-und-zugang-templates
-description: "Kanzlei benoetigt fertige Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen. Mandantenbrief-Bibliothek Formrecht. Inhalt: Warnung qES-Mail nicht loeschen Mieter-Hinweis auf E-Mail/WhatsApp-Kuendigung pruefen Vermieter-Empfehlung Papier per Boten Maklervertrag-E-Mail-Checkliste. Output: vollstaendige Muster-Korrespondenz-Bibliothek fuer die Kanzleipraxis. Abgrenzung zu mandantenwarnung-qes-per-email-whatsapp-und-zugang (spezifisch BGH VIII ZR 159/23) und prozessablauf-papier-vs-elektronisch."
+description: "Kanzlei benoetigt fertige Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen. Mandantenbrief-Bibliothek Formrecht. Inhalt: Warnung qES-Mail nicht löschen Mieter-Hinweis auf E-Mail/WhatsApp-Kündigung prüfen Vermieter-Empfehlung Papier per Boten Maklervertrag-E-Mail-Checkliste. Output: vollständige Muster-Korrespondenz-Bibliothek für die Kanzleipraxis. Abgrenzung zu mandantenwarnung-qes-per-email-whatsapp-und-zugang (spezifisch BGH VIII ZR 159/23) und prozessablauf-papier-vs-elektronisch."
 ---
 
 # Mandantenkorrespondenz — Form und Zugang: Templates

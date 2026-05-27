@@ -1,6 +1,6 @@
 ---
 name: europarecht-verordnung-beschluss-soft-law
-description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit pruefen. Art. 288 AEUV EU-Rechtsquellen. Pruefraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht fuer Richtlinien (europarecht-richtlinie-umsetzung)."
+description: "EU-Verordnungen Beschluesse und Soft-Law-Instrumente einordnen und deren Verbindlichkeit prüfen. Art. 288 AEUV EU-Rechtsquellen. Prüfraster: Rechtsquellentyp Verbindlichkeit Direktwirkung nationaler Anpassungsbedarf zeitlicher Geltungsbereich. Output: Rechtsquellen-Einordnungs-Memo. Abgrenzung: nicht für Richtlinien (europarecht-richtlinie-umsetzung)."
 ---
 
 # Verordnung, Beschluss und Soft Law

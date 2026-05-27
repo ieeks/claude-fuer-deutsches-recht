@@ -1,6 +1,6 @@
 ---
 name: zitierweise-jura-fundstellen
-description: "Student muss in der Hausarbeit richtig zitieren: Rechtsprechung Kommentare Aufsaetze Lehrbuecher Beck-Online juris. Reihenfolge Rechtsprechung vor Literatur neueste zuerst Bearbeiter-Name. Normen Zitierstandards Pruefungsordnungen. Pruefraster Zitierweise-Check Fundstellen-Praezision Vollstaendigkeit. Output Zitier-Leitfaden Beispielzitate je Quellenart. Abgrenzung zu quellenrecherche-rechtsprechung-literatur (Suchen) und haeufige-fehler-vermeiden (Fehler)."
+description: "Student muss in der Hausarbeit richtig zitieren: Rechtsprechung Kommentare Aufsaetze Lehrbuecher Beck-Online juris. Reihenfolge Rechtsprechung vor Literatur neueste zuerst Bearbeiter-Name. Normen Zitierstandards Prüfungsordnungen. Prüfraster Zitierweise-Check Fundstellen-Praezision Vollständigkeit. Output Zitier-Leitfaden Beispielzitate je Quellenart. Abgrenzung zu quellenrecherche-rechtsprechung-literatur (Suchen) und häufige-fehler-vermeiden (Fehler)."
 ---
 
 # Zitierweise in der juristischen Hausarbeit

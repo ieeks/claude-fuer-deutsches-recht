@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-mini-midi-grenzen-2026-stand
-description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Pruefung aktueller Schwellenwerte fuer Geringfuegigkeit und Uebergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Wertepruefung Quellen amtliche Veroeffentlichungen. Output Schwellenwert-Uebersicht mit Stichtag und Verifikations-Hinweis."
+description: "Aktuelle Mini- und Midi-Job-Grenzen 2026. Anwendungsfall Prüfung aktueller Schwellenwerte für Geringfuegigkeit und Übergangsbereich Verifikation gegen Mindestlohn-Anpassungen. Methodik Werteprüfung Quellen amtliche Veröffentlichungen. Output Schwellenwert-Übersicht mit Stichtag und Verifikations-Hinweis."
 ---
 
 # Mini- und Midi-Grenzen — Stand 2026

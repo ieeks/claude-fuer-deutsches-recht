@@ -1,6 +1,6 @@
 ---
 name: generalklauseln-pruefen
-description: "Prueft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, oeffentliches Interesse und Verhaeltnismaessigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor der Grenzen automatisierter Pruefung."
+description: "Prüft Generalklauseln wie Treu und Glauben (§ 242 BGB), gute Sitten (§ 138 BGB), billiges Ermessen, öffentliches Interesse und Verhältnismäßigkeit. Gibt Indizien und Fallgruppen statt mechanischer Subsumtion. Warnt vor der Grenzen automatisierter Prüfung."
 ---
 
 # Generalklauseln prüfen

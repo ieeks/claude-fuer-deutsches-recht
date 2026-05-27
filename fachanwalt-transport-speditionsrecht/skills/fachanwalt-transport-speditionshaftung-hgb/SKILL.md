@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionshaftung-hgb
-description: "Speditionshaftung nach HGB pruefen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Pruefraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtfuehrerhaftung §§ 407 ff. HGB."
+description: "Speditionshaftung nach HGB prüfen: Fixkostenspediteur, Sammelladungsspediteur, Haftungsgrenzen. Normen: §§ 454 ff. HGB. Prüfraster: Speditionsauftrag, Selbsteintritt, Haftungsregime, ADSP-Klauseln. Output: Speditionshaftungsanalyse. Abgrenzung: nicht Frachtführerhaftung §§ 407 ff. HGB."
 ---
 
 # Speditions-Haftung §§ 453 ff. HGB

@@ -1,6 +1,6 @@
 ---
 name: iv-plan-redteam-qualitygate
-description: "Insolvenzplan oder StaRUG-Plan vor Einreichung hart auf Fehler pruefen aus Sicht opponierender Glaeubiger und Gericht. §§ 231 245 251 InsO Versagungsgruende. Pruefraster: Vollstaendigkeit Bewertungswiderspruch Gruppenbildung fehlende Anlagen unbestimmte Klauseln Bestaetigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: nicht fuer laufende Qualitaetssicherung in anderen IV-Skills."
+description: "Insolvenzplan oder StaRUG-Plan vor Einreichung hart auf Fehler prüfen aus Sicht opponierender Gläubiger und Gericht. §§ 231 245 251 InsO Versagungsgründe. Prüfraster: Vollständigkeit Bewertungswiderspruch Gruppenbildung fehlende Anlagen unbestimmte Klauseln Bestätigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: nicht für laufende Qualitaetssicherung in anderen IV-Skills."
 ---
 
 # IV-integrierte Red Team und Quality Gate

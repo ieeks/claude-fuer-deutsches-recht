@@ -1,6 +1,6 @@
 ---
 name: dokumentstapel-aufnehmen
-description: "Dokumentenstapel fuer 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Pruefraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output: Dokumentenstapel-Inventar. Abgrenzung: nicht Einzeldokument-Pruefung."
+description: "Dokumentenstapel für 3D-Tabellenreview einlesen: PDFs, Excel-Dateien, Word-Dokumente aufnehmen. Normen: §§ 174 ff. InsO. Prüfraster: Dateiformat-Kompatibilitaet, Metadaten, Importfehler. Output: Dokumentenstapel-Inventar. Abgrenzung: nicht Einzeldokument-Prüfung."
 ---
 
 # /tabellenreview-3d:dokumentstapel-aufnehmen

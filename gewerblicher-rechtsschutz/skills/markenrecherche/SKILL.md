@@ -1,6 +1,6 @@
 ---
 name: markenrecherche
-description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Pruefraster: Identitaets- und Aehnlichkeitspruefung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket fuer anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage."
+description: "Unternehmen oder Mandant plant neue Marke oder Produktname und fragt: Bestehen Kollisionsrisiken mit aelteren Marken? Markenrecherche vor Anmeldung. Prüfraster: Identitäts- und Aehnlichkeitsprüfung DPMAregister EUIPO eSearch+ WIPO Global Brand DB Warenklassen. Ergebnis Recherchepaket für anwaltliche Entscheidung kein Freigabegutachten. Output: Recherche-Bericht mit Kollisionsrisiken. Abgrenzung zu markenanmeldung-dpma (Anmeldung nach Recherche) und verletzungs-triage."
 ---
 
 # Markenrecherche (Clearance)

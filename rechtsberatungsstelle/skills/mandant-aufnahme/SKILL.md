@@ -1,6 +1,6 @@
 ---
 name: mandant-aufnahme
-description: "Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und muss Sachverhalt strukturiert erfassen Rechtsgebiet einordnen und naechste Schritte bestimmen. BeratungsHiG § 2 Beratungsberechtigung, BRAO § 43a Interessenkonflikte, niedrigschwellige Erstberatung. Pruefraster Sachverhalt aufnehmen, Dringlichkeit und Fristen erfassen, Interessenkonflikt prüfen, Beratungsschein-Berechtigungen klaeren. Output Mandantenaufnahme-Protokoll mit Sachverhalts-Zusammenfassung und Sofortmassnahmen. Abgrenzung zu Kaltstart-Interview fuer Plugin-Konfiguration und zu Memo fuer rechtliche Analyse."
+description: "Mandantenaufnahme in der Rechtsberatungsstelle strukturieren: Anwendungsfall Student nimmt erstmals Mandanten auf und muss Sachverhalt strukturiert erfassen Rechtsgebiet einordnen und naechste Schritte bestimmen. BeratungsHiG § 2 Beratungsberechtigung, BRAO § 43a Interessenkonflikte, niedrigschwellige Erstberatung. Prüfraster Sachverhalt aufnehmen, Dringlichkeit und Fristen erfassen, Interessenkonflikt prüfen, Beratungsschein-Berechtigungen klaeren. Output Mandantenaufnahme-Protokoll mit Sachverhalts-Zusammenfassung und Sofortmassnahmen. Abgrenzung zu Kaltstart-Interview für Plugin-Konfiguration und zu Memo für rechtliche Analyse."
 ---
 
 # /mandant-aufnahme

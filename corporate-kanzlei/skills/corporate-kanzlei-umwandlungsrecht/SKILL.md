@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-umwandlungsrecht
-description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermoegensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG."
+description: "Umwandlungsrecht: Begleitet Verschmelzung, Spaltung, Formwechsel und Vermögensuebertragung nach UmwG. Normen: §§ 2-122 UmwG (Verschmelzung), §§ 123-173 UmwG (Spaltung), §§ 190-304 UmwG (Formwechsel). Schluesselentscheidungen BGH und BayObLG."
 ---
 
 # Umwandlungsrecht — Verschmelzung, Spaltung, Formwechsel

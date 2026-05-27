@@ -1,6 +1,6 @@
 ---
 name: pkh-erfolgsaussicht-pruefen
-description: "Mittellose Mandanten benoetigen Prozesskostenhilfe fuer sozialgerichtliche Klage. PKH-Erfolgsaussichtspruefung Sozialrecht. Pruefraster: wirtschaftliche Voraussetzungen Einkommen Vermoegen Selbstbehalt Schonvermoegen § 90 SGB XII. Hinreichende Erfolgsaussicht (nicht offensichtlich aussichtslos BGH IV ZR 124/12) keine Mutwilligkeit. Beratungshilfe fuer vorgerichtliche Beratung. Beschwerde gegen PKH-Ablehnung § 172 SGG. Output: Erfolgsaussichtsmemo und PKH-Antragsentwurf. Abgrenzung zu prozesskostenhilfe-antrag (fertiger Antrag) und klage-sozialgericht."
+description: "Mittellose Mandanten benoetigen Prozesskostenhilfe für sozialgerichtliche Klage. PKH-Erfolgsaussichtsprüfung Sozialrecht. Prüfraster: wirtschaftliche Voraussetzungen Einkommen Vermögen Selbstbehalt Schonvermögen § 90 SGB XII. Hinreichende Erfolgsaussicht (nicht offensichtlich aussichtslos BGH IV ZR 124/12) keine Mutwilligkeit. Beratungshilfe für vorgerichtliche Beratung. Beschwerde gegen PKH-Ablehnung § 172 SGG. Output: Erfolgsaussichtsmemo und PKH-Antragsentwurf. Abgrenzung zu prozesskostenhilfe-antrag (fertiger Antrag) und klage-sozialgericht."
 ---
 
 # PKH-Erfolgsaussicht prüfen

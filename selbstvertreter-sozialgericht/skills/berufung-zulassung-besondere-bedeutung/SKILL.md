@@ -1,6 +1,6 @@
 ---
 name: berufung-zulassung-besondere-bedeutung
-description: "Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis fuer Buerger ohne Anwalt."
+description: "Zulassung der Berufung trotz fehlender Wertgrenze. Grundsaetzliche Bedeutung Divergenz Verfahrensfehler § 144 Abs. 2 SGG. Praxis für Buerger ohne Anwalt."
 ---
 
 # Wenn die Wertgrenze nicht erreicht ist — Zulassung?

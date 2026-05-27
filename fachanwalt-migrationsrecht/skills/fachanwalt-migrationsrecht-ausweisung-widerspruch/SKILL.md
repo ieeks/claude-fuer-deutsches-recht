@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-ausweisung-widerspruch
-description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Pruefraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Pruefung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung."
+description: "Mandant erhielt Ausweisungsverfuegung und will Widerspruch oder Klage einlegen oder Rechtsschutz beantragen. Prüfraster § 53 AufenthG Ausweisung Reform 2016 Drei-Stufen-Prüfung Ausweisungsinteresse §§ 54 55 AufenthG Bleibe-Interesse Abwaegung. Aufenthaltstitel-Widerruf Familienschutz Art. 6 GG Art. 8 EMRK EuGH-Linie. Output Widerspruchs-Schriftsatz Klageschrift VG Eilantrag § 80 Abs. 5 VwGO. Abgrenzung: fachanwalt-migrationsrecht-abschiebungsabwehr bei unmittelbarer Abschiebung."
 ---
 
 # Ausweisung-Widerspruch § 53 AufenthG

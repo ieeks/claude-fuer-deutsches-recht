@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-duenge-ordnungswidrigkeit
-description: "Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bussgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhoerung Einspruch binnen zwei Wochen § 67 OWiG. Bussgeldhoehe bis 150 000 EUR. Verjaehrung § 31 OWiG."
+description: "Ordnungswidrigkeit nach Duengeverordnung DueV verteidigen. Bußgeldtatbestaende § 13a Abs. 2 DueG i.V.m. § 14 DueV. Aufzeichnungs- und Meldepflichten Nmin Stoffstrombilanz § 11a DueG. Sperrfristen Ausbringungsobergrenzen Roter Gebiete Nitratrichtlinie 91/676/EWG. Verfahren OWiG Anhoerung Einspruch binnen zwei Wochen § 67 OWiG. Bußgeldhoehe bis 150 000 EUR. Verjährung § 31 OWiG."
 ---
 
 # Düngerechtliche Ordnungswidrigkeit

@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-leichte-sprache
-description: "Erklaerung eines sozialrechtlichen Bescheids fuer den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begruendung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet fuer kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei."
+description: "Erklärung eines sozialrechtlichen Bescheids für den Mandanten in einfacher oder leichter Sprache. Drei Stufen Standardbrief (B1) Einfache Sprache (A2 nach GER) Leichte Sprache (Regeln Netzwerk Leichte Sprache und DIN SPEC 33429). Erfasst Bescheidtenor in einem Satz Begründung in drei Saetzen naechste Schritte mit Datum und konkreter Handlung. Pflichtelemente Anrede konkrete Frist nicht nur Monat Anwaltskontakt persoenlich erreichbare Telefonzeit Hinweis kein Aufschub durch Widerspruch. Geeignet für kognitiv beeintraechtigte Mandanten geringe Lesekompetenz Migrationshintergrund oder Krisensituation. Ausgabe als A4-Brief Format Anwaltskanzlei."
 ---
 
 # Mandantenbrief in Einfacher oder Leichter Sprache

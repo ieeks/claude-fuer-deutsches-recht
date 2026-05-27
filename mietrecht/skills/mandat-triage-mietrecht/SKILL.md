@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-mietrecht
-description: Strukturierte Eingangs-Abfrage fuer mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kuendigung Mieterhoehung Mietminderung Modernisierung Nebenkostenabrechnung Mietkaution-Rueckforderung Eigenbedarf Sanierung Raeumung WEG-Beschluss WEG-Hausgeld-Klage). Fristen-Sofort-Check Kuendigungs-Frist nach § 573c BGB Raeumungs-Frist § 721 ZPO WEG-Klage ein Monat § 45 WEG Modernisierung-Ankuendigung drei Monate vorher Mieterhoehung Zustimmungs-Frist zwei Monate § 558b BGB. Eskalation Telefon-Sofort bei Raeumungstermin laufender Kuendigungs-Frist.
+description: Strukturierte Eingangs-Abfrage für mietrechtliche Mandate. Klaert Mandantenrolle (Vermieter Mieter WEG-Eigentuemer Verwalter) Gegenstandsart (Wohnraum Gewerbe WEG) Sachgebiet (Kündigung Mieterhoehung Mietminderung Modernisierung Nebenkostenabrechnung Mietkaution-Rückforderung Eigenbedarf Sanierung Räumung WEG-Beschluss WEG-Hausgeld-Klage). Fristen-Sofort-Check Kündigungs-Frist nach § 573c BGB Räumungs-Frist § 721 ZPO WEG-Klage ein Monat § 45 WEG Modernisierung-Ankündigung drei Monate vorher Mieterhoehung Zustimmungs-Frist zwei Monate § 558b BGB. Eskalation Telefon-Sofort bei Räumungstermin laufender Kündigungs-Frist.
 ---
 
 # Mandat-Triage Mietrecht

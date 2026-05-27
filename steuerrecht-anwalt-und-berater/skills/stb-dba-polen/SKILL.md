@@ -1,6 +1,6 @@
 ---
 name: stb-dba-polen
-description: "DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeitnehmer Entsendung Pendler Beteiligungen Lizenzen Bauausfuehrung. EU-MTRL EU-ZinsLizenzRL ergaenzend. Methodenartikel Anrechnungsmethode mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Polen aktuelle Fassung 2003. Anwendungsfall Arbeitnehmer Entsendung Pendler Beteiligungen Lizenzen Bauausführung. EU-MTRL EU-ZinsLizenzRL ergaenzend. Methodenartikel Anrechnungsmethode mit Aktivitaetsklausel. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Polen (2003)

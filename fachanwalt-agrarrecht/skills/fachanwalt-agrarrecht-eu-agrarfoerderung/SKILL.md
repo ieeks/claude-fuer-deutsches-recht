@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-eu-agrarfoerderung
-description: "Landwirt hat Foerderbescheid erhalten oder will EU-Direktzahlungen ELER-Foerderung beantragen oder gegen Kuerzungen vorgehen. Pruefraster GAP-Strategieplan 2023-2027 Konditionalitaet GLOEZ-Standards Grundanforderungen Betriebsfuehrung GAB. VO 2021/2115 Direktzahlungen VO 2021/2116 Horizontale GAP-VO EuGH zur Auslegung. Kuerzungen Sanktionen Widerspruch gegen Foerderbescheid Klagefrist VG. Output Foerderpruef-Memo Widerspruchsschrift-Entwurf Risiko-Ampel. Abgrenzung: fachanwalt-agrarrecht-gap-direktzahlungen-antrag fuer Sammelantrag; sammelantrag-gap-checkliste fuer jaehrlichen Antrag."
+description: "Landwirt hat Foerderbescheid erhalten oder will EU-Direktzahlungen ELER-Foerderung beantragen oder gegen Kuerzungen vorgehen. Prüfraster GAP-Strategieplan 2023-2027 Konditionalitaet GLOEZ-Standards Grundanforderungen Betriebsführung GAB. VO 2021/2115 Direktzahlungen VO 2021/2116 Horizontale GAP-VO EuGH zur Auslegung. Kuerzungen Sanktionen Widerspruch gegen Foerderbescheid Klagefrist VG. Output Foerderprüf-Memo Widerspruchsschrift-Entwurf Risiko-Ampel. Abgrenzung: fachanwalt-agrarrecht-gap-direktzahlungen-antrag für Sammelantrag; sammelantrag-gap-checkliste für jaehrlichen Antrag."
 ---
 
 # EU-Agrarförderung

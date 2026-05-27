@@ -1,6 +1,6 @@
 ---
 name: fristen-und-terminkalender
-description: "Anwalt will alle prozessrelevanten Fristen und Termine im Aktenauszug hervorheben: Klagefrist Berufungsfrist Begruendungsfrist Verkuendungstermin Vollziehungsfrist. Normen §§ 222 517 520 548 ZPO. Pruefraster Vollstaendigkeit Frist-Berechnung Hervorhebung Fehler-Scan. Output Fristen-Box Fristen-Tabelle. Abgrenzung zu verfahrenschronologie (Prozessschritte) und mittelstand-ma-fristen-cp-kalender (M&A-Fristen)."
+description: "Anwalt will alle prozessrelevanten Fristen und Termine im Aktenauszug hervorheben: Klagefrist Berufungsfrist Begründungsfrist Verkündungstermin Vollziehungsfrist. Normen §§ 222 517 520 548 ZPO. Prüfraster Vollständigkeit Frist-Berechnung Hervorhebung Fehler-Scan. Output Fristen-Box Fristen-Tabelle. Abgrenzung zu verfahrenschronologie (Prozessschritte) und mittelstand-ma-fristen-cp-kalender (M&A-Fristen)."
 ---
 
 # Fristen und Terminkalender

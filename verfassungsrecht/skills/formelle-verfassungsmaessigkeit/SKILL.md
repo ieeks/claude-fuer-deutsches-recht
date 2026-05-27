@@ -1,6 +1,6 @@
 ---
 name: formelle-verfassungsmaessigkeit
-description: "Formelle Verfassungsmaessigkeit eines Gesetzes pruefen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Pruefraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Pruefmemo mit Ergebnis. Abgrenzung: nicht fuer materielle Verfassungsmaessigkeit (grundrechtspruefung)."
+description: "Formelle Verfassungsmäßigkeit eines Gesetzes prüfen: Kompetenz Verfahren Form. Art. 70 ff. GG Gesetzgebungskompetenzen Art. 76 ff. GG Gesetzgebungsverfahren. Prüfraster: Gesetzgebungskompetenz Bund/Land Art. 70-74 GG Verfahren Art. 76-78 GG Ausfertigung Art. 82 GG. Output: Formelle Prüfmemo mit Ergebnis. Abgrenzung: nicht für materielle Verfassungsmäßigkeit (grundrechtsprüfung)."
 ---
 
 # Formelle Verfassungsmäßigkeit prüfen

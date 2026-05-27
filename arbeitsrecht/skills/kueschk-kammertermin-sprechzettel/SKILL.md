@@ -1,6 +1,6 @@
 ---
 name: kueschk-kammertermin-sprechzettel
-description: "Kammertermin Hauptverhandlung im Kuendigungsschutzprozess: Sprechzettel mit Antraegen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkuendung; Prozessleitung durch Vorsitzenden."
+description: "Kammertermin Hauptverhandlung im Kündigungsschutzprozess: Sprechzettel mit Anträgen und Reaktionsmustern; Beweismittel-Reihenfolge; Zeugenvernehmung; Auftreten bei Urteilsverkündung; Prozessleitung durch Vorsitzenden."
 ---
 
 # Kammertermin: Sprechzettel für die Hauptverhandlung

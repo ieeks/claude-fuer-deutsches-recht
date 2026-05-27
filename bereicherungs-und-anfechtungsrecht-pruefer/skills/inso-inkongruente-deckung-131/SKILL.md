@@ -1,6 +1,6 @@
 ---
 name: inso-inkongruente-deckung-131
-description: "Inkongruente Deckungsanfechtung nach § 131 InsO pruefen: Sicherung oder Befriedigung, die so nicht beansprucht werden konnte. Normen: § 131 InsO. Pruefraster: Inkongruenz-Definition, Fristen letzter Monat oder drei Monate, Kenntnisvermutungen. Output: Pruefergebnis Anfechtbarkeit inkongruente Deckung. Abgrenzung: nicht § 130 InsO kongruente Deckung."
+description: "Inkongruente Deckungsanfechtung nach § 131 InsO prüfen: Sicherung oder Befriedigung, die so nicht beansprucht werden konnte. Normen: § 131 InsO. Prüfraster: Inkongruenz-Definition, Fristen letzter Monat oder drei Monate, Kenntnisvermutungen. Output: Prüfergebnis Anfechtbarkeit inkongruente Deckung. Abgrenzung: nicht § 130 InsO kongruente Deckung."
 ---
 
 # Inkongruente Deckung — § 131 InsO

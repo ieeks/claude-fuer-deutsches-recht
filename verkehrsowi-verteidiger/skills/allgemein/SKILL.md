@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in das VerkehrsOWi-Plugin fuer Bussgeldbescheid, Anhoerung, Einspruch, Punkte, Fahrverbot, Messverfahren, Akteneinsicht und Hauptverhandlung am Amtsgericht."
+description: "Einstieg in das VerkehrsOWi-Plugin für Bußgeldbescheid, Anhoerung, Einspruch, Punkte, Fahrverbot, Messverfahren, Akteneinsicht und Hauptverhandlung am Amtsgericht."
 ---
 
 # VerkehrsOWi-Verteidiger — Allgemein

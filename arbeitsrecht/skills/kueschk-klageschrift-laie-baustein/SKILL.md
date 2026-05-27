@@ -1,6 +1,6 @@
 ---
 name: kueschk-klageschrift-laie-baustein
-description: "Bauklastenartige Klageschrift fuer Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begruendungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf."
+description: "Bauklastenartige Klageschrift für Laien: Rubrum-Vorlage; punktueller Feststellungsantrag nach § 4 KSchG; allgemeiner Feststellungsantrag; Begründungsbausteine; Beweisangebote; Schritt-fuer-Schritt zum Selbstausfuellen mit Warnkopf."
 ---
 
 # Klageschrift für Laien — Baustein

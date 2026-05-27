@@ -1,6 +1,6 @@
 ---
 name: einleitungssatz-generator
-description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Pruefraster Praegnanz Vollstaendigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Ueberblick) und verfahrensidentifikation (Stammdaten)."
+description: "Aktenauszug braucht praegnanten Einleitungssatz: wer streitet mit wem worueber welche Hauptnorm. Juristisch praezise neutral ohne Wertung ohne Erfolgsprognose. Normen §§ 253 304 ZPO. Prüfraster Praegnanz Vollständigkeit Neutralitaet Haupt-Norm-Nennung. Output Ein-Zwei-Satz-Kern Rechtstreit. Abgrenzung zu verfahrenszusammenfassung-absatz (laengerer Überblick) und verfahrensidentifikation (Stammdaten)."
 ---
 
 # Einleitungssatz-Generator

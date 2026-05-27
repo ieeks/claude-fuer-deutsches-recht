@@ -1,6 +1,6 @@
 ---
 name: sacheinlagebericht-werthaltigkeit
-description: "Sacheinlagebericht fuer Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Pruefraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht fuer Beurkundungsfragen (beurkundungserfordernis-pruefung)."
+description: "Sacheinlagebericht für Sachkapitalerhohung durch Wandeldarlehen erstellen und Werthaltigkeit prufen. § 56 GmbHG Sacheinlage §§ 19 8 GmbHG Einlageverpflichtung. Prüfraster: Sacheinlagegegenstand Bewertung Werthaltigkeit Bericht Unterschrift. Output: Sacheinlagebericht Bewertungsgrundlage. Abgrenzung: nicht für Beurkundungsfragen (beurkundungserfordernis-prüfung)."
 ---
 
 # Sacheinlagebericht und Werthaltigkeit der Forderung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-testamentsvollstreckung
-description: "Testamentsvollstreckung einrichten oder bei Streit ueber Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Pruefraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht fuer allgemeine Nachlassabwicklung."
+description: "Testamentsvollstreckung einrichten oder bei Streit über Vollstreckerbefugnisse beraten. §§ 2197 ff. BGB Testamentsvollstreckung. Prüfraster: Anordnung Befugnisse Aufgaben Haftung Verguetung Aufsicht Nachlassgericht Entlassung. Output: Vollstreckungsplan Vollstreckerzeugnisantrag Streitstrategie. Abgrenzung: nicht für allgemeine Nachlassabwicklung."
 ---
 
 # Testamentsvollstreckung

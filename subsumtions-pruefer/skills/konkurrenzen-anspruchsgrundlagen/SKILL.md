@@ -1,6 +1,6 @@
 ---
 name: konkurrenzen-anspruchsgrundlagen
-description: "Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhaeltnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG."
+description: "Klaert Konkurrenzfragen zwischen Anspruchsgrundlagen: Anspruchskonkurrenz, Anspruchsgrundlagenkonkurrenz, Spezialitaet, Subsidiaritaet, lex specialis/posterior/superior. Klaert Verhältnis von Vertrags- zu Deliktsrecht, nationalem zu Unionsrecht, StGB zu OWiG."
 ---
 
 # Konkurrenzen und Anspruchsgrundlagen

@@ -1,6 +1,6 @@
 ---
 name: sekretariats-tagesbrief
-description: Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat fuer den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrueckrufe Termine Gerichts- und Behoerdentermine Wiedervorlagen Geburtstage des Tages Honorarrueckstaende ueber Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat.
+description: Erzeugt morgens den Tagesbrief der Kanzlei mit allen Informationen die Anwalt und Sekretariat für den Tag brauchen — Fristen heute und in der naechsten Woche Vorfristen aus dem Fristenbuch eingegangene Post vom Vortag offene Mandantenrückrufe Termine Gerichts- und Behoerdentermine Wiedervorlagen Geburtstage des Tages Honorarrückstaende über Schwelle. Strukturiert zur schnellen Sichtung in fuenf Minuten. Bricht Information so herunter dass Anwalt entscheiden kann was Prioritaet hat.
 ---
 
 # Sekretariats-Tagesbrief

@@ -1,6 +1,6 @@
 ---
 name: harmonisierung-und-migration-rechtssicher
-description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Pruefraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse."
+description: "bAV-Systeme nach Unternehmensrestrukturierung rechtssicher harmonisieren und migrieren. Normen: §§ 4 17 BetrAVG, UmwG. Prüfraster: Bestandsschutz, Unverfallbarkeit, Migrationsschritte. Output: Harmonisierungsplan bAV. Abgrenzung: nicht M-und-A-Buyout-Analyse."
 ---
 
 # Harmonisierung und Migration — Rechtssichere Vereinheitlichung von Versorgungssystemen

@@ -1,6 +1,6 @@
 ---
 name: online-verfahren-11-buch-zpo-experimentell
-description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollstaendig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung pruefen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Workflow Teilnahme."
+description: "Experimentelles Online-Verfahren der ZPO seit 2025 ggf 2026. Vollständig digitales Zivilverfahren bestimmte Streitwerte teilnehmende Amtsgerichte. Aktuelle Normen-Verortung prüfen. Vergleich Praesenz-Verfahren Vorteile Risiken Strukturierte Eingabe-Masken. Workflow Teilnahme."
 ---
 
 # Online-Verfahren — das neue digitale Zivilverfahren

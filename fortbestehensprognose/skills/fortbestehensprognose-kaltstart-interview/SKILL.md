@@ -1,6 +1,6 @@
 ---
 name: fortbestehensprognose-kaltstart-interview
-description: "Kaltstart-Interview fuer das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschaeftsfuehrer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und steuerliche Ansprechpartner ist welches Geschaeftsjahr und welche Rechtsform vorliegt und welche Anwendung der Buchhaltungs- und Bilanzierungssysteme. Schreibt das Profil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md. Disclaimer Selbstdokumentation ersetzt nicht Insolvenzrechtsanwalt."
+description: "Kaltstart-Interview für das Fortbestehensprognose-Plugin. Stellt fest wer das Plugin nutzt (Geschäftsführer / Vorstand / Gesellschafter mit Eigenverantwortung / Finanzleiter mit Mandat) wer der Anwaltliche und steuerliche Ansprechpartner ist welches Geschäftsjahr und welche Rechtsform vorliegt und welche Anwendung der Buchhaltungs- und Bilanzierungssysteme. Schreibt das Profil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/fortbestehensprognose/CLAUDE.md. Disclaimer Selbstdokumentation ersetzt nicht Insolvenzrechtsanwalt."
 ---
 
 # /fortbestehensprognose:fortbestehensprognose-kaltstart-interview

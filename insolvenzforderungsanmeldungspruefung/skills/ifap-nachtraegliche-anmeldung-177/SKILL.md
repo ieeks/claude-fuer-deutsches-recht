@@ -1,6 +1,6 @@
 ---
 name: ifap-nachtraegliche-anmeldung-177
-description: "Verspätete und nachträgliche Forderungsanmeldungen nach § 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. § 177 InsO Nachtragsanmeldung, § 176 InsO Pruefungstermin, § 5 InsO Sondertermin. Pruefraster Fristablauf feststellen, Kostenpflicht bei Verspätung, Einordnung in Sondertermin oder schriftliches Verfahren. Output Verfahrensprotokoll mit Kostenbescheid und Terminzuordnung. Abgrenzung zu Formalprüfung-174 fuer rechtzeitige Anmeldungen und zu Pruefungstermin-176."
+description: "Verspätete und nachträgliche Forderungsanmeldungen nach § 177 InsO: Anwendungsfall Gläubiger meldet Forderung nach Ablauf der Anmeldefrist an oder ändert bereits angemeldete Forderung. § 177 InsO Nachtragsanmeldung, § 176 InsO Prüfungstermin, § 5 InsO Sondertermin. Prüfraster Fristablauf feststellen, Kostenpflicht bei Verspätung, Einordnung in Sondertermin oder schriftliches Verfahren. Output Verfahrensprotokoll mit Kostenbescheid und Terminzuordnung. Abgrenzung zu Formalprüfung-174 für rechtzeitige Anmeldungen und zu Prüfungstermin-176."
 ---
 
 # Nachträgliche Anmeldung nach § 177 InsO

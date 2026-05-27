@@ -1,6 +1,6 @@
 ---
 name: esg-greenwashing-csrd
-description: "Unternehmen muss ESG-Bericht erstellen oder verteidigt Greenwashing-Vorwurf. CSRD VO 2022/2464 gestaffelt seit 2024 ESRS-Standards Doppelte Wesentlichkeit EU-Taxonomie VO 2020/852 SFDR. Normen UWG § 5 Irrefuehrung BGH I ZR 252/22 klimaneutral EU-Green-Claims-Richtlinie 2024. Pruefraster Nachhaltigkeitsbericht-Pflicht Wesentlichkeitsanalyse Greenwashing-Risiko-Check. Output ESG-Bericht-Struktur Greenwashing-Verteidigung Werbe-Substantiierung. Abgrenzung zu lksg-csddd-lieferkettensorgfalt (Lieferkette) und umweltrecht-transaktionen-dd (M&A)."
+description: "Unternehmen muss ESG-Bericht erstellen oder verteidigt Greenwashing-Vorwurf. CSRD VO 2022/2464 gestaffelt seit 2024 ESRS-Standards Doppelte Wesentlichkeit EU-Taxonomie VO 2020/852 SFDR. Normen UWG § 5 Irreführung BGH I ZR 252/22 klimaneutral EU-Green-Claims-Richtlinie 2024. Prüfraster Nachhaltigkeitsbericht-Pflicht Wesentlichkeitsanalyse Greenwashing-Risiko-Check. Output ESG-Bericht-Struktur Greenwashing-Verteidigung Werbe-Substantiierung. Abgrenzung zu lksg-csddd-lieferkettensorgfalt (Lieferkette) und umweltrecht-transaktionen-dd (M&A)."
 ---
 
 # ESG, CSRD und Greenwashing-Verteidigung

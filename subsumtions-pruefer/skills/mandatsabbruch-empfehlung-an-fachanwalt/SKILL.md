@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-an-fachanwalt
-description: "Erkennt Indikatoren fuer Komplexitaetsgrenzen des mechanischen Pruefens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behoerde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Existenzgefaehrdung."
+description: "Erkennt Indikatoren für Komplexitaetsgrenzen des mechanischen Prüfens und empfiehlt Abbruch sowie Weiterleitung an Fachanwalt, Notar, Steuerberater oder Behoerde. Warnt bei Strafrecht, Verfassungsrecht, internationalem Privatrecht und Existenzgefaehrdung."
 ---
 
 # Mandatsabbruch-Empfehlung: Weiterleitung an Fachanwalt

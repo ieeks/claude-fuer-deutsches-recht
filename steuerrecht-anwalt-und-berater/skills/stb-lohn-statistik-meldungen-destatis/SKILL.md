@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-statistik-meldungen-destatis
-description: "Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Pruefung Erfassung Uebermittlung. Output Statistik-Meldung."
+description: "Statistik-Meldungen Verdienststatistik Destatis. Anwendungsfall jaehrliche oder unterjaehrige Statistik-Meldungen an das Statistische Bundesamt Verdienste Arbeitszeit. Methodik Pflicht-Prüfung Erfassung Übermittlung. Output Statistik-Meldung."
 ---
 
 # Statistik-Meldungen — Verdienststatistik Destatis

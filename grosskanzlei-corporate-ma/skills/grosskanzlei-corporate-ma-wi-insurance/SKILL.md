@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-wi-insurance
-description: "W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung fuer SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Pruefraster Buy-side vs. Sell-side Policy, vollstaendiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf."
+description: "W&I-Versicherung Warranty and Indemnity in M&A-Transaktionen: Anwendungsfall Kaeufer oder Verkaeufer erwägt W&I-Versicherung für SPA-Garantien und muss Underwriting-Prozess, DD-Berichts-Anforderungen und Deckungsausschluesse klaeren. SPA Reps and Warranties, Synthetic Warranties. Prüfraster Buy-side vs. Sell-side Policy, vollständiger Red-Flag-Report, AI-DD-Transparenzpflicht, Materiality Scrape, Disclosure Letter. Output W&I-Vorabcheck-Memo mit Underwriting-Anforderungen und Deckungsluecken-Ampel. Abgrenzung zu Disclosure-Schedules und zu SPA/APA-Entwurf."
 ---
 
 # W&I-Versicherung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-esports-vereinsrecht-dosb-anerkennung
-description: "eSports-Organisator oder Verein fragt ob DOSB-Anerkennung moeglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung. Pruefraster DOSB-Aufnahme-Kriterien Gemeinnuetzigkeits-Pruefung Vereinstyp-Wahl. Output Rechtsstruktur-Empfehlung Satzungs-Entwurf Finanzamt-Antrag. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und mandat-triage-sportrecht (Erstabfrage)."
+description: "eSports-Organisator oder Verein fragt ob DOSB-Anerkennung möglich und wie steuerliche Gemeinnuetzigkeit erreichbar ist. § 52 AO Gemeinnuetzigkeit § 21 BGB Vereinsrecht. Normen §§ 21 ff. BGB § 52 AO DOSB-Satzung. Prüfraster DOSB-Aufnahme-Kriterien Gemeinnuetzigkeits-Prüfung Vereinstyp-Wahl. Output Rechtsstruktur-Empfehlung Satzungs-Entwurf Finanzamt-Antrag. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und mandat-triage-sportrecht (Erstabfrage)."
 ---
 
 # eSports-Verein — Vereinsrecht und DOSB-Anerkennung

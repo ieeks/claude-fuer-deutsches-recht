@@ -1,6 +1,6 @@
 ---
 name: jveg-anspruchsberechtigung
-description: "Anspruchsberechtigung nach JVEG pruefen: Sachverstaendiger, Zeuge, Dolmetscher, Anwalt. Normen: §§ 1 2 JVEG. Pruefraster: Personenkategorie, Beauftragung durch Gericht, Verfahrensart. Output: Pruefergebnis Anspruchsberechtigung JVEG. Abgrenzung: nicht Verguetungsberechnung."
+description: "Anspruchsberechtigung nach JVEG prüfen: Sachverständiger, Zeuge, Dolmetscher, Anwalt. Normen: §§ 1 2 JVEG. Prüfraster: Personenkategorie, Beauftragung durch Gericht, Verfahrensart. Output: Prüfergebnis Anspruchsberechtigung JVEG. Abgrenzung: nicht Verguetungsberechnung."
 ---
 
 # JVEG-Anspruchsberechtigung

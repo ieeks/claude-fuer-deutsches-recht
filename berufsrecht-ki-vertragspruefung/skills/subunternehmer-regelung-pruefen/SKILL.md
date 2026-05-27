@@ -1,6 +1,6 @@
 ---
 name: subunternehmer-regelung-pruefen
-description: "Pruefe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer."
+description: "Prüfe die Subunternehmerklausel im KI-Anbietervertrag. Norm Absatz drei Satz zwei Nummer drei der einschlaegigen Dienstleisterregelung. Pflichtinhalte Zustimmungsvorbehalt der Kanzlei Subunternehmerliste Weiterverpflichtung in Textform Belehrung. Strafrechtliche Sekundaerpflicht nach § 203 Absatz vier Satz zwei Nummer eins StGB. Modellanbieter und Hoster als typische Subunternehmer."
 ---
 
 # Subunternehmer-Regelung prüfen

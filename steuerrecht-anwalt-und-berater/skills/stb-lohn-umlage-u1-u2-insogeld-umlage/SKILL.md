@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-umlage-u1-u2-insogeld-umlage
-description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Pruefung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung."
+description: "Umlagen U1 U2 Insolvenzgeld-Umlage. Anwendungsfall AG-Umlagen monatlich Erstattung Krankheit Mutterschaft Insolvenz Berechnung Saetze Variabilitaet KK. Methodik Prüfung Pflicht Kleinunternehmer 30 AN. Output Umlage-Berechnung."
 ---
 
 # Umlagen U1, U2, Insolvenzgeld

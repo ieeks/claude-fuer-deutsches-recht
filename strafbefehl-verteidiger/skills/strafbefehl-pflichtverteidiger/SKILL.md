@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-pflichtverteidiger
-description: "Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebuehren Nr. 4100 ff. VV-RVG."
+description: "Pflichtverteidigerbestellung im Strafbefehlsverfahren nach § 140 StPO. Notwendige Verteidigung. Antrag auf Beiordnung § 141 StPO. Bestellung durch Gericht. Auswechslung des Pflichtverteidigers § 143a StPO. Gebühren Nr. 4100 ff. VV-RVG."
 ---
 
 # Pflichtverteidiger im Strafbefehlsverfahren

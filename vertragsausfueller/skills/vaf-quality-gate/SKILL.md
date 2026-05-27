@@ -1,6 +1,6 @@
 ---
 name: vaf-quality-gate
-description: "Quality Gate vor Vertragsausgabe: Vollstaendigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtpruefung auf Fehler Luecken und unzulaessige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Pruefraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollstaendig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck fuer Teilpruefung und zu Clean-Output."
+description: "Quality Gate vor Vertragsausgabe: Vollständigkeit Plausibilitaet Risiken und Freigabe prüfen: Anwendungsfall vor Ausgabe des ausgefuellten Vertrags muss letzte Gesamtprüfung auf Fehler Luecken und unzulässige Klauseln erfolgen. §§ 305-309 BGB AGB-Recht, §§ 125 ff. BGB Formvorraussetzungen. Prüfraster alle Pflichtfelder befüllt, Zahlen und Fristen plausibel, AGB-Klauseln rechtlich zulässig, Anlagen vollständig, Track-Changes-Bestätigung vorhanden. Output Qualitaets-Ampel mit Freigabe oder Liste zu behebender Fehler. Abgrenzung zu Plausibilitaetscheck für Teilprüfung und zu Clean-Output."
 ---
 
 # Quality Gate — Vertragsausfueller

@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-messverfahren-geschwindigkeit
-description: "Geschwindigkeitsmessungen im OWi-Verfahren angreifen: Mandant bestreitet Messergebnis von TraffiStar, Riegl, ESO 3.0 oder PoliScan. Normen: BGH NJW 1993 3081 (standardisiertes Messverfahren), § 77 OWiG (Beweisantraege), BVerfG NJW 2021 455 (Rohmessdaten). Pruefraster: Toleranzabzug, Eichung, Aufstellungsprotokoll, Bedienungsfehler, Rohmessdaten-Anforderung, OLG-Rspr zur Verwertbarkeit. Output Sachverstaendigen-Antrag, Beweisantrag-Entwurf. Abgrenzung: Rotlicht/Handy siehe verkehrsowi-rotlicht-abstand-handy; Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte."
+description: "Geschwindigkeitsmessungen im OWi-Verfahren angreifen: Mandant bestreitet Messergebnis von TraffiStar, Riegl, ESO 3.0 oder PoliScan. Normen: BGH NJW 1993 3081 (standardisiertes Messverfahren), § 77 OWiG (Beweisanträge), BVerfG NJW 2021 455 (Rohmessdaten). Prüfraster: Toleranzabzug, Eichung, Aufstellungsprotokoll, Bedienungsfehler, Rohmessdaten-Anforderung, OLG-Rspr zur Verwertbarkeit. Output Sachverständigen-Antrag, Beweisantrag-Entwurf. Abgrenzung: Rotlicht/Handy siehe verkehrsowi-rotlicht-abstand-handy; Akteneinsicht Messakte siehe verkehrsowi-akteneinsicht-messakte."
 ---
 
 # Geschwindigkeitsmessung OWi-Verfahren

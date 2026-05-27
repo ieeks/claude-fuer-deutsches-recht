@@ -1,6 +1,6 @@
 ---
 name: iv-steuern-sozialversicherung
-description: "Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Pruefraster: Insolvenzforderung Masseverbindlichkeit Haftungsrisiken Erklaerungspflichten § 15b InsO Steuerprivileg. Output: Klassifizierungstabelle Erklaerungsplan Haftungsnotiz. Abgrenzung: nicht fuer steuerliche Planfolgen (iv-plan-steuern-bilanz-folgen)."
+description: "Steuerliche und sozialversicherungsrechtliche Verbindlichkeiten im Insolvenzverfahren klassifizieren und bearbeiten. §§ 38 55 InsO Rangklassen §§ 34 35 AO Haftung. Prüfraster: Insolvenzforderung Masseverbindlichkeit Haftungsrisiken Erklärungspflichten § 15b InsO Steuerprivileg. Output: Klassifizierungstabelle Erklärungsplan Haftungsnotiz. Abgrenzung: nicht für steuerliche Planfolgen (iv-plan-steuern-bilanz-folgen)."
 ---
 
 # Steuern, Sozialversicherung und Abgaben

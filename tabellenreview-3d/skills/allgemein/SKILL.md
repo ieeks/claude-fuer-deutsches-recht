@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das 3D-Tabellenreview-Plugin: Massenpruefung von Vertragsstapeln als dreidimensionaler Wuerfel aus Spaltenprompts (Datenpunkte), Zeilenprompts (Dokumente) und Arbeitsblatt-Perspektiven (Recht, Steuer, Wirtschaft) mit Excel-Export, Kreuzblatt-Konsistenz, Audit-Trail und Belegkette."
+description: "Einstieg und Überblick für das 3D-Tabellenreview-Plugin: Massenprüfung von Vertragsstapeln als dreidimensionaler Wuerfel aus Spaltenprompts (Datenpunkte), Zeilenprompts (Dokumente) und Arbeitsblatt-Perspektiven (Recht, Steuer, Wirtschaft) mit Excel-Export, Kreuzblatt-Konsistenz, Audit-Trail und Belegkette."
 ---
 
 # Tabellenreview 3D — Allgemein

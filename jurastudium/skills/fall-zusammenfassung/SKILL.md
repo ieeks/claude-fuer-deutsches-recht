@@ -1,6 +1,6 @@
 ---
 name: fall-zusammenfassung
-description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Pruefraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Uebersicht und Loesungshinweisen. Abgrenzung zu Gutachten-Uebung fuer vollstaendige Bearbeitung und zu Loesungsschemata."
+description: "Juristischen Fall zusammenfassen und strukturieren: Anwendungsfall Student oder Referendar muss langen Sachverhalt oder Urteil in praegnante Fallzusammenfassung fassen und Kernprobleme herausarbeiten. Gutachtenstil, Tatbestandsmerkmale, Subsumtion Methodenlehre. Prüfraster Sachverhalt komprimieren, Kern-Rechtsfragen extrahieren, Obersatz und Subsumtion trennen, Relevantes von Irrelevantem trennen. Output strukturierte Fallzusammenfassung mit Rechtsfragen-Übersicht und Lösungshinweisen. Abgrenzung zu Gutachten-Uebung für vollständige Bearbeitung und zu Lösungsschemata."
 ---
 
 # Fallbearbeitung im Gutachtenstil

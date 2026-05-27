@@ -1,6 +1,6 @@
 ---
 name: drei-stufen-theorie-eingriffsanalyse
-description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Pruefraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhaeltnismaessigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Loesungen."
+description: "Drei-Stufen-Theorie bei Eingriffen in Versorgungsanwartschaften anwenden: erdiente und noch erdienbare Anwartschaften. Normen: §§ 2 7 BetrAVG, BVerfG-Rechtsprechung. Prüfraster: Stufen-Einordnung, Eingriffsrechtfertigung, Verhältnismäßigkeit. Output: Eingriffsanalyse bAV Drei-Stufen. Abgrenzung: nicht kollektivrechtliche Lösungen."
 ---
 
 # Drei-Stufen-Theorie — Eingriffsanalyse betrieblicher Versorgungsrechte

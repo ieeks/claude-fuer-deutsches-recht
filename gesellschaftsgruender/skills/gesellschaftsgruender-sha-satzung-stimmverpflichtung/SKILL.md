@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-sha-satzung-stimmverpflichtung
-description: "Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Pruefraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag."
+description: "Stimmbindungsvereinbarung und SHA-Regelungen zu Abstimmungspflichten in GmbH aufsetzen. Normen: §§ 47 48 GmbHG, BGB. Prüfraster: zulässige Stimmbindung, Durchsetzbarkeit, Vertragsstrafe, Grenze Satzungsautonomie. Output: SHA-Klausel Stimmbindung und Stimmrechtsvertrag. Abgrenzung: nicht Gesellschaftsvertrag."
 ---
 
 # Stimmverpflichtung SHA <-> Satzung

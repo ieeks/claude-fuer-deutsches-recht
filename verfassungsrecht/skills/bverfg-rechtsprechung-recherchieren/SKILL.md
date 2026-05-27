@@ -1,6 +1,6 @@
 ---
 name: bverfg-rechtsprechung-recherchieren
-description: "BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und fuer Schriftsatz aufbereiten. BVerfGG Art. 93 GG BVerfG-Judikatur. Pruefraster: Leitsaetze Tragsaetze obiter dicta Randnummern-Suche Weiterfuehrung durch Folge-Rspr. Output: Rechtsprechungsueberblick Zitatliste Leitentscheidungen. Abgrenzung: nicht fuer Verfassungsbeschwerde-Entwurf (verfassungsbeschwerde-entwurf)."
+description: "BVerfG-Rechtsprechung zu konkreter Verfassungsfrage recherchieren und für Schriftsatz aufbereiten. BVerfGG Art. 93 GG BVerfG-Judikatur. Prüfraster: Leitsaetze Tragsaetze obiter dicta Randnummern-Suche Weiterführung durch Folge-Rspr. Output: Rechtsprechungsueberblick Zitatliste Leitentscheidungen. Abgrenzung: nicht für Verfassungsbeschwerde-Entwurf (verfassungsbeschwerde-entwurf)."
 ---
 
 # BVerfG-Rechtsprechung recherchieren

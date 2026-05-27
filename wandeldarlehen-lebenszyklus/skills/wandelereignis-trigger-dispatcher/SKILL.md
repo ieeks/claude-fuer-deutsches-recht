@@ -1,6 +1,6 @@
 ---
 name: wandelereignis-trigger-dispatcher
-description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Pruefraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungspruefung-trigger-*."
+description: "Wandlungstrigger kategorisieren und an den richtigen Folge-Skill weiterleiten wenn Wandelereignis vorliegt. §§ 488 ff. BGB GmbHG SAFE-Terminologie. Prüfraster: Trigger-Typ Qualified Financing Maturity Liquidation Exit Klassifizierung. Output: Trigger-Einordnung Weiterleitung. Abgrenzung: Dispatcher-Skill; Detailarbeit in wandlungsprüfung-trigger-*."
 ---
 
 # Master-Dispatcher Wandelereignis

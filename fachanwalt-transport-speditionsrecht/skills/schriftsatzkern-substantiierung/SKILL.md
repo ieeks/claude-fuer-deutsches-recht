@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Pruefraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollstaendiger Schriftsatz."
+description: "Schriftsatzkern im Transport- und Speditionsrecht substantiieren: Tatsachenvortrag, Normzitate. Normen: §§ 253 138 ZPO, §§ 407 ff. HGB, CMR. Prüfraster: schluessige Tatsachendarstellung, Beweisangebot, Normzitate. Output: Schriftsatzkern Transport-Speditionsrecht. Abgrenzung: nicht vollständiger Schriftsatz."
 ---
 
 # Schriftsatzkern und Substantiierung im Transport-, Speditions- und Logistikrecht

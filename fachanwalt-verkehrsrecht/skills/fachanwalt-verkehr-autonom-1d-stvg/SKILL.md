@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verkehr-autonom-1d-stvg
-description: "Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Pruefraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten."
+description: "Unfall mit autonomem Fahrzeug oder Frage zur Haftung bei automatisiertem Fahren. § 1d StVG autonomes Fahren Level 4. Prüfraster: Haftungsverteilung Halter § 7 StVG Fahrer § 18 StVG Hersteller § 1 ProdHaftG Datensaetze Black-Box § 1g StVG KBA-Genehmigung. Output: Haftungsanalyse und Vollstreckungsstrategie autonomes Fahrzeug. Abgrenzung zu fachanwalt-verkehrsrecht-regulierungsanforderung (klassische KFZ-Schadensregulierung) und fachanwalt-verkehrsrecht-unfallregulierung-quoten."
 ---
 
 # Autonomes Fahren PKW — § 1d StVG Haftungskonzept

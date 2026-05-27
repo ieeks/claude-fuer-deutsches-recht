@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Pruefraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht fuer aussergerichtliche Abmahnungen."
+description: "Klage oder Antrag im gewerblichen Rechtsschutz substantiiert ausformulieren. § 14 MarkenG § 139 PatG § 8 UWG §§ 253 286 ZPO. Prüfraster: Anspruchsgrundlage Sachverhalt Beweisangebot Streitwert Antrag. Output: Schriftsatzkern Klage- oder Antragsentwurf. Abgrenzung: nicht für außergerichtliche Abmahnungen."
 ---
 
 # Schriftsatzkern und Substantiierung im Marken-, Patent-, Design- und Wettbewerbsrecht

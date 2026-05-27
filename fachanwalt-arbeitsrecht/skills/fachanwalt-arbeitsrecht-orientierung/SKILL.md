@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-orientierung
-description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht fuer Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Pruefraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG Standardliteratur. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill."
+description: "Orientierung im Individualarbeitsrecht und kollektiven Arbeitsrecht für Mandate und Fachanwaltschaft nach § 10 FAO. Anwendungsfall Kanzlei will Arbeitsrechtsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung vor. Normen BGB §§ 611a ff. KSchG BetrVG TVG BUrlG EFZG TzBfG AGG ArbGG. Prüfraster Individualarbeitsrecht Kollektivarbeitsrecht Diskriminierungsschutz Verfahren ArbGG LAG BAG Standardliteratur. Output Rechtsgebietsuebersicht mit Normenhierarchie Pflichtliteratur und Mandatstriage-Hinweisen. Abgrenzung zu erstgespraech-mandatsannahme und mandat-triage-Skill."
 ---
 
 # Fachanwalt für Arbeitsrecht — Orientierung

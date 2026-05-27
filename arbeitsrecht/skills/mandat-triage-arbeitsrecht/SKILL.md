@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-arbeitsrecht
-description: "Eingangs-Abfrage fuer arbeitsrechtliche Mandate — Mandant fragt nach Kuendigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschaeftsfuehrer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kuendigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kuendigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kuendigungs-pruefung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung)."
+description: "Eingangs-Abfrage für arbeitsrechtliche Mandate — Mandant fragt nach Kündigung Aufhebungsvertrag Abmahnung Lohn Urlaub Befristung Betriebsuebergang Diskriminierung oder Betriebsrats-Streit. Klaert Mandantenrolle (Arbeitnehmer Arbeitgeber Betriebsrat Geschäftsführer). Sofort-Fristen-Check § 4 KSchG drei Wochen Kündigungsschutzklage § 17 TzBfG drei Wochen Entfristung. Normen § 1 KSchG § 611a BGB § 102 BetrVG § 17 KSchG Massenentlassung. Eskalation Telefon-Sofort bei Kündigung mit drohender Klagefrist Massenentlassung Betriebsuebergang. Output Triage-Memo mit Fristen-Ampel und Routing zu kündigungs-prüfung betriebsrat-anhoerung oder entfristung-Skills. Abgrenzung zu mandat-arbeitsbereich (Workspace-Verwaltung)."
 ---
 
 # Mandat-Triage Arbeitsrecht

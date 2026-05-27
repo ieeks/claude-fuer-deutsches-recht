@@ -1,6 +1,6 @@
 ---
 name: bestaetigungsdokument-freigabe
-description: "Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschaeftsjahresaktualisierung. Output Signaturmappe."
+description: "Bestimmt Unterzeichner, Leitungsperson, vertretungsberechtigte Person und interne Freigabe vor Eintragung oder Geschäftsjahresaktualisierung. Output Signaturmappe."
 ---
 
 # Bestaetigungsdokument und Freigabe

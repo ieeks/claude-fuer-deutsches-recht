@@ -1,6 +1,6 @@
 ---
 name: energierecht-energievertraege
-description: "Energieliefervertraege pruefen und entwerfen: Strom- und Gasliefervertraege mit Industrie- und Privatkunden. Normen: §§ 41 ff. EnWG, StromGVV, GasGVV. Pruefraster: Preisanpassungsklauseln, Laufzeiten, Sonderkuendigungsrecht, Lieferbedingungen. Output: Vertragspruefergebnis oder Vertragsentwurf. Abgrenzung: nicht Netzanschlussvertrag."
+description: "Energieliefervertraege prüfen und entwerfen: Strom- und Gasliefervertraege mit Industrie- und Privatkunden. Normen: §§ 41 ff. EnWG, StromGVV, GasGVV. Prüfraster: Preisanpassungsklauseln, Laufzeiten, Sonderkündigungsrecht, Lieferbedingungen. Output: Vertragsprüfergebnis oder Vertragsentwurf. Abgrenzung: nicht Netzanschlussvertrag."
 ---
 
 # Energie-Verträge — Strukturierung und Prüfung

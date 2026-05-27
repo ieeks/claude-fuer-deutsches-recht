@@ -1,6 +1,6 @@
 ---
 name: entfristung-guetetermin-und-kammertermin-sprechzettel
-description: "Sprechzettel fuer Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition; Normen § 54 und § 57 ArbGG."
+description: "Sprechzettel für Guetetermin und Kammertermin in der Entfristungsklage: Antragsstellung; Kernargumente Schriftformmangel und Sachgrundmangel; Vergleichsstrategie; Vorbereitung Zeugenvernehmung; Verhandlungsposition; Normen § 54 und § 57 ArbGG."
 ---
 
 # Gütetermin und Kammertermin: Sprechzettel Entfristungsklage

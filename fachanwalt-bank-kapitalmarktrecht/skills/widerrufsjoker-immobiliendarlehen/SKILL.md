@@ -1,6 +1,6 @@
 ---
 name: widerrufsjoker-immobiliendarlehen
-description: "Mandant hat Immobiliendarlehen und prueft ob fehlerhafter Widerrufsbelehrung ewiges Widerrufsrecht noch ausuebbar ist. BGH XI. Zivilsenat §§ 495 355 BGB Rueckabwicklung. Normen §§ 491-505 BGB §§ 355 357 BGB BGH XI ZR. Pruefraster Belehrungs-Inhalt Frist Beginn Klarheit Adresse Musterschutz-Check Verwirkung. Output Widerrufs-Erklaerung Rueckabwicklungs-Berechnung Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkuendigung (Kuendigung) und anlageberatungsfehler-pruefen (Beratung)."
+description: "Mandant hat Immobiliendarlehen und prüft ob fehlerhafter Widerrufsbelehrung ewiges Widerrufsrecht noch ausübbar ist. BGH XI. Zivilsenat §§ 495 355 BGB Rückabwicklung. Normen §§ 491-505 BGB §§ 355 357 BGB BGH XI ZR. Prüfraster Belehrungs-Inhalt Frist Beginn Klarheit Adresse Musterschutz-Check Verwirkung. Output Widerrufs-Erklärung Rückabwicklungs-Berechnung Klage. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-kreditkündigung (Kündigung) und anlageberatungsfehler-prüfen (Beratung)."
 ---
 
 # Widerrufsjoker bei Immobiliendarlehen

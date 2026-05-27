@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-aktenanlage
-description: "Kanzlei eroeffnet neue Deal-Akte fuer M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Pruefraster Vollstaendigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten)."
+description: "Kanzlei eroeffnet neue Deal-Akte für M&A-Mandat: Aktenzeichen Parteienregister Ordnerstruktur Datenraumspiegel Vertraulichkeitsstufen Closing-Bible-Grundgeruest. Normen BRAO §§ 43 50 Aktenaufbewahrungspflicht DSGVO. Prüfraster Vollständigkeit Akte Vertraulichkeitseinstufung Zugriffskontrolle. Output Aktenstruktur-Template Aktenzeichen-Schema Zugriffsmatrix. Abgrenzung zu matter-file (Workspace) und mittelstand-ma-tabellenreview (Daten)."
 ---
 
 # Freistehende M&A-Aktenanlage (Mittelstand)

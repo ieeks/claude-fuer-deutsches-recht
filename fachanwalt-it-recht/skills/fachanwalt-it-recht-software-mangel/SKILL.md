@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-software-mangel
-description: "Pruefung von Softwaremangelanspruechen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Ruecktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjaehrung. Pruefraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Ruecktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-pruefen."
+description: "Prüfung von Softwaremangelansprüchen nach Kauf-Werk- oder Dienstvertragsrecht. Anwendungsfall Software funktioniert nicht wie vereinbart und Mandant will Nachbesserung Minderung Rücktritt oder Schadensersatz. Normen §§ 433 ff. BGB Kaufrecht §§ 631 ff. BGB Werkvertragsrecht § 634 Nr. 1-4 BGB Gewaehlmaengel §§ 438 634a BGB Verjährung. Prüfraster Vertragstyp Mangelbegriff Spezifikation Nachbesserungsfrist Selbstvornahme Minderung Rücktritt Schadensersatz Open-Source-Compliance. Output Mangelanalyse-Protokoll mit Vertragstyp-Einordnung Gewaehlmaengelauswahl und Klageschrift-Baustein. Abgrenzung zu fachanwalt-it-recht-saas-vertrag-verhandlung und softwarefehler-mangelhaftung-prüfen."
 ---
 
 # Software-Mangel

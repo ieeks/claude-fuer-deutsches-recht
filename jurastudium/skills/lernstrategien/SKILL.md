@@ -1,6 +1,6 @@
 ---
 name: lernstrategien
-description: "Lernstrategien fuer Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden fuer Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Pruefraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Pruefungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan fuer Zeitmanagement und zu Examens-Prognose fuer Themengewichtung."
+description: "Lernstrategien für Jurastudium und Examensvorbereitung entwickeln: Anwendungsfall Student sucht effektive Lernmethoden für Examensvorbereitung und will Zeit und Energie optimal einsetzen. Examensvorbereitung 1. und 2. Staatsexamen, Methodenlehre, Subsumtion. Prüfraster Lerntyp-Diagnose, Spaced-Repetition, aktives Erinnern, Priorisierung nach Prüfungsrelevanz, Zeitplan-Erstellung. Output individueller Lernstrategieplan mit konkreten Massnahmen und Zeitplanung. Abgrenzung zu Lernplan für Zeitmanagement und zu Examens-Prognose für Themengewichtung."
 ---
 
 # Lernstrategien für Jura

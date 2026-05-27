@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-midi-job-uebergangsbereich-2000-euro
-description: "Midi-Job-Uebergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output Midi-Job-Abrechnung."
+description: "Midi-Job-Übergangsbereich 538 EUR/01 bis 2000 EUR Stand 2023. Anwendungsfall geminderte AN-SV-Beitraege in der Gleitzone Berechnung Faktor F Anpassung 2026. Methodik Berechnungsmodul SV-Beitrag AN Gleitzone. Output Midi-Job-Abrechnung."
 ---
 
 # Midi-Job / Uebergangsbereich — 538,01 bis 2.000 EUR

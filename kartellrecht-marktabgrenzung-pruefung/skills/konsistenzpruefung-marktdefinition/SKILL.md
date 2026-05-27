@@ -1,6 +1,6 @@
 ---
 name: konsistenzpruefung-marktdefinition
-description: "Prueft die interne Widerspruchsfreiheit einer Marktabgrenzung: Uebereinstimmung von Sachmarkt und raeumlichem Markt tatsaechlichem Marktverhalten Behoerdenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse."
+description: "Prüft die interne Widerspruchsfreiheit einer Marktabgrenzung: Übereinstimmung von Sachmarkt und räumlichem Markt tatsaechlichem Marktverhalten Behoerdenpraxis und oekonomischen Grundprinzipien. Erkennt Zirkelschluesse und inkonsistente Argumente zwischen verschiedenen Teilen einer Marktanalyse."
 ---
 
 # Konsistenzprüfung der Marktdefinition

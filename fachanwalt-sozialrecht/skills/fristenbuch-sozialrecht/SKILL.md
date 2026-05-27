@@ -1,6 +1,6 @@
 ---
 name: fristenbuch-sozialrecht
-description: "Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untaetigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellpruefung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailpruefung Zustellung)."
+description: "Anwalt oder Sekretariat muss Fristen in Sozialrechtsverfahren erfassen und ueberwachen. Fristenbuch Sozialrecht. Standardfristen: § 84 SGG Widerspruch 1 Monat § 87 SGG Klage 1 Monat § 173 SGG Beschwerde 1 Monat Untätigkeit § 88 SGG 6 Monate. Berechnung nach § 37 SGB X (Vier-Tage-Fiktion seit 1.1.2025 PostModG) und § 26 SGB X. Output: Fristenbuch-Eintrag mit Hauptfrist und Vorfristen. Abgrenzung zu bescheid-frist-quick-check (Schnellprüfung Einzelfall) und widerspruchsfrist-und-zustellung-sgb (Detailprüfung Zustellung)."
 ---
 
 # Fristenbuch Sozialrecht

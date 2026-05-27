@@ -1,6 +1,6 @@
 ---
 name: vorlage-vendor-onboarding-3d
-description: "Vorlagetabelle fuer Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Pruefraster: Vertragskonformitaet, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prueftabelle. Abgrenzung: nicht allgemeine Vertragspruefung."
+description: "Vorlagetabelle für Lieferanten-Onboarding-Review im 3D-Format: Vertrag, Compliance, Leistung. Normen: BGB, UWG, GWB. Prüfraster: Vertragskonformität, Compliance-Status, Leistungsindikatoren. Output: Vendor-Onboarding-Prüftabelle. Abgrenzung: nicht allgemeine Vertragsprüfung."
 ---
 
 # /tabellenreview-3d:vorlage-vendor-onboarding-3d

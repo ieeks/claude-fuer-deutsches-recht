@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das Insolvenzforderungsanmeldungspruefungs-Plugin: Intake, Formalprüfung nach § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Pruefungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung nach InsO."
+description: "Einstieg und Orientierung für das Insolvenzforderungsanmeldungsprüfungs-Plugin: Intake, Formalprüfung nach § 174 InsO, Belege, Grund, Betrag, Rang, vbuH, Nachforderungen, Tabellenimport, Prüfungstermin, Bestreiten, Feststellung, Tabellenauszug und Verteilung nach InsO."
 ---
 
 # Insolvenzforderungsanmeldungspruefung — Allgemein

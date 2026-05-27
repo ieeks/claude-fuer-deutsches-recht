@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-minijob-538-euro-2024-anpassung
-description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Pruefung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft."
+description: "Minijob 538 EUR-Grenze dynamisch an Mindestlohn gekoppelt seit 1.10.2022. Anwendungsfall geringfuegige Beschaeftigung pauschale Abgaben Beitragsbefreiung Steuerklassen-Frage Mehrfachbeschaeftigung. Methodik Prüfung 538 EUR-Grenze Aufzeichnungspflicht MiLoG. Output Minijob-Abrechnung Anmeldung Knappschaft."
 ---
 
 # Minijob — 538-EUR-Grenze und Anpassungen

@@ -1,3 +1,31 @@
+# v17.5.0 — Text-/Quellenaudit, README-Gateway-Anleitung und Lobbyregister-API-Härtung
+
+Version 17.5 finalisiert den nachgezogenen Hauptstand nach v17 und zieht die Repository-Dokumentation, Plugin-Versionen und Release-Artefakte auf einen einheitlichen Zwischenrelease. Schwerpunkt ist ein konservativer Qualitätsschnitt: weniger erfundene Fundstellen, bessere deutsche Beschreibungstexte, klarere README-Anleitung für alternative Claude-kompatible API-Endpunkte und ein belastbareres Lobbyregister-Plugin.
+
+## Korrigiert und gehärtet
+
+- **Rechtsprechungs- und Literaturhinweise:** mehrere falsch oder unsicher zugeordnete BGH-/Kapitalmarkt-/Corporate-Nachweise wurden entfernt oder durch passendere, überprüfbare Leitentscheidungen ersetzt; methodische Skills sollen nicht mehr mit frei erfundenen Aktenzeichen arbeiten.
+- **Lobbyregister Bundestag:** die API-Hinweise wurden als lesende Kontroll- und Monitoring-Schicht geschärft. Mock-Artefakte verweisen auf den stabilen `current`-Schema-Pfad und dokumentieren den Stand `R2.21`, statt eine spekulative neue API-Version zu behaupten.
+- **README:** die Anleitung zum Einhängen einer eigenen oder zwischengeschalteten Claude-/Anthropic-kompatiblen API wurde providerneutral neu gefasst, mit klarer Trennung zwischen Claude Code im Terminal und Desktop-/Cowork-Oberflächen.
+- **Deutsche Beschreibungstexte:** Frontmatter-Descriptions und Marketplace-Texte wurden breit auf Umlaute, ß und lesbare deutsche Formulierungen bereinigt, ohne Pfade, Links oder technische IDs umzubenennen.
+- **Testakten:** Lobbyregister-Testakten bleiben bewusst realistisch-fragmentarisch, enthalten aber keine spekulativen API-Abgabeversprechen. Die API wird für Suche, Exportvergleich, Monitoring und Plausibilisierung genutzt.
+
+## Release-Stand
+
+- 100 Plugins
+- 2241 `SKILL.md`
+- 49 Testakten
+- alle `plugin.json` und `.claude-plugin/marketplace.json` auf Version `17.5.0`
+
+## Qualitätssicherung
+
+- `node scripts/validate-plugin-structure.mjs`
+- `git diff --check`
+- JSON-Parsing der geänderten Lobbyregister-API-Mockdateien
+- lokaler Build und Validierung aller Plugin-ZIPs mit `scripts/validate-release-zips.py`
+
+---
+
 # v16.0.0 — Halluzinationsbereinigung, Audit-Hardening und v15-Finalstand
 
 Version 16 baut direkt auf `v15.0.0` auf und nimmt den dortigen Stand mit Lobbyregister-Plugin, Selbstvertreter-Plugins und Steuerberater-Werkzeugen vollständig mit. Der Schwerpunkt dieses Releases ist eine weitere Qualitätsschicht gegen erfundene oder falsch zugeordnete Rechtsprechungsnachweise.

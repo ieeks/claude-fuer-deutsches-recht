@@ -1,6 +1,6 @@
 ---
 name: zv-kontensuche-drittschuldner
-description: "Glaeubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Pruefraster: Rentenversicherung Bund Bundeszentralamt fuer Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermoegensauskunft-gv (Glaeubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung)."
+description: "Gläubiger hat Urteil aber kein bekanntes Konto oder Arbeitgeber des Schuldners. § 802l ZPO Drittauskunfte. Prüfraster: Rentenversicherung Bund Bundeszentralamt für Steuern Kontenabruf Kraftfahrt-Bundesamt Schuldnerverzeichnis § 882b ZPO. Output: Drittsauskunfts-Antrag und Auswertungs-Protokoll. Abgrenzung zu zv-vermögensauskunft-gv (Gläubigerantrag auf EV durch GV) und zv-pfueb-bank (nach Kontoermittlung)."
 ---
 
 # Kontensuche und Drittschuldnerermittlung

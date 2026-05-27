@@ -1,6 +1,6 @@
 ---
 name: fusionskontrolle-modus
-description: "Prueft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zustaendigkeit BKartA."
+description: "Prüft Marktabgrenzung im Kontext der EU-Fusionskontrolle (FKVO 139/2004): Phase I und Phase II SIEC-Test (Significant Impediment to Effective Competition) horizontale und nicht-horizontale Fusionen Effizienzeinrede und Koordinierungseffekte. Schwellenwerte und nationale Zuständigkeit BKartA."
 ---
 
 # Fusionskontrolle — Modus

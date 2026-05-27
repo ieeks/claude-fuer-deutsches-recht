@@ -1,6 +1,6 @@
 ---
 name: weichenstellung-bereicherung-oder-anfechtung
-description: "Triage-Entscheidung: welcher Regelungskreis ist einschlaegig - Bereicherungsrecht, ausserinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Pruefraster: Rechtsgrundmangel, Insolvenzeroffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Pruef-Skill. Abgrenzung: kein inhaltlicher Anspruchsguetachter."
+description: "Triage-Entscheidung: welcher Regelungskreis ist einschlaegig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel, Insolvenzeroffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Prüf-Skill. Abgrenzung: kein inhaltlicher Anspruchsguetachter."
 ---
 
 # Weichenstellung: Bereicherung oder Anfechtung?

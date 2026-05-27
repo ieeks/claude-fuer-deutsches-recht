@@ -1,6 +1,6 @@
 ---
 name: aufenthaltstitel-pruefung
-description: "Mandant fragt welcher Aufenthaltstitel fuer ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Pruefraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identitaet. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Pruef-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag fuer den Antrag selbst."
+description: "Mandant fragt welcher Aufenthaltstitel für ihn passt oder hat Ablehnung der Auslaenderbehoerde erhalten. Prüfraster Aufenthaltstitel nach AufenthG Visum § 6 Aufenthaltserlaubnis §§ 7 ff. ICT-Karte Blaue Karte EU § 18b Niederlassungserlaubnis § 9 Familiennachzug §§ 27 ff. AufenthG. Allgemeine Erteilungsvoraussetzungen § 5 AufenthG Lebensunterhalt Sprachnachweis Identität. Versagungs- und Ausweisungsinteressen § 11 AufenthG. Output Aufenthaltstitel-Prüf-Memo mit Erteilungsvoraussetzungen-Checkliste und Klagewegen. Abgrenzung: fachanwalt-migrationsrecht-aufenthaltstitel-antrag für den Antrag selbst."
 ---
 
 # Aufenthaltstitel-Prüfung

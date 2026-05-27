@@ -1,6 +1,6 @@
 ---
 name: verschwiegenheitsklausel-pruefen
-description: "Pruefe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenueber jedermann zeitlich unbegrenzt alle Berufsgeheimnisse Subunternehmerklausel. Lokalisiere Fundstelle im Vertrag bewerte Luecken."
+description: "Prüfe die vertragliche Verpflichtung des Dienstleisters auf Verschwiegenheit nach Absatz drei der einschlaegigen Dienstleisterregelung (§§ 43e BRAO 62a StBerG 50a WPO 39c PAO 26a BNotO). Anforderungen Textform (§ 126b BGB) Verpflichtung gegenüber jedermann zeitlich unbegrenzt alle Berufsgeheimnisse Subunternehmerklausel. Lokalisiere Fundstelle im Vertrag bewerte Luecken."
 ---
 
 # Verschwiegenheitsklausel prüfen

@@ -1,6 +1,6 @@
 ---
 name: iv-plan-verfahrenswahl
-description: "Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und aussergerichtliche Einigung vergleichen. §§ 270 270a 270d InsO §§ 29 42 StaRUG. Pruefraster: Zahlungsunfaehigkeit Ueberschuldung Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung Risikoampel. Abgrenzung: nicht fuer Detailplanung der gewaehlten Route."
+description: "Passenden Sanierungsrahmen auswaehlen und Insolvenzplan Eigenverwaltung Schutzschirm StaRUG und außergerichtliche Einigung vergleichen. §§ 270 270a 270d InsO §§ 29 42 StaRUG. Prüfraster: Zahlungsunfähigkeit Überschuldung Masse Zeitfenster Eingriffstiefe Gerichtsbedarf No-go-Schwellen. Output: Routenmatrix Empfehlung Risikoampel. Abgrenzung: nicht für Detailplanung der gewaehlten Route."
 ---
 
 # IV-integrierte Verfahrenswahl und Routenentscheidung

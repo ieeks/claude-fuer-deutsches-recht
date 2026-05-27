@@ -1,6 +1,6 @@
 ---
 name: formfehler-heilungs-timeline
-description: "Formfehler in Wandeldarlehen oder Kapitalerhohungsdokumenten identifizieren und Heilungsmassnahmen planen. §§ 125 311b BGB Nichtigkeit §§ 15 55 GmbHG Formerfordernisse. Pruefraster: Formmangel Nichtigkeit Heilung Nachbeurkundung Fristen. Output: Fehlerliste Heilungsplan Fristenkalender. Abgrenzung: nicht fuer allgemeine Beurkundungspruefung (beurkundungserfordernis-pruefung)."
+description: "Formfehler in Wandeldarlehen oder Kapitalerhohungsdokumenten identifizieren und Heilungsmassnahmen planen. §§ 125 311b BGB Nichtigkeit §§ 15 55 GmbHG Formerfordernisse. Prüfraster: Formmangel Nichtigkeit Heilung Nachbeurkundung Fristen. Output: Fehlerliste Heilungsplan Fristenkalender. Abgrenzung: nicht für allgemeine Beurkundungsprüfung (beurkundungserfordernis-prüfung)."
 ---
 
 # Formfehler und Heilungs-Timeline

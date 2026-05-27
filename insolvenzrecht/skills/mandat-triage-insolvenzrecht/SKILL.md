@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-insolvenzrecht
-description: "Eingangs-Abfrage fuer insolvenzrechtliche Mandate — Mandant ist Geschaeftsfuehrer mit Antragspflicht Glaeubiger der Forderung anmelden will oder Arbeitnehmer der Insolvenzgeld beantragt. Klaert Mandantenrolle und Vorgang (Eroeffnungsantrag Eigenverwaltung Schutzschirm StaRUG Restschuldbefreiung). Sofort-Fristen Antragspflicht § 15a InsO drei Wochen Anmeldefristen Insolvenzgeld § 165 SGB III zwei Monate. Normen §§ 13 17 18 19 InsO Eroeffnungsantrag Insolvenzgruende. Eskalation Telefon-Sofort bei Antragspflicht-Verletzung Geschaeftsfuehrer-Haftung. Output Triage-Memo Fristen-Ampel Routing zu anfechtungsrechte-pruefen und anderen Skills. Abgrenzung zu insolvenzrecht-kaltstart-interview (Plugin-Profil-Befuellung)."
+description: "Eingangs-Abfrage für insolvenzrechtliche Mandate — Mandant ist Geschäftsführer mit Antragspflicht Gläubiger der Forderung anmelden will oder Arbeitnehmer der Insolvenzgeld beantragt. Klaert Mandantenrolle und Vorgang (Eroeffnungsantrag Eigenverwaltung Schutzschirm StaRUG Restschuldbefreiung). Sofort-Fristen Antragspflicht § 15a InsO drei Wochen Anmeldefristen Insolvenzgeld § 165 SGB III zwei Monate. Normen §§ 13 17 18 19 InsO Eroeffnungsantrag Insolvenzgründe. Eskalation Telefon-Sofort bei Antragspflicht-Verletzung Geschäftsführer-Haftung. Output Triage-Memo Fristen-Ampel Routing zu anfechtungsrechte-prüfen und anderen Skills. Abgrenzung zu insolvenzrecht-kaltstart-interview (Plugin-Profil-Befuellung)."
 ---
 
 # Mandat-Triage Insolvenzrecht

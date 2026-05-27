@@ -1,6 +1,6 @@
 ---
 name: ips-sanierungskonzept
-description: "Sanierungskonzept als wirtschaftliche Grundlage fuer Insolvenzplan oder StaRUG erstellen oder pruefen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfaehigkeit. Pruefraster: Krisenstadium Ursachen Leitbild Massnahmenpakete Stakeholderbeitraege Plausibilitaetsbruecken zur integrierten Planung. Output: Sanierungskonzept-Gliederung Massnahmenplan Plausibilitaetsfragen. Abgrenzung: nicht fuer integrierte Finanzplanung (ips-integrierte-planung)."
+description: "Sanierungskonzept als wirtschaftliche Grundlage für Insolvenzplan oder StaRUG erstellen oder prüfen. §§ 220 229 InsO §§ 6 14 StaRUG Fortbestehensfähigkeit. Prüfraster: Krisenstadium Ursachen Leitbild Massnahmenpakete Stakeholderbeitraege Plausibilitaetsbrücken zur integrierten Planung. Output: Sanierungskonzept-Gliederung Massnahmenplan Plausibilitaetsfragen. Abgrenzung: nicht für integrierte Finanzplanung (ips-integrierte-planung)."
 ---
 
 # Sanierungskonzept

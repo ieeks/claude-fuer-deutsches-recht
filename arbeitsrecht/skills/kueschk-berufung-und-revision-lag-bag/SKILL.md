@@ -1,6 +1,6 @@
 ---
 name: kueschk-berufung-und-revision-lag-bag
-description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgruende Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgruende."
+description: "Berufung beim Landesarbeitsgericht und Revision beim BAG: Fristen je einen Monat und zwei Monate; Zulassungsgründe Revision; Kosten ab zweiter Instanz; Divergenzrevision; typische Revisionszulassungsgründe."
 ---
 
 # Berufung und Revision: LAG und BAG

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Zwangsvollstreckung-Plugin: Mahnbescheid, PfUeB Bank und Arbeit, Kontensuche, Vermoegeensauskunft, Raeumung, Notar-Urkunde, ZVG-Antrag, EU-Kontenpfaendung, Haertefall-Schutz nach §§ 704 ff. ZPO fuer Glaeubiger und Schuldner."
+description: "Einstieg und Überblick für das Zwangsvollstreckung-Plugin: Mahnbescheid, PfUeB Bank und Arbeit, Kontensuche, Vermögeensauskunft, Räumung, Notar-Urkunde, ZVG-Antrag, EU-Kontenpfaendung, Haertefall-Schutz nach §§ 704 ff. ZPO für Gläubiger und Schuldner."
 ---
 
 # Zwangsvollstreckung — Allgemein

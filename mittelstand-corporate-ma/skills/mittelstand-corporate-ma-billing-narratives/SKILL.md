@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-billing-narratives
-description: "Kanzlei erstellt Rechnung fuer M&A-Mandat und braucht praezise zeitgerechte Leistungsbeschreibungen: Time Narratives Phasenbudgets Workstream-Rechnungen Cap/Success-Fee-Berechnung. Normen RVG §§ 1 ff. BRAO § 49b AO-Steuerrecht. Pruefraster Workstream-Zeiterfassung Phasenzuordnung Korrektur Mandantsfreigabe. Output Narratives-Dokument Workstream-Abrechnung Rechnungsentwurf. Abgrenzung zu mittelstand-ma-erechnung-gobd (GoBD/XRechnung-Format)."
+description: "Kanzlei erstellt Rechnung für M&A-Mandat und braucht praezise zeitgerechte Leistungsbeschreibungen: Time Narratives Phasenbudgets Workstream-Rechnungen Cap/Success-Fee-Berechnung. Normen RVG §§ 1 ff. BRAO § 49b AO-Steuerrecht. Prüfraster Workstream-Zeiterfassung Phasenzuordnung Korrektur Mandantsfreigabe. Output Narratives-Dokument Workstream-Abrechnung Rechnungsentwurf. Abgrenzung zu mittelstand-ma-erechnung-gobd (GoBD/XRechnung-Format)."
 ---
 
 # Mittelstandsmandat Billing Narratives
@@ -45,7 +45,7 @@ Erstellt deal-taugliche Time Narratives, Phasenbudgets, Workstream-Rechnungen, C
 - §§ 93, 116 AktG; § 43 GmbHG — Business Judgment Rule: Entscheidung auf ausreichender Informationsgrundlage; Dokumentationspflicht
 
 ### Leitsaetze
-- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 — Business Judgment Rule: Geschaeftsfuehrer handelt pflichtgemaess, wenn er bei einer unternehmerischen Entscheidung vernuenftigerweise annehmen durfte, zum Wohl der Gesellschaft zu handeln; Informationsgrundlage muss angemessen sein
+- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat muss Ersatzansprüche gegen Vorstandsmitglieder eigenverantwortlich prüfen; Organentscheidungen verlangen eine belastbare Informations- und Abwägungsgrundlage.
 - BGH, Urt. v. 15.03.2012 - IX ZR 35/11, NJW 2012, 1800 — Beraterhaftung: vollstaendige Information des Mandanten ist Kernpflicht; Luecken koennen Schadensersatz ausloesen
 
 ### Kommentarliteratur

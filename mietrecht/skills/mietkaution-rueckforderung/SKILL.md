@@ -1,6 +1,6 @@
 ---
 name: mietkaution-rueckforderung
-description: Strukturierte Pruefung Mietkaution-Rueckforderung nach Auszug. Hoechstgrenze drei Monatsmieten netto kalt § 551 BGB. Anlage-Pflicht Vermieter getrennt insolvenzgesichert Zinsen mit Kontofuehrungs-Spareinlage § 551 Abs. 3 BGB. Abrechnungs-Frist Vermieter angemessen typisch sechs Monate nach Auszug BGH VIII ZR 71/05. Einbehalt-Voraussetzungen offene Mietforderungen Schaden Nachzahlung Betriebskosten. Verjaehrung drei Jahre § 195 BGB. Mahn- und Klageverfahren. Verzugsfolgen nach § 286 BGB. Bei nicht-getrennter Anlage Schadensersatz-Anspruch Mieter.
+description: Strukturierte Prüfung Mietkaution-Rückforderung nach Auszug. Hoechstgrenze drei Monatsmieten netto kalt § 551 BGB. Anlage-Pflicht Vermieter getrennt insolvenzgesichert Zinsen mit Kontoführungs-Spareinlage § 551 Abs. 3 BGB. Abrechnungs-Frist Vermieter angemessen typisch sechs Monate nach Auszug BGH VIII ZR 71/05. Einbehalt-Voraussetzungen offene Mietforderungen Schaden Nachzahlung Betriebskosten. Verjährung drei Jahre § 195 BGB. Mahn- und Klageverfahren. Verzugsfolgen nach § 286 BGB. Bei nicht-getrennter Anlage Schadensersatz-Anspruch Mieter.
 ---
 
 # Mietkaution-Rückforderung

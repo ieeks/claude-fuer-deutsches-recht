@@ -1,6 +1,6 @@
 ---
 name: unterzeichnung-elektronisch-docusign
-description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Pruefraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur fuer elektronische Signatur; nicht fuer notarielle Beurkundung."
+description: "Elektronische Unterzeichnung von Wandeldarlehensvertraegen und Begleitdokumenten organisieren. §§ 126a 126b BGB eIDAS-VO qualifizierte elektronische Signatur. Prüfraster: Formerfordernis je Dokument einfache QES oder qualifizierte Signatur Anbieterauswahl Nachweispflicht. Output: Unterzeichnungsplan Prozessbeschreibung. Abgrenzung: nur für elektronische Signatur; nicht für notarielle Beurkundung."
 ---
 
 # Elektronische Unterzeichnung (DocuSign / Adobe Sign)

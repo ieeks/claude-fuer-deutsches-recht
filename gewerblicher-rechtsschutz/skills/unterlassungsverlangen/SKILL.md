@@ -1,6 +1,6 @@
 ---
 name: unterlassungsverlangen
-description: "Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Pruefraster: Abmahnungsentwurf modifizierte Unterlassungserklaerung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung)."
+description: "Schutzrechtsinhaber will Verletzung abmahnen oder hat selbst Abmahnung erhalten. Abmahnung Unterlassung MarkenG PatG UrhG UWG. Prüfraster: Abmahnungsentwurf modifizierte Unterlassungserklärung Streitwert Kostenansatz RVG oder Reaktions-Optionsmemo bei erhaltener Abmahnung. Output: Abmahnungsschreiben oder Optionsmemo mit Risikobewertung. Abgrenzung zu schutzschrift-eilverfuegung (Praeventiv) und verletzungs-triage (Eingangsentscheidung)."
 ---
 
 # Abmahnung

@@ -1,6 +1,6 @@
 ---
 name: registereintrag-finalcheck
-description: "Prueft vor Freigabe Vollstaendigkeit, Richtigkeit, Aktualitaet, Irrefuehrungsfreiheit, Quellenstand und Plausibilitaet aller Pflichtangaben. Output Finalcheck-Protokoll."
+description: "Prüft vor Freigabe Vollständigkeit, Richtigkeit, Aktualitaet, Irreführungsfreiheit, Quellenstand und Plausibilitaet aller Pflichtangaben. Output Finalcheck-Protokoll."
 ---
 
 # Registereintrag Finalcheck

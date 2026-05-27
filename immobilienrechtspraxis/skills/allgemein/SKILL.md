@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Immobilienrechtspraxis-Plugin: musterbasierte Vertragserstellung, Vertragspruefung nach Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen mit BGH-Verankerung, Case Management und projektbasierte Arbeitsweise fuer immobilienrechtliche Rechtsabteilungen."
+description: "Einstieg und Überblick für das Immobilienrechtspraxis-Plugin: musterbasierte Vertragserstellung, Vertragsprüfung nach Playbook, Grundbuchanalyse, Sachverhaltsermittlung, Mieteranfragen mit BGH-Verankerung, Case Management und projektbasierte Arbeitsweise für immobilienrechtliche Rechtsabteilungen."
 ---
 
 # Immobilienrechtspraxis — Allgemein

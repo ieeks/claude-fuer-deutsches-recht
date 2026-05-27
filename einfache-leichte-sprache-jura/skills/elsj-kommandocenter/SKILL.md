@@ -1,6 +1,6 @@
 ---
 name: elsj-kommandocenter
-description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt fuer juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Pruefraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetspruefung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausfuehrung) und elsj-qualitaetsgate (Pruefung)."
+description: "Kanzlei oder Behoerde startet Vereinfachungs-Projekt für juristischen Text: Zielgruppe Modus Rechtsinhalt-Erfassung Workflow-Steuerung Ausgabe. Normen BGG BITV 2.0. Prüfraster Zielgruppen-Identifikation Modus-Auswahl Skill-Routing Qualitaetsprüfung. Output Projekt-Plan Skill-Routing. Abgrenzung zu elsj-einfache-sprache und elsj-leichte-sprache (Ausführung) und elsj-qualitaetsgate (Prüfung)."
 ---
 
 # Kommandocenter

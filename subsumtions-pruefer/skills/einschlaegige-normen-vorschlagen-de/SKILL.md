@@ -1,6 +1,6 @@
 ---
 name: einschlaegige-normen-vorschlagen-de
-description: "Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Pruefungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgrundlagen."
+description: "Schlaegt anhand eines Lebenssachverhalts einschlaegige Normen des deutschen Rechts vor: BGB, HGB, StGB, StPO, ZPO, VwGO, GG, AO, SGB und Nebengesetze. Gibt Prüfungsreihenfolge und Hinweise auf Spezialitaet und konkurrierende Anspruchsgrundlagen."
 ---
 
 # Einschlägige Normen vorschlagen — Deutsches Recht

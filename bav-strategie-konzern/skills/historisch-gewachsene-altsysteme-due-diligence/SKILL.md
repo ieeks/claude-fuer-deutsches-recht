@@ -1,6 +1,6 @@
 ---
 name: historisch-gewachsene-altsysteme-due-diligence
-description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Pruefraster: Durchfuehrungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung."
+description: "Due Diligence historisch gewachsener bAV-Altsysteme im Konzern: Bestandsanalyse, Haftungsrisiken. Normen: §§ 2 6a EStG, BetrAVG. Prüfraster: Durchführungswege, ungedeckte Verpflichtungen, Altregelungen. Output: Due-Diligence-Bericht bAV-Altsysteme. Abgrenzung: nicht laufende Versorgungsverwaltung."
 ---
 
 # Historisch Gewachsene Altsysteme — Due Diligence

@@ -1,6 +1,6 @@
 ---
 name: konkurrenz-bereicherung-anfechtung-und-vindikation
-description: "Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klaeren. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Pruefraster: Verdraengungsregeln, Subsidiaritaet, Parallelitaet der Ansprueche. Output: Konkurrenzuebersicht mit Handlungsempfehlung. Abgrenzung: nicht Einzelpruefung innerhalb eines Regelungskreises."
+description: "Anspruchskonkurrenzen zwischen Bereicherungsrecht §§ 812 ff. BGB, AnfG/InsO-Anfechtung und Vindikation § 985 BGB klaeren. Normen: §§ 812 985 BGB, §§ 129 ff. InsO, AnfG. Prüfraster: Verdraengungsregeln, Subsidiaritaet, Parallelitaet der Ansprüche. Output: Konkurrenzuebersicht mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung innerhalb eines Regelungskreises."
 ---
 
 # Konkurrenz: Bereicherung, Anfechtung und Vindikation

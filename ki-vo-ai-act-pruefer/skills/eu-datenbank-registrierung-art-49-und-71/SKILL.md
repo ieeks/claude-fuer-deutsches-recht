@@ -1,6 +1,6 @@
 ---
 name: eu-datenbank-registrierung-art-49-und-71
-description: "Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Pruefraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 oeffentliche Stellen als Betreiber vor Verwendung Art. 49 Abs. 3. Inhalt nach Anhang VIII Fristen Vertraulichkeit vs. oeffentliche Zugaenglichkeit Mindestfelder. Output: Registrierungs-Checkliste und Muster-Registrierungsdatensatz. Abgrenzung zu hochrisiko-konformitaetsbewertung-art-43-bis-49 (Konformitaetsbewertung) und hochrisiko-bestaetigt-end-to-end-roadmap (Gesamt-Roadmap)."
+description: "Anbieter oder Betreiber von Hochrisiko-KI fragt: In welcher EU-Datenbank muss ich mein KI-System registrieren und wann? Art. 49 und 71 KI-VO Registrierungspflichten. Prüfraster: Anbieter vor Inverkehrbringen Pflicht Art. 49 Abs. 1 öffentliche Stellen als Betreiber vor Verwendung Art. 49 Abs. 3. Inhalt nach Anhang VIII Fristen Vertraulichkeit vs. öffentliche Zugaenglichkeit Mindestfelder. Output: Registrierungs-Checkliste und Muster-Registrierungsdatensatz. Abgrenzung zu hochrisiko-konformitätsbewertung-art-43-bis-49 (Konformitätsbewertung) und hochrisiko-bestätigt-end-to-end-roadmap (Gesamt-Roadmap)."
 ---
 
 # EU-Datenbank-Registrierung — Art. 49 und 71 KI-VO

@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-umwandlungssteuerrecht
-description: "Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rueckwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG."
+description: "Umwandlungssteuerrecht: UmwStG-Strukturfragen, Buchwertantrag, steuerliche Rückwirkung, § 8c KStG Verlustuntergang, GrESt-Ergaenzungstatbestand, Einbringung §§ 20-24 UmwStG."
 ---
 
 # Umwandlungssteuerrecht

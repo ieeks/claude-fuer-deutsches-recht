@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-uwg
-description: "UWG-Abmahnung pruefen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Pruefraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht fuer Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung)."
+description: "UWG-Abmahnung prüfen versenden oder auf Eingang reagieren. § 8 UWG Unterlassungsanspruch §§ 3 4 5 UWG Verbotsgrunde §§ 12 13 UWG Durchsetzung. Prüfraster: Verletzungshandlung Abmahnberechtigung Fristen UE Vertragsstrafe Kosten. Output: Abmahnschreiben oder Erwiderung modifizierte UE Kostennote. Abgrenzung: nicht für Markenrecht (fachanwalt-gewerblicher-rechtsschutz-markenanmeldung)."
 ---
 
 ## Mandantenfragen beim Kaltstart

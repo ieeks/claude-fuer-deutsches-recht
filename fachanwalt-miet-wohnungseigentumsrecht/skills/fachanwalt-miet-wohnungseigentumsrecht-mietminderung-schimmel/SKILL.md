@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-mietminderung-schimmel
-description: "Mieter hat Schimmel in der Wohnung und prueft Mietminderungsrecht oder Vermieter wehrt ab. Ursachen-Differenzierung Bauphysik vs. Lueftungsverhalten Mieter Beweislast. Normen § 536 BGB §§ 535 538 BGB BGH VIII ZR. Pruefraster Mangel-Feststellung Ursachen-Gutachten Beweislast-Verteilung Minderungs-Hoehe Mahnung Klage. Output Mangelruege Minderungsberechnung Klagestrategie. Abgrenzung zu kuendigung (Kuendigung wegen Mangel) und WEG-Anfechtungsklage (WEG-Kontext)."
+description: "Mieter hat Schimmel in der Wohnung und prüft Mietminderungsrecht oder Vermieter wehrt ab. Ursachen-Differenzierung Bauphysik vs. Lueftungsverhalten Mieter Beweislast. Normen § 536 BGB §§ 535 538 BGB BGH VIII ZR. Prüfraster Mangel-Feststellung Ursachen-Gutachten Beweislast-Verteilung Minderungs-Hoehe Mahnung Klage. Output Mangelruege Minderungsberechnung Klagestrategie. Abgrenzung zu kündigung (Kündigung wegen Mangel) und WEG-Anfechtungsklage (WEG-Kontext)."
 ---
 
 # Mietminderung — Schimmelbefall

@@ -1,6 +1,6 @@
 ---
 name: expatriate-pensionsplanung-und-totalization
-description: "Pensionsplanung fuer Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Pruefraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchfuehrungsweg."
+description: "Pensionsplanung für Expatriates: Totalisierungsabkommen, Doppelversicherungsvermeidung, Pensionsluecken. Normen: EG-VO 883/2004, bilaterale SV-Abkommen. Prüfraster: Entsendelaender, Sozialversicherungsrecht, Pensionsbeitraege, Lueckenanalyse. Output: Expatriate-Pensionsplan. Abgrenzung: nicht nationaler Durchführungsweg."
 ---
 
 # Expatriate-Pensionsplanung und Totalization

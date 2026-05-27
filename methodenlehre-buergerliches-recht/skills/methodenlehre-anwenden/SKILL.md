@@ -1,6 +1,6 @@
 ---
 name: methodenlehre-anwenden
-description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Pruefraster Gutachtenstil Anspruchsgrundlagen Verjaehrung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Pruefungsaufbau. Abgrenzung zu subsumtions-pruefer (mechanische Pruefung) und hausarbeitenmacher (akademisch)."
+description: "Anwalt oder Rechtsstudent wendet deutsche Methodenlehre im buergerlichen Recht an: Anspruchsgrundlagen-Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Gefaehrdungshaftung Bereicherung. Auslegung §§ 133 157 BGB grammatikalisch systematisch historisch teleologisch verfassungskonform unionsrechtskonform. Lueckenfuellung Analogie teleologische Reduktion. Normen §§ 133 157 241 280 433 812 823 BGB. Prüfraster Gutachtenstil Anspruchsgrundlagen Verjährung Beweislast Generalklauseln §§ 138 242 BGB. Output strukturiertes Rechtsgutachten Prüfungsaufbau. Abgrenzung zu subsumtions-prüfer (mechanische Prüfung) und hausarbeitenmacher (akademisch)."
 ---
 
 # Methodenlehre und Rechtsanwendung im bürgerlichen Recht (Anwaltsperspektive)

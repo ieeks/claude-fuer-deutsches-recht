@@ -1,6 +1,6 @@
 ---
 name: jahresabschluss-rechenschaftsbericht
-description: "Prueft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan."
+description: "Prüft Bereitstellung von Jahresabschluss oder Rechenschaftsbericht, Umgang mit noch nicht aufgestellten Unterlagen und Nachreichpflicht. Output Abschluss-Uploadplan."
 ---
 
 # Jahresabschluss und Rechenschaftsbericht

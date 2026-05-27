@@ -1,6 +1,6 @@
 ---
 name: anpassungsgebot-flaechennutzungsplan
-description: "Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Pruefraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Parallelverfahren § 13a Abs. 2 BauGB. Output: Entwicklungsgebot-Pruefprotokoll und Angriffspunkt fuer Normenkontrollantrag. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und planerhaltung-214-215-baugb."
+description: "Mandant greift Bebauungsplan an weil er nicht aus dem Flaechennutzungsplan entwickelt wurde. § 8 Abs. 2 BauGB Entwicklungsgebot und Anpassungsgebot. Prüfraster: Entwicklungssaussage des FNP bezogen auf Plangebiet Konflikt FNP-Darstellung vs. B-Plan-Festsetzung Ausnahmen § 8 Abs. 3 und 4 BauGB Parallelverfahren § 13a Abs. 2 BauGB. Output: Entwicklungsgebot-Prüfprotokoll und Angriffspunkt für Normenkontrollantrag. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb (Abwaegungsfehler) und planerhaltung-214-215-baugb."
 ---
 
 # Anpassungsgebot — Flächennutzungsplan

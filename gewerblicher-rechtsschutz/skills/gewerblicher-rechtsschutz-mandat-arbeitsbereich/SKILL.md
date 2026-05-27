@@ -1,6 +1,6 @@
 ---
 name: gewerblicher-rechtsschutz-mandat-arbeitsbereich
-description: "Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Pruefraster: Anlegen Auflisten Wechseln Schliessen oder Trennen des aktiven Mandats Mandantenkontext fuer alle Folge-Skills. Output: aktives Mandat gesetzt und bestaetigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills."
+description: "Kanzlei mit mehreren Mandanten im gewerblichen Rechtsschutz muss Kontext zwischen Mandaten strikt trennen. Mandatsverwaltung IP-Kanzlei. Prüfraster: Anlegen Auflisten Wechseln Schließen oder Trennen des aktiven Mandats Mandantenkontext für alle Folge-Skills. Output: aktives Mandat gesetzt und bestätigte Kontexttrennung. Abgrenzung zu gewerblicher-rechtsschutz-kaltstart-interview (Kanzlei-Profil) und allen Sach-Skills."
 ---
 
 # Mandatsarbeitsbereich

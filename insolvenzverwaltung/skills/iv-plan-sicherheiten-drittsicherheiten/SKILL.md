@@ -1,6 +1,6 @@
 ---
 name: iv-plan-sicherheiten-drittsicherheiten
-description: "Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Pruefraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung Finanzsicherheiten unzulaessige Eingriffe. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht fuer allgemeine Gruppenbildung."
+description: "Absonderungsrechte und Drittsicherheiten im Insolvenzplan und StaRUG planfest behandeln und Ausfallwerte bestimmen. §§ 49 50 51 224 InsO Absonderung § 2 Abs. 4 StaRUG Drittsicherheiten. Prüfraster: Sicherheitenregister Eingriffsbeschreibung Ausfallwertrechnung Finanzsicherheiten unzulässige Eingriffe. Output: Sicherheitenregister Ausfallwertrechnung Drittsicherheitenmodul. Abgrenzung: nicht für allgemeine Gruppenbildung."
 ---
 
 # IV-integrierte Sicherheiten und Drittsicherheiten

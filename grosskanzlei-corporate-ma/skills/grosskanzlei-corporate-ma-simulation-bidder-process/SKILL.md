@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-simulation-bidder-process
-description: "M&A-Bieterprozess simulieren fuer Training und Mandatsvorbereitung: Anwendungsfall Junior-Anwalt oder Deal-Team ueben beschleunigten Transaktions-Tag mit Datenraum Q&A SPA-Markup CP-Liste und Board-Call. SPA Share Purchase Agreement, Due Diligence Datenraum. Pruefraster Szenario Seller-side/Buy-side, Deal-Ereignisse simulieren, Entscheidungspunkte steuern, Lessons Learned dokumentieren. Output simulierter Deal-Tag mit Entscheidungsprotokoll und Nachbereitung. Abgrenzung zu freundlichem Copilot fuer Echtzeit-Begleitung und zu Kommandocenter fuer echte Mandate."
+description: "M&A-Bieterprozess simulieren für Training und Mandatsvorbereitung: Anwendungsfall Junior-Anwalt oder Deal-Team ueben beschleunigten Transaktions-Tag mit Datenraum Q&A SPA-Markup CP-Liste und Board-Call. SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Szenario Seller-side/Buy-side, Deal-Ereignisse simulieren, Entscheidungspunkte steuern, Lessons Learned dokumentieren. Output simulierter Deal-Tag mit Entscheidungsprotokoll und Nachbereitung. Abgrenzung zu freundlichem Copilot für Echtzeit-Begleitung und zu Kommandocenter für echte Mandate."
 ---
 
 # Bieterprozess-Simulation

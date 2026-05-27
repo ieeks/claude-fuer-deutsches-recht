@@ -1,6 +1,6 @@
 ---
 name: bilinguale-vertragserstellung
-description: "Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen fuer internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Pruefraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenueberstell. Abgrenzung: nicht fuer einsprachige Fassung (einsprachige-vertragsfassung-de)."
+description: "Wandeldarlehensvertrag zweisprachig deutsch und englisch erstellen für internationale Transaktionen oder ausl. Investoren. BGB Darlehen §§ 488 ff. BGB GmbHG Kapitalerhohung. Prüfraster: Terminologie-Konsistenz Rechtswahl governing-law jurisdiction. Output: bilingualer Vertragsentwurf mit Gegenüberstell. Abgrenzung: nicht für einsprachige Fassung (einsprachige-vertragsfassung-de)."
 ---
 
 # Bilinguale Vertragserstellung DE/EN

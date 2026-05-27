@@ -1,6 +1,6 @@
 ---
 name: verstoesse-melden
-description: "Fuehrt durch Meldung moeglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf."
+description: "Führt durch Meldung möglicher Verstoesse gegen Verhaltenskodex oder Registerpflichten an lobbyregister-meldung@bundestag.de. Output Meldungsentwurf."
 ---
 
 # Verstoesse melden

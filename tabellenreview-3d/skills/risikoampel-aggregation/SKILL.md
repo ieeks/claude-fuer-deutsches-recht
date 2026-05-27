@@ -1,6 +1,6 @@
 ---
 name: risikoampel-aggregation
-description: "Risikoampeln fuer alle geprueften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Pruefraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht. Abgrenzung: nicht Kreuzblatt-Konsistenzpruefung."
+description: "Risikoampeln für alle geprüften Positionen aggregieren: rot/gelb/gruen je Dimension. Normen: §§ 174 ff. InsO. Prüfraster: Ampellogik, Schwellenwerte, Gesamtrisikoeinschaetzung. Output: Risikoampel-Aggregationsbericht. Abgrenzung: nicht Kreuzblatt-Konsistenzprüfung."
 ---
 
 # /tabellenreview-3d:risikoampel-aggregation

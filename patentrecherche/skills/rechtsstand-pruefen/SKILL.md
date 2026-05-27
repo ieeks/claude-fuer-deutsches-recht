@@ -1,6 +1,6 @@
 ---
 name: rechtsstand-pruefen
-description: "Prueft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister fuer DE-Schutzrechte EPO Register fuer EP-Schutzrechte USPTO PAIR PEDS fuer US-Patente nationale Register fuer JP CN KR. Liefert Anmeldetag Veroeffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurueckgenommen zurueckgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebuehren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC fuer Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren."
+description: "Prüft Rechtsstand eines Patents oder einer Anmeldung im jeweiligen Amts-Register. DPMAregister für DE-Schutzrechte EPO Register für EP-Schutzrechte USPTO PAIR PEDS für US-Patente nationale Register für JP CN KR. Liefert Anmeldetag Veröffentlichungstag Erteilungstag Schutzdauer-Ende Status (anhaengig erteilt zurückgenommen zurückgewiesen erloschen nichtig), Einspruchsverfahren laufend abgeschlossen, Nichtigkeitsverfahren laufend abgeschlossen, Jahresgebühren bezahlt offen, Validierungsstaaten bei EP-Patenten, SPC für Arzneimittel und Pflanzenschutzmittel. Quellen werden mit Datum des Abrufs vermerkt. Disclaimer Rechtsstand kann sich taeglich aendern Stichtag-Datum dokumentieren."
 ---
 
 # rechtsstand-prüfen

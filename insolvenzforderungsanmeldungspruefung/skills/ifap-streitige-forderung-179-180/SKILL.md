@@ -1,6 +1,6 @@
 ---
 name: ifap-streitige-forderung-179-180
-description: "Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Glaeubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch. Pruefraster Bestreitungsprotokoll, Klagefrist, Zustaendiges Gericht, Titelumkehr bei Titel-Inhaber. Output Nachlaufprotokoll fuer bestrittene Forderungen mit Fristen und Klageempfehlung. Abgrenzung zu Schuldnerwiderspruch-184 und zu Verteilung-189."
+description: "Streitige Forderungen nach §§ 179 und 180 InsO nachverfolgen: Anwendungsfall Forderung wurde beim Prüfungstermin bestritten und Gläubiger muss Feststellungsklage erheben oder laufenden Rechtsstreit aufnehmen. § 179 InsO Feststellungsklage, § 180 InsO Tabellenklage, § 184 InsO Schuldnerwiderspruch. Prüfraster Bestreitungsprotokoll, Klagefrist, Zuständiges Gericht, Titelumkehr bei Titel-Inhaber. Output Nachlaufprotokoll für bestrittene Forderungen mit Fristen und Klageempfehlung. Abgrenzung zu Schuldnerwiderspruch-184 und zu Verteilung-189."
 ---
 
 # Streitige Forderung und Feststellungsklage

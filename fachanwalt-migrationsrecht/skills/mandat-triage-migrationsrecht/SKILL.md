@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-migrationsrecht
-description: "Eingangs-Abfrage fuer migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Ueberstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-pruefung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
+description: "Eingangs-Abfrage für migrationsrechtliche Mandate — Mandant ist Asylsuchender Geduldeter oder fragt nach Aufenthaltstitel Familiennachzug Abschiebungsabwehr Ausweisung oder Einbuergerung. Sofort-Fristen § 74 AsylG zwei-Wochen-Klagefrist § 36 AsylG ein-Wochen-Frist Eilantrag § 80 Abs. 5 VwGO bei Abschiebungsandrohung. Normen AufenthG AsylG § 27 AufenthG Familiennachzug. Eskalation Telefon-Sofort bei Abschiebung in 24 Stunden Haft Dublin-Überstellung. Output Triage-Memo Fristen-Ampel Routing zu aufenthaltstitel-prüfung und Spezial-Skills. Abgrenzung zu erstgespraech-mandatsannahme (Mandatsaufnahme-Leitfaden)."
 ---
 
 # Mandat-Triage Migrationsrecht

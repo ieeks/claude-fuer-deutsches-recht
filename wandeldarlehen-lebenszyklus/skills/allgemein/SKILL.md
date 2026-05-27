@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Wandeldarlehen-Lebenszyklus-Plugin: Vertragsgestaltung bilingual/einsprachig, Beurkundungspruefung, Wandelereignisse, Wandlungsberechnung, Cap-Table, Gesellschafterbeschluss, Notarpaket und Handelsregister fuer GmbH und UG."
+description: "Einstieg und Überblick für das Wandeldarlehen-Lebenszyklus-Plugin: Vertragsgestaltung bilingual/einsprachig, Beurkundungsprüfung, Wandelereignisse, Wandlungsberechnung, Cap-Table, Gesellschafterbeschluss, Notarpaket und Handelsregister für GmbH und UG."
 ---
 
 # Wandeldarlehen Lebenszyklus — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: case-management
-description: "Fallmanagement fuer Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Ueberblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Pruefraster: Fristenliste, offene Antraege, Dokumentenstruktur. Output: Case-Management-Uebersicht Immobilienrecht. Abgrenzung: nicht Einzelvertragspruefung."
+description: "Fallmanagement für Immobilienrechtsmandate: Verfahrensstand, Fristen, Dokumente im Überblick. Normen: WEG, §§ 535 ff. 873 ff. BGB, GrEStG. Prüfraster: Fristenliste, offene Anträge, Dokumentenstruktur. Output: Case-Management-Übersicht Immobilienrecht. Abgrenzung: nicht Einzelvertragsprüfung."
 ---
 
 # Case Management Immobilienrecht

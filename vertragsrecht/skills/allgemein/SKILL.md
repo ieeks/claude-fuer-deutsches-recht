@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in das Vertragsrecht-Plugin: Lieferanten- und Vertriebsvertraege, AGB-Pruefung, NDA, SaaS/MSA, Abmahnung UWG, Renewal-Tracking und Eskalationsrouting nach deutschem Recht."
+description: "Einstieg in das Vertragsrecht-Plugin: Lieferanten- und Vertriebsvertraege, AGB-Prüfung, NDA, SaaS/MSA, Abmahnung UWG, Renewal-Tracking und Eskalationsrouting nach deutschem Recht."
 ---
 
 # Vertragsrecht — Allgemein

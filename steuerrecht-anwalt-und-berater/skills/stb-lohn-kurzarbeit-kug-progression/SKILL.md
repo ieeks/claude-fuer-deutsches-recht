@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-kurzarbeit-kug-progression
-description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt fuer AN. Methodik Pruefung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung."
+description: "Kurzarbeitergeld KUG Anmeldung Berechnung Progressionsvorbehalt. Anwendungsfall Kurzarbeit-Antrag bei der Bundesagentur Lohnabrechnung mit anteiligem Lohn und KUG Steuerprogressionsvorbehalt für AN. Methodik Prüfung Voraussetzungen Berechnung Soll- und Ist-Entgelt. Output Kurzarbeit-Lohnabrechnung Bescheinigung."
 ---
 
 # Kurzarbeitergeld (KUG) — Anmeldung, Berechnung, Progression

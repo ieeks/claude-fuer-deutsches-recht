@@ -1,6 +1,6 @@
 ---
 name: pflichtenkollision-und-shift-of-fiduciary-duties
-description: "Shift of Fiduciary Duties in der Unternehmenskrise analysieren: GF prueft ob Pflichten nun Glaeubigern gegenueber bestehen. Normen: EuGH C-594/14 Kornhaas (Glaeubigerschutz EU), § 43 GmbHG, § 93 AktG. Pruefraster: Wandel vom Eigentuemer- zum Glaeubiger-Interesse, COMI-Verlagerungs-Verbote, Pflichtenkollision und Loesungsstrategien. Output Pflichtenkollisions-Memo, Handlungsempfehlung in Krisensituation. Abgrenzung: GF-Haftung siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
+description: "Shift of Fiduciary Duties in der Unternehmenskrise analysieren: GF prüft ob Pflichten nun Gläubigern gegenüber bestehen. Normen: EuGH C-594/14 Kornhaas (Gläubigerschutz EU), § 43 GmbHG, § 93 AktG. Prüfraster: Wandel vom Eigentuemer- zum Gläubiger-Interesse, COMI-Verlagerungs-Verbote, Pflichtenkollision und Lösungsstrategien. Output Pflichtenkollisions-Memo, Handlungsempfehlung in Krisensituation. Abgrenzung: GF-Haftung siehe gf-haftung-paragraph-43-gmbhg-und-paragraph-93-aktg; Insolvenzantragspflicht siehe insolvenzantragspflicht-paragraph-15a-inso-und-drei-wochen-frist."
 ---
 
 # Pflichtenkollision und Shift of Fiduciary Duties in der Krise

@@ -1,6 +1,6 @@
 ---
 name: energieanlagen-bimschg-genehmigung-verfahren
-description: "BImSchG-Genehmigung fuer Energieanlagen (Wind, Biogas, Biomasse, Wasserstoff-Elektrolyseur) begleiten: Vorhabentraeger beantragt Genehmigung oder Drittbetroffener klagt dagegen. Normen: §§ 4 und 10 und 19 BImSchG (foermliches/vereinfachtes Verfahren), 4. BImSchV, TA Laerm, UmwRG (Verbandsklage). Pruefraster: Antragsunterlagen (Schallgutachten, Schattenwurf, saP), Drittanfechtung, UVP-Pflicht EuGH-Linie, Eilantrag § 80 Abs. 5 VwGO. Output Antragsunterlagen-Pruefung, Klageschrift-Entwurf oder Widerspruch. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe fachanwalt-vergaberecht-Plugin."
+description: "BImSchG-Genehmigung für Energieanlagen (Wind, Biogas, Biomasse, Wasserstoff-Elektrolyseur) begleiten: Vorhabentraeger beantragt Genehmigung oder Drittbetroffener klagt dagegen. Normen: §§ 4 und 10 und 19 BImSchG (foermliches/vereinfachtes Verfahren), 4. BImSchV, TA Laerm, UmwRG (Verbandsklage). Prüfraster: Antragsunterlagen (Schallgutachten, Schattenwurf, saP), Drittanfechtung, UVP-Pflicht EuGH-Linie, Eilantrag § 80 Abs. 5 VwGO. Output Antragsunterlagen-Prüfung, Klageschrift-Entwurf oder Widerspruch. Abgrenzung: Planfeststellung Energietrassen siehe energietrassen-planfeststellung-rechtsschutz; Vergabe siehe fachanwalt-vergaberecht-Plugin."
 ---
 
 # Energieanlagen-BImSchG-Genehmigung-Verfahren

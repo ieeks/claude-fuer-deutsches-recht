@@ -1,6 +1,6 @@
 ---
 name: anonymisierung-schutzantrag
-description: "Prueft Beschraenkung der Veroeffentlichung bei schutzwuerdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze."
+description: "Prüft Beschraenkung der Veröffentlichung bei schutzwürdigen Interessen nach § 4 Abs. 6 LobbyRG und Altfall-Anonymisierung. Output Schutzantrag-Skizze."
 ---
 
 # Anonymisierung und Schutzantrag

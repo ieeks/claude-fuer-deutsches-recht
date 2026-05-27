@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-signing-closing-conditions
-description: "Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible fuer M&A-Transaktionen."
+description: "Signing Closing und CPs: Signing-to-Closing-Prozess mit Conditions Precedent, Ordinary Course, Bring-down, Closing Deliverables, Funds Flow und Closing Bible für M&A-Transaktionen."
 ---
 
 # Signing, Closing und Conditions Precedent

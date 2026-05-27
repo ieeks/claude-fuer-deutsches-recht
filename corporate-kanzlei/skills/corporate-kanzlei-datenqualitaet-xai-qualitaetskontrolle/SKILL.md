@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-datenqualitaet-xai-qualitaetskontrolle
-description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prueft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Pruefraster: Belegkette vollstaendig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Pruefung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet."
+description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat: Partner oder Counsel prüft KI-generierte DD-Findings auf fehlerhafte Quellen, Luecken in der Belegkette und Black-Box-Schluesse. Normen: BRAO § 43a (Sorgfaltspflicht), EU-KI-VO (AI Act) Art. 13 Transparenz. Prüfraster: Belegkette vollständig, Lueckenanalyse, Human-in-the-loop-Gate. Output Qualitaetsprotokoll mit Freigabe-Vermerk. Abgrenzung: sachliche DD-Prüfung siehe due-diligence-legal; hier nur Prozess- und Datenqualitaet."
 ---
 
 # Datenqualität und Qualitätskontrolle im M&A-Mandat
@@ -23,8 +23,8 @@ description: "Qualitaetskontrolle und Quellenvalidierung im Corporate/M&A-Mandat
 
 ## Aktuelle Rechtsprechung
 
-- BGH, Urt. v. 04.05.2021 - II ZR 234/20, NJW 2022, 1381 Rn. 22 — GmbH-Geschäftsführer muss Entscheidungsgrundlagen aktiv verifizieren; Verlassen auf mündliche Managementangaben ohne Gegenprüfung reicht für BJR-Safe-Harbour nicht aus.
-- BGH, Urt. v. 21.04.1997 - II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat trifft eigenständige Informationspflicht; Verlassen auf Vorstandsberichte ohne eigene Prüfung begründet Haftung.
+- BGH, Urt. v. 14.07.2008 - II ZR 202/07, NJW 2008, 3361 — GmbH-Geschäftsführer muss Entscheidungsgrundlagen sorgfältig ermitteln; eine ungeprüfte oder lückenhafte Datenbasis gefährdet das BJR-Haftungsprivileg.
+- BGH, Urt. v. 21.04.1997 - II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck) — Aufsichtsrat muss eigenverantwortlich prüfen, ob Ersatzansprüche gegen Vorstandsmitglieder zu verfolgen sind; eigene Informations- und Abwägungspflicht.
 - OLG Frankfurt, Urt. v. 07.12.2021 - 5 U 134/20, ZIP 2022, 310 — Unvollständige Disclosure-Schedules als Garantieverletzung: Verkäufer haftet, wenn bekannte Datenmängel nicht offengelegt werden.
 - BGH, Urt. v. 26.06.2012 - II ZR 66/11, NZG 2012, 1030 Rn. 16 — Informationspflicht des Aufsichtsrats: Unklare Zahlengrundlage begründet Nachforschungspflicht vor Beschlussfassung.
 
@@ -123,8 +123,8 @@ OFFENE PUNKTE (TODO)
 - §§ 93 AktG, 43 GmbHG (BJR-Informationspflicht)
 - §§ 242, 264 HGB (Buchführungsqualität als Datengrundlage)
 - Art. 5 Abs. 1 lit. d DSGVO (Datenrichtigkeit)
-- BGH II ZR 234/20, NJW 2022, 1381 (GmbH-GF Informationspflicht)
-- BGH II ZR 303/02, BGHZ 135, 244 (ARAG/Garmenbeck)
+- BGH II ZR 202/07, NJW 2008, 3361 (GmbH-GF Informationsgrundlage / BJR)
+- BGH II ZR 175/95, BGHZ 135, 244 (ARAG/Garmenbeck)
 - Spindler, in: MüKo AktG, § 93 Rn. 60 ff.
 - Hüffer/Koch, AktG, § 93 Rn. 18-25
 

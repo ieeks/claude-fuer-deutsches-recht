@@ -1,6 +1,6 @@
 ---
 name: umgangsregelung-mustervorlagen
-description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmaessiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss geloest werden. Normen: § 1684 BGB (Umgang Eltern), § 1685 BGB (Umgang Dritte), § 1697a BGB (Kindeswohl-Massstab), § 89 FamFG (Vollstreckung Ordnungsmittel), § 165 FamFG (Vermittlungsverfahren). Pruefraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer."
+description: "Umgangsregelungen nach §§ 1684 und 1685 BGB formulieren: Regelmäßiger Umgang oder Streit um Umgangsrecht soll durch Vereinbarung oder Beschluss gelöst werden. Normen: § 1684 BGB (Umgang Eltern), § 1685 BGB (Umgang Dritte), § 1697a BGB (Kindeswohl-Massstab), § 89 FamFG (Vollstreckung Ordnungsmittel), § 165 FamFG (Vermittlungsverfahren). Prüfraster: Wochenend-/Ferien-/Feiertagsregelungen, Wechselmodell vs. Residenzmodell, Begleitumgang, Vollstreckbarkeit. Output Umgangsregelungs-Mustervorlagen. Abgrenzung: Kindeswohlgefaehrdung Eilantrag siehe fachanwalt-familienrecht-kindeswohlgefaehrdung-eilantrag; Mediation siehe fachanwalt-familienrecht-mediation-156-famfg-cochemer."
 ---
 
 # Umgangsregelung — Mustervorlagen

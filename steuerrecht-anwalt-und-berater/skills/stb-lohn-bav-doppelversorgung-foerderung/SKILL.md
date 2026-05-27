@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-bav-doppelversorgung-foerderung
-description: "bAV bei mehreren Durchfuehrungswegen Doppelversorgung Foerderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Pruefung Hoechstforderung. Methodik kumulierte 8-Prozent-Pruefung. Output bAV-Pruefnotiz."
+description: "bAV bei mehreren Durchführungswegen Doppelversorgung Foerderung. Anwendungsfall AN hat Direktversicherung und Pensionskasse Beitragsobergrenzen gemeinsame Prüfung Hoechstforderung. Methodik kumulierte 8-Prozent-Prüfung. Output bAV-Prüfnotiz."
 ---
 
 # bAV bei mehreren Durchfuehrungswegen — Doppelversorgung

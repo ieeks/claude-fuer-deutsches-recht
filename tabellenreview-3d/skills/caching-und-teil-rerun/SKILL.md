@@ -1,6 +1,6 @@
 ---
 name: caching-und-teil-rerun
-description: "Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausfuehren ohne Vollneustart. Normen: technisch. Pruefraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten und neu verarbeiteten Zeilen. Abgrenzung: nicht vollstaendiger Neustart."
+description: "Zwischenergebnisse des 3D-Tabellenreviews cachen und Teilbereiche erneut ausführen ohne Vollneustart. Normen: technisch. Prüfraster: Cache-Status, verarbeitete Zeilen, Fehlerpunkte. Output: Rerun-Bericht mit gecachten und neu verarbeiteten Zeilen. Abgrenzung: nicht vollständiger Neustart."
 ---
 
 # /tabellenreview-3d:caching-und-teil-rerun

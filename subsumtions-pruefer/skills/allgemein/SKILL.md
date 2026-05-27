@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer den Subsumtions-Pruefer: interaktiver Workflow fuer deutsches Recht und Europarecht, Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden pruefen. Kein Ersatz fuer anwaltliche Beratung."
+description: "Einstieg und Orientierung für den Subsumtions-Prüfer: interaktiver Workflow für deutsches Recht und Europarecht, Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Kein Ersatz für anwaltliche Beratung."
 ---
 
 # Subsumtions-Pruefer — Allgemein

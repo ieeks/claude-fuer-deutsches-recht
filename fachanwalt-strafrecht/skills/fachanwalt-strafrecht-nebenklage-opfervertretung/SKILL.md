@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-nebenklage-opfervertretung
-description: "Nebenklage und Opfervertretung im Strafverfahren: Anwendungsfall Opfer einer Straftat moechte als Nebenklaeger am Verfahren teilnehmen und anwaltliche Vertretung benoetigen. §§ 395-406h StPO Nebenklage, § 403 StPO Adhaesionsantrag, OEG Opferentschaedigungsgesetz. Pruefraster Nebenklageberechtigung prüfen, Beitrittserklärung formulieren, Akteneinsicht beantragen, taktische Interessen Opfer vs. Strafverfolgung abwaegen. Output Nebenklagebeitrittserklärung mit Antragsliste und Strategie-Memo. Abgrenzung zu Adhaesionsverfahren und zu Erstgespraeach-Mandatsannahme."
+description: "Nebenklage und Opfervertretung im Strafverfahren: Anwendungsfall Opfer einer Straftat moechte als Nebenklaeger am Verfahren teilnehmen und anwaltliche Vertretung benoetigen. §§ 395-406h StPO Nebenklage, § 403 StPO Adhaesionsantrag, OEG Opferentschaedigungsgesetz. Prüfraster Nebenklageberechtigung prüfen, Beitrittserklärung formulieren, Akteneinsicht beantragen, taktische Interessen Opfer vs. Strafverfolgung abwaegen. Output Nebenklagebeitrittserklärung mit Antragsliste und Strategie-Memo. Abgrenzung zu Adhaesionsverfahren und zu Erstgespraeach-Mandatsannahme."
 ---
 
 # Nebenklage und Opfervertretung im Strafverfahren

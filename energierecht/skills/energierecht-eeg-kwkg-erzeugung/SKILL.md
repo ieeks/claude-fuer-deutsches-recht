@@ -1,6 +1,6 @@
 ---
 name: energierecht-eeg-kwkg-erzeugung
-description: "EEG- und KWKG-Verguetungen fuer Stromerzeugungsanlagen pruefen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Pruefraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht."
+description: "EEG- und KWKG-Verguetungen für Stromerzeugungsanlagen prüfen: Einspeiseverguetung, Marktpraemie, KWK-Zuschlag. Normen: §§ 19 ff. EEG, §§ 6 ff. KWKG. Prüfraster: Anlagenanschluss, Verguetungsmodalitaeten, Direktvermarktung, Ausschreibungspflicht. Output: Verguetungsberechnung EEG und KWKG. Abgrenzung: nicht Netzanschlussrecht."
 ---
 
 # EEG, KWKG und Erzeugung erneuerbarer Energien

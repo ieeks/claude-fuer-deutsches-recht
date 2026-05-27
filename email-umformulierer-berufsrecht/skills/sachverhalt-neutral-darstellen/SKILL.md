@@ -1,6 +1,6 @@
 ---
 name: sachverhalt-neutral-darstellen
-description: "Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Pruefraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht fuer rechtliche Stellungnahmen."
+description: "Sachverhalt in Anwaltskorrespondenz neutral und ohne wertende Parteinahme darstellen. § 43a BRAO Sachlichkeit §§ 86 ff. ZPO Sachverhaltspflicht. Prüfraster: Parteinahme Wertungen Auslassungen Einseitigkeit neutrale Formulierungen. Output: neutral formulierte Sachverhaltsdarstellung. Abgrenzung: nicht für rechtliche Stellungnahmen."
 ---
 
 # Sachverhalt neutral darstellen

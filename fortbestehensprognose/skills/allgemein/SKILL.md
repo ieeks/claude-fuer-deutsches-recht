@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das Fortbestehensprognose-Plugin: Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschaeftsfuehrer-Selbstdokumentation, bilanzieller Status, Annahmen, Plausibilisierung, Zwoelf-Monats-Liquiditaet, Sanierungsbausteine und Eskalation bei negativer Prognose."
+description: "Einstieg und Orientierung für das Fortbestehensprognose-Plugin: Fortbestehensprognose nach § 19 Abs. 2 InsO als Geschäftsführer-Selbstdokumentation, bilanzieller Status, Annahmen, Plausibilisierung, Zwoelf-Monats-Liquiditaet, Sanierungsbausteine und Eskalation bei negativer Prognose."
 ---
 
 # Fortbestehensprognose — Allgemein

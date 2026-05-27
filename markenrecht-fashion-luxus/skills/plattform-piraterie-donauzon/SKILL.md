@@ -1,6 +1,6 @@
 ---
 name: plattform-piraterie-donauzon
-description: "Online-Markenverletzungen auf Plattformen unterbinden: Notice-and-Action nach DSA und Sperrverfuegungen gegen Marketplace-Betreiber. Normen: DSA VO (EU) 2022/2065 Art. 16 (Notice-and-Action), § 14 MarkenG, EuGH C-324/09 L'Oreal/eBay, BGH I ZR 140/14 (Hostprovider-Haftung). Pruefraster: VLOP-Status, Notice-Anforderungen DSA, Sperrverfuegungs-Antrag VG/ZPO. Output DSA-konforme Meldung, Sperrverfuegungs-Antrag, Take-Down-Protokoll. Abgrenzung: Messe-Verletzung siehe messe-verletzung-und-gv-einsatz; Zoll-Grenzbeschlagnahme siehe produktpiraterie-und-zoll."
+description: "Online-Markenverletzungen auf Plattformen unterbinden: Notice-and-Action nach DSA und Sperrverfuegungen gegen Marketplace-Betreiber. Normen: DSA VO (EU) 2022/2065 Art. 16 (Notice-and-Action), § 14 MarkenG, EuGH C-324/09 L'Oreal/eBay, BGH I ZR 140/14 (Hostprovider-Haftung). Prüfraster: VLOP-Status, Notice-Anforderungen DSA, Sperrverfuegungs-Antrag VG/ZPO. Output DSA-konforme Meldung, Sperrverfuegungs-Antrag, Take-Down-Protokoll. Abgrenzung: Messe-Verletzung siehe messe-verletzung-und-gv-einsatz; Zoll-Grenzbeschlagnahme siehe produktpiraterie-und-zoll."
 ---
 
 # Plattform-Piraterie und Notice-and-Action nach DSA

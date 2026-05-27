@@ -1,6 +1,6 @@
 ---
 name: anlageberatungsfehler-pruefen
-description: "Mandant hat Verlust aus Kapitalanlage und prueft ob Bank oder Vermoegensverwalter fehlerhaft beraten hat. Bond-Urteil BGH XI ZR 12/93 anleger- und anlagegerechte Beratung Kickbacks BGH XI ZR 56/05. Normen §§ 280 311 BGB WpHG MiFID-II §§ 63 ff. Pruefraster Beratungsprotokoll Geeignetheitspruefung Aufklaerungspflicht-Inhalt Kausalitaet Schadensberechnung Verjaehrung. Output Schadensersatz-Klageschrift Rueckabwicklungs-Berechnung. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft (Schwerpunkt-Skill) und widerrufsjoker (Widerruf)."
+description: "Mandant hat Verlust aus Kapitalanlage und prüft ob Bank oder Vermögensverwalter fehlerhaft beraten hat. Bond-Urteil BGH XI ZR 12/93 anleger- und anlagegerechte Beratung Kickbacks BGH XI ZR 56/05. Normen §§ 280 311 BGB WpHG MiFID-II §§ 63 ff. Prüfraster Beratungsprotokoll Geeignetheitsprüfung Aufklärungspflicht-Inhalt Kausalität Schadensberechnung Verjährung. Output Schadensersatz-Klageschrift Rückabwicklungs-Berechnung. Abgrenzung zu fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft (Schwerpunkt-Skill) und widerrufsjoker (Widerruf)."
 ---
 
 # Anlageberatungsfehler prüfen

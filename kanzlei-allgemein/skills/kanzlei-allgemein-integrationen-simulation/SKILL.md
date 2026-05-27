@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-integrationen-simulation
-description: "Prueft Kanzlei-Integrationen und fuehrt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art. 28 DSGVO Auftragsverarbeitung bei externen Tools. Pruefraster Verbindungsstatus je Kanal Freigabe Simulationsmodus Datenschutz Protokollierung. Output Verbindungsprotokoll mit Status je Kanal und Simulationsergebnis fuer nicht verbundene Dienste. Abgrenzung zu kanzlei-allgemein-automationen (Planung) und kanzlei-allgemein-kaltstart."
+description: "Prüft Kanzlei-Integrationen und führt Workflows im Simulationsmodus weiter. Anwendungsfall E-Mail Outlook beA Fax Telefon DMS oder Buchhaltung ist nicht verbunden und Kanzlei will trotzdem Workflows testen. Normen Art. 28 DSGVO Auftragsverarbeitung bei externen Tools. Prüfraster Verbindungsstatus je Kanal Freigabe Simulationsmodus Datenschutz Protokollierung. Output Verbindungsprotokoll mit Status je Kanal und Simulationsergebnis für nicht verbundene Dienste. Abgrenzung zu kanzlei-allgemein-automationen (Planung) und kanzlei-allgemein-kaltstart."
 ---
 
 # Integrationen und Simulationsmodus

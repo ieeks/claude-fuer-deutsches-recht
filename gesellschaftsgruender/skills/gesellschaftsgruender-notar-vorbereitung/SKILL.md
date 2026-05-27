@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-notar-vorbereitung
-description: "Notartermin fuer GmbH-Gruendung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Pruefraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung."
+description: "Notartermin für GmbH-Gründung vorbereiten: Unterlagencheck, Vollmachten, Ausweisanforderungen. Normen: §§ 2 7 GmbHG, BeurkG. Prüfraster: Gesellschafterliste, Musterprotokoll vs. individueller Gesellschaftsvertrag, Vollmachten. Output: Notartermin-Checkliste. Abgrenzung: nicht Handelsregisteranmeldung nach Beurkundung."
 ---
 
 # Notar-Vorbereitung

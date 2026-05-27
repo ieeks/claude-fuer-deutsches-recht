@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen-gutachten-upload
-description: "Prueft Bereitstellungspflicht fuer grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben und Quartalsfrist. Norm § 3 LobbyRG. Output Upload-Log."
+description: "Prüft Bereitstellungspflicht für grundlegende Stellungnahmen oder Gutachten zu Regelungsvorhaben und Quartalsfrist. Norm § 3 LobbyRG. Output Upload-Log."
 ---
 
 # Stellungnahmen und Gutachten Upload

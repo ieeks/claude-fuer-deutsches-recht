@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-tdm-44b-urhg-ki-training-opt-out
-description: "Text- und Data-Mining-Opt-out nach § 44b UrhG erklaeren wenn KI-Training mit urheberrechtlich geschuetzten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Pruefraster: Opt-out-Erklaerung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklaerung technische Anleitung Pruefprotokoll. Abgrenzung: nicht fuer allgemeine KI-Lizenzfragen."
+description: "Text- und Data-Mining-Opt-out nach § 44b UrhG erklären wenn KI-Training mit urheberrechtlich geschützten Werken verhindert werden soll. § 44b UrhG TDM §§ 87a ff. UrhG Datenbankschutz DSA. Prüfraster: Opt-out-Erklärung Maschinenlesbarkeit Robots.txt rechtliche Wirkung Rechteinhaber. Output: Opt-out-Erklärung technische Anleitung Prüfprotokoll. Abgrenzung: nicht für allgemeine KI-Lizenzfragen."
 ---
 
 # TDM § 44b UrhG – KI-Training und Opt-out

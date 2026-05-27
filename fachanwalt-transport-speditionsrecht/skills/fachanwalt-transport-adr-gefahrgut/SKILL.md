@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-adr-gefahrgut
-description: "Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bussgelder. Normen: ADR, §§ 407 ff. HGB, GefahrgutG. Pruefraster: ADR-Klassen, Kennzeichnungspflicht, Haftungsverteilung. Output: Gefahrgut-Haftungsanalyse und Massnahmenplan. Abgrenzung: nicht allgemeine Frachtfuehrerhaftung HGB."
+description: "Gefahrguttransport-Haftung und ADR-Verstoss klaeren: Gefahrgutkennzeichnung, Verantwortlichkeiten, Bußgelder. Normen: ADR, §§ 407 ff. HGB, GefahrgutG. Prüfraster: ADR-Klassen, Kennzeichnungspflicht, Haftungsverteilung. Output: Gefahrgut-Haftungsanalyse und Massnahmenplan. Abgrenzung: nicht allgemeine Frachtführerhaftung HGB."
 ---
 
 # ADR-Gefahrgut-Transport

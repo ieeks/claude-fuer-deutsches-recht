@@ -1,6 +1,6 @@
 ---
 name: missbrauchsverbot-modus
-description: "Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprueft werden oder Wettbewerber klagt auf Missbrauch. Prueft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GWB. Pruefraster Behinderungsmissbrauch (Kampfpreise Margin Squeeze Refusal to Deal Selbstbeguenstigung) Ausbeutungsmissbrauch (ueberhoeahte Preise). Marktbeherrschung als Voraussetzung Kausalitaet Stellung und Missbrauch. Output Marktstellungs-Missbrauchs-Pruef-Memo mit Risikoampel und Verfahrensstrategie. Abgrenzung: paragraf-18-gwb-pruefung fuer isolierte Marktbeherrschungs-Pruefung."
+description: "Unternehmen in marktbeherrschender Stellung soll auf Missbrauch geprüft werden oder Wettbewerber klagt auf Missbrauch. Prüft Marktabgrenzung und Missbrauchstatbestaende Art. 102 AEUV § 19 GWB. Prüfraster Behinderungsmissbrauch (Kampfpreise Margin Squeeze Refusal to Deal Selbstbeguenstigung) Ausbeutungsmissbrauch (ueberhoeahte Preise). Marktbeherrschung als Voraussetzung Kausalität Stellung und Missbrauch. Output Marktstellungs-Missbrauchs-Prüf-Memo mit Risikoampel und Verfahrensstrategie. Abgrenzung: paragraf-18-gwb-prüfung für isolierte Marktbeherrschungs-Prüfung."
 ---
 
 # Missbrauchsverbot — Modus

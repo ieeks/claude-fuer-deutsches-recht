@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-hoefe-uebergabe
-description: "Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbeduerftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit."
+description: "Hofuebergabe nach HoefeO (Hamburg Niedersachsen NRW Schleswig-Holstein). Hofeigenschaft § 1 HoefeO Mindestwirtschaftswert. Hoferbe § 4 HoefeO Anerbenfolge. Hofuebergabe zu Lebzeiten als Hofesvertrag formbedürftig § 311b BGB. Pflichtteilsergaenzungsanspruch der weichenden Erben § 12 HoefeO Hofeswert nicht Verkehrswert. Bewirtschaftungspflicht Nachabfindung § 13 HoefeO. Hofverbund Nachhaltigkeit."
 ---
 
 # Höfe-Übergabe

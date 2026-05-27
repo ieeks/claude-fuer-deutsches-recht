@@ -1,6 +1,6 @@
 ---
 name: anw-akteneinsicht-steuerakte
-description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Pruefungsbericht Aktenvermerk oder Pruefungsakte einsehen um Einspruch oder Klage zu begruenden. Behandelt Verwaltungsakten Pruefungsakten Aktenvermerke Aussenpruefungs-Berichte Schwaerzungen wegen Steuergeheimnis Dritter § 30 AO. Output Antragsvorlage und strukturiertes Auswertungsraster fuer die uebermittelte Akte. Abgrenzung zu anw-aussenpruefung-strategien Mitwirkungspflichten und anw-einspruch-finanzamt."
+description: "Akteneinsicht in die Steuerakte beantragen und auswerten — Einspruchsverfahren nach § 364 AO Klageverfahren nach § 78 FGO sowie ergaenzend Art. 15 DSGVO bei personenbezogenen Daten. Anwendungsfall Mandant will Prüfungsbericht Aktenvermerk oder Prüfungsakte einsehen um Einspruch oder Klage zu begründen. Behandelt Verwaltungsakten Prüfungsakten Aktenvermerke Aussenprüfungs-Berichte Schwaerzungen wegen Steuergeheimnis Dritter § 30 AO. Output Antragsvorlage und strukturiertes Auswertungsraster für die uebermittelte Akte. Abgrenzung zu anw-aussenprüfung-strategien Mitwirkungspflichten und anw-einspruch-finanzamt."
 ---
 
 # Akteneinsicht in Steuerakten

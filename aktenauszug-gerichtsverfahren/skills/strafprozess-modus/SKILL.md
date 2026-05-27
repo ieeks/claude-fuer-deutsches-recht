@@ -1,6 +1,6 @@
 ---
 name: strafprozess-modus
-description: "Aktenauszug fuer StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Pruefraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO)."
+description: "Aktenauszug für StPO-Verfahren erstellen: Anklage Hauptverhandlung Revision §§ 333 ff. StPO Wiederaufnahme. Anklageschrift Eroeffnungsbeschluss Beweisantragsrecht Rechtsmittelfristen. Normen StPO §§ 200 203 333 359 BGH-Leitsaetze StPO. Prüfraster StPO-spezifische Besonderheiten Verfahrenschronologie Rechtsmittel. Output StPO-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und verwaltungsprozess-modus (VwGO)."
 ---
 
 # Strafprozess-Modus (StPO)

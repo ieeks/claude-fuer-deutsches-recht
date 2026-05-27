@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-verwaltungsrecht-widerspruchsschrift
-description: "Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), § 80 Abs. 1 VwGO (aufschiebende Wirkung), § 58 Abs. 2 VwGO (Jahresfrist ohne Rechtsbehelfsbelehrung). Pruefraster: Statthaftigkeit (Bundesland?), Fristberechnung, aufschiebende Wirkung vs. sofortige Vollziehung, Begruendung. Output Widerspruchsschrift. Abgrenzung: Anfechtungsklage direkt (kein Widerspruch statthaft) siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Eilantrag siehe eilantrag-80-abs-5-vwgo."
+description: "Widerspruchsschrift nach §§ 68 ff. VwGO gegen belastenden Verwaltungsakt formulieren: Mandant hat Bescheid erhalten und will innerhalb der Frist Widerspruch einlegen. Normen: § 68 VwGO (Vorverfahren), § 70 Abs. 1 VwGO (Frist 1 Monat), § 80 Abs. 1 VwGO (aufschiebende Wirkung), § 58 Abs. 2 VwGO (Jahresfrist ohne Rechtsbehelfsbelehrung). Prüfraster: Statthaftigkeit (Bundesland?), Fristberechnung, aufschiebende Wirkung vs. sofortige Vollziehung, Begründung. Output Widerspruchsschrift. Abgrenzung: Anfechtungsklage direkt (kein Widerspruch statthaft) siehe fachanwalt-verwaltungsrecht-anfechtungsklage; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Widerspruchsschrift

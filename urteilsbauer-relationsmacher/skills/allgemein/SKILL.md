@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Urteilsbauer-Relationsmacher-Plugin: Aktenintake, Relation, Beweiswuerdigung, Tatbestand, Entscheidungsgruende, Tenor, Rechtsmittelbelehrung und DOCX-Rendering nach § 313 ZPO fuer Amts- Land- und Familienrichter sowie Rechtspfleger."
+description: "Einstieg und Überblick für das Urteilsbauer-Relationsmacher-Plugin: Aktenintake, Relation, Beweiswürdigung, Tatbestand, Entscheidungsgründe, Tenor, Rechtsmittelbelehrung und DOCX-Rendering nach § 313 ZPO für Amts- Land- und Familienrichter sowie Rechtspfleger."
 ---
 
 # Urteilsbauer und Relationsmacher — Allgemein

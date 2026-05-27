@@ -1,6 +1,6 @@
 ---
 name: zv-kommandocenter
-description: "Glaeubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Pruefraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Pruefung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalpruefung) und allen anderen ZV-Skills."
+description: "Gläubiger oder Anwalt hat vollstreckbaren Titel und fragt: Welche Vollstreckungsart ist im konkreten Fall am sinnvollsten und wie wird sie eingeleitet? Startpunkt Zwangsvollstreckung. Prüfraster: Titelart und Vollstreckungsziel Routing zu passenden Skills Drei-Saeulen-Prüfung Titel Klausel Zustellung. Output: Vollstreckungs-Routing-Entscheidung mit passendem Folge-Skill. Abgrenzung zu zv-titel-klausel-zustellung (Formalprüfung) und allen anderen ZV-Skills."
 ---
 
 # Zwangsvollstreckung – Kommandocenter

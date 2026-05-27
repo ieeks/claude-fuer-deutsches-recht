@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-dienstwagen-1-prozent-fahrtenbuch
-description: "Dienstwagen 1-Prozent-Methode oder Fahrtenbuch. Anwendungsfall geldwerter Vorteil Privatnutzung Dienstwagen E-Auto Hybrid Listenpreis Brutto-Methode. Methodik Pruefung Methode Vergleich Steuerklasse. Output Lohn-Abrechnung mit korrektem Sachbezug Dienstwagen."
+description: "Dienstwagen 1-Prozent-Methode oder Fahrtenbuch. Anwendungsfall geldwerter Vorteil Privatnutzung Dienstwagen E-Auto Hybrid Listenpreis Brutto-Methode. Methodik Prüfung Methode Vergleich Steuerklasse. Output Lohn-Abrechnung mit korrektem Sachbezug Dienstwagen."
 ---
 
 # Dienstwagen — 1-Prozent-Methode oder Fahrtenbuch

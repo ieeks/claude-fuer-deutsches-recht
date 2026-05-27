@@ -1,6 +1,6 @@
 ---
 name: erforderlichkeit-1-abs-3-baugb
-description: "Mandant greift Bebauungsplan als Gefaelligkeitsplanung oder Verhinderungsplanung an. § 1 Abs. 3 S. 1 BauGB Erforderlichkeit Planrechtfertigung. Pruefraster: nachvollziehbares staedtebauliches Konzept erforderlich Gefaelligkeitsplanung zugunsten Privater unzulaessig Vorhabenbezogener B-Plan Gefahr Negativplanung Verhinderungsplanung. Massstab BVerwG 4 C 56.84. Immer beachtlich nicht ruegepflichtig § 215 BauGB. Output: Erforderlichkeits-Pruefung und Angriffspunkt Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb."
+description: "Mandant greift Bebauungsplan als Gefälligkeitsplanung oder Verhinderungsplanung an. § 1 Abs. 3 S. 1 BauGB Erforderlichkeit Planrechtfertigung. Prüfraster: nachvollziehbares staedtebauliches Konzept erforderlich Gefälligkeitsplanung zugunsten Privater unzulässig Vorhabenbezogener B-Plan Gefahr Negativplanung Verhinderungsplanung. Massstab BVerwG 4 C 56.84. Immer beachtlich nicht ruegepflichtig § 215 BauGB. Output: Erforderlichkeits-Prüfung und Angriffspunkt Normenkontrolle. Abgrenzung zu abwaegungsgebot-1-abs-7-baugb."
 ---
 
 # Erforderlichkeit § 1 Abs. 3 BauGB

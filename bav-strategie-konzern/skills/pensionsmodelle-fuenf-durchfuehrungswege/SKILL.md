@@ -1,6 +1,6 @@
 ---
 name: pensionsmodelle-fuenf-durchfuehrungswege
-description: "Fuenf Durchfuehrungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Pruefraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchfuehrungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG."
+description: "Fuenf Durchführungswege der betrieblichen Altersversorgung vergleichen und waehlen. Normen: §§ 1 1b BetrAVG. Prüfraster: Direktzusage, Unterstuetzungskasse, Direktversicherung, Pensionskasse, Pensionsfonds - Vor- und Nachteile. Output: Durchführungsweg-Empfehlung. Abgrenzung: nicht steuerliche Behandlung § 6a EStG."
 ---
 
 # Pensionsmodelle — Die fünf Durchführungswege der betrieblichen Altersversorgung

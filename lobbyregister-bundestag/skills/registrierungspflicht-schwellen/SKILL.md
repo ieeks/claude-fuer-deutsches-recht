@@ -1,6 +1,6 @@
 ---
 name: registrierungspflicht-schwellen
-description: "Prueft § 2 Abs. 1 LobbyRG: regelmaessig, auf Dauer, geschaeftsmaessig fuer Dritte, mehr als 30 Kontakte in drei Monaten, Gegenleistung oder Auftrag. Output Pflichtampel."
+description: "Prüft § 2 Abs. 1 LobbyRG: regelmäßig, auf Dauer, geschäftsmäßig für Dritte, mehr als 30 Kontakte in drei Monaten, Gegenleistung oder Auftrag. Output Pflichtampel."
 ---
 
 # Registrierungspflicht und Schwellen

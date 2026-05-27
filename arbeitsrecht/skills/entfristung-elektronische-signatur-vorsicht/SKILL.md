@@ -1,6 +1,6 @@
 ---
 name: entfristung-elektronische-signatur-vorsicht
-description: "Elektronische Signaturen und Befristungsabreden: qualifizierte elektronische Signatur genuegt NICHT fuer § 14 Abs. 4 TzBfG i.V.m. § 126 BGB; DocuSign Adobe Sign HelloSign als Erkennungsmerkmale; Unterscheidung einfache fortgeschrittene qualifizierte elektronische Signatur; Rechtsfolge § 16 Satz 1 TzBfG unbefristeter Vertrag."
+description: "Elektronische Signaturen und Befristungsabreden: qualifizierte elektronische Signatur genuegt NICHT für § 14 Abs. 4 TzBfG i.V.m. § 126 BGB; DocuSign Adobe Sign HelloSign als Erkennungsmerkmale; Unterscheidung einfache fortgeschrittene qualifizierte elektronische Signatur; Rechtsfolge § 16 Satz 1 TzBfG unbefristeter Vertrag."
 ---
 
 # Vorsicht: Elektronische Signaturen bei Befristungsabreden

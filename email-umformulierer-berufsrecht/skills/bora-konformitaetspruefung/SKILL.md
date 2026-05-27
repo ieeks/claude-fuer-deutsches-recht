@@ -1,6 +1,6 @@
 ---
 name: bora-konformitaetspruefung
-description: "E-Mail auf BORA-Konformitaet pruefen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Pruefraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulaessige Versprechen. Output: BORA-Pruefprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht fuer BRAO-Pruefung (brao-konformitaetspruefung)."
+description: "E-Mail auf BORA-Konformität prüfen bevor sie versandt wird. §§ 6 ff. BORA allgemeine Berufspflichten § 26 BORA Werbung § 43 BORA Vertretungsverbot. Prüfraster: Sachlichkeitsgebot Werbeverbot Verschwiegenheit Interessenkonflikt unzulässige Versprechen. Output: BORA-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BRAO-Prüfung (brao-konformitätsprüfung)."
 ---
 
 # BORA-Konformitätsprüfung

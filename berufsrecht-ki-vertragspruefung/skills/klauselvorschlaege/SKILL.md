@@ -1,6 +1,6 @@
 ---
 name: klauselvorschlaege
-description: "Liefere konkrete Mustertexte fuer Vertragsklauseln mit dem KI-Anbieter. Bausteine Verschwiegenheit Belehrung §§ 203 204 StGB Subunternehmer no training Zero-Retention EU-Hosting Audit-Recht Loeschkonzept Professional Secrecy Addendum fuer US-Anbieter Gerichtsstand Anlage Normtext. Bausteine sind Vorlagen keine fertigen Vertraege."
+description: "Liefere konkrete Mustertexte für Vertragsklauseln mit dem KI-Anbieter. Bausteine Verschwiegenheit Belehrung §§ 203 204 StGB Subunternehmer no training Zero-Retention EU-Hosting Audit-Recht Löschkonzept Professional Secrecy Addendum für US-Anbieter Gerichtsstand Anlage Normtext. Bausteine sind Vorlagen keine fertigen Vertraege."
 ---
 
 # Klauselvorschläge — Bausteine

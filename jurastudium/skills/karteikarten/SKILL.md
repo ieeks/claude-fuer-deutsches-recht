@@ -1,6 +1,6 @@
 ---
 name: karteikarten
-description: "Karteikarten fuer Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Loesungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht oeffentliches Recht. Pruefraster Karteikarten-Format Vorderseite Begriff/Norm Rueckseite Definition/Schema, Schwierigkeitsgrad einordnen, pruefungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert fuer Spaced-Repetition. Abgrenzung zu Lernplan fuer Zeitmanagement und zu Tatbestaende-Lernen."
+description: "Karteikarten für Jurastudium und Examensvorbereitung erstellen: Anwendungsfall Student will Definitionen Tatbestaende Normen und Klausurrelevante Faelle als Lernkarten strukturieren. Lösungsschemata, Tatbestaende, Definitionen Buergerliches Recht Strafrecht öffentliches Recht. Prüfraster Karteikarten-Format Vorderseite Begriff/Norm Rückseite Definition/Schema, Schwierigkeitsgrad einordnen, prüfungsrelevant markieren. Output Karteikarten-Sammlung nach Fachgebiet strukturiert für Spaced-Repetition. Abgrenzung zu Lernplan für Zeitmanagement und zu Tatbestaende-Lernen."
 ---
 
 # Karteikarten-Drill

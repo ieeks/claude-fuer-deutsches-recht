@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-miet-wohnungseigentumsrecht-eigenbedarfskuendigung
-description: "Eigenbedarfs-Kuendigung § 573 II Nr. 2 BGB. Berechtigtes Interesse Vermieter Familie Haushaltsangehoerige. Kuendigungsfristen § 573c BGB 3-9 Monate. Vortaeuschung Schadensersatz BGH VIII ZR 6/19. Sozial-Klausel § 574 BGB. Workflow Kuendigungs-Schreiben Klage Verteidigung."
+description: "Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB. Berechtigtes Interesse Vermieter Familie Haushaltsangehoerige. Kündigungsfristen § 573c BGB 3-9 Monate. Vortaeuschung Schadensersatz BGH VIII ZR 6/19. Sozial-Klausel § 574 BGB. Workflow Kündigungs-Schreiben Klage Verteidigung."
 ---
 
 # Eigenbedarfs-Kündigung § 573 II Nr. 2 BGB

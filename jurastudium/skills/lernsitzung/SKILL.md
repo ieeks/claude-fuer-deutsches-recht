@@ -1,6 +1,6 @@
 ---
 name: lernsitzung
-description: "Lernsitzung fuer Jurastudium interaktiv durchfuehren: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklaerungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Loesungsschemata Zivilrecht Strafrecht oeffentliches Recht. Pruefraster Thema und Lernziel festlegen, Erklaerung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklaerungen und Zwischentest. Abgrenzung zu Karteikarten fuer Memorierung und zu Gutachten-Uebung fuer Klausurtraining."
+description: "Lernsitzung für Jurastudium interaktiv durchführen: Anwendungsfall Student will aktive Lernsitzung zu bestimmtem Thema absolvieren mit Erklärungen Uebungsaufgaben und sofortigem Feedback. Tatbestaende, Subsumtion, Lösungsschemata Zivilrecht Strafrecht öffentliches Recht. Prüfraster Thema und Lernziel festlegen, Erklärung Kontrollfragen Uebungsfall Feedback, Wissenslücken identifizieren. Output strukturierte Lernsitzung mit Erklärungen und Zwischentest. Abgrenzung zu Karteikarten für Memorierung und zu Gutachten-Uebung für Klausurtraining."
 ---
 
 # Lerneinheit

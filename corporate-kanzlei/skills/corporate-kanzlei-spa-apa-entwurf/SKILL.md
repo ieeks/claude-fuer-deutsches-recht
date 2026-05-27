@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-spa-apa-entwurf
-description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Pruefraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules."
+description: "SPA (Share Purchase Agreement) oder APA (Asset Purchase Agreement) entwerfen und strukturieren aus Term Sheet und DD-Findings. Normen: §§ 433 ff. BGB (Kaufrecht), § 444 BGB (Gewaehrleistung), §§ 311 Abs. 2 und 280 BGB. Prüfraster: Kaufpreismechanik (Locked Box vs. Closing Accounts), MAC-Klausel, Representations & Warranties, Indemnification, Earn-Out, W&I-Insurance-Schnittstelle, Signaturformalien. Output SPA/APA-Ersterstellung oder Markup mit Key Issues. Abgrenzung: SPA-Markup siehe vertragsmarkup-key-issues; Disclosure Schedules siehe disclosure-schedules."
 ---
 
 # SPA/APA-Entwurf

@@ -1,6 +1,6 @@
 ---
 name: kollegialitaetsgebot-pruefung
-description: "E-Mail auf Einhaltung des Kollegialitaetsgebots gegenueber Kollegen und Kolleginnen pruefen. § 43a Abs. 3 BRAO § 26 BORA Kollegialitaet. Pruefraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitaets-Pruefprotokoll Korrekturvorschlaege. Abgrenzung: nicht fuer Mandantenkommunikation."
+description: "E-Mail auf Einhaltung des Kollegialitätsgebots gegenüber Kollegen und Kolleginnen prüfen. § 43a Abs. 3 BRAO § 26 BORA Kollegialität. Prüfraster: kollegiale Formulierungen fehlende Abwertungen sachliche Kritik professioneller Umgangston. Output: Kollegialitäts-Prüfprotokoll Korrekturvorschlaege. Abgrenzung: nicht für Mandantenkommunikation."
 ---
 
 # Kollegialitätsgebot-Prüfung

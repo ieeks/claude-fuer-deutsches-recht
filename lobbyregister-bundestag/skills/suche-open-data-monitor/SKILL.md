@@ -1,6 +1,6 @@
 ---
 name: suche-open-data-monitor
-description: "Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegenparteienpruefung. Output Monitoring-Report."
+description: "Nutzt Suche, Standardlisten, Open Data und API zur Markt-, Compliance- und Gegenparteienprüfung. Output Monitoring-Report."
 ---
 
 # Suche und Open-Data-Monitor

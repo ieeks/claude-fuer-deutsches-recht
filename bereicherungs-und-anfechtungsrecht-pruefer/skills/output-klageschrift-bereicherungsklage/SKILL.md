@@ -1,6 +1,6 @@
 ---
 name: output-klageschrift-bereicherungsklage
-description: "Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen: Klageantrag auf Zahlung oder Herausgabe, ODUE-Schema. Normen: §§ 812 818 BGB, §§ 253 313 ZPO. Pruefraster: Obersatz, Definition, Untersatz, Ergebnis, Streitwert, Beweisangebot. Output: Klageschriftentwurf Bereicherungsklage. Abgrenzung: nicht AnfG-Anfechtungsklage (dort Duldungsantrag)."
+description: "Klageschrift aus Bereicherungsrecht §§ 812 ff. BGB aufbauen: Klageantrag auf Zahlung oder Herausgabe, ODUE-Schema. Normen: §§ 812 818 BGB, §§ 253 313 ZPO. Prüfraster: Obersatz, Definition, Untersatz, Ergebnis, Streitwert, Beweisangebot. Output: Klageschriftentwurf Bereicherungsklage. Abgrenzung: nicht AnfG-Anfechtungsklage (dort Duldungsantrag)."
 ---
 
 # Output: Klageschrift Bereicherungsklage

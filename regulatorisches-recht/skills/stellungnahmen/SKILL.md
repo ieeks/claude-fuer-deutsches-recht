@@ -1,6 +1,6 @@
 ---
 name: stellungnahmen
-description: "Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Pruefraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhaeltnismaessigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvorschlaegen. Abgrenzung: nicht fuer interne Compliance-Analysen."
+description: "Stellungnahme zu Regulierungsvorhaben oder Konsultationsverfahren verfassen. GG Art. 12 Art. 80 AEUV DSGVO KWG WpHG. Prüfraster: Konsultationsumfang regulatorische Ziele Kritikpunkte Alternativvorschlaege Verhältnismäßigkeit. Output: strukturierte Stellungnahme mit Einzelanmerkungen Aenderungsvorschlaegen. Abgrenzung: nicht für interne Compliance-Analysen."
 ---
 
 # Konsultationsbeiträge

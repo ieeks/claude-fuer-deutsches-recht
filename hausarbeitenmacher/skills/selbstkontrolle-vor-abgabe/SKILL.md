@@ -1,6 +1,6 @@
 ---
 name: selbstkontrolle-vor-abgabe
-description: "Student prueft Hausarbeit vor Abgabe auf inhaltliche und formale Vollstaendigkeit. Zwei Durchgaenge Lernziel-Selbstpruefung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Pruefungsordnungen. Pruefraster Inhalt-Checkliste Formal-Checkliste Selbstpruefung-Reflexion. Output Abgabe-Checkliste Pruefergebnis Korrekturen. Abgrenzung zu haeufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan)."
+description: "Student prüft Hausarbeit vor Abgabe auf inhaltliche und formale Vollständigkeit. Zwei Durchgaenge Lernziel-Selbstprüfung Plagiat-Check Aktualitaet Zitierweise Gliederung. Normen Zitierstandards Prüfungsordnungen. Prüfraster Inhalt-Checkliste Formal-Checkliste Selbstprüfung-Reflexion. Output Abgabe-Checkliste Prüfergebnis Korrekturen. Abgrenzung zu häufige-fehler-vermeiden (Fehler-Katalog) und bearbeitungsplan-erstellen (Zeitplan)."
 ---
 
 # Selbst-Kontrolle vor Abgabe

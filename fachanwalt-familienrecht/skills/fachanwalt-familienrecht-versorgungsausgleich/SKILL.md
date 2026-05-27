@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-versorgungsausgleich
-description: "Versorgungsausgleich im Scheidungsverbund durchfuehren: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Pruefraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen."
+description: "Versorgungsausgleich im Scheidungsverbund durchführen: Rentenanrechte aus Ehe aufteilen. Normen: VersAusglG (seit 2009), §§ 1 und 10 VersAusglG (Hin- und Herrechnung), § 17 VersAusglG (externe Teilung), § 18 VersAusglG (Geringfuegigkeit). Prüfraster: Anrechte (gesetzl. Rente, Riester, Ruerup, bAV, Beamtenversorgung), externe vs. interne Teilung, Ausgleichswert, Abweichungsvereinbarung. Output Versorgungsausgleichs-Berechnungs-Memo, Verfahrensstrategie. Abgrenzung: Scheidungsantrag siehe fachanwalt-familienrecht-scheidungsantrag-stellen; Zugewinnausgleich siehe fachanwalt-familienrecht-zugewinnausgleich-berechnen."
 ---
 
 # Versorgungsausgleich

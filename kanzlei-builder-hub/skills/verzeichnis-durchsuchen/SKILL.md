@@ -1,6 +1,6 @@
 ---
 name: verzeichnis-durchsuchen
-description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchsuchen. Normen: technisch/intern. Pruefraster: Suchbegriff, Kategoriefilter, Ergebnispriorisierung. Output: Suchergebnisliste Skills. Abgrenzung: nicht Skill-Installation oder -verwaltung."
+description: "Skill-Verzeichnis nach Rechtsgebiet, Norm oder Mandantentyp durchsuchen. Normen: technisch/intern. Prüfraster: Suchbegriff, Kategoriefilter, Ergebnispriorisierung. Output: Suchergebnisliste Skills. Abgrenzung: nicht Skill-Installation oder -verwaltung."
 ---
 
 # /verzeichnis-durchsuchen — Skill-Registry-Browser

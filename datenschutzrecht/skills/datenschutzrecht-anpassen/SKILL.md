@@ -1,6 +1,6 @@
 ---
 name: datenschutzrecht-anpassen
-description: "Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstaetigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Pruefraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht fuer Neuerstellung von Dokumentation."
+description: "Bestehende Datenschutzdokumentation oder Richtlinien an neue Anforderungen oder Verarbeitungstätigkeiten anpassen. Art. 5 24 DSGVO Rechenschaftspflicht. Prüfraster: Bestandsaufnahme Lueckenanalyse DSGVO-Anforderungen BDSG-Besonderheiten Anpassungsbedarf. Output: Anpassungsprotokoll ueberarbeitete Dokumente. Abgrenzung: nicht für Neuerstellung von Dokumentation."
 ---
 
 # Customize – Praxisprofil anpassen

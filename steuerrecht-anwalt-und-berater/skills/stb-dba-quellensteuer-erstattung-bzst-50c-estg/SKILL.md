@@ -1,6 +1,6 @@
 ---
 name: stb-dba-quellensteuer-erstattung-bzst-50c-estg
-description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt fuer Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermaessigen oder erstatten lassen. Freistellungsbescheinigung Erstattungsantrag. § 50a EStG Steuerabzug. § 50d Abs. 3 EStG Anti-Treaty-Shopping. § 50j EStG Cum-Cum. Output BZSt-Formularliste Antrags-Checkliste Frist-Hinweise."
+description: "Quellensteuerentlastung nach § 50c EStG beim Bundeszentralamt für Steuern BZSt. Anwendungsfall auslaendischer Empfaenger deutscher Kapitalertraege Lizenzen oder Verguetungen will deutsche Quellensteuer ermäßigen oder erstatten lassen. Freistellungsbescheinigung Erstattungsantrag. § 50a EStG Steuerabzug. § 50d Abs. 3 EStG Anti-Treaty-Shopping. § 50j EStG Cum-Cum. Output BZSt-Formularliste Antrags-Checkliste Frist-Hinweise."
 ---
 
 # Quellensteuer-Entlastung beim BZSt (§ 50c EStG)

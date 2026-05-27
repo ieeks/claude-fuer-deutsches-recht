@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-transparenzregister
-description: "Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprueft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsichtnahme § 23a GwG Unstimmigkeitsmeldung § 11 Abs. 5 GwG Registerabgleich. Pruefraster Einsicht Registerabgleich Unstimmigkeitserkennung Meldepflicht Nachverfolgung Dokumentation. Output Transparenzregister-Pruefprotokoll mit Abgleich-Ergebnis Unstimmigkeitsmeldung und Dokumentation fuer KYC-Akte. Abgrenzung zu geldwaesche-ubo-wirtschaftlich-berechtigte und geldwaesche-datenqualitaet-register."
+description: "Transparenzregister-Einsicht Abgleich und Unstimmigkeitsmeldung nach GwG. Anwendungsfall wirtschaftlich Berechtigte muessen im Transparenzregister geprüft oder Unstimmigkeit gemeldet werden. Normen § 20 GwG Meldepflicht § 23 GwG Einsichtnahme § 23a GwG Unstimmigkeitsmeldung § 11 Abs. 5 GwG Registerabgleich. Prüfraster Einsicht Registerabgleich Unstimmigkeitserkennung Meldepflicht Nachverfolgung Dokumentation. Output Transparenzregister-Prüfprotokoll mit Abgleich-Ergebnis Unstimmigkeitsmeldung und Dokumentation für KYC-Akte. Abgrenzung zu geldwäsche-ubo-wirtschaftlich-berechtigte und geldwäsche-datenqualitaet-register."
 ---
 
 # Transparenzregister und Unstimmigkeitsmeldung

@@ -1,6 +1,6 @@
 ---
 name: pflichtteil-berechnen
-description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Pruefraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit Rechenweg. Abgrenzung: nicht fuer Auskunftsklage oder Pflichtteilsklage (schriftsatzkern-substantiierung)."
+description: "Pflichtteilsanspruch und Pflichtteilsergaenzungsanspruch berechnen. §§ 2303 2311 2325 BGB Pflichtteil. Prüfraster: Pflichtteilsquote Nachlasswert Bewertungsstichtag Abzuege Ergaenzungsanspruch Auskunft. Output: Pflichtteilsberechnung mit Rechenweg. Abgrenzung: nicht für Auskunftsklage oder Pflichtteilsklage (schriftsatzkern-substantiierung)."
 ---
 
 # Pflichtteil und Pflichtteilsergänzung berechnen

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-ki-vo-hochrisiko-konformitaetsbewertung
-description: "KI-VO-Konformitaetsbewertung fuer Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitaetserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bussgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Pruefraster Risiko-Klassifikation Anhang-III-Pruefung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitaetsbewertungsdossier mit Pruefergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung."
+description: "KI-VO-Konformitätsbewertung für Hochrisiko-KI-Systeme nach Art. 16-29 KI-VO 2024/1689. Anwendungsfall Unternehmen entwickelt oder setzt Hochrisiko-KI ein und benoetigt CE-Kennzeichnung und Konformitätserklarung. Normen KI-VO 2024/1689 Anhang III Hochrisiko-Liste Art. 48 CE-Kennzeichnung Art. 99 Bußgelder bis 35 Mio EUR Anwendbarkeit ab 2.8.2026. Prüfraster Risiko-Klassifikation Anhang-III-Prüfung Risikomanagement Daten-Governance Dokumentation Transparenz Cybersicherheit menschliche Aufsicht. Output Konformitätsbewertungsdossier mit Prüfergebnis Massnahmenplan und CE-Kennzeichnungsunterlage. Abgrenzung zu ki-governance-Plugin und fachanwalt-it-recht-datenschutz-folgenabschaetzung."
 ---
 
 # KI-VO High-Risk-System Konformitätsbewertung Art. 16–29

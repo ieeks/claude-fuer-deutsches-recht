@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-beweis-und-einlassung
-description: "Beweispruefung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisantraege § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO."
+description: "Beweisprüfung und Einlassungsstrategie im Strafbefehlsverfahren. Schweigen nach § 136 StPO darf nicht nachteilig gewertet werden (BGH st. Rspr.). Gestaendnis vs. Bestreiten Strategie. Beweisanträge § 244 StPO. Einlassung schriftlich oder muendlich. Beweisverwertungsverbote § 136a StPO."
 ---
 
 # Beweis und Einlassung im Strafbefehlsverfahren

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-cisg-anwendbarkeit
-description: "Unternehmen hat grenzueberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschliessen? CISG Anwendbarkeit Art. 1 CISG. Pruefraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-pruefung (inhaltliche Pruefung) und gerichtsstand-und-rechtswahl-pruefen."
+description: "Unternehmen hat grenzüberschreitenden Warenkauf und fragt: Gilt UN-Kaufrecht automatisch oder koennen wir es ausschließen? CISG Anwendbarkeit Art. 1 CISG. Prüfraster: sachlicher Anwendungsbereich Warenkauf Art. 1 Vertragsstaaten oder Kollisionsrecht Ausschluss Art. 6 CISG Garantie- und Maengelpflichten Art. 35 ff. Untersuchungspflicht Art. 38 Ruegepflicht Art. 39. Output: CISG-Anwendbarkeits-Entscheidung und Handlungsempfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-cisg-prüfung (inhaltliche Prüfung) und gerichtsstand-und-rechtswahl-prüfen."
 ---
 
 # CISG-Anwendbarkeit

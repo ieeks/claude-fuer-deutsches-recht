@@ -1,6 +1,6 @@
 ---
 name: ifap-kommandocenter
-description: "Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Pruefung. Pruefraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zu Intake-Kanalcheck fuer Eingangserfassung und zu Quality-Gate fuer Endkontrolle."
+description: "Kommandocenter Insolvenzforderungsanmeldungsprüfung: Steuerung des gesamten Prüfpfads von Eingang bis Tabelle. Anwendungsfall Insolvenzverwalter oder Kanzlei erhält neuen Forderungsstapel und muss schnell den richtigen Prüfschritt finden. §§ 174-189 InsO Forderungsanmeldung und Prüfung. Prüfraster Verfahrensstand und Rolle erkennen, naechsten sicheren Schritt bestimmen, Fristen und Risiken anzeigen. Output Deal-Ampel mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zu Intake-Kanalcheck für Eingangserfassung und zu Quality-Gate für Endkontrolle."
 ---
 
 # Kommandocenter für die Forderungsprüfung

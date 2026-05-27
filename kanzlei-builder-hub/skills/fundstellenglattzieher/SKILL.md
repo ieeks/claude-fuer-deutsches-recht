@@ -1,6 +1,6 @@
 ---
 name: fundstellenglattzieher
-description: "Normen- und Rechtsprechungszitate in Schriftsaetzen und Skills vereinheitlichen: einheitliche Zitierweise. Normen: allgemein BRAO. Pruefraster: Normzitat-Format, BGH-Aktenzeichen, Quellenangaben. Output: Text mit vereinheitlichten Fundstellen. Abgrenzung: nicht inhaltliche Rechtspruefung."
+description: "Normen- und Rechtsprechungszitate in Schriftsaetzen und Skills vereinheitlichen: einheitliche Zitierweise. Normen: allgemein BRAO. Prüfraster: Normzitat-Format, BGH-Aktenzeichen, Quellenangaben. Output: Text mit vereinheitlichten Fundstellen. Abgrenzung: nicht inhaltliche Rechtsprüfung."
 ---
 
 # Fundstellenglattzieher / Zitatenkorrektor

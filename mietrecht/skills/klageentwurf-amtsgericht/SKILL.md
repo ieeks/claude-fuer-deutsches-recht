@@ -1,6 +1,6 @@
 ---
 name: klageentwurf-amtsgericht
-description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zustaendigkeit fuer Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Ruecksicht auf den Streitwert; bei Geschaeftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG (zehntausend Euro seit Reform 2024). Oertliche Zustaendigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Antraege Sachverhalt rechtliche Wuerdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Pruefung. Disclaimer mehrfach.
+description: Beide Rollen — entwirf eine Klageschrift zum Amtsgericht in einer Mietsache. Sachliche Zuständigkeit für Wohnraummietsachen nach § 23 Nr. 2a GVG ohne Rücksicht auf den Streitwert; bei Geschäftsraummiete allgemeine AG-Grenze nach § 23 Nr. 1 GVG (zehntausend Euro seit Reform 2024). Örtliche Zuständigkeit am Belegenheitsort der Mietsache (§ 29a ZPO). Streitwertberechnung Anträge Sachverhalt rechtliche Würdigung Beweisangebote und formgerechte Anlagen. Kein Anwaltszwang vor dem Amtsgericht aber dringende Empfehlung anwaltlicher Prüfung. Disclaimer mehrfach.
 ---
 
 # Klageentwurf zum Amtsgericht (Mietsache)

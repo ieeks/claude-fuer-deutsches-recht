@@ -1,6 +1,6 @@
 ---
 name: playbook-aus-eigenen-daten
-description: "Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorlagen automatisch erstellen. Normen: technisch/intern, BRAO. Pruefraster: Dokumentenqualitaet, Kategorisierung, Normverankerung. Output: Kanzlei-Playbook aus eigenen Daten. Abgrenzung: nicht Standardvorlagen aus Plugin-Bibliothek."
+description: "Kanzleieigenes Playbook aus vorhandenen Musterdokumenten und Vorlagen automatisch erstellen. Normen: technisch/intern, BRAO. Prüfraster: Dokumentenqualitaet, Kategorisierung, Normverankerung. Output: Kanzlei-Playbook aus eigenen Daten. Abgrenzung: nicht Standardvorlagen aus Plugin-Bibliothek."
 ---
 
 # Skill: Playbook aus eigenen Daten

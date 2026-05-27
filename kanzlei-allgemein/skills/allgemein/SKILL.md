@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das fusionierte Kanzlei-Allgemein-Plugin (mit Cowork): Kommandocenter, Mandatsannahme, GwG, Klage, Replik, Vertrag, Rechtsprechung, Handelsregister, beA-Journal, Rechnung, UStVA, Fristenbuch, Timesheet, RVG, Versand-Vor-Check, Posteingang, Mandantenakte, Mahnwesen, Tagesbrief, Geburtstage, Weihnachtskarten."
+description: "Einstieg und Überblick für das fusionierte Kanzlei-Allgemein-Plugin (mit Cowork): Kommandocenter, Mandatsannahme, GwG, Klage, Replik, Vertrag, Rechtsprechung, Handelsregister, beA-Journal, Rechnung, UStVA, Fristenbuch, Timesheet, RVG, Versand-Vor-Check, Posteingang, Mandantenakte, Mahnwesen, Tagesbrief, Geburtstage, Weihnachtskarten."
 ---
 
 # Kanzlei Allgemein — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: stb-dba-betriebsstaette-art-5-musterabkommen
-description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschliesslich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater pruefen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begruendet. Feste Geschaeftseinrichtung Bauausfuehrung Vertreterbetriebsstaette Ausnahmen Vorbereitungs- und Hilfstaetigkeiten. Anti-Fragmentierung. Output Betriebsstaetten-Memo Gewinnabgrenzung Verweis auf § 12 AO und MLI-Adjusted DBA-Text."
+description: "Betriebsstaette nach Art. 5 OECD-Musterabkommen einschließlich BEPS- und MLI-Anpassungen. Anwendungsfall Steuerberater prüfen ob auslaendische Aktivitaet eines deutschen Unternehmens oder umgekehrt eine Betriebsstaette begründet. Feste Geschäftseinrichtung Bauausführung Vertreterbetriebsstaette Ausnahmen Vorbereitungs- und Hilfstätigkeiten. Anti-Fragmentierung. Output Betriebsstaetten-Memo Gewinnabgrenzung Verweis auf § 12 AO und MLI-Adjusted DBA-Text."
 ---
 
 # Betriebsstaette nach Art. 5 OECD-MA (mit BEPS und MLI)

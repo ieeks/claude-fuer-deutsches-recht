@@ -1,6 +1,6 @@
 ---
 name: handelsregisteranmeldung-kapitalerhoehung
-description: "Handelsregisteranmeldung nach Kapitalerhohung durch Wandlung vorbereiten. § 57 GmbHG Anmeldepflicht §§ 54 55 GmbHG Kapitalerhohung. Pruefraster: Anmeldungsinhalt Unterlagen Notar Einreichungspflicht Eintragungsvoraussetzungen. Output: Anmeldungsentwurf Unterlagencheckliste. Abgrenzung: nicht fuer Gesellschafterliste (gesellschafterliste-aktualisieren)."
+description: "Handelsregisteranmeldung nach Kapitalerhohung durch Wandlung vorbereiten. § 57 GmbHG Anmeldepflicht §§ 54 55 GmbHG Kapitalerhohung. Prüfraster: Anmeldungsinhalt Unterlagen Notar Einreichungspflicht Eintragungsvoraussetzungen. Output: Anmeldungsentwurf Unterlagencheckliste. Abgrenzung: nicht für Gesellschafterliste (gesellschafterliste-aktualisieren)."
 ---
 
 # Handelsregisteranmeldung Kapitalerhöhung

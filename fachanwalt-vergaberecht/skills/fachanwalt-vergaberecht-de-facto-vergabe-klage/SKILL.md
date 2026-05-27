@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-de-facto-vergabe-klage
-description: "De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass oeffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachpruefungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Pruefraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachpruefungsantrag siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht."
+description: "De-facto-Vergabe ohne Ausschreibung angreifen: Bieter stellt fest dass öffentlicher Auftraggeber Auftrag direkt vergeben hat. Normen: § 135 GWB (Unwirksamkeit), §§ 160 ff. GWB (Nachprüfungsantrag VK), § 132 GWB (wesentliche Vertragsaenderung). Prüfraster: Aufdeckung der direkten Vergabe, Schadensersatzanspruch § 181 GWB, Unwirksamkeitsklage, Ausnahme-Tatbestaende. Output Klageschrift-Geruest, Schadensbeschreibung. Abgrenzung: Regulaerer Nachprüfungsantrag siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk; Unterschwelle siehe mandat-triage-vergaberecht."
 ---
 
 # De-facto-Vergabe-Klage

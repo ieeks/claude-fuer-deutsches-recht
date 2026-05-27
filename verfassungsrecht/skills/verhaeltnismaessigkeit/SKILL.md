@@ -1,6 +1,6 @@
 ---
 name: verhaeltnismaessigkeit
-description: "Verhaeltnismaessigkeitspruefung fuer staatliche Massnahmen oder Gesetze durchfuehren. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Pruefraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenpruefung Abwaegung. Output: Verhaeltnismaessigkeitspruefschema Ergebnis Argumentationshilfe. Abgrenzung: nicht fuer Grundrechtspruefung insgesamt (grundrechtspruefung) sondern Baustein."
+description: "Verhältnismäßigkeitsprüfung für staatliche Massnahmen oder Gesetze durchführen. Art. 20 Abs. 3 GG Rechtsstaatsprinzip BVerfG-Stufenschema. Prüfraster: legitimer Zweck Geeignetheit Erforderlichkeit Angemessenheit Dreistufenprüfung Abwaegung. Output: Verhältnismäßigkeitsprüfschema Ergebnis Argumentationshilfe. Abgrenzung: nicht für Grundrechtsprüfung insgesamt (grundrechtsprüfung) sondern Baustein."
 ---
 
 # Verhältnismäßigkeit (Vier-Stufen-Prüfung)

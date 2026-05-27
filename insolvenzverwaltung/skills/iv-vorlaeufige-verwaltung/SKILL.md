@@ -1,6 +1,6 @@
 ---
 name: iv-vorlaeufige-verwaltung
-description: "Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Pruefraster: Beschlussumfang Zustimmungsvorbehalt Postsperre Bankensicherung Drittschuldneranschreiben Kommunikation. Output: Tagesplan Sicherungsprotokoll Kommunikationsschreiben. Abgrenzung: nicht fuer laufendes Regelverfahren (iv-regelverfahren-eroeffnung)."
+description: "Erste Massnahmen als vorlaeufliger Insolvenzverwalter nach § 21 InsO umsetzen: Bankkonten Besitz Post Drittschuldner Betrieb. § 21 InsO Sicherungsmassnahmen § 22 InsO Pflichten des vorl. Verwalters. Prüfraster: Beschlussumfang Zustimmungsvorbehalt Postsperre Bankensicherung Drittschuldneranschreiben Kommunikation. Output: Tagesplan Sicherungsprotokoll Kommunikationsschreiben. Abgrenzung: nicht für laufendes Regelverfahren (iv-regelverfahren-eroeffnung)."
 ---
 
 # Vorläufige Insolvenzverwaltung

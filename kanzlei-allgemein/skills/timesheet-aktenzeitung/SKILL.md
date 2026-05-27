@@ -1,6 +1,6 @@
 ---
 name: timesheet-aktenzeitung
-description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Taetigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-faehig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative.
+description: Zeiterfassung pro Mandat (Aktenzeitung) — taegliche Erfassung mit Datum Anwalt Akte Tätigkeit Dauer in 6-Minuten-Bloecken Abrechenbarkeit (abrechenbar / pro bono / nicht abrechenbar) Honorarsatz und Notiz. Reports nach Mandat Anwalt Zeitraum. Vorbereitung der Rechnungsstellung. Audit-fähig mit Zeitstempel der Erfassung. Unterstuetzt Honorarvereinbarung mit Stundensatz und RVG-Abrechnung als Alternative.
 ---
 
 # Timesheet und Aktenzeitung

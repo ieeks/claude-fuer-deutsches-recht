@@ -1,6 +1,6 @@
 ---
 name: integrierte-planung-guv-bilanz-cashflow
-description: "Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) fuer StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Pruefraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
+description: "Integriertes Drei-Statement-Modell (GuV/Bilanz/Cashflow) für StaRUG-Planung erstellen: Sanierungsberater braucht konsistentes Planungsmodell. Normen: IDW S 6 (Sanierungsstandard), IDW S 11 (Fortbestehensprognose), HGB §§ 242 ff. (Jahresabschluss), § 1 StaRUG. Prüfraster: GuV-Plan, Bilanzplan, Cash-Flow-Statement, Working-Capital-Modell, Investitions-/Finanzierungsplan, Brucke Ergebnis-Liquiditaet. Output Excel-Modell-Template, Planungsannahmen-Memo. Abgrenzung: Liquiditaetsplanung rolling siehe rollierende-liquiditaetsplanung-24-monate-template; Kennzahlen-Ampel siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # Integrierte Planung — GuV, Bilanz und Cashflow

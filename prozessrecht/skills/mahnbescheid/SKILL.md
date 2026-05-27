@@ -1,6 +1,6 @@
 ---
 name: mahnbescheid
-description: "Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Uebergang zum Streitverfahren. Normen: §§ 688 ff. ZPO. Pruefraster: Zustaendigkeit Mahngericht, bestimmte Geldforderung, Widerspruchsrecht des Schuldners. Output: Mahnbescheidsantrag-Entwurf. Abgrenzung: nicht Klageschrift § 253 ZPO."
+description: "Mahnbescheid im gerichtlichen Mahnverfahren beantragen: Voraussetzungen, Formulierung, Übergang zum Streitverfahren. Normen: §§ 688 ff. ZPO. Prüfraster: Zuständigkeit Mahngericht, bestimmte Geldforderung, Widerspruchsrecht des Schuldners. Output: Mahnbescheidsantrag-Entwurf. Abgrenzung: nicht Klageschrift § 253 ZPO."
 ---
 
 # Mahnverfahren – §§ 688 ff. ZPO

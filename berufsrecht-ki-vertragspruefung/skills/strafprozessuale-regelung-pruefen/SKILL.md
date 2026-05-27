@@ -1,6 +1,6 @@
 ---
 name: strafprozessuale-regelung-pruefen
-description: "Pruefe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot fuer Mandatsdaten Widerspruchspflicht des Dienstleisters bei behoerdlichen Auskunftsverlangen Informationspflicht gegenueber der Kanzlei. Ergaenzung zum berufsrechtlich-strafrechtlichen Schutz."
+description: "Prüfe die strafprozessuale Absicherung des KI-Dienstleisters nach §§ 53a 97 StPO. Zeugnisverweigerungsrecht der mitwirkenden Personen Beschlagnahmeverbot für Mandatsdaten Widerspruchspflicht des Dienstleisters bei behoerdlichen Auskunftsverlangen Informationspflicht gegenüber der Kanzlei. Ergaenzung zum berufsrechtlich-strafrechtlichen Schutz."
 ---
 
 # Strafprozessuale Regelung prüfen

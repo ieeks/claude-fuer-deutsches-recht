@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg ins Mandantenanfragen-Assistent-Plugin: eingehende Kanzlei-E-Mails parsen, Erstantwort DSGVO-konform generieren, Dringlichkeit pruefen, Konfliktcheck vorschalten und Mandatshinweis setzen."
+description: "Einstieg ins Mandantenanfragen-Assistent-Plugin: eingehende Kanzlei-E-Mails parsen, Erstantwort DSGVO-konform generieren, Dringlichkeit prüfen, Konfliktcheck vorschalten und Mandatshinweis setzen."
 ---
 
 # Mandantenanfragen-Assistent — Allgemein

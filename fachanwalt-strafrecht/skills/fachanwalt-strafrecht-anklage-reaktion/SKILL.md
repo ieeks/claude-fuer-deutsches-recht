@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-anklage-reaktion
-description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO Eroeffnungsverfahren, § 203 StPO hinreichender Tatverdacht, § 153 StPO Einstellung, § 244 StPO Beweisantrag. Pruefraster Anklage auf Vollstaendigkeit nach § 200 StPO prüfen, Eroeffnungsantrag auf Schwaechen prufen, Einstellungsantrag oder Beweisantrag taktisch abwaegen. Output Stellungnahme-Schreiben zum Eroefffnungsverfahren mit strategischen Optionen. Abgrenzung zu Hauptverhandlung-Vorbereiten und zu Einlassung-Vorbereiten."
+description: "Reaktion auf Anklageerhebung nach § 199 StPO und Eroefffnungsverfahren: Anwendungsfall Mandant hat Anklageschrift erhalten und Verteidiger muss strategisch auf Eroeffnungsverfahren reagieren. § 199 StPO Eroeffnungsverfahren, § 203 StPO hinreichender Tatverdacht, § 153 StPO Einstellung, § 244 StPO Beweisantrag. Prüfraster Anklage auf Vollständigkeit nach § 200 StPO prüfen, Eroeffnungsantrag auf Schwaechen prufen, Einstellungsantrag oder Beweisantrag taktisch abwaegen. Output Stellungnahme-Schreiben zum Eroefffnungsverfahren mit strategischen Optionen. Abgrenzung zu Hauptverhandlung-Vorbereiten und zu Einlassung-Vorbereiten."
 ---
 
 # Anklage-Reaktion

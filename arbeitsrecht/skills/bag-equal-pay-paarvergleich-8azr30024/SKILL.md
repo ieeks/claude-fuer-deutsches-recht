@@ -1,6 +1,6 @@
 ---
 name: bag-equal-pay-paarvergleich-8azr30024
-description: "BAG 23.10.2025 8 AZR 300/24 Equal Pay durch Paarvergleich. Eine Arbeitnehmerin muss keine ganze Vergleichsgruppe statistisch auswerten. Ein einziger besser bezahlter maennlicher Kollege bei gleicher oder gleichwertiger Arbeit genuegt fuer die Vermutung des § 22 AGG. Arbeitgeber muss konkret darlegen dass die Differenz auf objektiven geschlechtsneutralen Gruenden beruht. Keine Berufung mehr auf Median Durchschnitt oder Verhandlungsgeschick. Art. 157 AEUV § 3 § 7 EntgTranspG."
+description: "BAG 23.10.2025 8 AZR 300/24 Equal Pay durch Paarvergleich. Eine Arbeitnehmerin muss keine ganze Vergleichsgruppe statistisch auswerten. Ein einziger besser bezahlter maennlicher Kollege bei gleicher oder gleichwertiger Arbeit genuegt für die Vermutung des § 22 AGG. Arbeitgeber muss konkret darlegen dass die Differenz auf objektiven geschlechtsneutralen Gründen beruht. Keine Berufung mehr auf Median Durchschnitt oder Verhandlungsgeschick. Art. 157 AEUV § 3 § 7 EntgTranspG."
 ---
 
 # BAG 23.10.2025 — Equal Pay durch Paarvergleich (8 AZR 300/24)

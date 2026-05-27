@@ -1,6 +1,6 @@
 ---
 name: kueschk-muendliche-verhandlung-praxistipps-laie
-description: "Praxistipps fuer Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation."
+description: "Praxistipps für Laien in der muendlichen Verhandlung beim Arbeitsgericht: Auftreten; Kleidung; Anrede des Gerichts; Sitzungsverlauf; Verhalten bei Vergleichsvorschlag; Stressbewaeltigung und Dokumentation."
 ---
 
 # Mündliche Verhandlung: Praxistipps für Laien

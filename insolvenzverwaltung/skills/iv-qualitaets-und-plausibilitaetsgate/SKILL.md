@@ -1,6 +1,6 @@
 ---
 name: iv-qualitaets-und-plausibilitaetsgate
-description: "IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler pruefen. §§ 58 66 InsO Pruefungspflichten des Gerichts. Pruefraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigabeempfehlung. Abgrenzung: Quality Gate fuer alle IV-Skills; nicht fuer eigenstaendige Sacharbeit."
+description: "IV-Arbeitsergebnisse vor Versand oder Entscheidung auf Widersprueche Rechenfehler fehlende Belege und Rollenfehler prüfen. §§ 58 66 InsO Prüfungspflichten des Gerichts. Prüfraster: Rollencheck Zahlencheck Normencheck Quellencheck Adressatencheck. Output: Gate-Protokoll mit Fehlerliste und Freigabeempfehlung. Abgrenzung: Quality Gate für alle IV-Skills; nicht für eigenständige Sacharbeit."
 ---
 
 # Qualitäts- und Plausibilitätsgate

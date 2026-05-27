@@ -1,6 +1,6 @@
 ---
 name: vorher-nachher-tabelle
-description: "Vorher-Nachher-Vergleich fuer umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklaeren. § 43a BRAO § 26 BORA. Pruefraster: Vollstaendigkeit Erklaerbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Ueberarbeitung und Erklaerungsspalte. Abgrenzung: nicht eigenstaendiger Umformulierungs-Skill sondern Dokumentationswerkzeug."
+description: "Vorher-Nachher-Vergleich für umformulierte Anwaltskorrespondenz erstellen und Aenderungen erklären. § 43a BRAO § 26 BORA. Prüfraster: Vollständigkeit Erklärbarkeit jeder Aenderung Berufsrechtsbezug. Output: Tabelle mit Original Überarbeitung und Erklärungsspalte. Abgrenzung: nicht eigenständiger Umformulierungs-Skill sondern Dokumentationswerkzeug."
 ---
 
 # Vorher-Nachher-Tabelle

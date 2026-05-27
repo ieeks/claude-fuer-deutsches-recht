@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-stadion-hausverbot
-description: "Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Pruefung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Pruefraster AGB-Wirksamkeit Verhaeltnismaessigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion)."
+description: "Fan erhaelt bundesweites Stadion-Hausverbot und will dieses anfechten. AGB-Prüfung Vereinsrecht Fanrechte Datenschutz. Normen §§ 305 ff. BGB AGB-Kontrolle BGH Bundesliga-Hausverbot § 25 BGB Vereinsrecht DSGVO Polizei-Datei Gewalttaeter Sport. Prüfraster AGB-Wirksamkeit Verhältnismäßigkeit Datenschutz Widerspruch. Output Widerspruchsschreiben Klage-Entwurf. Abgrenzung zu fachanwalt-sportrecht-vereinsstrafrecht (Vereinsstrafe) und verbandsstrafe-anfechten (Verbands-Sanktion)."
 ---
 
 # Stadion-Hausverbot

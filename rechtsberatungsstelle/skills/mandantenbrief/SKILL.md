@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief
-description: "Mandantenbrief fuer Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Pruefraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte fuer Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe fuer barrierefreie Kommunikation und zu Entwurf fuer Schriftsaetze."
+description: "Mandantenbrief für Rechtsberatungsstelle verfassen: Anwendungsfall Rechtsberatungsstelle muss Mandanten über Ergebnis der Beratung informieren oder Schreiben an Gegenseite Behoerde oder Gericht vorbereiten. BeratungsHiG niedrigschwellige Beratung, Mandantenkommunikation in verstaendlicher Sprache. Prüfraster Empfaenger und Zweck klaeren, Sachverhalts-Zusammenfassung, rechtliche Einordnung, naechste Schritte für Mandant. Output Mandantenbrief in verstaendlicher oder juristisch foermlicher Sprache je nach Empfaenger. Abgrenzung zu Einfache-Sprache-Briefe für barrierefreie Kommunikation und zu Entwurf für Schriftsaetze."
 ---
 
 # /mandantenbrief

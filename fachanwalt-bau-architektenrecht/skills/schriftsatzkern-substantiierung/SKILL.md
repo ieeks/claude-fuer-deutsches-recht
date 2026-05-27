@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Pruefraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollstaendiger Schriftsatz."
+description: "Schriftsatzkern im Bau- und Architektenrecht substantiieren: Mangeldarstellung, Normzitate, Beweisangebot. Normen: §§ 253 138 ZPO, §§ 633 634 BGB. Prüfraster: Mangelbezeichnung, Beweismittel, Schluessigkeit. Output: Schriftsatzkern Baurecht. Abgrenzung: nicht vollständiger Schriftsatz."
 ---
 
 # Schriftsatzkern und Substantiierung im Privates Baurecht, Architekten- und Ingenieurrecht

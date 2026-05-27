@@ -1,6 +1,6 @@
 ---
 name: rechtsmittelbelehrung-zivil
-description: "Rechtsmittelbelehrung nach §§ 232 ff., 511 ff., 567 ff. ZPO korrekt formulieren: Richter muss Belehrung an Urteil oder Beschluss anfuegen. Normen: § 232 ZPO (Belehrungspflicht), § 511 ZPO (Berufung), § 567 ZPO (sofortige Beschwerde). Pruefraster: Berufung gegen Endurteile AG ueber 600 EUR Beschwer, Frist 1 Monat, Berufungsbegruendung 2 Monate; sofortige Beschwerde 2 Wochen; Beschwerdewert; Anwaltszwang. Output Rechtsmittelbelehrung-Entwurf passend zum Entscheidungstyp. Abgrenzung: Tenorierung siehe tenor-bauen-zivil; Berufungsfestigkeit siehe berufungsfest-pruefen."
+description: "Rechtsmittelbelehrung nach §§ 232 ff., 511 ff., 567 ff. ZPO korrekt formulieren: Richter muss Belehrung an Urteil oder Beschluss anfuegen. Normen: § 232 ZPO (Belehrungspflicht), § 511 ZPO (Berufung), § 567 ZPO (sofortige Beschwerde). Prüfraster: Berufung gegen Endurteile AG über 600 EUR Beschwer, Frist 1 Monat, Berufungsbegründung 2 Monate; sofortige Beschwerde 2 Wochen; Beschwerdewert; Anwaltszwang. Output Rechtsmittelbelehrung-Entwurf passend zum Entscheidungstyp. Abgrenzung: Tenorierung siehe tenor-bauen-zivil; Berufungsfestigkeit siehe berufungsfest-prüfen."
 ---
 
 # Rechtsmittelbelehrung Zivil

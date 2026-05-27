@@ -1,6 +1,6 @@
 ---
 name: steuerberater-stberg-modus
-description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformitaet anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Pruefraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhaengigkeit. Output: angepasste Version mit Pruefprotokoll. Abgrenzung: nicht fuer allgemeine Anwaltskorrespondenz."
+description: "Korrespondenz von Steuerberatern auf StBerG- und Berufsrechts-Konformität anpassen. §§ 57 57a StBerG Berufspflichten DVStB. Prüfraster: Verschwiegenheit Sachlichkeit Werbegrenzen fachliche Kompetenz Unabhängigkeit. Output: angepasste Version mit Prüfprotokoll. Abgrenzung: nicht für allgemeine Anwaltskorrespondenz."
 ---
 
 # Steuerberater-Modus (StBerG/BOStB)

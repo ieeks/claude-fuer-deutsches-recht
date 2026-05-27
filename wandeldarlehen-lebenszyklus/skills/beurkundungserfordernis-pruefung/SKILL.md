@@ -1,6 +1,6 @@
 ---
 name: beurkundungserfordernis-pruefung
-description: "Beurkundungserfordernis fuer Wandeldarlehen und Kapitalerhohung pruefen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Pruefraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formpruefungs-Memo mit Empfehlung. Abgrenzung: nicht fuer Textform-Fragen (textform-vs-schriftform-vs-notariell)."
+description: "Beurkundungserfordernis für Wandeldarlehen und Kapitalerhohung prüfen wenn Frage besteht ob Notartermin erforderlich ist. §§ 15 55 GmbHG § 311b BGB Formvorschriften. Prüfraster: Sacheinlage Kapitalerhohung GmbH-Anteil Vorratskapital Abtretungsverbot. Output: Formprüfungs-Memo mit Empfehlung. Abgrenzung: nicht für Textform-Fragen (textform-vs-schriftform-vs-notariell)."
 ---
 
 # Beurkundungserfordernis-Prüfung

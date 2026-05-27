@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-orientierung
-description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachpruefungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Pruefraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachpruefungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin."
+description: "Orientierung im Fachanwaltsrecht Vergaberecht: FAO-Voraussetzungen, EU-Schwellen, Nachprüfungsverfahren, Kernliteratur ueberblicken. Normen: GWB §§ 97 ff. (Vergaberecht), VgV, SektVO, KonzVgV, UVgO (Unterschwelle), VOB-A. Prüfraster: Schwellenwertabhaengigkeit, Auftragsarten, Verfahrenstypen (offen, nicht-offen, Verhandlung), Nachprüfungsorgane VK und OLG. Output Orientierungs-Memo, Routing zu Spezialskills. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Bau-Architektenrecht siehe fachanwalt-bau-architektenrecht-Plugin."
 ---
 
 # Fachanwalt für Vergaberecht — Orientierung

@@ -1,6 +1,6 @@
 ---
 name: jurastudium-anpassen
-description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenpruefung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Pruefraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen Beck-online juris Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart fuer Erst-Konfiguration und zu Lernplan."
+description: "Lernprofil im Jurastudium anpassen und aktualisieren: Anwendungsfall Student wechselt Lernstil, aendert Studienschwerpunkte, wechselt Bundesland oder aktualisiert Prüfungsziel von Zwischenprüfung auf Examen. 1. und 2. Staatsexamen, JAG Bundesland. Prüfraster Lernstil-Typ, Faecher-Auswahl, Bundesland-Spezifika, Prüfungsziel, verfuegbare Ressourcen Beck-online juris Bibliothek. Output aktualisiertes Lernprofil mit neuer Schwerpunktsetzung. Abgrenzung zu Jurastudium-Kaltstart für Erst-Konfiguration und zu Lernplan."
 ---
 
 # Lernprofil anpassen

@@ -1,6 +1,6 @@
 ---
 name: unbestimmte-rechtsbegriffe-pruefen
-description: "Prueft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen."
+description: "Prüft unbestimmte Rechtsbegriffe: wesentlich, erheblich, zumutbar, geeignet, angemessen, erforderlich. Gibt Auslegungsmassstaeibe aus Rechtsprechung und h.M., Indizien und Fallgruppen. Warnt vor der Grenze mechanischer Subsumtion bei wertungsoffenen Begriffen."
 ---
 
 # Unbestimmte Rechtsbegriffe prüfen

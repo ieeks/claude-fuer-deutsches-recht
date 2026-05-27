@@ -1,6 +1,6 @@
 ---
 name: entfristung-sachgrund-pruefen-14-abs-1
-description: "Sachgrundpruefung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgruende; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gruende; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast."
+description: "Sachgrundprüfung Befristung nach § 14 Abs. 1 TzBfG: acht Sachgründe; voruebergehender Bedarf; Vertretung; Erprobung; Eigenart der Leistung; haushaltsmittelbedingte Gründe; gerichtlicher Vergleich; BAG-Rechtsprechung zu Darlegungs- und Beweislast."
 ---
 
 # Sachgrundprüfung — § 14 Abs. 1 TzBfG

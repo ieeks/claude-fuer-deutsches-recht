@@ -1,6 +1,6 @@
 ---
 name: zvg-mieteinzug-rueckstaende
-description: "Mieteinzug und Rueckstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rueckstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose Kuendigung § 286 BGB Verzug. Pruefraster Soll-Ist-Abgleich Mahnung Ratenvereinbarung Klage Zahlungseingang Kontoabgleich Dokumentation. Output Rueckstandsprotokoll mit Mahnhistorie Klagepruefung und Einzugsnachweis fuer Rechnungslegung. Abgrenzung zu zvg-miet-und-pachtverwaltung und zvg-raeumung-kuendigung."
+description: "Mieteinzug und Rückstandsbehandlung in der Zwangsverwaltung. Anwendungsfall Mieter zahlt nicht und Zwangsverwalter muss Rückstande einziehen oder Klage einleiten. Normen § 152 ZVG Mieteinzugspflicht § 543 BGB fristlose Kündigung § 286 BGB Verzug. Prüfraster Soll-Ist-Abgleich Mahnung Ratenvereinbarung Klage Zahlungseingang Kontoabgleich Dokumentation. Output Rückstandsprotokoll mit Mahnhistorie Klageprüfung und Einzugsnachweis für Rechnungslegung. Abgrenzung zu zvg-miet-und-pachtverwaltung und zvg-räumung-kündigung."
 ---
 
 # Mieteinzug und Rückstände

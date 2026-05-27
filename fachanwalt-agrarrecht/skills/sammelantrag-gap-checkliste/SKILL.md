@@ -1,6 +1,6 @@
 ---
 name: sammelantrag-gap-checkliste
-description: "Landwirt muss jaehrlichen Sammelantrag fuer GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollstaendig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Moeglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung fuer Widerspruch gegen Foerderbescheid."
+description: "Landwirt muss jaehrlichen Sammelantrag für GAP-Direktzahlungen stellen und will sichergehen dass alle Pflichtangaben vollständig sind. Strukturierte Checkliste GAP-Strategieplan VO 2021/2115 Antragsfrist 15. Mai. Konditionalitaet GLOEZ-Standards Oekoregelungen Junglandwirts-Praemie Flaechen-Identifikator FID Kulturarten HIT-Datenbank. Korrektur bis 31. Mai Anpassung bis 30. September Sanktionen Cross-Compliance Vor-Ort-Kontrolle. Output Checkliste mit Ampel-Status und Fehler-Korrektur-Anleitung Selbstanzeige-Möglichkeit. Abgrenzung: fachanwalt-agrarrecht-eu-agrarfoerderung für Widerspruch gegen Foerderbescheid."
 ---
 
 # Sammelantrag GAP — Checkliste

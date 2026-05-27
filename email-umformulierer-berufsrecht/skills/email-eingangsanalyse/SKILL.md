@@ -1,6 +1,6 @@
 ---
 name: email-eingangsanalyse
-description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Pruefraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht fuer die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz)."
+description: "Eingehende E-Mail analysieren und Tonalitaet Konfliktpotenzial und Handlungsbedarf bestimmen. § 43a BRAO Berufsrecht. Prüfraster: Tonalitaet emotionale Trigger versteckte Forderungen Fristen Eskalationspotenzial. Output: Analyse-Memo Handlungsempfehlung Antwort-Strategie. Abgrenzung: nicht für die Umformulierung der Antwort (allgemeine-berufliche-korrespondenz)."
 ---
 
 # E-Mail-Eingangsanalyse

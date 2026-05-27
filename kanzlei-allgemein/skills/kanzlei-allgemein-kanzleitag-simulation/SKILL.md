@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-kanzleitag-simulation
-description: "Fuehrt im Simulationsmodus durch einen achtstuendigen Kanzleitag fuer Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-Workflow vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart."
+description: "Führt im Simulationsmodus durch einen achtstuendigen Kanzleitag für Training und Demo. Anwendungsfall Kanzlei will Arbeitsablaeufe testen neue Mitarbeiter einarbeiten oder Plugin-Workflow vorhalten. Abdeckt Mandatsannahme GwG Postlauf beA E-Mail Schreibcanvas Fristen Zeitnarrative Rechnung UStVA Eingangsrechnungen und Tagesabschluss. Output Simulationsprotokoll mit Tagesereignissen Fehlerliste Lernhinweisen und Leistungsbewertung. Abgrenzung zu kanzlei-allgemein-automationen (Echtbetrieb) und kanzlei-allgemein-kaltstart."
 ---
 
 # Kanzleitag-Simulation

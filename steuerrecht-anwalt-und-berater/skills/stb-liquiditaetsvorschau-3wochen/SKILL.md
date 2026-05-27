@@ -1,6 +1,6 @@
 ---
 name: stb-liquiditaetsvorschau-3wochen
-description: "Kurzfristige Drei-Wochen-Liquiditaetsvorschau fuer GmbH oder UG zur wochentlichen Krisenfrueherkennung. Anwendungsfall Steuerberater will schnell pruefen ob Zahlungsunfaehigkeit nach § 17 InsO droht oder schon vorliegt. BGH-Schema 10-Prozent-Luecke und drei Wochen Schliessbarkeit BGHZ 163. Hinweispflicht Steuerberater § 102 StaRUG bei roter Ampel. Output Drei-Wochen-Tabelle Ampel-Bewertung Uebergang zu Langfristplanung oder insolvenzrechtlichem Schwester-Plugin bei roter Ampel. Abgrenzung zu stb-liquiditaetsvorschau-3-6-12-monate Langfristversion."
+description: "Kurzfristige Drei-Wochen-Liquiditaetsvorschau für GmbH oder UG zur wochentlichen Krisenfrueherkennung. Anwendungsfall Steuerberater will schnell prüfen ob Zahlungsunfähigkeit nach § 17 InsO droht oder schon vorliegt. BGH-Schema 10-Prozent-Luecke und drei Wochen Schließbarkeit BGHZ 163. Hinweispflicht Steuerberater § 102 StaRUG bei roter Ampel. Output Drei-Wochen-Tabelle Ampel-Bewertung Übergang zu Langfristplanung oder insolvenzrechtlichem Schwester-Plugin bei roter Ampel. Abgrenzung zu stb-liquiditaetsvorschau-3-6-12-monate Langfristversion."
 ---
 
 # Drei-Wochen-Liquiditätsvorschau (§ 17 InsO Vorprüfung, § 1 StaRUG)

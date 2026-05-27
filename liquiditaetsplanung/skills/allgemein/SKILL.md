@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Liquiditaetsplanung-Plugin: rollierende Vorschau nach §§ 17 18 InsO, BGH-Passiva-II-Schema, 3-Wochen- bis 52-Wochen-Forecast, insolvenzrechtliche Liquiditaetsbilanz und Excel-Export fuer GmbH UG AG in Krise."
+description: "Einstieg und Überblick für das Liquiditaetsplanung-Plugin: rollierende Vorschau nach §§ 17 18 InsO, BGH-Passiva-II-Schema, 3-Wochen- bis 52-Wochen-Forecast, insolvenzrechtliche Liquiditaetsbilanz und Excel-Export für GmbH UG AG in Krise."
 ---
 
 # Liquiditaetsplanung — Allgemein

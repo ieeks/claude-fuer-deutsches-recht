@@ -1,6 +1,6 @@
 ---
 name: stb-dba-russland-suspendierung-2024
-description: "DBA Deutschland Russland Suspendierung wesentlicher Verguenstigungen. Russische Verbalnote vom 08.08.2023 suspendiert von russischer Seite Art. 5 bis 22 und 24. Deutsche Gegenmassnahme nach § 1 Abs. 3 Satz 2 StAbwG mit Aufnahme Russlands in die StAbwV. Konsolidierter BMF-DBA-Stand vom 15.01.2024 dokumentiert die Suspendierung zum 01.01.2024. Anwendungsfall laufende Mandate mit Russlandbezug Vor- und Nachpruefung der DBA-Anwendung Quellensteuerentlastung Treaty-Schutz teilweise wegfallend Folgen Sanktionen Devisenkontrollen Subject-to-Tax. Output Mandanten-Memo BZSt-Hinweise."
+description: "DBA Deutschland Russland Suspendierung wesentlicher Verguenstigungen. Russische Verbalnote vom 08.08.2023 suspendiert von russischer Seite Art. 5 bis 22 und 24. Deutsche Gegenmassnahme nach § 1 Abs. 3 Satz 2 StAbwG mit Aufnahme Russlands in die StAbwV. Konsolidierter BMF-DBA-Stand vom 15.01.2024 dokumentiert die Suspendierung zum 01.01.2024. Anwendungsfall laufende Mandate mit Russlandbezug Vor- und Nachprüfung der DBA-Anwendung Quellensteuerentlastung Treaty-Schutz teilweise wegfallend Folgen Sanktionen Devisenkontrollen Subject-to-Tax. Output Mandanten-Memo BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Russland: Suspendierung wesentlicher Verguenstigungen (Stand BMF 15.01.2024)

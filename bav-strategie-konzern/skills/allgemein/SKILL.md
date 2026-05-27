@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Plugin zur strategischen Beratung betrieblicher Altersversorgung in Konzernen: alle fuenf Durchfuehrungswege, CTA, Pension Buyout, Drei-Stufen-Theorie, internationale Harmonisierung, Mitbestimmung, Versorgungsordnung und internationale Benefits im Duesseldorfer Boutique-Stil."
+description: "Einstieg und Überblick für das Plugin zur strategischen Beratung betrieblicher Altersversorgung in Konzernen: alle fuenf Durchführungswege, CTA, Pension Buyout, Drei-Stufen-Theorie, internationale Harmonisierung, Mitbestimmung, Versorgungsordnung und internationale Benefits im Duesseldorfer Boutique-Stil."
 ---
 
 # Betriebliche Altersversorgung Strategie Konzern — Allgemein

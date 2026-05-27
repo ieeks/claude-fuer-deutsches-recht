@@ -1,6 +1,6 @@
 ---
 name: gesetzesentwurf-kabinett
-description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begruendung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Pruefbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begruendung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung."
+description: "Kabinettsentwurf der Bundesregierung oder Landesregierung aus dem Referentenentwurf nach Ressortabstimmung erstellen. Anwendungsfall Ressortabstimmung und Verbandeanhoerung sind abgeschlossen Kabinettsvorlage muss fertiggestellt werden. Beschlussvorlage Kabinett Anschreiben Hausspitze Vorblatt Entwurfstext Begründung Ressortabstimmungsdokumentation Synopse Lesefassung. Pflichtdokumente NKR-Prüfbericht KMU-Test Erfuellungsaufwand Klimacheck Nachhaltigkeit. Output komplette Kabinettsmappe bereit zur Vorlage. Anschluss begründung-allgemein-und-besonders verbaendeanhoerung-ressortabstimmung."
 ---
 
 # Gesetzesentwurf Kabinett

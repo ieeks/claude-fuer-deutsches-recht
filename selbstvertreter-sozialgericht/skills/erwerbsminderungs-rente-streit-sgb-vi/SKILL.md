@@ -1,6 +1,6 @@
 ---
 name: erwerbsminderungs-rente-streit-sgb-vi
-description: "EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie fuer Buerger bei Ablehnung durch DRV."
+description: "EM-Rente nach §§ 43 240 SGB VI. Volle teilweise EM Wartezeit Pflichtbeitraege Berufsschutz vor 1961. Strategie für Buerger bei Ablehnung durch DRV."
 ---
 
 # Erwerbsminderungs-Rente — Streit mit der Rentenversicherung

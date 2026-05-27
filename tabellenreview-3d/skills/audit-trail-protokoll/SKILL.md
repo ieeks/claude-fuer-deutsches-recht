@@ -1,6 +1,6 @@
 ---
 name: audit-trail-protokoll
-description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprueft und geaendert. Normen: §§ 238 257 HGB Buchfuehrungspflichten. Pruefraster: Zeitstempel, Pruefer-ID, Aenderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Pruefung (Zweck: Nachvollziehbarkeit)."
+description: "Audit-Trail aller Review-Schritte protokollieren: wer hat wann was geprüft und geaendert. Normen: §§ 238 257 HGB Buchführungspflichten. Prüfraster: Zeitstempel, Prüfer-ID, Aenderungshistorie, Versionierung. Output: Audit-Trail-Protokoll. Abgrenzung: nicht inhaltliche Prüfung (Zweck: Nachvollziehbarkeit)."
 ---
 
 # /tabellenreview-3d:audit-trail-protokoll

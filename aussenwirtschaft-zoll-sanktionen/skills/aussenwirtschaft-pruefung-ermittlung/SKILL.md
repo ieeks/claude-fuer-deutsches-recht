@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-pruefung-ermittlung
-description: "Begleitung von Aussenwirtschaftspruefungen Zollpruefungen Durchsuchungen und Strafverfahren. Anwendungsfall Behorde kueendigt Pruefung an oder Durchsuchung hat stattgefunden. Normen AWG § 34 Strafrecht OWiG § 19 Sanktionen ZK Art. 48 Zollpruefung StPO §§ 102 ff. Durchsuchung. Pruefraster Vorbereitung Pruefung Anhörung Selbstanzeige freiwillige Offenlegung Bussgeldbescheid Strafverfahren. Output Pruefungsbegleitpaket mit Dokumentenliste Anhoerungsstrategie und Sanktions-Risikobewertung. Abgrenzung zu aussenwirtschaft-presse-krise und aussenwirtschaft-icp-kontrollsystem."
+description: "Begleitung von Aussenwirtschaftsprüfungen Zollprüfungen Durchsuchungen und Strafverfahren. Anwendungsfall Behorde kueendigt Prüfung an oder Durchsuchung hat stattgefunden. Normen AWG § 34 Strafrecht OWiG § 19 Sanktionen ZK Art. 48 Zollprüfung StPO §§ 102 ff. Durchsuchung. Prüfraster Vorbereitung Prüfung Anhörung Selbstanzeige freiwillige Offenlegung Bußgeldbescheid Strafverfahren. Output Prüfungsbegleitpaket mit Dokumentenliste Anhoerungsstrategie und Sanktions-Risikobewertung. Abgrenzung zu aussenwirtschaft-presse-krise und aussenwirtschaft-icp-kontrollsystem."
 ---
 
 # Prüfungen, Ermittlungen und Offenlegung

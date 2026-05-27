@@ -1,6 +1,6 @@
 ---
 name: klage-versicherer-strategie
-description: "Klagestrategie gegen Versicherer nach erfolgloser aussergerichtlicher Korrespondenz. Anwendungsfall alle aussergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Faelligkeit Verzug § 215 VVG oertliche Zustaendigkeit § 204 BGB Hemmung § 256 ZPO Feststellungsantrag GVG Streitwert. Pruefraster Streitwert Zustaendigkeit Klageantrag Substantiierung Beweisangebote Sachverstaendiger Zeugen Urkundenbeweis Mahnverfahren Zinsen Anwaltskosten. Output Klage-Strategie-Memo mit Antragsformulierung Beweiskonzept Kostenrisikobewertung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und schriftsatzkern-substantiierung."
+description: "Klagestrategie gegen Versicherer nach erfolgloser außergerichtlicher Korrespondenz. Anwendungsfall alle außergerichtlichen Einigungsversuche sind gescheitert und Klage muss strategisch vorbereitet werden. Normen § 14 VVG Fälligkeit Verzug § 215 VVG örtliche Zuständigkeit § 204 BGB Hemmung § 256 ZPO Feststellungsantrag GVG Streitwert. Prüfraster Streitwert Zuständigkeit Klageantrag Substantiierung Beweisangebote Sachverständiger Zeugen Urkundenbeweis Mahnverfahren Zinsen Anwaltskosten. Output Klage-Strategie-Memo mit Antragsformulierung Beweiskonzept Kostenrisikobewertung. Abgrenzung zu fachanwalt-versicherungsrecht-deckungsklage und schriftsatzkern-substantiierung."
 ---
 
 # Klage gegen Versicherer — Strategie

@@ -1,6 +1,6 @@
 ---
 name: duftmarke-und-geschmacksmarke
-description: "Duftmarken und Geschmacksmarken: faktische Uneintragbarkeit analysieren und Alternativstrategien entwickeln. Normen: EuGH C-273/00 Sieckmann-Kriterien (grafische Darstellbarkeit), § 3 MarkenG, Art. 4 UMV. Pruefraster: Sieckmann-Anforderungen nicht erfuellbar, Workaround Aroma-Patente, UWG § 4 Nr. 3 (Nachahmungsschutz), Geheimrezept-Schutz als Geschaeftsgeheimnis. Output Strategie-Memo Duftschutz mit Alternativen, UWG-Schutzpotenzial. Abgrenzung: Soundmarke siehe soundmarke-und-bewegungsmarke; Tastmarke siehe haptik-und-tastmarke."
+description: "Duftmarken und Geschmacksmarken: faktische Uneintragbarkeit analysieren und Alternativstrategien entwickeln. Normen: EuGH C-273/00 Sieckmann-Kriterien (grafische Darstellbarkeit), § 3 MarkenG, Art. 4 UMV. Prüfraster: Sieckmann-Anforderungen nicht erfuellbar, Workaround Aroma-Patente, UWG § 4 Nr. 3 (Nachahmungsschutz), Geheimrezept-Schutz als Geschäftsgeheimnis. Output Strategie-Memo Duftschutz mit Alternativen, UWG-Schutzpotenzial. Abgrenzung: Soundmarke siehe soundmarke-und-bewegungsmarke; Tastmarke siehe haptik-und-tastmarke."
 ---
 
 # Duftmarken und Geschmacksmarken

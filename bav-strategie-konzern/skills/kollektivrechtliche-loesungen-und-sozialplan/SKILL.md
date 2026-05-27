@@ -1,6 +1,6 @@
 ---
 name: kollektivrechtliche-loesungen-und-sozialplan
-description: "Kollektivrechtliche Loesungen fuer bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Pruefraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung."
+description: "Kollektivrechtliche Lösungen für bAV-Einschnitte: Betriebsvereinbarung, Sozialplan, Einigungsstelle. Normen: §§ 77 112 BetrVG, BetrAVG. Prüfraster: Mitbestimmungsrechte, Sozialplanvolumen, Ausgleichszahlungen. Output: Betriebsvereinbarungsentwurf bAV. Abgrenzung: nicht individuelle Versorgungsordnung."
 ---
 
 # Kollektivrechtliche Lösungen und Sozialplan bei BAV-Restrukturierungen

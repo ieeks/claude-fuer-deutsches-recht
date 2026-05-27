@@ -1,6 +1,6 @@
 ---
 name: gesamtbewertung-tragfaehigkeit
-description: "Gesamturteil zur Tragfaehigkeit einer Marktabgrenzung: hoch mittel oder gering. Fasst zentrale Schwachstellen in 3 bis 5 scharfen Punkten zusammen. Bewertet Angreifbarkeit vor Gericht oder Behoerde und empfiehlt prozesstaktische Konsequenzen fuer das eigene Team."
+description: "Gesamturteil zur Tragfähigkeit einer Marktabgrenzung: hoch mittel oder gering. Fasst zentrale Schwachstellen in 3 bis 5 scharfen Punkten zusammen. Bewertet Angreifbarkeit vor Gericht oder Behoerde und empfiehlt prozesstaktische Konsequenzen für das eigene Team."
 ---
 
 # Gesamtbewertung — Tragfähigkeit der Marktabgrenzung

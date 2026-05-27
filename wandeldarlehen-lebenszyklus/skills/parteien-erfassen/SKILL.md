@@ -1,6 +1,6 @@
 ---
 name: parteien-erfassen
-description: "Vertragsparteien eines Wandeldarlehens vollstaendig identifizieren und dokumentieren. §§ 13 17 GmbHG Gesellschafter §§ 305 ff. BGB AGB bei mehreren Darlehensgebern. Pruefraster: Darlehensgeberin Darlehensnehmerin vertretungsberechtigte Organe Handelsregisterstand. Output: Parteiendossier fuer Vertragskopf. Abgrenzung: Einstiegs-Skill; vor Vertragserstellung zu verwenden."
+description: "Vertragsparteien eines Wandeldarlehens vollständig identifizieren und dokumentieren. §§ 13 17 GmbHG Gesellschafter §§ 305 ff. BGB AGB bei mehreren Darlehensgebern. Prüfraster: Darlehensgeberin Darlehensnehmerin vertretungsberechtigte Organe Handelsregisterstand. Output: Parteiendossier für Vertragskopf. Abgrenzung: Einstiegs-Skill; vor Vertragserstellung zu verwenden."
 ---
 
 # Parteien erfassen – KYC und Vertretungsmacht

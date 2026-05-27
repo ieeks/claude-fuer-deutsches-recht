@@ -1,6 +1,6 @@
 ---
 name: skill-verwalter
-description: "Uebersicht und Verwaltung aller installierten Skills: Status, Version, Abhaengigkeiten. Normen: technisch/intern. Pruefraster: aktive Skills, deaktivierte Skills, Update-Bedarf. Output: Skills-Verwaltungsuebersicht. Abgrenzung: nicht Einzelinstallation oder -aktualisierung."
+description: "Übersicht und Verwaltung aller installierten Skills: Status, Version, Abhaengigkeiten. Normen: technisch/intern. Prüfraster: aktive Skills, deaktivierte Skills, Update-Bedarf. Output: Skills-Verwaltungsuebersicht. Abgrenzung: nicht Einzelinstallation oder -aktualisierung."
 ---
 
 # Skill-Manager

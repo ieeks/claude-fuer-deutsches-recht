@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-betriebliche-altersversorgung-grundlagen
-description: "Betriebliche Altersversorgung bAV Grundlagen Durchfuehrungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Foerderung. Output bAV-Beratungs-Notiz."
+description: "Betriebliche Altersversorgung bAV Grundlagen Durchführungswege. Anwendungsfall Beratung Mandant zu bAV Direktversicherung Pensionskasse Pensionsfonds Direktzusage Unterstuetzungskasse steuerliche und SV-rechtliche Behandlung. Methodik Vergleich Wege Foerderung. Output bAV-Beratungs-Notiz."
 ---
 
 # Betriebliche Altersversorgung (bAV) — Grundlagen

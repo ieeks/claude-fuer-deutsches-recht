@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-ki-governance-berufsrecht
-description: "KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen fuer den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation fuer BJR-Schutz."
+description: "KI-Governance und Berufsrecht: Rechtliche Rahmenbedingungen für den Einsatz von KI-Werkzeugen in Kanzleien. EU-KI-VO (AI Act), BRAO-Verschwiegenheit, Mandanteninformation, Haftung, Qualitaetssicherung. Dokumentation für BJR-Schutz."
 ---
 
 # KI-Governance und Berufsrecht

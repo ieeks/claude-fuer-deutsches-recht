@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-sus-bilanz-pruefung
-description: "BWA SuSa Summen- und Saldenliste und Bilanzentwurf einer GmbH oder UG auf insolvenzrechtliche Krisensignale pruefen. Anwendungsfall Steuerberater erstellt Jahresabschluss BWA-Review oder Krisenfrueherkennung und muss Hinweispflicht nach § 102 StaRUG beurteilen. Pruefung Zahlungsunfaehigkeit § 17 InsO Ueberschuldung § 19 InsO Fortbestehensprognose Warn- und Hinweispflicht § 102 StaRUG. BGH-Haftungsrechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 56/22. Output Krisensignal-Protokoll Ampel-Bewertung ggf. Pflichthinweis Uebergang zu stb-ueberschuldungspruefung-19-inso."
+description: "BWA SuSa Summen- und Saldenliste und Bilanzentwurf einer GmbH oder UG auf insolvenzrechtliche Krisensignale prüfen. Anwendungsfall Steuerberater erstellt Jahresabschluss BWA-Review oder Krisenfrueherkennung und muss Hinweispflicht nach § 102 StaRUG beurteilen. Prüfung Zahlungsunfähigkeit § 17 InsO Überschuldung § 19 InsO Fortbestehensprognose Warn- und Hinweispflicht § 102 StaRUG. BGH-Haftungsrechtsprechung IX ZR 285/14 IX ZR 64/12 IX ZR 56/22. Output Krisensignal-Protokoll Ampel-Bewertung ggf. Pflichthinweis Übergang zu stb-ueberschuldungsprüfung-19-inso."
 ---
 
 # BWA-, SuSa- und Bilanzprüfung mit Insolvenzreife-Check (§§ 17, 19 InsO, § 102 StaRUG)

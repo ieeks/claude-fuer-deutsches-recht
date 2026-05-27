@@ -1,6 +1,6 @@
 ---
 name: bescheidanalyse
-description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begruendungspflicht § 24 SGB X Anhoerung. Pruefraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rueckforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte fuer Widerspruchsgruende. Output: Analyseprotokoll Bescheidanalyse als Vorstufe fuer Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf)."
+description: "Mandant hat Sozialleistungsbescheid erhalten und Anwalt muss dessen Inhalt rechtlich aufschluesseln. §§ 33 35 SGB X Form und Begründungspflicht § 24 SGB X Anhoerung. Prüfraster: Behoerde Aktenzeichen Bescheiddatum Zugangsdatum Bescheidart (Ablehnung/Aufhebung/Rückforderung/Sanktion) angewandte Rechtsgrundlagen Anhaltspunkte für Widerspruchsgründe. Output: Analyseprotokoll Bescheidanalyse als Vorstufe für Widerspruchsentwurf. Abgrenzung zu bescheid-frist-quick-check (Frist) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsentwurf)."
 ---
 
 # Bescheidanalyse Sozialrecht

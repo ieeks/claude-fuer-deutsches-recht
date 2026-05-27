@@ -1,6 +1,6 @@
 ---
 name: referentenentwurf-bauen
-description: "Vollstaendigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen Normebene ist bestimmt Entwurfstext und Begruendung muessen nach HdR erstellt werden. Format HdR Deckblatt Vorblatt A Problem und Ziel B Loesung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- und HdR-Pruefliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begruendung-allgemein-und-besonders synopse-erstellen."
+description: "Vollständigen Referentenentwurf des Bundes oder Landes aufbauen. Anwendungsfall legistischer Auftrag ist aufgenommen Normebene ist bestimmt Entwurfstext und Begründung muessen nach HdR erstellt werden. Format HdR Deckblatt Vorblatt A Problem und Ziel B Lösung C Alternativen D Haushalt E Erfuellungsaufwand F Kosten G Folgen H Gleichstellung. Entwurfstext Artikel Paragrafen Strukturen Definition Hauptregel Ausnahmen Sanktionen. GGO- und HdR-Prüfliste. Output Volltext-Entwurf bereit zur Ressortabstimmung. Anschluss begründung-allgemein-und-besonders synopse-erstellen."
 ---
 
 # Referentenentwurf bauen

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-steps-plan-pmo
-description: "Steps Plan und Transaktions-PMO fuer M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Pruefraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions."
+description: "Steps Plan und Transaktions-PMO für M&A-Mandate erstellen: Deal-Team benoetigt Gesamtprojektplan mit Workstream-Koordination, CP-Tracking und Status-Reporting. Normen: SPA Closing Conditions, § 158 BGB. Prüfraster: Workstream-Matrix (Legal, Tax, Financial, Regulatory, Commercial), Zeitplan, CP-Tracker, Weekly-Status-Template. Output Steps-Plan, Workstream-Matrix, CP-Tracker, Weekly-Status-Report. Abgrenzung: Monitoring einzelner Fristen siehe automation-monitoring; Signing-Closing siehe signing-closing-conditions."
 ---
 
 # Steps Plan und Deal-PMO

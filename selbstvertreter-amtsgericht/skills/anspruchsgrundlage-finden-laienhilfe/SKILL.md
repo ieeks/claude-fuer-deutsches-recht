@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlage-finden-laienhilfe
-description: "Hilfe fuer Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit haeufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag."
+description: "Hilfe für Laien beim Identifizieren der richtigen Anspruchsgrundlage. Reihenfolge Vertrag c.i.c. GoA dinglich Delikt Bereicherung mit Beispielen aus dem Alltag. Erste Norm finden bevor Sie klagen. Mit häufigsten Anspruchsgrundlagen im Amtsgerichts-Alltag."
 ---
 
 # Welche Norm traegt Ihren Anspruch?

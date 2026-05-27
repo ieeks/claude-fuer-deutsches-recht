@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Insolvenzrecht-Plugin. Klaert Eroeffnungsgruende, Antragspflicht, Glaeubigerantrag, Anfechtungsrechte, D-and-O-Haftung, Konzerninsolvenz und Routing zu allen 15 Spezial-Skills."
+description: "Einstieg und Orientierung im Insolvenzrecht-Plugin. Klaert Eroeffnungsgründe, Antragspflicht, Gläubigerantrag, Anfechtungsrechte, D-and-O-Haftung, Konzerninsolvenz und Routing zu allen 15 Spezial-Skills."
 ---
 
 # Insolvenzrecht — Allgemein

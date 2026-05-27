@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-docx-pdf
-description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung bzw. des Bundestages rendern. Anwendungsfall fertiger Entwurf soll als lieferfaehiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR ausgegeben werden. Referentenentwurf Kabinettsvorlage Formulierungshilfe BT-Drucksachen-Layout Synopsen Lesefassungen. Schriftart Seitenrand Kopf- und Fusszeile Sperrsatz Artikel- und Paragraphennummerierung Aenderungsbefehle Kursivsatz A-F-Vorblatt Begruendung Teil A und B NKR-Stellungnahme Drucksachennummer Wahlperiode. Output DOCX und optional PDF. Abgrenzung zu xml-paralleldarstellung maschinenlesbare Ausgabe."
+description: "Legistische Dokumente als DOCX oder PDF im offiziellen Erscheinungsbild der Bundesregierung bzw. des Bundestages rendern. Anwendungsfall fertiger Entwurf soll als lieferfähiges Dokument nach Handbuch der Rechtsfoermlichkeit HdR ausgegeben werden. Referentenentwurf Kabinettsvorlage Formulierungshilfe BT-Drucksachen-Layout Synopsen Lesefassungen. Schriftart Seitenrand Kopf- und Fusszeile Sperrsatz Artikel- und Paragraphennummerierung Aenderungsbefehle Kursivsatz A-F-Vorblatt Begründung Teil A und B NKR-Stellungnahme Drucksachennummer Wahlperiode. Output DOCX und optional PDF. Abgrenzung zu xml-paralleldarstellung maschinenlesbare Ausgabe."
 ---
 
 # Dokumente rendern - DOCX und PDF im offiziellen HdR-Layout

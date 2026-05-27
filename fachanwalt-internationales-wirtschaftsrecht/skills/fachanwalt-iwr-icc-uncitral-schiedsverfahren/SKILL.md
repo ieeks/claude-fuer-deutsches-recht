@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-iwr-icc-uncitral-schiedsverfahren
-description: "Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Pruefraster: anwendbares Recht Sitz Schiedsgericht New Yorker Uebereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-pruefen."
+description: "Mandant hat Schiedsklausel und will internationales Schiedsverfahren einleiten oder sich verteidigen. ICC UNCITRAL SIAC HKIAC Schiedsverfahren. Prüfraster: anwendbares Recht Sitz Schiedsgericht New Yorker Übereinkommen 1958 Vollstreckung Investitionsschutz ICSID IBA Rules Mediation. Output: Verfahrenseinleitungs-Memo und Strategie-Empfehlung. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-schiedsklausel (Klauselgestaltung) und gerichtsstand-und-rechtswahl-prüfen."
 ---
 
 # ICC / UNCITRAL Schiedsverfahren — Internationales Wirtschaftsrecht

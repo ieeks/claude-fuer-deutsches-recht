@@ -1,6 +1,6 @@
 ---
 name: bag-mindesturlaub-kein-verzicht-9azr10424
-description: "BAG 03.06.2025 9 AZR 104/24 kein Verzicht auf gesetzlichen Mindesturlaub. Im bestehenden Arbeitsverhaeltnis koennen Arbeitnehmer auf den gesetzlichen Mindesturlaub nicht wirksam verzichten. Auch nicht durch gerichtlichen Vergleich. Selbst wenn die Beendigung feststeht und absehbar ist dass der Urlaub wegen Krankheit nicht mehr genommen werden kann. Ausgleichs- Erledigungs- und Abgeltungsklauseln in Aufhebungsvertraegen und Prozessvergleichen muessen zwischen gesetzlichem Mindesturlaub vertraglichem Mehrurlaub und Urlaubsabgeltung sauber trennen. § 13 Abs. 1 BUrlG."
+description: "BAG 03.06.2025 9 AZR 104/24 kein Verzicht auf gesetzlichen Mindesturlaub. Im bestehenden Arbeitsverhältnis koennen Arbeitnehmer auf den gesetzlichen Mindesturlaub nicht wirksam verzichten. Auch nicht durch gerichtlichen Vergleich. Selbst wenn die Beendigung feststeht und absehbar ist dass der Urlaub wegen Krankheit nicht mehr genommen werden kann. Ausgleichs- Erledigungs- und Abgeltungsklauseln in Aufhebungsvertraegen und Prozessvergleichen muessen zwischen gesetzlichem Mindesturlaub vertraglichem Mehrurlaub und Urlaubsabgeltung sauber trennen. § 13 Abs. 1 BUrlG."
 ---
 
 # BAG 03.06.2025 — Kein Verzicht auf gesetzlichen Mindesturlaub (9 AZR 104/24)

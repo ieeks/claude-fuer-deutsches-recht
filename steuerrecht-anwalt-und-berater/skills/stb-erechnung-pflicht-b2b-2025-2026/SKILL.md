@@ -1,6 +1,6 @@
 ---
 name: stb-erechnung-pflicht-b2b-2025-2026
-description: "eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsfall Pruefung Mandantenbetrieb eRechnungs-Empfang Versand Uebergangsfristen PDF reicht nicht mehr. Methodik Format XRechnung ZUGFeRD. Output eRechnungs-Konfiguration."
+description: "eRechnung-Pflicht B2B seit 01.01.2025 § 14 UStG ViDA. Anwendungsfall Prüfung Mandantenbetrieb eRechnungs-Empfang Versand Übergangsfristen PDF reicht nicht mehr. Methodik Format XRechnung ZUGFeRD. Output eRechnungs-Konfiguration."
 ---
 
 # eRechnung-Pflicht B2B seit 01.01.2025

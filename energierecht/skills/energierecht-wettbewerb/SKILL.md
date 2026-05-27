@@ -1,6 +1,6 @@
 ---
 name: energierecht-wettbewerb
-description: "Wettbewerbs- und Kartellrecht im Energiesektor pruefen: Marktmacht, Diskriminierung, Missbrauch. Normen: §§ 18 ff. GWB, Art. 101 102 AEUV, EnWG. Pruefraster: Marktabgrenzung, Marktmacht, Diskriminierungsverbot, Entflechtung. Output: Kartellrechtliche Risikoeinschaetzung Energiemarkt. Abgrenzung: nicht allgemeines Wettbewerbsrecht."
+description: "Wettbewerbs- und Kartellrecht im Energiesektor prüfen: Marktmacht, Diskriminierung, Missbrauch. Normen: §§ 18 ff. GWB, Art. 101 102 AEUV, EnWG. Prüfraster: Marktabgrenzung, Marktmacht, Diskriminierungsverbot, Entflechtung. Output: Kartellrechtliche Risikoeinschaetzung Energiemarkt. Abgrenzung: nicht allgemeines Wettbewerbsrecht."
 ---
 
 # Wettbewerb und Beihilfen im Energierecht

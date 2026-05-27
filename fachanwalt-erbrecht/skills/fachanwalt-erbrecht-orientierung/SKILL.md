@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-orientierung
-description: "Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen. §§ 1922 2229 2303 BGB § 43a BRAO. Pruefraster: Erbfolge Testament Pflichtteil Ausschlagung Nachlassinsolvenz Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
+description: "Erbrechtsmandat einordnen Bearbeitungsroute bestimmen und erste Prioritaeten setzen. §§ 1922 2229 2303 BGB § 43a BRAO. Prüfraster: Erbfolge Testament Pflichtteil Ausschlagung Nachlassinsolvenz Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Fachanwalt für Erbrecht — Orientierung

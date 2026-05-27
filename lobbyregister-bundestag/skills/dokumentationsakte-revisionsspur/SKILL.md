@@ -1,6 +1,6 @@
 ---
 name: dokumentationsakte-revisionsspur
-description: "Baut Aktenstruktur fuer Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan."
+description: "Baut Aktenstruktur für Belege, Freigaben, Portal-Screenshots, Kontaktlogs, Kostenmethodik, RfS-Kommunikation und Jahresupdates. Output Aktenplan."
 ---
 
 # Dokumentationsakte und Revisionsspur

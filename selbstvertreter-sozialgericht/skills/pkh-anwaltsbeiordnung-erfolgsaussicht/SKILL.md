@@ -1,6 +1,6 @@
 ---
 name: pkh-anwaltsbeiordnung-erfolgsaussicht
-description: "Erfolgsaussicht in der PKH-Pruefung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegruendung als Hebel. Tipps fuer den Buerger ohne Anwalt."
+description: "Erfolgsaussicht in der PKH-Prüfung. Wann bewilligt das SG PKH wann nicht. Mutwilligkeit Beweise Klagebegründung als Hebel. Tipps für den Buerger ohne Anwalt."
 ---
 
 # PKH-Bewilligung — die Erfolgsaussicht

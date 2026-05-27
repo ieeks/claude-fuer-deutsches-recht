@@ -1,6 +1,6 @@
 ---
 name: kanzlei-builder-hub-kaltstart-interview
-description: "Kaltstart-Interview fuer den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Pruefraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfiguration. Abgrenzung: nicht Plugin-Installation (Folgeschritt)."
+description: "Kaltstart-Interview für den Kanzlei-Builder-Hub: Kanzleiprofil, Rechtsgebiete, gewuenschte Plugins. Normen: technisch/intern. Prüfraster: Rechtsgebietsabdeckung, Mandantenstruktur, Technikvoraussetzungen. Output: Kanzlei-Profil-Konfiguration. Abgrenzung: nicht Plugin-Installation (Folgeschritt)."
 ---
 
 # /kaltstart-interview — Kanzleiprofil-Interview

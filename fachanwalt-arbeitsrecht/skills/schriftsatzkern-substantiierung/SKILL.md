@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierter Schriftsatzkern fuer Kuendigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsantraege, Replik-/Duplik-Vorausschau."
+description: "Substantiierter Schriftsatzkern für Kündigungsschutzklage, Befristungskontrollklage, Zahlungsklage Arbeitsgericht: Tatsachenvortrag-Geruest, Anspruchsgrundlagen-Kette, Beweisangebote, Hilfsanträge, Replik-/Duplik-Vorausschau."
 ---
 
 # Schriftsatzkern und Substantiierung im Individual- und kollektives Arbeitsrecht

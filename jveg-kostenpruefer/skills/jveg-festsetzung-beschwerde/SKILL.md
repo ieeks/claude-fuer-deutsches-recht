@@ -1,6 +1,6 @@
 ---
 name: jveg-festsetzung-beschwerde
-description: "Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen: Zulaessigkeit, Frist, Begruendung. Normen: § 4 Abs. 3 JVEG, §§ 569 ff. ZPO. Pruefraster: Beschwerdewert, Beschwerdefrist, Verfahrensart. Output: Beschwerdeschrift JVEG. Abgrenzung: nicht Antragsgenerator (Erstantrag)."
+description: "Beschwerde gegen JVEG-Kostenfestsetzungsbeschluss einlegen: Zulässigkeit, Frist, Begründung. Normen: § 4 Abs. 3 JVEG, §§ 569 ff. ZPO. Prüfraster: Beschwerdewert, Beschwerdefrist, Verfahrensart. Output: Beschwerdeschrift JVEG. Abgrenzung: nicht Antragsgenerator (Erstantrag)."
 ---
 
 # JVEG-Festsetzung-Beschwerde

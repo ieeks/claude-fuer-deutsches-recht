@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sozialrecht-orientierung
-description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Ueberblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. Standardliteratur Hauck/Noftz Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing)."
+description: "Einstieg in den Skill-Verbund Sozialrecht. Orientierung im Sozialrecht Fachanwaltschaft nach § 14 FAO Weiterbildungspflicht. SGB I bis XIV im Überblick SGB II Buergergeld SGB VI Rente SGB V Krankenversicherung SGB IX Reha SGB XI Pflege. Verfahren SGG drei Instanzen SG LSG BSG. Standardliteratur Hauck/Noftz Kasseler Kommentar. Output: Routing-Empfehlung zu passendem Folge-Skill. Abgrenzung zu mandat-triage-sozialrecht (Eingangstriage) und sozialrecht-fallaufnahme-routing (Master-Routing)."
 ---
 
 # Fachanwalt für Sozialrecht — Orientierung

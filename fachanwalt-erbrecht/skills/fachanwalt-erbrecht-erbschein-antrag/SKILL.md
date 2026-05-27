@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-erbschein-antrag
-description: "Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Pruefraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht fuer Europaeisches Nachlasszeugnis."
+description: "Erbschein beantragen wenn Erbfolge nachgewiesen werden muss. §§ 2353 2356 BGB Erbschein §§ 352 353 FamFG Verfahren. Prüfraster: Erbscheinsart gesetzliche oder testamentarische Erbfolge Quoten Vorlage Nachlassgericht eidesstattliche Versicherung. Output: Erbscheinantrag mit Anlagen. Abgrenzung: nicht für Europaeisches Nachlasszeugnis."
 ---
 
 # Erbschein-Antrag

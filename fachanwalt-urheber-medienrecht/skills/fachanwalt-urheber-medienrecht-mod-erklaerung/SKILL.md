@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-mod-erklaerung
-description: "Modifizierte Unterlassungserklaerung als Alternative zur strafbewehrten UE pruefen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Pruefraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Pruefprotokoll. Abgrenzung: nicht fuer vollstaendige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-pruefen)."
+description: "Modifizierte Unterlassungserklärung als Alternative zur strafbewehrten UE prüfen und formulieren. § 97a UrhG Abmahnung und UE § 339 BGB Vertragsstrafe. Prüfraster: Wiederholungsgefahr Strafbewehrung Vertragsstrafe Einschraenkungen Unterlassungsumfang. Output: modifizierte UE-Entwurf Prüfprotokoll. Abgrenzung: nicht für vollständige Abmahnverteidigung (fachanwalt-urheber-medienrecht-abmahnung-prüfen)."
 ---
 
 # Modifizierte Unterlassungserklärung im Urheberrecht

@@ -1,6 +1,6 @@
 ---
 name: elsj-juristische-sicherung
-description: "Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verloren gehen: Rechte Pflichten Fristen Betraege Rechtsfolgen Ausnahmen. Normen §§ 133 157 BGB Auslegungspflicht. Pruefraster Rechte-Vollstaendigkeit Pflichten-Sicherung Fristen-Erhalt Rechtsfolgen-Klarheit Ausnahmen-Abbildung. Output juristische Sicherungs-Checkliste gesicherte Fassung. Abgrenzung zu elsj-einfache-sprache (Uebertragung) und elsj-qualitaetsgate (Endpruefung)."
+description: "Beim Vereinfachen juristischer Texte darf kein Rechtsinhalt verloren gehen: Rechte Pflichten Fristen Betraege Rechtsfolgen Ausnahmen. Normen §§ 133 157 BGB Auslegungspflicht. Prüfraster Rechte-Vollständigkeit Pflichten-Sicherung Fristen-Erhalt Rechtsfolgen-Klarheit Ausnahmen-Abbildung. Output juristische Sicherungs-Checkliste gesicherte Fassung. Abgrenzung zu elsj-einfache-sprache (Übertragung) und elsj-qualitaetsgate (Endprüfung)."
 ---
 
 # Juristische Sicherung

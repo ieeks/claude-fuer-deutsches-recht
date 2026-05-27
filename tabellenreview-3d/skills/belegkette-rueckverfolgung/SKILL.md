@@ -1,6 +1,6 @@
 ---
 name: belegkette-rueckverfolgung
-description: "Belegkette fuer Forderungen und Zahlungen zurueckverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Pruefraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Uebersicht. Abgrenzung: nicht Excel-Export."
+description: "Belegkette für Forderungen und Zahlungen zurückverfolgen: Originalbeleg, Buchung, Zahlung. Normen: §§ 238 257 HGB, §§ 174 ff. InsO. Prüfraster: Belegverknuepfung, fehlende Belege, Doppelbuchungen. Output: Belegketten-Übersicht. Abgrenzung: nicht Excel-Export."
 ---
 
 # /tabellenreview-3d:belegkette-rueckverfolgung

@@ -1,6 +1,6 @@
 ---
 name: anwaltsschriftsatz-stilrichtlinie
-description: "Stilrichtlinie fuer den juristisch sauberen neutralen und fuer Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln fuer alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO."
+description: "Stilrichtlinie für den juristisch sauberen neutralen und für Anwaelte lesbaren Aktenauszug: Sprache Gliederung Nomenklatur Abkuerzungskonventionen Tabellengestaltung und Markdown-Formatierung. Verbindliche Stilregeln für alle Bausteine des Aktenauszugs. Massstab §§ 130 131 ZPO."
 ---
 
 # Anwaltsschriftsatz-Stilrichtlinie

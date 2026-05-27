@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-anhoerung-bussgeldbescheid
-description: "Anhoerung vor Bussgeldbescheid und Reaktion auf Bussgeldbescheid: Mandant hat Anhoerungsbogen oder Bussgeldbescheid erhalten. Normen: § 55 OWiG (Anhoerung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bussgeldbescheid), § 67 OWiG (Einspruch 2-Wochen-Frist). Pruefraster: Anhoerungsbogen zuruecksenden oder nicht, Schweige-Empfehlung, Frist ab Zustellung. Output Empfehlungsschreiben Mandant, Muster Schweigeerklarung, Einspruchs-Template. Abgrenzung: Einspruch und Frist siehe verkehrsowi-fristen-einspruch; Messverfahren-Angriff siehe verkehrsowi-beweisverwertung-standardisiert."
+description: "Anhoerung vor Bußgeldbescheid und Reaktion auf Bußgeldbescheid: Mandant hat Anhoerungsbogen oder Bußgeldbescheid erhalten. Normen: § 55 OWiG (Anhoerung, Schweigerecht), § 66 OWiG (Pflichtinhalt Bußgeldbescheid), § 67 OWiG (Einspruch 2-Wochen-Frist). Prüfraster: Anhoerungsbogen zurücksenden oder nicht, Schweige-Empfehlung, Frist ab Zustellung. Output Empfehlungsschreiben Mandant, Muster Schweigeerklarung, Einspruchs-Template. Abgrenzung: Einspruch und Frist siehe verkehrsowi-fristen-einspruch; Messverfahren-Angriff siehe verkehrsowi-beweisverwertung-standardisiert."
 ---
 
 # Anhoerung und Bussgeldbescheid — §§ 55 und 66 OWiG

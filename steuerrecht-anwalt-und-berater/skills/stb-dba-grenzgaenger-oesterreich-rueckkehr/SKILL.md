@@ -1,6 +1,6 @@
 ---
 name: stb-dba-grenzgaenger-oesterreich-rueckkehr
-description: "Grenzgaengerregelung DBA Oesterreich mit Wohnsitz in der Grenznaehe und arbeitstaeglicher Rueckkehr. Anwendungsfall Arbeitnehmer Wohnsitz Bayern oder Salzburg/Tirol Taetigkeit auf der anderen Seite. Home-Office-Konsultationsvereinbarung. Output Mandanten-Memo Grenzgaengernachweis."
+description: "Grenzgaengerregelung DBA Oesterreich mit Wohnsitz in der Grenznaehe und arbeitstaeglicher Rückkehr. Anwendungsfall Arbeitnehmer Wohnsitz Bayern oder Salzburg/Tirol Tätigkeit auf der anderen Seite. Home-Office-Konsultationsvereinbarung. Output Mandanten-Memo Grenzgaengernachweis."
 ---
 
 # Grenzgaengerregelung DBA-Oesterreich

@@ -1,6 +1,6 @@
 ---
 name: anw-tatsaechliche-verstaendigung-schlussbesprechung
-description: "Tatsaechliche Verstaendigung mit dem Finanzamt und Schlussbesprechung nach § 201 AO vorbereiten und durchfuehren. Anwendungsfall Betriebspruefung geht zu Ende oder Steuerstreit soll durch Einigung beigelegt werden. BFH IV R 87/85 tatsaechliche Verstaendigung ueber Sachverhaltsfragen binaendend. Schlussbesprechung Verhandlungshoehy-punkt Aussenpruefung. Eroerterungstermin FG § 79 FGO Vergleichschance. Output Verstaendigungsprotokoll Verhandlungsstrategie Schlussbesprechungs-Vorbereitung. Abgrenzung zu anw-aussenpruefung-strategien und vergleichsverhandlung-strategie."
+description: "Tatsaechliche Verständigung mit dem Finanzamt und Schlussbesprechung nach § 201 AO vorbereiten und durchführen. Anwendungsfall Betriebsprüfung geht zu Ende oder Steuerstreit soll durch Einigung beigelegt werden. BFH IV R 87/85 tatsaechliche Verständigung über Sachverhaltsfragen binaendend. Schlussbesprechung Verhandlungshoehy-punkt Aussenprüfung. Eroerterungstermin FG § 79 FGO Vergleichschance. Output Verständigungsprotokoll Verhandlungsstrategie Schlussbesprechungs-Vorbereitung. Abgrenzung zu anw-aussenprüfung-strategien und vergleichsverhandlung-strategie."
 ---
 
 # Tatsächliche Verständigung / Schlussbesprechung / Steuer-Vergleich

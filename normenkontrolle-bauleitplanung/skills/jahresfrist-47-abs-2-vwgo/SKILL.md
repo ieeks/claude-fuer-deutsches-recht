@@ -1,6 +1,6 @@
 ---
 name: jahresfrist-47-abs-2-vwgo
-description: "Mandant moechte Normenkontrollantrag stellen und Anwalt prueft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahresfrist Normenkontrolle. Pruefraster: Fristbeginn ortsuebliche Bekanntmachung § 10 Abs. 3 BauGB fehlerhafte Bekanntmachung kein Fristbeginn Wiedereinsetzung § 60 VwGO ergaenzendes Verfahren § 214 Abs. 4 BauGB setzt neue Frist. Ruegefrist § 215 BauGB ein Jahr parallel. Output: Fristberechnung Normenkontrolle und Fristenbuch-Eintrag. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und planerhaltung-214-215-baugb."
+description: "Mandant moechte Normenkontrollantrag stellen und Anwalt prüft ob die Jahresfrist noch laeuft. § 47 Abs. 2 S. 1 VwGO Jahresfrist Normenkontrolle. Prüfraster: Fristbeginn ortsuebliche Bekanntmachung § 10 Abs. 3 BauGB fehlerhafte Bekanntmachung kein Fristbeginn Wiedereinsetzung § 60 VwGO ergaenzendes Verfahren § 214 Abs. 4 BauGB setzt neue Frist. Ruegefrist § 215 BauGB ein Jahr parallel. Output: Fristberechnung Normenkontrolle und Fristenbuch-Eintrag. Abgrenzung zu antragsbefugnis-eigentuemer-nachbar (Befugnis) und planerhaltung-214-215-baugb."
 ---
 
 # Jahresfrist § 47 Abs. 2 VwGO

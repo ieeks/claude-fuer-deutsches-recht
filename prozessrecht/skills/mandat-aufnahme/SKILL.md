@@ -1,6 +1,6 @@
 ---
 name: mandat-aufnahme
-description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zustaendigkeit pruefen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Pruefraster: Sachverhaltserfassung, Anspruchsgrundlage, Zustaendigkeit, Kosten-Risiko-Analyse. Output: Mandatsaufnahme-Protokoll. Abgrenzung: nicht inhaltliche Klageschrift."
+description: "Prozessmandat aufnehmen: Sachverhalt erfassen, Zuständigkeit prüfen, Klagekonzept skizzieren. Normen: §§ 253 261 ZPO, BRAO. Prüfraster: Sachverhaltserfassung, Anspruchsgrundlage, Zuständigkeit, Kosten-Risiko-Analyse. Output: Mandatsaufnahme-Protokoll. Abgrenzung: nicht inhaltliche Klageschrift."
 ---
 
 # Mandat-Intake

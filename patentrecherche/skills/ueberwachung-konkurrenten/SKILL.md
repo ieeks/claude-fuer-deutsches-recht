@@ -1,6 +1,6 @@
 ---
 name: ueberwachung-konkurrenten
-description: "Laufende Ueberwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veroeffentlichung. Disclaimer Vollstaendigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung."
+description: "Laufende Überwachung neuer Patentanmeldungen von Konkurrenten der Mandantin. Definiert Watch-Profile pro Mandant mit Anmelder-Namen (inklusive Konzern-Toechter und ehemaliger Schreibweisen), CPC-IPC-Klassen, Schlagwoerter, Territorien. Laeuft als woechentlicher oder monatlicher Job in Espacenet Smart Search Google Patents oder bei Bezahl-Tools wie PatBase Alert. Liefert Delta-Liste neuer Treffer seit letzter Iteration mit Bewertung relevant oder nicht relevant. Erinnert an Einspruchsfrist Art. 99 EPUe neun Monate ab Erteilungs-Veröffentlichung. Disclaimer Vollständigkeit nicht garantiert insbesondere bei Konzern-Konstruktionen und Tochterfirmen ohne klare Namens-Bindung."
 ---
 
 # überwachung-konkurrenten

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in das Hausarbeitenmacher-Plugin fuer juristische Hausarbeiten und Seminararbeiten: Fachgebiet-Routing Zivil/oeffentliches Recht/Strafrecht, sokratischer Dialog, Gliederung, Subsumtion und Abgabevorbereitung."
+description: "Einstieg in das Hausarbeitenmacher-Plugin für juristische Hausarbeiten und Seminararbeiten: Fachgebiet-Routing Zivil/öffentliches Recht/Strafrecht, sokratischer Dialog, Gliederung, Subsumtion und Abgabevorbereitung."
 ---
 
 # Hausarbeitenmacher — Allgemein

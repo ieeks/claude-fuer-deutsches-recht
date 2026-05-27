@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-orientierung
-description: "Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Pruefraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
+description: "Urheber- und Medienrechtsmandat einordnen und Bearbeitungsroute bestimmen. §§ 1 2 7 UrhG §§ 97 ff. UrhG §§ 22 ff. KUG. Prüfraster: Schutzgegenstand Verletzungshandlung Parteistellung Route Fristen. Output: Mandat-Einordnung Normenmap naechste Schritte. Abgrenzung: Orientierungsskill; Detailarbeit in Spezialist-Skills."
 ---
 
 # Fachanwalt fuer Urheber- und Medienrecht — Orientierung

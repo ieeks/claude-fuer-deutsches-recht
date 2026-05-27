@@ -1,6 +1,6 @@
 ---
 name: arbeitsblatt-perspektiven-definieren
-description: "Drei Pruefperspektiven (Spalten) fuer den 3D-Tabellenreview definieren: Forderung, Pruefung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Pruefraster: Forderungsaufstellung, Pruefungsraster, Glaeubigerstellung. Output: Perspektivendefinition als Grundlage fuer Wuerfel-Aufbau. Abgrenzung: nicht Pruefungsdurchfuehrung."
+description: "Drei Prüfperspektiven (Spalten) für den 3D-Tabellenreview definieren: Forderung, Prüfung, Stellung nach §§ 174 ff. InsO. Normen: §§ 174 ff. InsO, ZPO. Prüfraster: Forderungsaufstellung, Prüfungsraster, Gläubigerstellung. Output: Perspektivendefinition als Grundlage für Wuerfel-Aufbau. Abgrenzung: nicht Prüfungsdurchführung."
 ---
 
 # /tabellenreview-3d:arbeitsblatt-perspektiven-definieren

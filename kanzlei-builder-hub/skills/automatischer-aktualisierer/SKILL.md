@@ -1,6 +1,6 @@
 ---
 name: automatischer-aktualisierer
-description: "Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Pruefraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung."
+description: "Plugins und Skills in der KI-Anwaltskanzlei automatisch aktualisieren: neue Norm-Versionen, Rechtsprechungsaenderungen. Normen: technisch/intern. Prüfraster: aeltere Versionen identifizieren, Update-Prioritaet, Rollback-Option. Output: Aktualisierungsprotokoll. Abgrenzung: nicht manuelle Skill-Verwaltung."
 ---
 
 # /automatischer-aktualisierer — Automatische Aktualisierung mit Diff-Review

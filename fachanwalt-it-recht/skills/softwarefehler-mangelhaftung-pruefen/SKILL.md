@@ -1,6 +1,6 @@
 ---
 name: softwarefehler-mangelhaftung-pruefen
-description: "Strukturierte Pruefung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertrag §§ 535 ff. BGB Miete SaaS §§ 611 ff. BGB Dienst § 438 BGB Verjaehrung zwei Jahre Kauf § 634a BGB fuenf Jahre Werk. Pruefraster Vertragstyp Mangelbegriff Pflichtenhefte Spezifikation Nachbesserung Minderung Ruecktritt Open-Source-GPL-Compliance. Output Mangel-Pruefprotokoll mit Vertragstyp-Einordnung Anspruchskette und Klagestrategie. Abgrenzung zu fachanwalt-it-recht-software-mangel und fachanwalt-it-recht-saas-vertrag-verhandlung."
+description: "Strukturierte Prüfung bei mangelhafter Software mit Vertragstyp-Einordnung. Anwendungsfall Software versagt und Mandant braucht Einordnung ob Kauf- Werk- oder Dienstvertragsrecht gilt. Normen §§ 433 ff. BGB Kauf §§ 631 ff. BGB Werkvertrag §§ 535 ff. BGB Miete SaaS §§ 611 ff. BGB Dienst § 438 BGB Verjährung zwei Jahre Kauf § 634a BGB fuenf Jahre Werk. Prüfraster Vertragstyp Mangelbegriff Pflichtenhefte Spezifikation Nachbesserung Minderung Rücktritt Open-Source-GPL-Compliance. Output Mangel-Prüfprotokoll mit Vertragstyp-Einordnung Anspruchskette und Klagestrategie. Abgrenzung zu fachanwalt-it-recht-software-mangel und fachanwalt-it-recht-saas-vertrag-verhandlung."
 ---
 
 # Softwarefehler — Mangelhaftung prüfen

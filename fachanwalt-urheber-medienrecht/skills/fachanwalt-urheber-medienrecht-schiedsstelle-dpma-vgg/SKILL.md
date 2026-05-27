@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg
-description: "Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Pruefraster: Zustaendigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht fuer Gerichtsverfahren."
+description: "Schiedsstellenverfahren beim DPMA nach VGG einleiten oder verteidigen. §§ 92 ff. VGG Schiedsstelle § 128 VGG. Prüfraster: Zuständigkeit Verfahrensvoraussetzungen Antrag Fristen Verhandlung Einigungsvorschlag. Output: Schiedsstellenantrag Erwiderung Einigungsvorschlag-Analyse. Abgrenzung: nicht für Gerichtsverfahren."
 ---
 
 # Schiedsstelle DPMA / VGG — Urheber-/Medienrecht

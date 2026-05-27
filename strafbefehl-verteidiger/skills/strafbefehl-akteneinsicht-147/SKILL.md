@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-akteneinsicht-147
-description: "Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgruende § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bussgeldheft. Beschwerderecht § 147 Abs. 5 StPO. eAkte § 32f StPO."
+description: "Akteneinsicht im Strafbefehlsverfahren nach § 147 StPO. Antrag bei Staatsanwaltschaft oder Amtsgericht. Versagungsgründe § 147 Abs. 2 StPO. Akte im Strafbefehlsverfahren: Ermittlungsakte Messakte Bußgeldheft. Beschwerderecht § 147 Abs. 5 StPO. eAkte § 32f StPO."
 ---
 
 # Akteneinsicht im Strafbefehlsverfahren — § 147 StPO

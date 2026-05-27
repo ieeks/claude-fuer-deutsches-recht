@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-deckungsklage
-description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser aussergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen § 1 VVG Versicherungsanspruch § 215 VVG oertliche Zustaendigkeit Wohnsitz § 256 ZPO Feststellungsantrag § 114 ZPO PKH. Pruefraster Streitwert Zustaendigkeit AG oder LG Klageantrag Beweislast Sachverstaendigennachweis. Output Deckungsklage-Entwurf mit Antrag Sachverhalt AVB-Auslegung Sachverstaendigenantrag und PKH-Antrag. Abgrenzung zu klage-versicherer-strategie und fachanwalt-versicherungsrecht-leistungsablehnung-pruefen."
+description: "Deckungsklage gegen Versicherer auf Versicherungsleistung nach erfolgloser außergerichtlicher Phase. Anwendungsfall Versicherer verweigert Leistung endgueltig und Klage soll erhoben werden. Normen § 1 VVG Versicherungsanspruch § 215 VVG örtliche Zuständigkeit Wohnsitz § 256 ZPO Feststellungsantrag § 114 ZPO PKH. Prüfraster Streitwert Zuständigkeit AG oder LG Klageantrag Beweislast Sachverständigennachweis. Output Deckungsklage-Entwurf mit Antrag Sachverhalt AVB-Auslegung Sachverständigenantrag und PKH-Antrag. Abgrenzung zu klage-versicherer-strategie und fachanwalt-versicherungsrecht-leistungsablehnung-prüfen."
 ---
 
 # Deckungsklage

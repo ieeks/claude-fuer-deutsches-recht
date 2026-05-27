@@ -1,6 +1,6 @@
 ---
 name: anrede-und-grussformeln
-description: "Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegialitaetsgebot. Pruefraster: korrekte Anrede Titel akademischer Grad Kollegialformel Schlussformel Mandantensprache. Output: optimierte Anrede und Grussformel mit Begruendung. Abgrenzung: nicht fuer den Briefkorpus (allgemeine-berufliche-korrespondenz)."
+description: "Anrede und Grussformeln in Anwaltskorrespondenz prufen und berufsrechtskonform optimieren. § 43a BRAO § 26 BORA Kollegialitätsgebot. Prüfraster: korrekte Anrede Titel akademischer Grad Kollegialformel Schlussformel Mandantensprache. Output: optimierte Anrede und Grussformel mit Begründung. Abgrenzung: nicht für den Briefkorpus (allgemeine-berufliche-korrespondenz)."
 ---
 
 # Anrede und Grußformeln

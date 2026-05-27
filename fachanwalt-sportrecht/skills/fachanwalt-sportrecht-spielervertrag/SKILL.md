@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-spielervertrag
-description: "Profi-Spielervertrag als befristeter Arbeitsvertrag pruefen. Sachgrundbefristung § 14 Abs. 1 TzBfG BAG-Heinz-Mueller-Urteil 7 AZR 312/16. Verbandsregelwerke FIFA RSTP DFB-Lizenzordnung. Transferentschaedigung Ausbildungsentschaedigung Solidaritaetsmechanismus. Beendigung Klauseln Ausstiegsklausel Vertragsstrafen. Schadensersatz bei Vertragsbruch ohne triftigen Grund Art. 17 FIFA RSTP. Sponsoring- und Persoenlichkeitsrechte parallel."
+description: "Profi-Spielervertrag als befristeter Arbeitsvertrag prüfen. Sachgrundbefristung § 14 Abs. 1 TzBfG BAG-Heinz-Mueller-Urteil 7 AZR 312/16. Verbandsregelwerke FIFA RSTP DFB-Lizenzordnung. Transferentschaedigung Ausbildungsentschaedigung Solidaritaetsmechanismus. Beendigung Klauseln Ausstiegsklausel Vertragsstrafen. Schadensersatz bei Vertragsbruch ohne triftigen Grund Art. 17 FIFA RSTP. Sponsoring- und Persoenlichkeitsrechte parallel."
 ---
 
 # Spielervertrag

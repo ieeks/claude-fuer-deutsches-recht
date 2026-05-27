@@ -1,6 +1,6 @@
 ---
 name: rechtsberatungsstelle-kaltstart-interview
-description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG § 1 Erlaubnisnorm, BRAO Aufsicht, Beratungsordnung der Hochschule. Pruefraster Hochschule und Beratungsordnung, verfuegbare Rechtsgebiete, Anleiter-Kontakte, Fristen und Mandatsgrenzen, Eskalationsregeln. Output vollstaendiges Konfigurations-Profil fuer Rechtsberatungsstelle. Abgrenzung zu Rechtsberatungsstelle-Anpassen fuer spaetere Aenderungen und zu Einarbeitung."
+description: "Rechtsberatungsstelle Kaltstart und Erst-Konfiguration: Anwendungsfall neue Rechtsberatungsstelle oder neues Semester startet und Plugin muss mit Rechtsgebieten Hochschule Anleiter und Beratungsregeln eingerichtet werden. BeratungsHiG § 1 Erlaubnisnorm, BRAO Aufsicht, Beratungsordnung der Hochschule. Prüfraster Hochschule und Beratungsordnung, verfuegbare Rechtsgebiete, Anleiter-Kontakte, Fristen und Mandatsgrenzen, Eskalationsregeln. Output vollständiges Konfigurations-Profil für Rechtsberatungsstelle. Abgrenzung zu Rechtsberatungsstelle-Anpassen für spaetere Aenderungen und zu Einarbeitung."
 ---
 
 # /kaltstart-interview

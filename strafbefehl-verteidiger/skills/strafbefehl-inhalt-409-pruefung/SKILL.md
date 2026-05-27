@@ -1,6 +1,6 @@
 ---
 name: strafbefehl-inhalt-409-pruefung
-description: "Prueft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgruende. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste."
+description: "Prüft Strafbefehl auf Pflichtinhalt nach § 409 StPO (7 Mindestangaben) und identifiziert Nichtigkeitsgründe. Tatbeschreibung Bestimmtheitsgrundsatz Art. 103 Abs. 2 GG. Fehlerhafte Rechtsfolgen Geldstrafe Tagessatz Fahrverbot. Strafbefehlsinhalt-Checkliste."
 ---
 
 # Strafbefehlsinhalt pruefen — § 409 StPO

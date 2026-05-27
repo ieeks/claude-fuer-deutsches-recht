@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewrechts-ki-vo-50-genai
-description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz pruefen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Pruefraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art. 50 KI-VO Verletzungsrisiken. Output: Compliance-Memo Empfehlungen fuer KI-Nutzung. Abgrenzung: nicht fuer allgemeine KI-Governance."
+description: "KI-generierte Inhalte auf gewerblichen Rechtsschutz prüfen wenn GenAI-Outputs Schutzrechte beruehren. Art. 50 KI-VO Transparenzpflichten §§ 2 7 UrhG KI-Autorschaft. Prüfraster: Urheberrechtsschutz KI-Autorschaft Kennzeichnungspflicht Art. 50 KI-VO Verletzungsrisiken. Output: Compliance-Memo Empfehlungen für KI-Nutzung. Abgrenzung: nicht für allgemeine KI-Governance."
 ---
 
 ## Mandantenfragen beim Kaltstart

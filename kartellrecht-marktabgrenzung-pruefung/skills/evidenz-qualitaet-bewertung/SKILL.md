@@ -1,6 +1,6 @@
 ---
 name: evidenz-qualitaet-bewertung
-description: "Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege fuer eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation."
+description: "Bewertet die Qualitaet und Belastbarkeit der vorgelegten Belege für eine Marktabgrenzung: interne Unternehmensdokumente Kundenverhaltensdaten Marktdaten Elastizitaeten Diversion Ratios Branchenberichte. Erkennt selektive Datenwahl methodische Schwaechen und fehlende Triangulation."
 ---
 
 # Evidenz-Qualitätsbewertung

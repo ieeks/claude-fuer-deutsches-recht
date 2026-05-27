@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-lizenzvertrag-verhandlung
-description: "Lizenzvertraege fuer Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Pruefraster: Nutzungsrechtsart ausschliesslich einfach territorial zeitlich Verguetung Sublizenz Rueckruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht fuer Abmahnung oder Gegendarstellung."
+description: "Lizenzvertraege für Urheberrechte Leistungsschutzrechte oder Marken verhandeln und gestalten. §§ 31 ff. UrhG Nutzungsrechte §§ 87a ff. UrhG Leistungsschutz. Prüfraster: Nutzungsrechtsart ausschließlich einfach territorial zeitlich Verguetung Sublizenz Rückruf. Output: Lizenzvertragsentwurf Verhandlungsstrategie Term-Sheet. Abgrenzung: nicht für Abmahnung oder Gegendarstellung."
 ---
 
 # Lizenzvertrag-Verhandlung

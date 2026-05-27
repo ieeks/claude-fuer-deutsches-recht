@@ -1,6 +1,6 @@
 ---
 name: klimaklagen-verbandsklage-umwrg
-description: "Umweltverband oder Buerger klagt gegen Genehmigung oder Klimaschutz-Versaeumnis. BVerfG 1 BvR 2656/18 Klimabeschluss UmwRG §§ 1 2 Verbandsklagebefugnis KSG. Normen UmwRG § 2 BImSchG WHG UVPG EuGH Aarhus-Konvention C-664/15. Pruefraster Klagebefugnis Klagegegenstand Aarhus-Anforderungen FFH-Vertraeglichkeit § 34 BNatSchG. Output Klageschrift-Entwurf Klagebefugnis-Pruefung Strategie-Memo. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (BImSchG-Genehmigung)."
+description: "Umweltverband oder Buerger klagt gegen Genehmigung oder Klimaschutz-Versaeumnis. BVerfG 1 BvR 2656/18 Klimabeschluss UmwRG §§ 1 2 Verbandsklagebefugnis KSG. Normen UmwRG § 2 BImSchG WHG UVPG EuGH Aarhus-Konvention C-664/15. Prüfraster Klagebefugnis Klagegegenstand Aarhus-Anforderungen FFH-Vertraeglichkeit § 34 BNatSchG. Output Klageschrift-Entwurf Klagebefugnis-Prüfung Strategie-Memo. Abgrenzung zu umweltrecht-verfahren (allg. Verwaltungsklage) und umweltrecht-immissionsschutz-bimschg (BImSchG-Genehmigung)."
 ---
 
 # Klimaklagen und Verbandsklagen nach UmwRG

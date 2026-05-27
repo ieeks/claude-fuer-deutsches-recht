@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-orientierung
-description: "Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 407 ff. HGB, CMR, ADSP. Pruefraster: Vertragsart Fracht vs. Spedition, national vs. international, Schadenstyp. Output: Skillauswahl-Empfehlung Transport-Speditionsrecht. Abgrenzung: kein inhaltlicher Pruef-Skill."
+description: "Orientierungs-Skill Transport- und Speditionsrecht: richtigen Skill anhand Sachverhalt auswaehlen. Normen: §§ 407 ff. HGB, CMR, ADSP. Prüfraster: Vertragsart Fracht vs. Spedition, national vs. international, Schadenstyp. Output: Skillauswahl-Empfehlung Transport-Speditionsrecht. Abgrenzung: kein inhaltlicher Prüf-Skill."
 ---
 
 # Fachanwalt für Transport- und Speditionsrecht — Orientierung

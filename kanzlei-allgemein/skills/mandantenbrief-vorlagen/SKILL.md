@@ -1,6 +1,6 @@
 ---
 name: mandantenbrief-vorlagen
-description: Standardvorlagen fuer den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachstand Empfehlung naechste Schritte Frist Kostenhinweis Unterschrift mit Berufsbezeichnung. Verschiedene Vorlagen fuer Mandatseroeffnung Zwischenbericht Beratungsergebnis Abschlussbericht Schlussrechnung. Hauptregel klar verstaendlich kein Juristenjargon ohne Erklaerung. Bei Mandantenkommunikation auf Mandantenseite Rolle pruefen (Verbraucher vs Geschaeftskunde). Disclaimer und Kostenhinweis Pflicht.
+description: Standardvorlagen für den Mandantenbrief der Kanzlei. Aufbau Anrede Bezug Sachstand Empfehlung naechste Schritte Frist Kostenhinweis Unterschrift mit Berufsbezeichnung. Verschiedene Vorlagen für Mandatseroeffnung Zwischenbericht Beratungsergebnis Abschlussbericht Schlussrechnung. Hauptregel klar verstaendlich kein Juristenjargon ohne Erklärung. Bei Mandantenkommunikation auf Mandantenseite Rolle prüfen (Verbraucher vs Geschäftskunde). Disclaimer und Kostenhinweis Pflicht.
 ---
 
 # Mandantenbrief-Vorlagen

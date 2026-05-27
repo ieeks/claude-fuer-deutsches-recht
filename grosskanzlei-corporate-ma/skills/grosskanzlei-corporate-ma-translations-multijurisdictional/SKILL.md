@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-translations-multijurisdictional
-description: "Multi-Jurisdiction-Koordination und Uebersetzungen in grenzueberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Laendern erfordert Koordination lokaler Counsel, Uebersetzungen und Rechtsvergleich. Internationales Privatrecht, Cross-border M&A. Pruefraster lokale Counsel-Matrix, Fragen standardisieren, Rechtsvergleich anstellen, Widersprueche eskalieren, Uebersetzungen als Arbeitsuebersetzung kennzeichnen. Output Multi-Jurisdiction-Matrix mit Status je Land und Cross-border-Hinweisen. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Transaktionsstruktur."
+description: "Multi-Jurisdiction-Koordination und Übersetzungen in grenzüberschreitenden M&A-Transaktionen: Anwendungsfall Transaktion mit mehreren Laendern erfordert Koordination lokaler Counsel, Übersetzungen und Rechtsvergleich. Internationales Privatrecht, Cross-border M&A. Prüfraster lokale Counsel-Matrix, Fragen standardisieren, Rechtsvergleich anstellen, Widersprueche eskalieren, Übersetzungen als Arbeitsuebersetzung kennzeichnen. Output Multi-Jurisdiction-Matrix mit Status je Land und Cross-border-Hinweisen. Abgrenzung zu Regulatory-FDI-Merger-Control und zu Transaktionsstruktur."
 ---
 
 # Multi-Jurisdiction und Übersetzungen

@@ -1,6 +1,6 @@
 ---
 name: urteil-pruefen-313-zpo
-description: "Pruefung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgruende auf Vollstaendigkeit Korrektheit pruefen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Anspruechen. Vorbereitung Berufung."
+description: "Prüfung des schriftlichen Urteils nach § 313 ZPO. Tenor Tatbestand Entscheidungsgründe auf Vollständigkeit Korrektheit prüfen. Tatbestandsberichtigung § 320 ZPO Urteils-Ergaenzung § 321 ZPO bei vergessenen Ansprüchen. Vorbereitung Berufung."
 ---
 
 # Das schriftliche Urteil pruefen

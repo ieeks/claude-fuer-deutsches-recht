@@ -1,6 +1,6 @@
 ---
 name: mehrseitige-maerkte-plattformen
-description: "Sonderprobleme der Marktdefinition fuer mehrseitige Plattformen: zweiseitige Marktdefinition indirekte Netzwerkeffekte getrennte vs. integrierte Marktbetrachtung. Einschluss von App-Store App-Markt Werbe- und Nutzermarkt. Leitfaelle EuG T-227/21 Google Android EuGH C-252/21 Meta Platforms und DMA-Gatekeeper."
+description: "Sonderprobleme der Marktdefinition für mehrseitige Plattformen: zweiseitige Marktdefinition indirekte Netzwerkeffekte getrennte vs. integrierte Marktbetrachtung. Einschluss von App-Store App-Markt Werbe- und Nutzermarkt. Leitfaelle EuG T-227/21 Google Android EuGH C-252/21 Meta Platforms und DMA-Gatekeeper."
 ---
 
 # Mehrseitige Märkte und Plattformen

@@ -1,6 +1,6 @@
 ---
 name: unterauftragnehmer-erfassen
-description: "Prueft Unterauftragsverhaeltnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette."
+description: "Prüft Unterauftragsverhältnisse, eingesetzte Organisationen und natuerliche Personen im Verantwortungsbereich. Output Unterauftragskette."
 ---
 
 # Unterauftragnehmer erfassen

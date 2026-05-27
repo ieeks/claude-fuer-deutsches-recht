@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-fehlerquellen-haeufig
-description: "Typische Fehlerquellen in der BWA. Anwendungsfall Qualitaetspruefung BWA durch Berufstraeger interne Stichprobe Fehler in Periodenabgrenzung Buchungsfehler Bestandsveraenderung Lohnbuchungen. Methodik Checkliste Plausibilitaetspruefung. Output Fehlerprotokoll Korrekturmassnahmen Schulungsbedarf Querverweis stb-bwa-aufbau-grundlagen."
+description: "Typische Fehlerquellen in der BWA. Anwendungsfall Qualitaetsprüfung BWA durch Berufstraeger interne Stichprobe Fehler in Periodenabgrenzung Buchungsfehler Bestandsveraenderung Lohnbuchungen. Methodik Checkliste Plausibilitaetsprüfung. Output Fehlerprotokoll Korrekturmassnahmen Schulungsbedarf Querverweis stb-bwa-aufbau-grundlagen."
 ---
 
 # Typische BWA-Fehlerquellen und Plausibilitaetspruefung

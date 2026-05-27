@@ -1,6 +1,6 @@
 ---
 name: sozialrecht-fallaufnahme-routing
-description: "Master-Routing-Skill der sozialrechtlichen Kanzlei. Nimmt einen frischen Fall an und entscheidet in drei Schritten welche weiteren Skills wann gezogen werden. Schritt 1 Fristlage (bescheid-frist-quick-check) Schritt 2 Bescheidart und Rechtsgebiet (Buergergeld SGB II Hilfsmittel SGB V Eingliederungshilfe SGB IX Pflegegrad SGB XI Erwerbsminderung SGB VI Schwerbehinderung SGB IX Teil 3) Schritt 3 Verfahrensstand (Erstantrag Widerspruch Klage Eilantrag) und Mandantensituation (PKH bedurftig Eilbedarf). Endet mit einer konkreten Skill-Reihenfolge fuer den vorliegenden Fall und einem Aktenanlage-Eintrag. Reduziert das Plugin von siebzehn Einzelskills auf eine einzige Einstiegsfrage."
+description: "Master-Routing-Skill der sozialrechtlichen Kanzlei. Nimmt einen frischen Fall an und entscheidet in drei Schritten welche weiteren Skills wann gezogen werden. Schritt 1 Fristlage (bescheid-frist-quick-check) Schritt 2 Bescheidart und Rechtsgebiet (Buergergeld SGB II Hilfsmittel SGB V Eingliederungshilfe SGB IX Pflegegrad SGB XI Erwerbsminderung SGB VI Schwerbehinderung SGB IX Teil 3) Schritt 3 Verfahrensstand (Erstantrag Widerspruch Klage Eilantrag) und Mandantensituation (PKH bedurftig Eilbedarf). Endet mit einer konkreten Skill-Reihenfolge für den vorliegenden Fall und einem Aktenanlage-Eintrag. Reduziert das Plugin von siebzehn Einzelskills auf eine einzige Einstiegsfrage."
 ---
 
 # Master-Routing — Sozialrechtskanzlei

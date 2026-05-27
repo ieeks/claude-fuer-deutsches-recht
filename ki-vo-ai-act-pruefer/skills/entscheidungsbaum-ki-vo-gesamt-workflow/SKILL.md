@@ -1,6 +1,6 @@
 ---
 name: entscheidungsbaum-ki-vo-gesamt-workflow
-description: "Anwalt oder Compliance-Beauftragter startet eine vollstaendige KI-VO-Pruefung und fragt: Womit fange ich an und welche Skills werden in welcher Reihenfolge benoetigt? Master-Workflow KI-VO. Art. 2 Anwendungsbereich Art. 3 Rollenzuordnung Art. 5 Verbote Art. 6 Hochrisiko Art. 50 begrenztes Risiko. Pruefraster: zehn Schluesselfragen in Reihenfolge mit klaren Verzweigungen. Output: strukturierter Pruefpfad mit Verweisen auf Folge-Skills. Abgrenzung zu triage-ki-vo-vorpruefung (kurzer Schnellcheck) und risikoklassen-uebersicht-und-triage (Risikoklassen-Fokus)."
+description: "Anwalt oder Compliance-Beauftragter startet eine vollständige KI-VO-Prüfung und fragt: Womit fange ich an und welche Skills werden in welcher Reihenfolge benoetigt? Master-Workflow KI-VO. Art. 2 Anwendungsbereich Art. 3 Rollenzuordnung Art. 5 Verbote Art. 6 Hochrisiko Art. 50 begrenztes Risiko. Prüfraster: zehn Schluesselfragen in Reihenfolge mit klaren Verzweigungen. Output: strukturierter Prüfpfad mit Verweisen auf Folge-Skills. Abgrenzung zu triage-ki-vo-vorprüfung (kurzer Schnellcheck) und risikoklassen-uebersicht-und-triage (Risikoklassen-Fokus)."
 ---
 
 # Master-Workflow: Vollständiger KI-VO-Entscheidungsbaum

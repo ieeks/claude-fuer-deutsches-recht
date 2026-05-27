@@ -1,6 +1,6 @@
 ---
 name: haptik-und-tastmarke
-description: "Tastmarken und Haptik-Marken fuer Stoffstrukturen und Flakon-Oberflaechen: Schutz und Alternativen pruefen. Normen: Sieckmann-Kriterien analog, EuG T-305/02 Eden SARL (Riechmarke), DPMA-Praxis restriktiv, USPTO Reg. 3896100 (David Yurman). Pruefraster: Eintragbarkeits-Analyse, Darstellungs-Anforderungen, Workarounds DesignG/GGV, UWG § 4 Nr. 3 Nachahmungsschutz. Output Strategie-Memo Haptik-Schutz mit realisierbaren Alternativen. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke auf Stoff siehe positionsmarke."
+description: "Tastmarken und Haptik-Marken für Stoffstrukturen und Flakon-Oberflaechen: Schutz und Alternativen prüfen. Normen: Sieckmann-Kriterien analog, EuG T-305/02 Eden SARL (Riechmarke), DPMA-Praxis restriktiv, USPTO Reg. 3896100 (David Yurman). Prüfraster: Eintragbarkeits-Analyse, Darstellungs-Anforderungen, Workarounds DesignG/GGV, UWG § 4 Nr. 3 Nachahmungsschutz. Output Strategie-Memo Haptik-Schutz mit realisierbaren Alternativen. Abgrenzung: Duftmarke siehe duftmarke-und-geschmacksmarke; Positionsmarke auf Stoff siehe positionsmarke."
 ---
 
 # Tastmarken und Haptik-Marken

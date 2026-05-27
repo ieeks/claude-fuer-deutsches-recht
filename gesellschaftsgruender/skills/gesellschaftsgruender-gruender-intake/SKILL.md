@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gruender-intake
-description: "Ersterfassung des Gruendungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschaeftszweck. Normen: GmbHG, AktG, HGB. Pruefraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gruendungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill)."
+description: "Ersterfassung des Gründungsvorhabens: Rechtsform, Gesellschafterkreis, Kapital, Geschäftszweck. Normen: GmbHG, AktG, HGB. Prüfraster: Intake-Fragen Rechtsformwahl, Haftung, steuerliche Aspekte, Zeitplan. Output: Gründungsintake-Bogen. Abgrenzung: nicht detaillierte Rechtsformberatung (eigener Skill)."
 ---
 
 # Gründer-Intake

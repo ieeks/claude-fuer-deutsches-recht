@@ -1,6 +1,6 @@
 ---
 name: output-memo-und-mandantenbrief
-description: "Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo fuer interne Nutzung mit juristischer Tiefe; Mandantenbrief fuer Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis."
+description: "Erzeugt interne Aktennotiz (Rechtsmemo) oder externen Mandantenbrief als Ausgabe der Subsumtion. Klarer Unterschied: Memo für interne Nutzung mit juristischer Tiefe; Mandantenbrief für Betroffene in verstaendlicher Sprache. Beide mit Pflicht-Haftungshinweis."
 ---
 
 # Output: Memo und Mandantenbrief

@@ -1,6 +1,6 @@
 ---
 name: klage-strategie-zeugnisberichtigung
-description: "Strategie und Antragsformulierungen fuer die Zeugnisberichtigungsklage vor dem Arbeitsgericht. Anwendungsfall aussergerichtliches Berichtigungsverlangen ist gescheitert und Klage soll eingereicht werden. Normen § 109 GewO Berichtigungsanspruch § 46 ArbGG Verfahren § 253 ZPO Klageantrag BAG-Beweislastverteilung. Pruefraster Streitwertberechnung Klageantrag mit Wortlautformulierung Fristen Verjaehrung aussergerichtliche Phase Kostenrisiko. Output Klageschrift-Baustein mit Antrag Sachverhalt Zeugnisanalyse Beweisangeboten und Kostenantrag. Abgrenzung zu aufforderungsschreiben-arbeitgeber (aussergerichtlich) und schriftsatzkern-substantiierung."
+description: "Strategie und Antragsformulierungen für die Zeugnisberichtigungsklage vor dem Arbeitsgericht. Anwendungsfall außergerichtliches Berichtigungsverlangen ist gescheitert und Klage soll eingereicht werden. Normen § 109 GewO Berichtigungsanspruch § 46 ArbGG Verfahren § 253 ZPO Klageantrag BAG-Beweislastverteilung. Prüfraster Streitwertberechnung Klageantrag mit Wortlautformulierung Fristen Verjährung außergerichtliche Phase Kostenrisiko. Output Klageschrift-Baustein mit Antrag Sachverhalt Zeugnisanalyse Beweisangeboten und Kostenantrag. Abgrenzung zu aufforderungsschreiben-arbeitgeber (außergerichtlich) und schriftsatzkern-substantiierung."
 ---
 
 # Klagestrategie Zeugnisberichtigung

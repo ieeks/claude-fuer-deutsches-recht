@@ -1,6 +1,6 @@
 ---
 name: gegenseite-status
-description: "Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: §§ 78 85 ZPO. Pruefraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz, Sicherheitsleistung. Output: Statusbericht Gegenseite. Abgrenzung: nicht Streitwert oder Anspruchstabelle."
+description: "Prozessualen Status der Gegenseite erfassen: Bevollmaechtigung, Zustelladresse, Insolvenzantrag, Kostensicherheit. Normen: §§ 78 85 ZPO. Prüfraster: Vertreternachweis, Prozessvollmacht, Beklagteninsolvenz, Sicherheitsleistung. Output: Statusbericht Gegenseite. Abgrenzung: nicht Streitwert oder Anspruchstabelle."
 ---
 
 # Statusabfrage Externe Bevollmächtigte

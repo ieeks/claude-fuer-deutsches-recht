@@ -1,6 +1,6 @@
 ---
 name: plaedoyer-vorbereitung-strafverteidigung
-description: "Plaedoyer fuer Strafverteidigung vorbereiten und strukturieren: Anwendungsfall nach Abschluss der Beweisaufnahme muss Strafverteidiger Schlusspledoyer mit Schuldfrage Strafzumessung und Verfahrenshindernissen vorbereiten. § 258 StPO Schlusspledoyer, § 46 StGB Strafzumessung, § 261 StPO freie Beweiswuerdigung. Pruefraster Schuldfrage anhand Beweisaufnahme, Beweiswuerdigungs-Angriff, Strafzumessung Milderungsgruende, Verfahrenshindernisse. Output Plaedoyer-Gliederung mit Kernargumentation und Antragsformulierungen. Abgrenzung zu Hauptverhandlung-Vorbereiten fuer Gesamtvorbereitung und zu Schriftsatzkern."
+description: "Plaedoyer für Strafverteidigung vorbereiten und strukturieren: Anwendungsfall nach Abschluss der Beweisaufnahme muss Strafverteidiger Schlusspledoyer mit Schuldfrage Strafzumessung und Verfahrenshindernissen vorbereiten. § 258 StPO Schlusspledoyer, § 46 StGB Strafzumessung, § 261 StPO freie Beweiswürdigung. Prüfraster Schuldfrage anhand Beweisaufnahme, Beweiswürdigungs-Angriff, Strafzumessung Milderungsgründe, Verfahrenshindernisse. Output Plaedoyer-Gliederung mit Kernargumentation und Antragsformulierungen. Abgrenzung zu Hauptverhandlung-Vorbereiten für Gesamtvorbereitung und zu Schriftsatzkern."
 ---
 
 # Plädoyer-Vorbereitung Strafverteidigung

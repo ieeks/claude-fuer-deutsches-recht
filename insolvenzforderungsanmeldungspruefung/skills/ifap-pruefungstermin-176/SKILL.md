@@ -1,6 +1,6 @@
 ---
 name: ifap-pruefungstermin-176
-description: "Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Pruefungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Pruefungstermin, § 178 InsO Tabelle Feststellung. Pruefraster streitige Forderungen identifizieren, Terminmappe aufbauen, Widersprüche des Schuldners dokumentieren, schriftliches Prüfungsverfahren als Alternative. Output Terminmappe mit Einzelforderungs-Status und Verhandlungspunkten. Abgrenzung zu Pruefentscheidung und zu Streitige-Forderung-179-180."
+description: "Prüfungstermin nach § 176 InsO vorbereiten: Anwendungsfall Prüfungstermin beim Insolvenzgericht naht und Insolvenzverwalter muss Einzelforderungen, Widersprüche und Erörterungspunkte aufbereiten. § 176 InsO Prüfungstermin, § 178 InsO Tabelle Feststellung. Prüfraster streitige Forderungen identifizieren, Terminmappe aufbauen, Widersprüche des Schuldners dokumentieren, schriftliches Prüfungsverfahren als Alternative. Output Terminmappe mit Einzelforderungs-Status und Verhandlungspunkten. Abgrenzung zu Prüfentscheidung und zu Streitige-Forderung-179-180."
 ---
 
 # Prüfungstermin vorbereiten

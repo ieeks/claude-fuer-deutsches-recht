@@ -1,6 +1,6 @@
 ---
 name: kompetenz-zweifel-respektvoll
-description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Pruefraster: sachliche Kritik ohne Abwertung Begruendung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklaerung. Abgrenzung: nicht fuer direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen)."
+description: "Zweifel an Kompetenz oder Entscheidung des Gegners oder Kollegen respektvoll und sachlich aeussern. § 26 BORA Sachlichkeit § 43a BRAO. Prüfraster: sachliche Kritik ohne Abwertung Begründung Quellenangabe professioneller Ton. Output: ueberarbeitete Formulierung mit Erklärung. Abgrenzung: nicht für direkten persoenlichen Angriff (persoenlichen-angriff-entschaerfen)."
 ---
 
 # Kompetenz-Zweifel respektvoll formulieren

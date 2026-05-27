@@ -1,6 +1,6 @@
 ---
 name: stb-dba-tuerkei-2011
-description: "DBA Deutschland Tuerkei Neufassung 2011 in Kraft seit 1.8.2012 anwendbar ab 2012. Anwendungsfall Familienbande Deutschland-Tuerkei Arbeitseinkuenfte Pensionen Beteiligungen Bauausfuehrung in der Tuerkei Holding. Quellensteuer differenziert. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Tuerkei Neufassung 2011 in Kraft seit 1.8.2012 anwendbar ab 2012. Anwendungsfall Familienbande Deutschland-Tuerkei Arbeitseinkuenfte Pensionen Beteiligungen Bauausführung in der Tuerkei Holding. Quellensteuer differenziert. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Tuerkei (2011)

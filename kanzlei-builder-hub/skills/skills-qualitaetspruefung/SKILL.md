@@ -1,6 +1,6 @@
 ---
 name: skills-qualitaetspruefung
-description: "Qualitaet installierter Skills pruefen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Pruefraster: Description-Laenge, Normverankerung, Frontmatter-Vollstaendigkeit. Output: Qualitaetspruefungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtspruefung."
+description: "Qualitaet installierter Skills prüfen: Normaktualitaet, Description-Qualitaet, Struktur-Compliance. Normen: technisch/intern, SKILL.md-Schema. Prüfraster: Description-Laenge, Normverankerung, Frontmatter-Vollständigkeit. Output: Qualitaetsprüfungs-Bericht Skills. Abgrenzung: nicht inhaltliche Rechtsprüfung."
 ---
 
 # Skills-QA

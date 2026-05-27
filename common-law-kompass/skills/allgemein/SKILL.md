@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer den Common-Law-Kompass: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews fuer deutsche Wirtschaftsjuristen mit Common-Law-Mandaten."
+description: "Einstieg und Orientierung für den Common-Law-Kompass: UK/US-False-Friends, Vertragsbegriffe, Consideration, Suretyship, Indemnity, UCC, Precedent, Discovery und bilinguale Drafting-Reviews für deutsche Wirtschaftsjuristen mit Common-Law-Mandaten."
 ---
 
 # Common-Law-Kompass — Allgemein

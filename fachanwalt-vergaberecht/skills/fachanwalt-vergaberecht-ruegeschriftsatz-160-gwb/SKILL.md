@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-vergaberecht-ruegeschriftsatz-160-gwb
-description: "Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. 3 GWB ausarbeiten: Bieter will Ruege inhaltlich stark begruenden. Normen: § 160 Abs. 3 GWB (Ruege als Zulassigkeitsvoraussetzung), §§ 97 ff. GWB. Pruefraster: Konkrete Vergabestoerung, Norm-Bezeichnung, Beweismittel, Antrag auf Abhilfe, unverzuegliche Einreichung. Output Ruegeschriftsatz, Begleitschreiben. Abgrenzung: Ersteinschaetzung Ruege-Erfordernis siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Nachpruefungsantrag danach siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk."
+description: "Ruegeschriftsatz im Vergabeverfahren nach § 160 Abs. 3 GWB ausarbeiten: Bieter will Ruege inhaltlich stark begründen. Normen: § 160 Abs. 3 GWB (Ruege als Zulassigkeitsvoraussetzung), §§ 97 ff. GWB. Prüfraster: Konkrete Vergabestoerung, Norm-Bezeichnung, Beweismittel, Antrag auf Abhilfe, unverzuegliche Einreichung. Output Ruegeschriftsatz, Begleitschreiben. Abgrenzung: Ersteinschaetzung Ruege-Erfordernis siehe fachanwalt-vergaberecht-ruege-vor-zuschlag; Nachprüfungsantrag danach siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk."
 ---
 
 # Ruegeschriftsatz § 160 III GWB

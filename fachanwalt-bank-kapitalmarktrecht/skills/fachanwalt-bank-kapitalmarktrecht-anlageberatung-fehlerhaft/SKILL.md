@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-anlageberatung-fehlerhaft
-description: "Bank hat Kapitalanlage fehlerhaft beraten: Bond-Urteil-Pflichten Provisionen Kick-backs Risikoklassen-Aufklaerung. Vermutung aufklaerungsrichtigen Verhaltens BGH XI ZR. Normen §§ 280 311 826 BGB WpHG §§ 63 64 MiFID-II. Pruefraster Beratungspflicht-Inhalt Pflicht-Verletzung Kausalitaetsvermutung Schadenshoehe Verjaehrung §§ 195 199 Abs. 3 BGB. Output Schadensersatz-Klageschrift Verjaehrungs-Pruefung. Abgrenzung zu anlageberatungsfehler-pruefen (allg. Raster) und widerrufsjoker (Widerruf)."
+description: "Bank hat Kapitalanlage fehlerhaft beraten: Bond-Urteil-Pflichten Provisionen Kick-backs Risikoklassen-Aufklärung. Vermutung aufklärungsrichtigen Verhaltens BGH XI ZR. Normen §§ 280 311 826 BGB WpHG §§ 63 64 MiFID-II. Prüfraster Beratungspflicht-Inhalt Pflicht-Verletzung Kausalitätsvermutung Schadenshoehe Verjährung §§ 195 199 Abs. 3 BGB. Output Schadensersatz-Klageschrift Verjährungs-Prüfung. Abgrenzung zu anlageberatungsfehler-prüfen (allg. Raster) und widerrufsjoker (Widerruf)."
 ---
 
 # Anlageberatung fehlerhaft

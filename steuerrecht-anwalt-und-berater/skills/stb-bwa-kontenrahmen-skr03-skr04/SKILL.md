@@ -1,6 +1,6 @@
 ---
 name: stb-bwa-kontenrahmen-skr03-skr04
-description: "Vergleich Kontenrahmen SKR 03 versus SKR 04 fuer BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen."
+description: "Vergleich Kontenrahmen SKR 03 versus SKR 04 für BWA-Erstellung. Anwendungsfall Mandantenneuaufnahme oder Wechsel des Kontenrahmens Entscheidungsgrundlage Industrie Handel Dienstleistung. Aufbau Bilanz vs Prozess Gliederung GKV vs UKV. Output Empfehlung welcher Kontenrahmen Migrationsanleitung Querverweis stb-bwa-aufbau-grundlagen."
 ---
 
 # Kontenrahmen SKR 03 vs SKR 04 — Wahl und Bedeutung fuer BWA

@@ -1,6 +1,6 @@
 ---
 name: hilfsmittelantrag-pruefen
-description: "Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zustaendig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Pruefraster: Zustaendigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgruende. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad)."
+description: "Mandant benoetigt Hilfsmittel (Rollstuhl Hoerhilfe Prothese Pflegebett Treppenlift) und fragt welcher Kostentraeger zuständig ist und wie Antrag und Widerspruch aussehen. § 33 SGB V Hilfsmittelverzeichnis § 139 SGB V § 40 SGB XI § 47 SGB IX. Prüfraster: Zuständigkeit Krankenkasse/Pflegekasse/Eingliederungstraeger/Sozialhilfe Festbetraege Mehrkostenregelung typische Ablehnungsgründe. Output: Antragsentwurf oder Widerspruchsentwurf Hilfsmittel. Abgrenzung zu eingliederungshilfe-schule (Schule) und pflegegrad-widerspruch (Pflegegrad)."
 ---
 
 # Hilfsmittelantrag prüfen

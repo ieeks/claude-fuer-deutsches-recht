@@ -1,6 +1,6 @@
 ---
 name: verwandte-skills-vorschlag
-description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: Ergaenzungsempfehlungen. Normen: technisch/intern. Pruefraster: Rechtsgebiet, Verfahrensphase, Mandantentyp. Output: Vorschlagsliste verwandter Skills. Abgrenzung: nicht Kommandocenter-Navigation."
+description: "Verwandte Skills zu einem Mandat oder Rechtsproblem vorschlagen: Ergaenzungsempfehlungen. Normen: technisch/intern. Prüfraster: Rechtsgebiet, Verfahrensphase, Mandantentyp. Output: Vorschlagsliste verwandter Skills. Abgrenzung: nicht Kommandocenter-Navigation."
 ---
 
 # /verwandte-skills-vorschlag — Verwandte-Skills-Empfehlung

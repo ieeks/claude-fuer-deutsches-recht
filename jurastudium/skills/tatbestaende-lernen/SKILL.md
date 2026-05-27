@@ -1,6 +1,6 @@
 ---
 name: tatbestaende-lernen
-description: "Tatbestaende lernen fuer Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen fuer Klausuren und Examen. Loesungsschemata Tatbestandsmerkmale BGB Strafrecht oeffentliches Recht, Subsumtion, Methodenlehre. Pruefraster Tatbestandsmerkmale vollstaendig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Loesungsschemata fuer Klausuraufbau und zu Karteikarten fuer allgemeines Lernen."
+description: "Tatbestaende lernen für Jurastudium und Examensvorbereitung: Anwendungsfall Student muss Tatbestaende und Definitionen sicher beherrschen für Klausuren und Examen. Lösungsschemata Tatbestandsmerkmale BGB Strafrecht öffentliches Recht, Subsumtion, Methodenlehre. Prüfraster Tatbestandsmerkmale vollständig, Definitionen normiert oder hM-Definition, Abgrenzung verwandter Tatbestaende, Examensrelevanz einordnen. Output Tatbestand-Lernkarten mit Definition Schema und Abgrenzungshinweisen. Abgrenzung zu Lösungsschemata für Klausuraufbau und zu Karteikarten für allgemeines Lernen."
 ---
 
 # Tatbestände lernen

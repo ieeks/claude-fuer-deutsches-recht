@@ -1,5 +1,6 @@
 {
-  "$schema": "https://www.lobbyregister.bundestag.de/json-schemas/R2.22/Lobbyregister-Registereintrag-schema-R2.22.json",
+  "$schema": "https://www.lobbyregister.bundestag.de/json-schemas/current/Lobbyregister-Registereintrag-schema.json",
+  "apiRelease": "R2.21",
   "source": "Deutscher Bundestag, Lobbyregister fuer die Interessenvertretung gegenueber dem Deutschen Bundestag und der Bundesregierung",
   "sourceUrl": "https://api.lobbyregister.bundestag.de/rest/v2/registerentries/R009814?format=json",
   "sourceDate": "2026-06-02T09:17:22.184+02:00",

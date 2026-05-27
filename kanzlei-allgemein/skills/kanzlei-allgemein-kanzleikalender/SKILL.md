@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-kanzleikalender
-description: "Fuehrt einen Kanzleikalender fuer Termine Fristen Postlauf HR und Jour fixe. Anwendungsfall Anwalt will tagesaktuelle Uebersicht ueber Termine Fristen Abwesenheiten UStVA-Faelligkeiten und interne Abstimmungen. Normen § 517 ZPO Berufungsfrist § 286 BGB Verzug § 7 BUrlG. Pruefraster Konfliktpruefung Abdeckung Tagesplanung Fristen beA Postlauf HR Payroll UStVA. Output Tageskalender-Uebersicht mit Prioritaeten Konflikten und Eskalationshinweisen. Abgrenzung zu fristenbuch-fuehren (reine Fristbuchhaltung) und sekretariats-tagesbrief."
+description: "Führt einen Kanzleikalender für Termine Fristen Postlauf HR und Jour fixe. Anwendungsfall Anwalt will tagesaktuelle Übersicht über Termine Fristen Abwesenheiten UStVA-Fälligkeiten und interne Abstimmungen. Normen § 517 ZPO Berufungsfrist § 286 BGB Verzug § 7 BUrlG. Prüfraster Konfliktprüfung Abdeckung Tagesplanung Fristen beA Postlauf HR Payroll UStVA. Output Tageskalender-Übersicht mit Prioritaeten Konflikten und Eskalationshinweisen. Abgrenzung zu fristenbuch-führen (reine Fristbuchhaltung) und sekretariats-tagesbrief."
 ---
 
 # Kanzleikalender und interne Abstimmung

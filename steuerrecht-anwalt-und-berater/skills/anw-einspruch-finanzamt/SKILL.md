@@ -1,6 +1,6 @@
 ---
 name: anw-einspruch-finanzamt
-description: "Begruendeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjaehrung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begruendung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse."
+description: "Begründeten Einspruch gegen Steuerbescheid nach §§ 347 ff. AO formulieren. Anwendungsfall Mandant erhaelt Steuerbescheid und will Einspruch einlegen. Frist ein Monat ab Bekanntgabe § 355 Abs. 1 AO bzw. ein Jahr bei fehlender Rechtsbehelfsbelehrung § 356 AO Vier-Tage-Fiktion § 122 Abs. 2 AO seit 01.01.2025 PostModG. Angriffspunkte Rechtsverletzung Rechenfehler § 129 AO Schaetzung § 162 AO neue Tatsachen § 173 AO Festsetzungsverjährung § 169 AO Wiedereinsetzung § 110 AO. Output Einspruchsschriftsatz mit Antrag Begründung Beweisangebot AdV-Antrag § 361 Abs. 2 AO Akteneinsicht § 364 AO. Abgrenzung zu anw-klage-finanzgericht anw-steuerbescheid-analyse."
 ---
 
 # Einspruch beim Finanzamt

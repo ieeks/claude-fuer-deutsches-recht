@@ -1,6 +1,6 @@
 ---
 name: gliederung-mit-tiefenstruktur
-description: "Student erstellt Gliederung fuer juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht oeffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Pruefraster Gliederungs-Logik Hierarchie Pruefungsschema-Sichtbarkeit Vollstaendigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-fuer-schritt (Inhalt)."
+description: "Student erstellt Gliederung für juristische Hausarbeit mit korrekter Tiefenstruktur A Roemisch Arabisch Kleinbuchstaben. Anspruchsgrundlagen-Reihenfolge Zivilrecht öffentlich-rechtlicher Aufbau Strafrecht Drei-Stufen. Normen §§ 133 157 BGB Methodenlehre. Prüfraster Gliederungs-Logik Hierarchie Prüfungsschema-Sichtbarkeit Vollständigkeit. Output Gliederungs-Entwurf Tiefenstruktur-Template. Abgrenzung zu gutachtenstil-vs-urteilsstil (Stil) und subsumtion-schritt-fuer-schritt (Inhalt)."
 ---
 
 # Gliederung mit Tiefen-Struktur

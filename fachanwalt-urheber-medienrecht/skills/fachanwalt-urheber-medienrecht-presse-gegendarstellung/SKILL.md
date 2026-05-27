@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-presse-gegendarstellung
-description: "Gegendarstellungsanspruch in der Presse pruefen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Pruefraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht fuer Widerruf oder Unterlassung von Tatsachenbehauptungen."
+description: "Gegendarstellungsanspruch in der Presse prüfen und Gegendarstellung verfassen. §§ 10 ff. LPG Gegendarstellungsrecht Art. 5 GG Pressefreiheit. Prüfraster: Tatsachenbehauptung Erstmitteilung Frist Form Umfang Gegendarstellungsrecht Abdruck. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Widerruf oder Unterlassung von Tatsachenbehauptungen."
 ---
 
 # Presse-Gegendarstellung

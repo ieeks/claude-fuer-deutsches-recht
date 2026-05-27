@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-strafrecht-verstaendigung-257c-toa-46a
-description: "Verstaendigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prueft ob Einigung durch Deal Einstellung oder TOA fuer Mandanten vorteilhaft ist. § 257c StPO Verstaendigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Pruefraster Verstaendigungs-Eignung beurteilen, Gestaendnis-Risiken pruefen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verstaendigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung fuer Hauptverhandlung und zu Einlassung."
+description: "Verständigung § 257c StPO und Taeter-Opfer-Ausgleich § 46a StGB vorbereiten: Anwendungsfall Strafverteidiger prüft ob Einigung durch Deal Einstellung oder TOA für Mandanten vorteilhaft ist. § 257c StPO Verständigung Gestaendnis gegen Strafrahmen, § 46a StGB Taeter-Opfer-Ausgleich Strafmilderung, § 153a StPO Einstellung gegen Auflage. Prüfraster Verständigungs-Eignung beurteilen, Gestaendnis-Risiken prüfen, TOA-Bereitschaft Opfer, Mandant belehren. Output Verständigungs-Strategie-Memo mit Gespraeachsskript und Belehrungsprotokoll. Abgrenzung zu Plaedoyer-Vorbereitung für Hauptverhandlung und zu Einlassung."
 ---
 
 # Verständigung § 257c StPO / TOA § 46a StGB

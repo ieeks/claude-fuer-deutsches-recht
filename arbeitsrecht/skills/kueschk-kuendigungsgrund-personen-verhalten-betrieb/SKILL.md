@@ -1,6 +1,6 @@
 ---
 name: kueschk-kuendigungsgrund-personen-verhalten-betrieb
-description: "Drei Kuendigungsgruende nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkuendigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts."
+description: "Drei Kündigungsgründe nach § 1 Abs. 2 KSchG: betriebsbedingt mit Sozialauswahl; verhaltensbedingt mit Abmahnungserfordernis; personenbedingt mit Negativprognose; Sonderkündigungsschutz als Querverweis; strukturierte Abfrage des Sachverhalts."
 ---
 
 # Kündigungsgrund: Personen-, Verhaltens- oder Betriebsbedingt

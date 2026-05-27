@@ -1,6 +1,6 @@
 ---
 name: gpai-vorliegen-art-3-nr-63
-description: "Unternehmen fragt: Ist unser KI-Modell ein General-Purpose-KI-Modell nach der KI-VO und welche Besonderheiten gelten dann? Art. 3 Nr. 63 KI-VO GPAI-Definition. Pruefraster: Training auf grosser Datenmenge selbstueberwachtes oder halbselbstueberwachtes Lernen allgemeine Aufgabenerfuellung grosse Parameteranzahl. Abgrenzung GPAI-Modell Art. 3 Nr. 63 vs. GPAI-System Art. 3 Nr. 66 KI-VO. Output: Einordnungsmatrix GPAI-Modell vs. Spezialsystem. Abgrenzung zu gpai-modelle-art-51-bis-55 (Pflichten bei GPAI-Modell) und liegt-ki-system-vor-art-3-nr-1 (KI-System Grunddefinition)."
+description: "Unternehmen fragt: Ist unser KI-Modell ein General-Purpose-KI-Modell nach der KI-VO und welche Besonderheiten gelten dann? Art. 3 Nr. 63 KI-VO GPAI-Definition. Prüfraster: Training auf grosser Datenmenge selbstueberwachtes oder halbselbstueberwachtes Lernen allgemeine Aufgabenerfuellung grosse Parameteranzahl. Abgrenzung GPAI-Modell Art. 3 Nr. 63 vs. GPAI-System Art. 3 Nr. 66 KI-VO. Output: Einordnungsmatrix GPAI-Modell vs. Spezialsystem. Abgrenzung zu gpai-modelle-art-51-bis-55 (Pflichten bei GPAI-Modell) und liegt-ki-system-vor-art-3-nr-1 (KI-System Grunddefinition)."
 ---
 
 # Liegt ein GPAI-Modell vor? — Art. 3 Nr. 63 KI-VO

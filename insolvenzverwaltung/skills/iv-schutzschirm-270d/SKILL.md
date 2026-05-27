@@ -1,6 +1,6 @@
 ---
 name: iv-schutzschirm-270d
-description: "Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung bis Planvorlageschluss. § 270d InsO Schutzschirm §§ 270 274 InsO Eigenverwaltung Sachwaltung. Pruefraster: Voraussetzungen Bescheinigung drohende ZU keine ZU Planfrist Sachwaltervorschlag Zahlungsunfaehigkeitsanzeige. Output: Verfahrensplan Fristenkalender Kommunikationsleitfaden. Abgrenzung: nicht fuer regulaere Eigenverwaltung (iv-eigenverwaltung-sachwaltung)."
+description: "Schutzschirmverfahren nach § 270d InsO begleiten von Antrag und Bescheinigung bis Planvorlageschluss. § 270d InsO Schutzschirm §§ 270 274 InsO Eigenverwaltung Sachwaltung. Prüfraster: Voraussetzungen Bescheinigung drohende ZU keine ZU Planfrist Sachwaltervorschlag Zahlungsunfähigkeitsanzeige. Output: Verfahrensplan Fristenkalender Kommunikationsleitfaden. Abgrenzung: nicht für regulaere Eigenverwaltung (iv-eigenverwaltung-sachwaltung)."
 ---
 
 # Schutzschirmverfahren § 270d InsO

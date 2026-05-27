@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-compliance-schulung
-description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen fuer Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Pruefraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance)."
+description: "Anlagenbetreiber muss Umwelt-Compliance-Schulungen und Jahresaudit-Plaene erstellen für Immissionsschutzbeauftragte Abfallverantwortliche. Normen BImSchG §§ 53-58 KrWG §§ 59 60 WHG §§ 64 65. Prüfraster Schulungspflichten Dokumentationspflichten Audit-Planung. Output Schulungsplan-Template Jahresaudit-Checkliste. Abgrenzung zu umweltrecht-immissionsschutz-bimschg (Genehmigung) und umweltrecht-abfall-circular-economy (Abfall-Compliance)."
 ---
 
 # Compliance, Beauftragte und Schulung im Umweltrecht

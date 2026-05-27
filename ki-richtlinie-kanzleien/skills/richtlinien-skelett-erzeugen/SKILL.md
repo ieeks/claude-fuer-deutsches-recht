@@ -1,6 +1,6 @@
 ---
 name: richtlinien-skelett-erzeugen
-description: "KI-Nutzungsrichtlinie Skelett fuer Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollstaendige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Pruefraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine fuer Kurzfassung und zu Compliance-Regelsatz."
+description: "KI-Nutzungsrichtlinie Skelett für Kanzleien erzeugen: Anwendungsfall Kanzlei will erstmals KI-Nutzungsrichtlinie erstellen und benoetigt vollständige Grundstruktur. § 43a BRAO Verschwiegenheit, § 43e BRAO IT-Dienstleister, Art. 4 KI-VO KI-Kompetenz, Art. 28 DSGVO AVV. Prüfraster alle Pflichtbausteine Anwendungsbereich Erlaubtes Verbotenes Dienstleisterpflichten Datenschutz Berufsrecht Sanktionen. Output Richtlinien-Skelett mit Kapiteln und Platzhaltern anpassbar an Kanzlei-Groesse. Abgrenzung zu Executive-Summary-Bausteine für Kurzfassung und zu Compliance-Regelsatz."
 ---
 
 # Richtlinien-Skelett erzeugen

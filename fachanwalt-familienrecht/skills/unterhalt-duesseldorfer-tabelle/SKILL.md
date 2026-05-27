@@ -1,6 +1,6 @@
 ---
 name: unterhalt-duesseldorfer-tabelle
-description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Pruefraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstaetigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt fuer Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt."
+description: "Kindes- und Ehegattenunterhalt nach Duesseldorfer Tabelle berechnen: Praktische Berechnungsaufgabe mit konkreten Einkommensdaten. Normen: §§ 1601 ff. BGB, § 1605 BGB (Selbstauskunft), § 1613 BGB (Verzug). Prüfraster: Bereinigtes Nettoeinkommen (5%-Pauschale Berufsaufwendungen, Schulden, Vorsorge, Krankenversicherung), Selbstbehalt, Mangelfaelle, Erwerbstätigenbonus, Halbteilungsgrundsatz, fiktives Einkommen. Output Unterhalts-Berechnung Schritt für Schritt. Abgrenzung: Strategische Beratung siehe fachanwalt-familienrecht-unterhaltsberechnung; Abbaenderungsklage siehe fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt."
 ---
 
 # Unterhalt nach Düsseldorfer Tabelle

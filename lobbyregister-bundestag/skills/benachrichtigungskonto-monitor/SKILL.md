@@ -1,6 +1,6 @@
 ---
 name: benachrichtigungskonto-monitor
-description: "Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen ueber das Benachrichtigungskonto ein. Output Watchlist."
+description: "Richtet Beobachtung von Registereintraegen, Aktualisierungen und Entwicklungen über das Benachrichtigungskonto ein. Output Watchlist."
 ---
 
 # Benachrichtigungskonto Monitor

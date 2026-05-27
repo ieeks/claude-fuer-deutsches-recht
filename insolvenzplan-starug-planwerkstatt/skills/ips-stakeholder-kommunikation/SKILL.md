@@ -1,6 +1,6 @@
 ---
 name: ips-stakeholder-kommunikation
-description: "Glaeubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht ueber Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Glaeubigerinfo. Pruefraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript ohne Ueberversprechungen. Output: Kommunikationsmatrix Glaeubiger-Q-A Terminskript. Abgrenzung: nicht fuer Gerichtsschriftsaetze (ips-gerichtliche-schritte)."
+description: "Gläubiger Banken Arbeitnehmer Lieferanten Gericht und Investoren zielgruppengerecht über Insolvenzplan oder StaRUG informieren. §§ 232 235 InsO §§ 17 20 StaRUG Gläubigerinfo. Prüfraster: Stakeholdergruppen Sorgen Botschaften Q and A One-Pager Terminskript ohne Überversprechungen. Output: Kommunikationsmatrix Gläubiger-Q-A Terminskript. Abgrenzung: nicht für Gerichtsschriftsaetze (ips-gerichtliche-schritte)."
 ---
 
 # Stakeholder-Kommunikation

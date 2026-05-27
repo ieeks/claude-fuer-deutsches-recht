@@ -1,6 +1,6 @@
 ---
 name: erstgespraech-mandatsannahme
-description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Pruefraster: Sachverhaltserfassung Schutzfaehigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
+description: "Erstgespraech im Urheber- und Medienrechtsmandat strukturieren und Mandat sauber aufnehmen. §§ 1 7 UrhG Werkbegriff § 43a BRAO. Prüfraster: Sachverhaltserfassung Schutzfähigkeit Parteistellung Fristen Schutzrechtsinhaber. Output: Mandat-Steckbrief Vertragsannahme-Vorlage Datenliste. Abgrenzung: Einstiegs-Skill; inhaltliche Arbeit in Spezialist-Skills."
 ---
 
 # Erstgespraech und Mandatsannahme im Urheber- und Medienrecht

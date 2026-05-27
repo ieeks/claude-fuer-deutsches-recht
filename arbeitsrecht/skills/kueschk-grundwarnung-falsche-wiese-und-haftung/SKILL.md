@@ -1,6 +1,6 @@
 ---
 name: kueschk-grundwarnung-falsche-wiese-und-haftung
-description: "Pflichtkopf fuer jeden Kuendigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt."
+description: "Pflichtkopf für jeden Kündigungsschutzklage-Schriftsatz: Hinweis auf falsche Wiese und Haftungsausschluss; zentraler Warnblock mit Drei-Wochen-Frist nach § 4 KSchG; wird in jeden Laien-Output eingefuegt."
 ---
 
 # Grundwarnung: Falsche Wiese und Haftung

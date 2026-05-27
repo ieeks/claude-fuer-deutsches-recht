@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das Gesellschaftsrecht-Plugin: GmbH, AG und Personengesellschaften, M&A-Due-Diligence, Gesellschafterbeschluesse, Handelsregisteranmeldungen, Closing Checklists, Compliance-Fristen und Post-Merger-Integration."
+description: "Einstieg und Orientierung für das Gesellschaftsrecht-Plugin: GmbH, AG und Personengesellschaften, M&A-Due-Diligence, Gesellschafterbeschluesse, Handelsregisteranmeldungen, Closing Checklists, Compliance-Fristen und Post-Merger-Integration."
 ---
 
 # Gesellschaftsrecht — Allgemein

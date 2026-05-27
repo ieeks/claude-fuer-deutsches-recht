@@ -1,6 +1,6 @@
 ---
 name: ips-redteam-qualitygate
-description: "Insolvenzplan oder StaRUG-Plan vor Einreichung aus Gegnersicht und Gerichtssicht pruefen. §§ 231 245 251 InsO Versagungsgruende § 64 StaRUG. Pruefraster: Vollstaendigkeit Bewertungswiderspruch Gruppenmissbrauch fehlende Anlagen unbestimmte Klauseln Bestaetigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: Quality Gate fuer alle ips-Skills."
+description: "Insolvenzplan oder StaRUG-Plan vor Einreichung aus Gegnersicht und Gerichtssicht prüfen. §§ 231 245 251 InsO Versagungsgründe § 64 StaRUG. Prüfraster: Vollständigkeit Bewertungswiderspruch Gruppenmissbrauch fehlende Anlagen unbestimmte Klauseln Bestätigungsrisiken. Output: Red-Team-Bericht Fehlerliste Heilungsliste. Abgrenzung: Quality Gate für alle ips-Skills."
 ---
 
 # Red Team und Quality Gate

@@ -1,6 +1,6 @@
 ---
 name: nachtragsmanagement-650b
-description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Pruefraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankuendigungspflicht, Verhandlung. Output: Nachtragsbegruendung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung."
+description: "Nachtragsforderungen des Unternehmers nach § 650b BGB anmelden: Mehrverguetung bei Aenderungsanordnung. Normen: §§ 650b 650c BGB, §§ 1 2 VOB/B. Prüfraster: Aenderungsanordnung, Mehr- oder Minderkosten, Ankündigungspflicht, Verhandlung. Output: Nachtragsbegründung und Preisanpassungsrechnung. Abgrenzung: nicht Bauzeitverzoegerung."
 ---
 
 # Nachtragsmanagement § 650b BGB

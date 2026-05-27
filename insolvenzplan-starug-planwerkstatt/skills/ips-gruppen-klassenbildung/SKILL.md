@@ -1,6 +1,6 @@
 ---
 name: ips-gruppen-klassenbildung
-description: "Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden. §§ 222 223 InsO §§ 9 10 StaRUG Klassenbildung. Pruefraster: Rechtsstellung Absonderung Insolvenzglaeubiger Nachrang Anteilsinhaber Gruppeninterne wirtschaftliche Interessen Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht fuer Abstimmungssimulation (ips-abstimmung-mehrheiten)."
+description: "Abstimmungsgruppen nach InsO und Klassen nach StaRUG sachgerecht bilden. §§ 222 223 InsO §§ 9 10 StaRUG Klassenbildung. Prüfraster: Rechtsstellung Absonderung Insolvenzgläubiger Nachrang Anteilsinhaber Gruppeninterne wirtschaftliche Interessen Gleichbehandlung. Output: Gruppenmatrix Klassenmatrix Kriterienbegrundung. Abgrenzung: nicht für Abstimmungssimulation (ips-abstimmung-mehrheiten)."
 ---
 
 # Gruppen- und Klassenbildung

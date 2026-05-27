@@ -1,6 +1,6 @@
 ---
 name: patentfamilien-analyse
-description: "Patentfamilien-Analyse ueber INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitglieder weltweit DE EP US JP CN KR WO und sonstige Aemter mit gleichem Prioritaetstag. Liefert eine Familientabelle pro Familienmitglied mit Veroeffentlichungsnummer Anmeldetag Prioritaetstag Status Klassifikation Validierungsstaaten Anmelder Link. Erlaeutert den Unterschied zwischen INPADOC-Familie (gleicher Prioritaetstag) und Domestic Patent Family (gleicher Anmelder und enge technische Verwandtschaft). Markiert wann die Familie in welchem Staat noch geschuetzt ist und wann ein Mitglied bereits abgelaufen ist. Disclaimer Familiendaten koennen luekenhaft sein nicht alle Aemter melden vollstaendig."
+description: "Patentfamilien-Analyse über INPADOC und Espacenet-Family-View. Sammelt zu einem konkreten Treffer alle Familienmitglieder weltweit DE EP US JP CN KR WO und sonstige Aemter mit gleichem Prioritaetstag. Liefert eine Familientabelle pro Familienmitglied mit Veröffentlichungsnummer Anmeldetag Prioritaetstag Status Klassifikation Validierungsstaaten Anmelder Link. Erlaeutert den Unterschied zwischen INPADOC-Familie (gleicher Prioritaetstag) und Domestic Patent Family (gleicher Anmelder und enge technische Verwandtschaft). Markiert wann die Familie in welchem Staat noch geschützt ist und wann ein Mitglied bereits abgelaufen ist. Disclaimer Familiendaten koennen luekenhaft sein nicht alle Aemter melden vollständig."
 ---
 
 # patentfamilien-analyse

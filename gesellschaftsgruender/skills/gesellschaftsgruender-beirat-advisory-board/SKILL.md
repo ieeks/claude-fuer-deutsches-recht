@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-beirat-advisory-board
-description: "Beirat oder Advisory Board fuer GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen: §§ 45 52 GmbHG, §§ 95 ff. AktG analog. Pruefraster: Kompetenzen, Verguetung, Haftung, Abberufung, Datenschutz. Output: Beiratssatzung oder Advisory-Board-Charter. Abgrenzung: nicht Gesellschafterversammlung oder Aufsichtsrat."
+description: "Beirat oder Advisory Board für GmbH oder UG einrichten: Satzungsregelung, Bestellungsverfahren, Beratungsvertrag. Normen: §§ 45 52 GmbHG, §§ 95 ff. AktG analog. Prüfraster: Kompetenzen, Verguetung, Haftung, Abberufung, Datenschutz. Output: Beiratssatzung oder Advisory-Board-Charter. Abgrenzung: nicht Gesellschafterversammlung oder Aufsichtsrat."
 ---
 
 # Beirat / Advisory Board

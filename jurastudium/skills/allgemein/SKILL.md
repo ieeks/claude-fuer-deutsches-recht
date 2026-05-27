@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das Jurastudium-Plugin: Studium und Referendariat, Pruefungsgespraech nach AG-Tradition, Subsumtionslehre, Methodenlehre fuer Zivil- Straf- und oeffentliches Recht, Rechtsgeschichte, Lernstrategien, Loesungsschemata, Gutachtenstil, Klausurkorrektur und Lernplanung."
+description: "Einstieg und Orientierung für das Jurastudium-Plugin: Studium und Referendariat, Prüfungsgespraech nach AG-Tradition, Subsumtionslehre, Methodenlehre für Zivil- Straf- und öffentliches Recht, Rechtsgeschichte, Lernstrategien, Lösungsschemata, Gutachtenstil, Klausurkorrektur und Lernplanung."
 ---
 
 # Jurastudium — Allgemein

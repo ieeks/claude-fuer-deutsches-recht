@@ -1,6 +1,6 @@
 ---
 name: energierecht-industriekunden
-description: "Sonderregelungen fuer Industriekunden im Energierecht: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung. Normen: § 19 StromNEV, §§ 17 ff. EnWG, EEG. Pruefraster: atypische Netznutzung, Eigenversorgungsprivileg, Konzerneigenversorgung. Output: Industriekunden-Beratungsmemo. Abgrenzung: nicht Haushaltskunden-Grundversorgung."
+description: "Sonderregelungen für Industriekunden im Energierecht: Netzentgeltbefreiungen, Direktleitungen, Eigenerzeugung. Normen: § 19 StromNEV, §§ 17 ff. EnWG, EEG. Prüfraster: atypische Netznutzung, Eigenversorgungsprivileg, Konzerneigenversorgung. Output: Industriekunden-Beratungsmemo. Abgrenzung: nicht Haushaltskunden-Grundversorgung."
 ---
 
 # Industriekunden — Sonderregelungen

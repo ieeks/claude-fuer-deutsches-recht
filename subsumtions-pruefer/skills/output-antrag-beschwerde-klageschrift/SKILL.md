@@ -1,6 +1,6 @@
 ---
 name: output-antrag-beschwerde-klageschrift
-description: "Erzeugt Tenor-Bausteine, Rubrum und formale Mindestanforderungen fuer Antrag, Beschwerde und Klageschrift nach ZPO, VwGO, SGG, FGO und BVerfGG. Gibt Pflichtangaben, Fristen und Einreichungshinweise. Kein anwaltlicher Schriftsatz ohne anwaltliche Pruefung."
+description: "Erzeugt Tenor-Bausteine, Rubrum und formale Mindestanforderungen für Antrag, Beschwerde und Klageschrift nach ZPO, VwGO, SGG, FGO und BVerfGG. Gibt Pflichtangaben, Fristen und Einreichungshinweise. Kein anwaltlicher Schriftsatz ohne anwaltliche Prüfung."
 ---
 
 # Output: Antrag, Beschwerde, Klageschrift

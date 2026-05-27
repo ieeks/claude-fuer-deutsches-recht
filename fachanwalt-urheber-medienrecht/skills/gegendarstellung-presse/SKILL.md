@@ -1,6 +1,6 @@
 ---
 name: gegendarstellung-presse
-description: "Gegendarstellungsrecht im Presserecht pruefen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Pruefraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht fuer Online-Gegendarstellungen nach TMG oder DSA."
+description: "Gegendarstellungsrecht im Presserecht prüfen und Gegendarstellung ausformulieren. §§ 10 ff. LPG Art. 5 GG. Prüfraster: Tatsachenbehauptung Erstmitteilung Fristen Form Umfang Abdruck Unterlassungsanspruch. Output: Gegendarstellungstext Aufforderungsschreiben. Abgrenzung: nicht für Online-Gegendarstellungen nach TMG oder DSA."
 ---
 
 # Gegendarstellung nach Pressegesetz

@@ -1,6 +1,6 @@
 ---
 name: neutralitaetspruefung
-description: "Prueft einen erstellten Aktenauszug auf unzulaessige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherheitsgate vor Weitergabe des Auszugs. Massstab § 286 ZPO freie Beweiswuerdigung."
+description: "Prüft einen erstellten Aktenauszug auf unzulässige Wertungen und Erfolgseinschaetzungen und neutralisiert diese. Markiert alle parteiischen Formulierungen Prognosen und Bewertungen und schlaegt neutrale Ersatzformulierungen vor. Sicherheitsgate vor Weitergabe des Auszugs. Massstab § 286 ZPO freie Beweiswürdigung."
 ---
 
 # Neutralitätsprüfung

@@ -1,6 +1,6 @@
 ---
 name: mehrsprachige-antwort
-description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Pruefraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede)."
+description: "Mandantenanfrage kam auf Englisch Franzoesisch oder Italienisch und Antwort soll in derselben Sprache erfolgen. Mehrsprachige Erstantwort Kanzlei. Prüfraster: Sprache erkennen Anredekonventionen Schlussformeln Datenschutzhinweise in Zielsprache. Output: sprachlich korrekte Erstantwort. Abgrenzung zu erstantwort-generator (Deutsch) und anrede-uebernehmen (Anrede)."
 ---
 
 # Mehrsprachige-Antwort

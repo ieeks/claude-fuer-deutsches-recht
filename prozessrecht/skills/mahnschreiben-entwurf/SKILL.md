@@ -1,6 +1,6 @@
 ---
 name: mahnschreiben-entwurf
-description: "Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankuendigung. Normen: §§ 286 288 BGB, §§ 204 ff. BGB. Pruefraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung. Output: Mahnschreiben-Entwurf mit Fristsetzung. Abgrenzung: nicht Mahnbescheid (gerichtliches Verfahren)."
+description: "Vorgerichtliches Mahnschreiben entwerfen: Zahlungsaufforderung mit Frist und Klageankündigung. Normen: §§ 286 288 BGB, §§ 204 ff. BGB. Prüfraster: Verjaebrungshemmung, Verzugsbeginn, Schadensersatz, Klageandrohung. Output: Mahnschreiben-Entwurf mit Fristsetzung. Abgrenzung: nicht Mahnbescheid (gerichtliches Verfahren)."
 ---
 
 # Mahnschreiben / Vorgerichtliche Aufforderung

@@ -1,6 +1,6 @@
 ---
 name: nebenkostenabrechnung-erstellen
-description: Vermieter- und Hausverwaltungssicht — Workflow fuer rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. Deckt Abrechnungszeitraum Zugangsfrist (zwoelf Monate) Umlagefaehigkeit Verteilerschluessel HeizkostenV Vorauszahlungen und Mindestinhalt ab. Hinweise zu typischen Fehlerquellen die zur Unwirksamkeit fuehren. Erzeugt eine Mustergliederung und Pruefroutine vor Versand. Disclaimer im Skill und vor jedem Versand-Schritt.
+description: Vermieter- und Hausverwaltungssicht — Workflow für rechtssichere Betriebskostenabrechnungen nach § 556 BGB und BetrKV. Deckt Abrechnungszeitraum Zugangsfrist (zwoelf Monate) Umlagefähigkeit Verteilerschluessel HeizkostenV Vorauszahlungen und Mindestinhalt ab. Hinweise zu typischen Fehlerquellen die zur Unwirksamkeit führen. Erzeugt eine Mustergliederung und Prüfroutine vor Versand. Disclaimer im Skill und vor jedem Versand-Schritt.
 ---
 
 # Nebenkostenabrechnung erstellen (Vermieter / Hausverwaltung)

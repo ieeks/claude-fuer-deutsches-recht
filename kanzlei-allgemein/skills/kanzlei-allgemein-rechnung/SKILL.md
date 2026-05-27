@@ -1,6 +1,6 @@
 ---
 name: kanzlei-allgemein-rechnung
-description: "Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonorare vor. Anwendungsfall Mandat ist abgeschlossen oder Zeitpunkt fuer Zwischenrechnung ist gekommen. Normen § 10 RVG Pflichtangaben § 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung § 3a RVG Honorarvereinbarung. Pruefraster Timesheet Narrative Auslagen Umsatzsteuer Zahlungsstatus Rechtsschutz GoBD-Protokoll. Output Honorarrechnung als PDF und Markdown mit Eintrag im Honorar-Tracker Uebergabe an XRechnung oder ZUGFeRD moeglich. Abgrenzung zu rechnungserstellung-rvg (ausfuehrliches RVG-Abrechnungswerk) und kanzlei-allgemein-ustva-buchhaltung."
+description: "Bereitet Kanzleirechnungen Vorschussrechnungen RVG-Abrechnungen und Stundenhonorare vor. Anwendungsfall Mandat ist abgeschlossen oder Zeitpunkt für Zwischenrechnung ist gekommen. Normen § 10 RVG Pflichtangaben § 14 UStG Umsatzsteuerausweis GoBD Aufbewahrung § 3a RVG Honorarvereinbarung. Prüfraster Timesheet Narrative Auslagen Umsatzsteuer Zahlungsstatus Rechtsschutz GoBD-Protokoll. Output Honorarrechnung als PDF und Markdown mit Eintrag im Honorar-Tracker Übergabe an XRechnung oder ZUGFeRD möglich. Abgrenzung zu rechnungserstellung-rvg (ausführliches RVG-Abrechnungswerk) und kanzlei-allgemein-ustva-buchhaltung."
 ---
 
 # Rechnungsvorbereitung und Abschluss

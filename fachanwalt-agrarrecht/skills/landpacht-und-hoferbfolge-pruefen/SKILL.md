@@ -1,6 +1,6 @@
 ---
 name: landpacht-und-hoferbfolge-pruefen
-description: "Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Pruefraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Pruef-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe fuer Hofuebergabe zu Lebzeiten."
+description: "Landwirt oder Hoferbe fragt nach Pachtvertrag-Bedingungen oder Erbfolge auf dem Hof nach HoefeO. Prüfraster Landpachtvertrag §§ 585 ff. BGB Pachtvertragsanzeige § 2 LPachtVG Pachtpreisanpassung § 593 BGB. Hoefeerbrecht HoefeO Anerbenrecht Hofeszession Abfindungsanspruch weichender Erben § 12 HoefeO Hofeswert. GAP-Foerderrecht Direktzahlungen Cross-Compliance Agrarumweltmassnahmen als Schnittstelle. Output Prüf-Memo Pacht-Vertrag oder Erb-Abfindungs-Berechnung mit Hofeswert-Ermittlung. Abgrenzung: fachanwalt-agrarrecht-hoefe-uebergabe für Hofuebergabe zu Lebzeiten."
 ---
 
 # Landpacht und Höfeerbfolge prüfen

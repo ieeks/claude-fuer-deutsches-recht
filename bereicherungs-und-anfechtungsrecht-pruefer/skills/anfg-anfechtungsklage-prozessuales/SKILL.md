@@ -1,6 +1,6 @@
 ---
 name: anfg-anfechtungsklage-prozessuales
-description: "Mandant hat vollstreckbaren Titel und will angefochtene Vermoegensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Pruefraster: Titel und Fristpruefung, Duldungs- vs. Wertersatzantrag, sachliche Zustaendigkeit AG/LG, oertliche Zustaendigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter."
+description: "Mandant hat vollstreckbaren Titel und will angefochtene Vermögensverschiebung gerichtlich angreifen: Anfechtungsklage nach AnfG erheben. Normen: §§ 2 11 13 AnfG, §§ 195 199 BGB. Prüfraster: Titel und Fristprüfung, Duldungs- vs. Wertersatzantrag, sachliche Zuständigkeit AG/LG, örtliche Zuständigkeit. Output: Klageantragsentwurf Duldungsurteil mit Hilfsantrag Wertersatz. Abgrenzung: nicht InsO-Anfechtung durch Insolvenzverwalter."
 ---
 
 # Anfechtungsklage AnfG — Prozessuales

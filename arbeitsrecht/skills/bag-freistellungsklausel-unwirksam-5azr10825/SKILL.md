@@ -1,6 +1,6 @@
 ---
 name: bag-freistellungsklausel-unwirksam-5azr10825
-description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Kuendigung unwirksam. Eine formularmaessige Klausel die Arbeitgeber nach Ausspruch einer Kuendigung einseitig zur Freistellung unter Fortzahlung berechtigt benachteiligt Arbeitnehmer unangemessen § 307 BGB. Freistellung weiterhin moeglich aber nur mit tragfaehigem Grund im konkreten Fall etwa ueberwiegende schutzwuerdige Interessen des Arbeitgebers. Pauschale Vorratsklausel reicht nicht. Beschaeftigungsanspruch BAG GS 1985."
+description: "BAG 25.03.2026 5 AZR 108/25 pauschale Freistellungsklausel nach Kündigung unwirksam. Eine formularmäßige Klausel die Arbeitgeber nach Ausspruch einer Kündigung einseitig zur Freistellung unter Fortzahlung berechtigt benachteiligt Arbeitnehmer unangemessen § 307 BGB. Freistellung weiterhin möglich aber nur mit tragfähigem Grund im konkreten Fall etwa ueberwiegende schutzwürdige Interessen des Arbeitgebers. Pauschale Vorratsklausel reicht nicht. Beschaeftigungsanspruch BAG GS 1985."
 ---
 
 # BAG 25.03.2026 — Pauschale Freistellungsklausel nach Kündigung unwirksam (5 AZR 108/25)

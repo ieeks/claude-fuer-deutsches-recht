@@ -1,6 +1,6 @@
 ---
 name: patronatserklaerung-extern-hart-erzeugen
-description: "Erzeugt eine harte externe Patronatserklaerung des Gesellschafters (oder eines Dritten) zugunsten der Gesellschaft. Erfasst Patron Begueneten Hoehe Bedingungen Laufzeit Insolvenzfeste Klausel. Zur Beruecksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO nur die harte externe Patronatserklaerung mit Forderungsdurchgriff im Insolvenzfall geeignet (BGH II ZR 174/00). Erzeugt Dokument als DOCX zur Unterzeichnung durch den Patron. Hinweis Patron muss bonitaer sein."
+description: "Erzeugt eine harte externe Patronatserklärung des Gesellschafters (oder eines Dritten) zugunsten der Gesellschaft. Erfasst Patron Begueneten Hoehe Bedingungen Laufzeit Insolvenzfeste Klausel. Zur Berücksichtigung im insolvenzrechtlichen Status nach § 19 Abs. 2 InsO nur die harte externe Patronatserklärung mit Forderungsdurchgriff im Insolvenzfall geeignet (BGH II ZR 174/00). Erzeugt Dokument als DOCX zur Unterzeichnung durch den Patron. Hinweis Patron muss bonitaer sein."
 ---
 
 # Externe harte Patronatserklärung

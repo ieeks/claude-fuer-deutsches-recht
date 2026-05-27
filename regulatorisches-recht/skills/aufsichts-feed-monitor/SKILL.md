@@ -1,6 +1,6 @@
 ---
 name: aufsichts-feed-monitor
-description: "Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen fuer Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Pruefraster: Relevanz fuer Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Aenderungen Handlungsliste. Abgrenzung: nicht fuer tiefe Regulierungsanalyse (stellungnahmen)."
+description: "Aufsichtsbehoerden-Mitteilungen und regulatorische Feeds monitoren und relevante Aenderungen für Mandanten identifizieren. KWG WpHG DORA VAG BaFin-Rundschreiben. Prüfraster: Relevanz für Mandant Umsetzungsfrist Handlungsbedarf Meldepflicht. Output: Monitoring-Bericht relevante Aenderungen Handlungsliste. Abgrenzung: nicht für tiefe Regulierungsanalyse (stellungnahmen)."
 ---
 
 # Regulatorischer Feed-Watcher

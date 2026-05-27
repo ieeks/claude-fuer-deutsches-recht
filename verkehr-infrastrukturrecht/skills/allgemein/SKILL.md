@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Verkehrs- und Infrastrukturrecht-Plugin: Planfeststellung, Strassenbahn, Ladeinfrastruktur, Parkraum, Foerderung, Vergabe, Sondernutzung, Schulwegsicherheit, Verkehrswende und Wirtschaftsverkehr in kommunalen und ueberregionalen Projekten."
+description: "Einstieg und Überblick für das Verkehrs- und Infrastrukturrecht-Plugin: Planfeststellung, Strassenbahn, Ladeinfrastruktur, Parkraum, Foerderung, Vergabe, Sondernutzung, Schulwegsicherheit, Verkehrswende und Wirtschaftsverkehr in kommunalen und ueberregionalen Projekten."
 ---
 
 # Verkehrs- und Infrastrukturrecht — Allgemein

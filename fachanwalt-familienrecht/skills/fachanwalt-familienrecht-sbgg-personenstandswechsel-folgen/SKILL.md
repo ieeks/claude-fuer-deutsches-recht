@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-sbgg-personenstandswechsel-folgen
-description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Personenstandswechsel ohne aerztliches Gutachten. Folgen fuer Sorgerecht Unterhalt Versorgungsausgleich Ehename Geschlechtseintrag Kinder. AG Lichtenberg 234 III 99/24 erste Verfahren. OLG Frankfurt 5 UF 33/25. Schreibvorlage Verstaendigung Familiengericht und Standesamt. Offenbarungsverbot § 6 SBGG Bussgeldbewehrung. Dreimonate-Vormerkungsfrist § 2 SBGG."
+description: "Spezial-Mandat Selbstbestimmungsgesetz SBGG in Kraft 1.11.2024 Personenstandswechsel ohne aerztliches Gutachten. Folgen für Sorgerecht Unterhalt Versorgungsausgleich Ehename Geschlechtseintrag Kinder. AG Lichtenberg 234 III 99/24 erste Verfahren. OLG Frankfurt 5 UF 33/25. Schreibvorlage Verständigung Familiengericht und Standesamt. Offenbarungsverbot § 6 SBGG Bußgeldbewehrung. Dreimonate-Vormerkungsfrist § 2 SBGG."
 ---
 
 # Selbstbestimmungsgesetz (SBGG) — Personenstandswechsel und Familienrechtsfolgen

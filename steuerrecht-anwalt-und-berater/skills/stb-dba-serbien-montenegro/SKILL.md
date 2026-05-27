@@ -1,6 +1,6 @@
 ---
 name: stb-dba-serbien-montenegro
-description: "Nachfolge-DBA Jugoslawien fuer Serbien und Montenegro. Anwendungsfall Mittelstand Diaspora Pensionen Bauausfuehrung Beteiligungen. Aelteres DBA mit roemischen Artikelnummern. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "Nachfolge-DBA Jugoslawien für Serbien und Montenegro. Anwendungsfall Mittelstand Diaspora Pensionen Bauausführung Beteiligungen. Aelteres DBA mit roemischen Artikelnummern. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Serbien/Montenegro (Nachfolge Jugoslawien)

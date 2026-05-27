@@ -1,6 +1,6 @@
 ---
 name: formular-erzeugung
-description: "Formulare und Antragsdokumente fuer Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz fuer Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Pruefraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf fuer individuelle Schriftsaetze und zu Mandantenbrief."
+description: "Formulare und Antragsdokumente für Rechtsberatungsstelle erstellen: Anwendungsfall Mandant braucht ausgefuellten Antrag Vollmacht Widerspruch oder Schriftsatz für Behoerde oder Gericht. BeratungsHiG Beratungsschein, BRAO, Formulare Sozialrecht Mietrecht Arbeitsrecht. Prüfraster Formular-Typ bestimmen, Pflichtfelder ermitteln, Rückfragen minimal halten, Fristen beachten. Output ausgefuelltes Formular oder Antragsentwurf mit Einreichungshinweisen. Abgrenzung zu Entwurf für individuelle Schriftsaetze und zu Mandantenbrief."
 ---
 
 # [VERALTET] Formularerstellung → siehe `/entwurf`

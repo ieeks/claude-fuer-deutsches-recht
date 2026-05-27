@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das ZVG-Plugin: Zwangsverwaltung und Versteigerung von Immobilien — Beschlagnahme, Besitzerlangung, Miet- und Pachtverwaltung, Treuhandkonto, Rechnungslegung, Verteilungsplan, Insolvenzschnittstelle, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme."
+description: "Einstieg und Überblick für das ZVG-Plugin: Zwangsverwaltung und Versteigerung von Immobilien — Beschlagnahme, Besitzerlangung, Miet- und Pachtverwaltung, Treuhandkonto, Rechnungslegung, Verteilungsplan, Insolvenzschnittstelle, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme."
 ---
 
 # Zwangsverwaltung ZVG — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: familienrichter-spezifika
-description: "FamFG-Spezifika fuer Familienrichter anwenden: Richter am Familiengericht muss Beschluss statt Urteil abfassen. Normen: § 38 FamFG (Beschluss), § 137 FamFG (Verbund- und Folgesachen), § 1697a BGB (Kindeswohlpruefung), FamFG §§ 58 ff. (Beschwerde), VersAusglG. Pruefraster: Verbundpflicht, Versorgungsausgleich von Amts wegen, Rechtsmittelbelehrung FamFG, Sorgerechtsbeschluesse. Output FamFG-Beschluss-Entwurf, Verbund-Checkliste. Abgrenzung: Familienrecht materiell siehe fachanwalt-familienrecht-Plugin; ZPO-Beschluesse siehe beschluss-bauen-zpo."
+description: "FamFG-Spezifika für Familienrichter anwenden: Richter am Familiengericht muss Beschluss statt Urteil abfassen. Normen: § 38 FamFG (Beschluss), § 137 FamFG (Verbund- und Folgesachen), § 1697a BGB (Kindeswohlprüfung), FamFG §§ 58 ff. (Beschwerde), VersAusglG. Prüfraster: Verbundpflicht, Versorgungsausgleich von Amts wegen, Rechtsmittelbelehrung FamFG, Sorgerechtsbeschluesse. Output FamFG-Beschluss-Entwurf, Verbund-Checkliste. Abgrenzung: Familienrecht materiell siehe fachanwalt-familienrecht-Plugin; ZPO-Beschluesse siehe beschluss-bauen-zpo."
 ---
 
 # Familienrichter Spezifika

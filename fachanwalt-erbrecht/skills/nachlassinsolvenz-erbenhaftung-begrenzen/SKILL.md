@@ -1,6 +1,6 @@
 ---
 name: nachlassinsolvenz-erbenhaftung-begrenzen
-description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Pruefraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht fuer Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung)."
+description: "Nachlassinsolvenz beantragen oder Erbenhaftung auf den Nachlass begrenzen wenn Nachlass ueberschuldet ist. §§ 1975 1980 2059 BGB Nachlassinsolvenz §§ 315 ff. InsO. Prüfraster: Nachlassueberschuldung Antragspflicht Frist Haftungsbeschraenkung Inventarrecht Nachlassverwaltung. Output: Nachlassinsolvenantrag Haftungsbeschraenkungsstrategie. Abgrenzung: nicht für Ausschlagung (fachanwalt-erbrecht-erbschaftsausschlagung)."
 ---
 
 # Nachlassinsolvenz und Erbenhaftung begrenzen

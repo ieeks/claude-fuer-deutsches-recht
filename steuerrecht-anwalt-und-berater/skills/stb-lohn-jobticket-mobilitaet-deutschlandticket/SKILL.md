@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-jobticket-mobilitaet-deutschlandticket
-description: "Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall AG erstattet AN Mobilitaetsticket OePNV oder bietet Jobticket steuerfrei nach § 3 Nr 15 EStG Auswirkung auf Entfernungspauschale. Methodik Pruefung Konfiguration. Output Lohn-Abrechnung mit Jobticket."
+description: "Jobticket Deutschlandticket steuerliche Behandlung. Anwendungsfall AG erstattet AN Mobilitaetsticket OePNV oder bietet Jobticket steuerfrei nach § 3 Nr 15 EStG Auswirkung auf Entfernungspauschale. Methodik Prüfung Konfiguration. Output Lohn-Abrechnung mit Jobticket."
 ---
 
 # Jobticket und Deutschlandticket — Steuerliche Behandlung

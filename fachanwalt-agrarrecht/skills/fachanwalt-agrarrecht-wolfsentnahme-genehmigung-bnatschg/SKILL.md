@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-agrarrecht-wolfsentnahme-genehmigung-bnatschg
-description: "Sondergenehmigung zur Entnahme einzelner Woelfe nach § 45 Abs. 7 BNatSchG bei nachgewiesenen Nutztierrissen. Schnellabschuss-Verfahren § 45a BNatSchG 2024 mit 1000-Meter-Radius. Antrag bei oberster Naturschutzbehoerde des Landes. Voraussetzungen ernster wirtschaftlicher Schaden zumutbare Schutzmassnahmen erfolglos keine zumutbare Alternative. EuGH C-674/17 Pieksaemen. EU-Habitatrichtlinie Art. 16 Anhang IV. Workflow Antrag Begruendung Beweisfuehrung."
+description: "Sondergenehmigung zur Entnahme einzelner Woelfe nach § 45 Abs. 7 BNatSchG bei nachgewiesenen Nutztierrissen. Schnellabschuss-Verfahren § 45a BNatSchG 2024 mit 1000-Meter-Radius. Antrag bei oberster Naturschutzbehoerde des Landes. Voraussetzungen ernster wirtschaftlicher Schaden zumutbare Schutzmassnahmen erfolglos keine zumutbare Alternative. EuGH C-674/17 Pieksaemen. EU-Habitatrichtlinie Art. 16 Anhang IV. Workflow Antrag Begründung Beweisführung."
 ---
 
 # Wolfsentnahme — Schnellabschuss-Verfahren § 45 BNatSchG

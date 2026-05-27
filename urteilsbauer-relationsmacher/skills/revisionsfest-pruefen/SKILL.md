@@ -1,6 +1,6 @@
 ---
 name: revisionsfest-pruefen
-description: "Pruefung gegen Aufhebung in der Revision: absolute Revisionsgruende Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begruendungstiefe Beweiswuerdigung Vollstaendigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstpruefliste vor Urteilsversand."
+description: "Prüfung gegen Aufhebung in der Revision: absolute Revisionsgründe Paragraf 547 ZPO Revisionszulassung Paragraf 543 ZPO grundsaetzliche Bedeutung Rechtsfortbildung Sicherung einheitlicher Rechtsprechung. Begründungstiefe Beweiswürdigung Vollständigkeit Tatsachenfeststellung. Mit BGH-Linien typischen Fallstricken Beispielen aus aktueller Rspr und Selbstprüfliste vor Urteilsversand."
 ---
 
 # Revisionsfestigkeit prüfen

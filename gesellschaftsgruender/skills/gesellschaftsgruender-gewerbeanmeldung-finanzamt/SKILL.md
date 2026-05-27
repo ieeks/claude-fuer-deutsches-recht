@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gewerbeanmeldung-finanzamt
-description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gruendung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Pruefraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB."
+description: "Gewerbeanmeldung und steuerliche Ersterfassung nach GmbH-Gründung vorbereiten: Fragebogen Finanzamt, Gewerbeamt. Normen: § 14 GewO, AO, UStG. Prüfraster: Steuerklassen, USt-Voranmeldung, Betriebsstaette, Umsatzsteuer-ID. Output: Ausfuell-Checkliste Gewerbeanmeldung und Finanzamt-Fragebogen. Abgrenzung: nicht Handelsregisteranmeldung HRB."
 ---
 
 # Gewerbeanmeldung und Finanzamt-Erfassung

@@ -1,6 +1,6 @@
 ---
 name: mindestlohn-arbeitszeit-erfassung
-description: "Arbeitnehmer klagt auf Mindestlohn oder Ueberstunden und Arbeitgeber hat keine Arbeitszeitdokumentation. Pruefraster EuGH C-55/18 CCOO BAG 1 ABR 22/21 Pflicht zur Zeiterfassung nach § 3 Abs. 2 Nr. 1 ArbSchG. Mindestlohn aktuell EUR 12.82 ab 1.1.2025 EUR 13.90 ab 1.1.2026 § 1 MiLoG. Beweiserleichterung bei fehlender Erfassung fuer Arbeitnehmer. Arbeitszeit-Begriff: Bereitschaft Rufbereitschaft Wegezeit. Sanktionen § 21 MiLoG bis EUR 500000 § 23 MiLoG Ausschluss oeffentliche Vergabe. Output Berechnung Rueckstand-Memo Verteidigungsstrategie fuer Arbeitgeber. Abgrenzung: Fehlzeiten-Register fuer laufende Abwesenheitsverfolgung."
+description: "Arbeitnehmer klagt auf Mindestlohn oder Überstunden und Arbeitgeber hat keine Arbeitszeitdokumentation. Prüfraster EuGH C-55/18 CCOO BAG 1 ABR 22/21 Pflicht zur Zeiterfassung nach § 3 Abs. 2 Nr. 1 ArbSchG. Mindestlohn aktuell EUR 12.82 ab 1.1.2025 EUR 13.90 ab 1.1.2026 § 1 MiLoG. Beweiserleichterung bei fehlender Erfassung für Arbeitnehmer. Arbeitszeit-Begriff: Bereitschaft Rufbereitschaft Wegezeit. Sanktionen § 21 MiLoG bis EUR 500000 § 23 MiLoG Ausschluss öffentliche Vergabe. Output Berechnung Rückstand-Memo Verteidigungsstrategie für Arbeitgeber. Abgrenzung: Fehlzeiten-Register für laufende Abwesenheitsverfolgung."
 ---
 
 # Mindestlohn und Arbeitszeit-Erfassung

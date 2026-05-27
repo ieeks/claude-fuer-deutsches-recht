@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bau-architektenrecht-werkmangel-pruefen
-description: "Werkmaengel an Bauwerk nach BGB und VOB/B pruefen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Pruefraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme."
+description: "Werkmaengel an Bauwerk nach BGB und VOB/B prüfen: Beschaffenheitsvereinbarung, Ist-Zustand, Ursache. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: Mangeldefinition, Dokumentation, Fristsetzung Nacherfuellung, Gewaehrleistungsfristen. Output: Mangelruege und Nacherfuellungsaufforderung. Abgrenzung: nicht Abnahme."
 ---
 
 # Werkmangel prüfen — Bau- und Werkvertragsrecht

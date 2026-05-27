@@ -1,6 +1,6 @@
 ---
 name: us-trade-dress-und-secondary-meaning
-description: "US Trade Dress Protection fuer Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schuetzen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Pruefraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke."
+description: "US Trade Dress Protection für Produktaufmachung und Produktgestaltung: Luxusmarke will Gesamterscheinungsbild oder Produktform in den USA schützen. Normen: Lanham Act § 43(a) 15 U.S.C. § 1125(a), Wal-Mart v. Samara Bros. 529 U.S. 205 (Product Configuration erfordert Secondary Meaning), TrafFix Devices 532 U.S. 23 (Functionality Doctrine). Prüfraster: Inherent Distinctiveness vs. Secondary Meaning, Functionality-Einwand, Nachahmungsnachweis. Output Trade Dress Strategy Memo, Secondary-Meaning-Nachweis-Konzept. Abgrenzung: US-Markenanmeldung siehe uspto-anmeldung-und-lanham-act; EU 3D-Marke siehe dreidimensionale-marke."
 ---
 
 # US Trade Dress und Secondary Meaning

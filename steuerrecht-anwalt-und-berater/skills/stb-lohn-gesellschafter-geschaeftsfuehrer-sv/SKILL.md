@@ -1,6 +1,6 @@
 ---
 name: stb-lohn-gesellschafter-geschaeftsfuehrer-sv
-description: "Gesellschafter-Geschaeftsfuehrer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Pruefung GGF einer GmbH ob abhaengig beschaeftigt oder selbstaendig taetig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandanten-Notiz."
+description: "Gesellschafter-Geschäftsführer GGF SV-Pflicht oder SV-Befreiung. Anwendungsfall Prüfung GGF einer GmbH ob abhaengig beschaeftigt oder selbständig tätig Statusfeststellung. Methodik Kriterienkatalog Beteiligung Weisungsgebundenheit Sperrminoritaet. Output Statusfeststellungs-Antrag Bescheid Mandanten-Notiz."
 ---
 
 # Gesellschafter-Geschaeftsfuehrer — SV-Pflicht oder Befreiung

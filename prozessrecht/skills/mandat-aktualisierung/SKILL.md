@@ -1,6 +1,6 @@
 ---
 name: mandat-aktualisierung
-description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Pruefraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung."
+description: "Laufendes Prozessmandat aktualisieren: neue Schriftsaetze, Beschluesse, Fristen eintragen. Normen: §§ 233 ff. ZPO. Prüfraster: Fristverfolgung, Sachstandsaktualisierung, offene Handlungspunkte. Output: Aktualisiertes Mandats-Protokoll. Abgrenzung: nicht Mandatseroffnung."
 ---
 
 # Mandats-Aktualisierung

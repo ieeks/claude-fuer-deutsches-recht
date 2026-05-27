@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bank-kapitalmarktrecht
-description: "Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen. Verjaehrung §§ 195 199 Abs. 3 BGB 3 Jahre / 10 Jahre. Normen je nach Routing. Pruefraster Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation Kontosperrung BaFin-Anordnung. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-bank-kapitalmarktrecht-orientierung (Ueberblick)."
+description: "Bank- oder Kapitalmarktrechts-Mandat trifft ein und muss strukturiert erfasst werden: Sachgebiet Mandantenrolle Sofort-Fristen. Verjährung §§ 195 199 Abs. 3 BGB 3 Jahre / 10 Jahre. Normen je nach Routing. Prüfraster Sachgebiets-Zuordnung Fristen-Sofort-Check Eskalation Kontosperrung BaFin-Anordnung. Output Mandat-Karte Routing-Empfehlung Handlungsweichen. Abgrenzung zu erstgespraech-mandatsannahme (Vollaufnahme) und fachanwalt-bank-kapitalmarktrecht-orientierung (Überblick)."
 ---
 
 # Mandat-Triage Bank- und Kapitalmarktrecht

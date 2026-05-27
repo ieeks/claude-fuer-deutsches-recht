@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Rechtsberatungsstellen-Plugin: RDG-konforme Pro-Bono-Beratung durch Studierende, Mandantenintake, Fristenkontrolle, Schriftstuckerstellung, einfache Sprache, Semesteruebergabe und Anleiter-Aufsicht fuer universitaere und gemeinnuetzige Rechtsberatungsstellen."
+description: "Einstieg und Überblick für das Rechtsberatungsstellen-Plugin: RDG-konforme Pro-Bono-Beratung durch Studierende, Mandantenintake, Fristenkontrolle, Schriftstuckerstellung, einfache Sprache, Semesteruebergabe und Anleiter-Aufsicht für universitaere und gemeinnuetzige Rechtsberatungsstellen."
 ---
 
 # Rechtsberatungsstelle — Allgemein

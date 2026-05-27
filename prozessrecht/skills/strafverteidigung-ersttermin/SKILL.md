@@ -1,6 +1,6 @@
 ---
 name: strafverteidigung-ersttermin
-description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Pruefraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht)."
+description: "Ersttermin bei Strafverteidigung vorbereiten: Akteneinsicht, Schweigepflicht, prozessuale Schritte. Normen: §§ 137 147 StPO. Prüfraster: Akteneinsichtsrecht, Mandatsverhältnis, erste Verteidigungsoptionen. Output: Checkliste Ersttermin Strafverteidigung. Abgrenzung: nicht ZPO-Prozessrecht (Zivilrecht)."
 ---
 
 # Strafverteidigung – Ersttermin und erste Schritte

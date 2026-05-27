@@ -1,6 +1,6 @@
 ---
 name: pruefungsbescheid-vorbereiten
-description: "Bereitet Antwort auf Pruefungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Taetigkeit Argument Anspruchsanpassung). Beruecksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Art. 84 EPUe) added subject-matter (Art. 123(2) EPUe) und unity (Art. 82 EPUe). Liefert Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlaegen. Disclaimer Eingabe muss durch Patentanwaeltin gegengelesen und verantwortet werden."
+description: "Bereitet Antwort auf Prüfungsbescheid des DPMA nach § 45 PatG oder des EPA nach Art. 94 EPUe systematisch vor. Liest den Bescheid und die zitierten Entgegenhaltungen ein. Strukturiert pro Beanstandung: Beanstandung wortlautgetreu zitiert betroffener Anspruch zitierte Entgegenhaltung mit Pinpoint Argumentationsvorschlag (Neuheit-Argument erfinderische Tätigkeit Argument Anspruchsanpassung). Berücksichtigt EPA-Schemata Problem-Solution-Approach und EPA-Hinweise auf clarity (Art. 84 EPUe) added subject-matter (Art. 123(2) EPUe) und unity (Art. 82 EPUe). Liefert Entwurf der Eingabe mit Argumentationsstruktur und Anspruchssatz-Vorschlaegen. Disclaimer Eingabe muss durch Patentanwaeltin gegengelesen und verantwortet werden."
 ---
 
 # prüfungsbescheid-vorbereiten

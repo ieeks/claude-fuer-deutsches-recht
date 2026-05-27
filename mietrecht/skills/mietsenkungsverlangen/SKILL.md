@@ -1,6 +1,6 @@
 ---
 name: mietsenkungsverlangen
-description: Mietersicht — pruefe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoss gegen die Mietpreisbremse (§§ 556d ff. BGB) gegen § 5 WiStG (Mietpreisueberhoehung) und gegen § 291 StGB (Wucher). Erzeugt eine qualifizierte Ruege nach § 556g Abs. 2 BGB mit Berechnung der zulaessigen Miete Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rueckzahlung. Disclaimer mehrfach im Text.
+description: Mietersicht — prüfe eine laufende oder bei Vertragsschluss vereinbarte Miete auf Verstoss gegen die Mietpreisbremse (§§ 556d ff. BGB) gegen § 5 WiStG (Mietpreisueberhoehung) und gegen § 291 StGB (Wucher). Erzeugt eine qualifizierte Ruege nach § 556g Abs. 2 BGB mit Berechnung der zulässigen Miete Bezugnahme auf den amtlichen Mietspiegel und Aufforderung zur Rückzahlung. Disclaimer mehrfach im Text.
 ---
 
 # Mietsenkungsverlangen (Mietpreisbremse, WiStG, Wucher)

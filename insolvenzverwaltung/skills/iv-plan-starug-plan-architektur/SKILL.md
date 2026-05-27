@@ -1,6 +1,6 @@
 ---
 name: iv-plan-starug-plan-architektur
-description: "StaRUG-Restrukturierungsplan vollstaendig strukturieren von Planbetroffenenauswahl bis Bestaetigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung und Gerichtsverfahren. Pruefraster: Restrukturierungsfaehigkeit drohende ZU gestaltbare Rechtsverhaeltnisse Plananlagen Bestaetigungsvoraussetzungen. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht fuer InsO-Plan (iv-plan-insolvenzplan-architektur)."
+description: "StaRUG-Restrukturierungsplan vollständig strukturieren von Planbetroffenenauswahl bis Bestätigungspfad. §§ 6 7 8 StaRUG Planinhalt §§ 60 ff. StaRUG Abstimmung und Gerichtsverfahren. Prüfraster: Restrukturierungsfähigkeit drohende ZU gestaltbare Rechtsverhältnisse Plananlagen Bestätigungsvoraussetzungen. Output: StaRUG-Plan-Skelett Planbetroffenenliste Anlagenpaket. Abgrenzung: nicht für InsO-Plan (iv-plan-insolvenzplan-architektur)."
 ---
 
 # IV-integrierte StaRUG-Plan-Architektur

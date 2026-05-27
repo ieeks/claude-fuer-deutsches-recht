@@ -1,6 +1,6 @@
 ---
 name: kueschk-streitwert-kostenfolge-prozesskostenhilfe
-description: "Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO fuer einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten."
+description: "Streitwert nach § 42 GKG drei Bruttomonatsgehaelter; § 12a ArbGG keine Kostenerstattung erste Instanz; Ausnahme Berufung; Prozesskostenhilfe §§ 114 ff. ZPO für einkommensschwache Parteien; praktische Hinweise zu Gerichtskosten."
 ---
 
 # Streitwert, Kostenfolge und Prozesskostenhilfe

@@ -1,6 +1,6 @@
 ---
 name: dokumente-rendern-urteil-docx
-description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Pruefraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Tenor, Tatbestand, Entscheidungsgruende, Rechtsmittelbelehrung, Unterschriftenzeile. Output DOCX-Datei (und optional PDF) nach deutschem Gerichtsstandard. Abgrenzung: Inhalt des Urteils schreiben siehe entscheidungsgruende-zivil-schreiben, tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil."
+description: "Zivilurteil als DOCX im offiziellen Gerichtslayout rendern: Richter oder Referendar will fertiges Urteil als Dokument ausgeben. Normen: § 313 ZPO (Urteilsinhalt und -form). Prüfraster: Gerichtslayout (Aktenzeichen, Gerichtsbezeichnung, IM NAMEN DES VOLKES), Parteien, Anwaelte, Spruchkoerper, Tenor, Tatbestand, Entscheidungsgründe, Rechtsmittelbelehrung, Unterschriftenzeile. Output DOCX-Datei (und optional PDF) nach deutschem Gerichtsstandard. Abgrenzung: Inhalt des Urteils schreiben siehe entscheidungsgründe-zivil-schreiben, tatbestand-zivil-schreiben; Tenor siehe tenor-bauen-zivil."
 ---
 
 # Urteil rendern - DOCX und PDF im Gerichtslayout

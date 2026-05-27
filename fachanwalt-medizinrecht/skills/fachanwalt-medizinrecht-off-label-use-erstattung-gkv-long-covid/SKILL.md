@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-off-label-use-erstattung-gkv-long-covid
-description: "Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-Entscheidung Off-Label-Use, SGB V Arzneimittel-Richtlinien. Pruefraster Off-Label-Voraussetzungen medizinische Indikation, Erstattungsantrag und Widerspruch bei GKV, Klage Sozialgericht bei Ablehnung, Long-Covid Sonderregelungen. Output Widerspruchs- oder Klage-Schriftsatz fuer GKV-Erstattungsstreit. Abgrenzung zu Kassenarztrecht und zu Behandlungsvertrag-630a."
+description: "Off-Label-Use und GKV-Erstattungsstreitigkeiten insbesondere Long-Covid: Anwendungsfall Patient benoetigt nicht zugelassenes Medikament oder Therapie und GKV verweigert Erstattung. § 12 SGB V Wirtschaftlichkeitsgebot, BVerfGE 115/25 NZB-Entscheidung Off-Label-Use, SGB V Arzneimittel-Richtlinien. Prüfraster Off-Label-Voraussetzungen medizinische Indikation, Erstattungsantrag und Widerspruch bei GKV, Klage Sozialgericht bei Ablehnung, Long-Covid Sonderregelungen. Output Widerspruchs- oder Klage-Schriftsatz für GKV-Erstattungsstreit. Abgrenzung zu Kassenarztrecht und zu Behandlungsvertrag-630a."
 ---
 
 # Off-Label-Use Erstattung GKV — Long-COVID / ME/CFS

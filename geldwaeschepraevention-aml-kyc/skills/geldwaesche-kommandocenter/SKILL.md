@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-kommandocenter
-description: "Kommandocenter fuer alle Geldwaesche- KYC- Sanktions- und Behoerdenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Pruefraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwaesche-verpflichteten-check und geldwaesche-simulation-testlauf."
+description: "Kommandocenter für alle Geldwäsche- KYC- Sanktions- und Behoerdenfaelle vom Intake bis zum Massnahmenplan. Anwendungsfall Compliance-Beauftragter oder Anwalt erhaelt neuen Fall und muss schnell den richtigen Workflow starten. Normen GwG gesamt § 43 GwG Verdachtsmeldung § 10 GwG Sorgfaltspflichten. Prüfraster Verpflichtetencheck Risikoklasse KYC-Status Sanktionsscreening Verdachtsfall Eskalation. Output Triage-Ergebnis mit Routing zum passenden Skill Statusampel und naechsten Schritten. Abgrenzung zu geldwäsche-verpflichteten-check und geldwäsche-simulation-testlauf."
 ---
 
 # AML/KYC-Kommandocenter

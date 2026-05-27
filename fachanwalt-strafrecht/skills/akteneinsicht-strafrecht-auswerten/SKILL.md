@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-strafrecht-auswerten
-description: "Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverstaendige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Pruefung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisantraegen Befangenheits-Pruefung und Vermerk fuer Beweisverwertung."
+description: "Strukturierte Auswertung der Strafakte nach Akteneinsicht § 147 StPO. Erstellt Beweismittelverzeichnis (Urkunden Augenscheinsobjekte Zeugen Sachverständige) Personenregister Chronologie Aussagen-Synopse mit Inkonsistenzen Verwertungsverbots-Prüfung Belehrungsfehler § 136a StPO Beschuldigtenrechte § 136 StPO Beweisverwertungsverbote sowie Verteidigungsstrategie-Optionen. Ergebnis ist Aktenexzerpt zur Hauptverhandlungsvorbereitung mit Beweisanträgen Befangenheits-Prüfung und Vermerk für Beweisverwertung."
 ---
 
 # Akteneinsicht — Strafakte auswerten

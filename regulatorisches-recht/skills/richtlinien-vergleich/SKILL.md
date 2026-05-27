@@ -1,6 +1,6 @@
 ---
 name: richtlinien-vergleich
-description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Pruefraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht fuer Lueckenanalyse (luecken)."
+description: "Zwei oder mehr Versionen regulatorischer Richtlinien vergleichen und Unterschiede darstellen. KWG WpHG DSGVO DORA GwG. Prüfraster: Strukturvergleich inhaltliche Unterschiede Aenderungshistorie Bedeutung der Aenderungen. Output: Vergleichstabelle Differenzanalyse. Abgrenzung: nicht für Lueckenanalyse (luecken)."
 ---
 
 # Richtlinien-Diff

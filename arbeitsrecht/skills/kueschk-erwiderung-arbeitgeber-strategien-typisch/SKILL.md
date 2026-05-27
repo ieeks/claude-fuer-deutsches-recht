@@ -1,6 +1,6 @@
 ---
 name: kueschk-erwiderung-arbeitgeber-strategien-typisch
-description: "Typische Verteidigungsstrategien des Arbeitgebers im Kuendigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rueckkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik."
+description: "Typische Verteidigungsstrategien des Arbeitgebers im Kündigungsschutzprozess: Hinhaltetaktik; Stricken-Anwaelte; Nachgeben-Risiko und Rückkehrpflicht; Angriffe auf Fristen und KSchG-Geltungsbereich; Beweislast-Taktik."
 ---
 
 # Typische Arbeitgeber-Strategien im Kündigungsschutzprozess

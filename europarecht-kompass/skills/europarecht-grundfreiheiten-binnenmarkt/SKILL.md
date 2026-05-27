@@ -1,6 +1,6 @@
 ---
 name: europarecht-grundfreiheiten-binnenmarkt
-description: "Grundfreiheiten des Binnenmarkts pruefen wenn grenzueberschreitende Wirtschaftstaetigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Pruefraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhaeltnismaessigkeit Cassis-Doktrin. Output: Grundfreiheiten-Pruefschema Pruefmemo. Abgrenzung: nicht fuer EU-Beihilfen (europarecht-beihilfen-vergaben)."
+description: "Grundfreiheiten des Binnenmarkts prüfen wenn grenzüberschreitende Wirtschaftstätigkeit oder nationale Beschraenkung in Frage steht. Art. 34 45 49 56 63 AEUV Warenverkehr Personenfreizuegigkeit Niederlassungsfreiheit. Prüfraster: Anwendungsbereich Beschraenkung Rechtfertigung Verhältnismäßigkeit Cassis-Doktrin. Output: Grundfreiheiten-Prüfschema Prüfmemo. Abgrenzung: nicht für EU-Beihilfen (europarecht-beihilfen-vergaben)."
 ---
 
 # Grundfreiheiten und Binnenmarkt

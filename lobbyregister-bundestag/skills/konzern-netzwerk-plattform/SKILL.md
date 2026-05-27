@@ -1,6 +1,6 @@
 ---
 name: konzern-netzwerk-plattform
-description: "Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Taetigkeiten. Output Eintragungseinheiten-Map."
+description: "Strukturiert Lobbyregisterfragen bei Konzernen, Verbaenden, losen Netzwerken, Plattformen und sonstigen kollektiven Tätigkeiten. Output Eintragungseinheiten-Map."
 ---
 
 # Konzern, Netzwerk und Plattform

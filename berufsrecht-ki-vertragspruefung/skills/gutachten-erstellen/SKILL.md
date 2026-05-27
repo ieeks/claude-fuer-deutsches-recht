@@ -1,6 +1,6 @@
 ---
 name: gutachten-erstellen
-description: "Erstelle das zusammenfassende Forpruefungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Pruefpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat Ampelbewertung Lueckenliste Handlungsempfehlung. Ausdruecklich keine Rechtsberatung sondern strukturierte Argumentationshilfe fuer das Anbietergespraech."
+description: "Erstelle das zusammenfassende Forprüfungs-Gutachten zum KI-Anbietervertrag. Aufbau Eingangsdaten Norm-Adapter Prüfpunkte Erforderlichkeit Verschwiegenheit Belehrung Subunternehmer Strafprozess TOM Drittstaat Ampelbewertung Lueckenliste Handlungsempfehlung. Ausdrücklich keine Rechtsberatung sondern strukturierte Argumentationshilfe für das Anbietergespraech."
 ---
 
 # Forprüfungs-Gutachten erstellen

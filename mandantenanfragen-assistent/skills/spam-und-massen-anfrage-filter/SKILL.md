@@ -1,6 +1,6 @@
 ---
 name: spam-und-massen-anfrage-filter
-description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Pruefraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker."
+description: "Sekretariat hat Anfrage erhalten die verdaechtig ausschaut. Spam-Erkennung Kanzlei-Eingang. Prüfraster: Spam Werbung 419-Scams automatisierte Recruiter-Mails Massen-Mandantenanfragen Phishing. Output: Spam-Einschaetzung mit Empfehlung Aussortierung oder Nachfrage. Abgrenzung zu anfrage-eingang-parser (echte Anfragen) und dringlichkeitsmarker."
 ---
 
 # Spam-und-Massen-Anfrage-Filter

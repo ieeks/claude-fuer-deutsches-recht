@@ -1,6 +1,6 @@
 ---
 name: erstregistrierung-ausfuellen
-description: "Fuehrt Schritt fuer Schritt durch den Portal-Ersteintrag: Stammdaten, Personen, Taetigkeit, Finanzen, Vorhaben, Auftraege und Uploads. Output Eingabeplan."
+description: "Führt Schritt für Schritt durch den Portal-Ersteintrag: Stammdaten, Personen, Tätigkeit, Finanzen, Vorhaben, Auftraege und Uploads. Output Eingabeplan."
 ---
 
 # Erstregistrierung ausfuellen

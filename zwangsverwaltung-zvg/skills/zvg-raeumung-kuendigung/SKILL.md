@@ -1,6 +1,6 @@
 ---
 name: zvg-raeumung-kuendigung
-description: "Raeumung Kuendigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kuendigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB fristlose Kuendigung § 573 BGB ordentliche Kuendigung § 721 ZPO Raeumungsfrist. Pruefraster Schuldnerwohnrechte Mieterrechte Kuendigungsgruende Zutrittsrechte gerichtlicher Klageweg Raeumungsantrag. Output Kuendigungsschreiben und Raeumungsklage-Baustein mit Disclaimer. Abgrenzung zu zvg-mieteinzug-rueckstaende und zvg-glaeubiger-schuldner-kommunikation."
+description: "Räumung Kündigung und Besitzkonflikte in der Zwangsverwaltung. Anwendungsfall Schuldner weigert sich auszuziehen oder Mieter soll nach Zwangsverwaltungsende kündigt werden. Normen § 150 ZVG Besitzrecht § 543 BGB fristlose Kündigung § 573 BGB ordentliche Kündigung § 721 ZPO Räumungsfrist. Prüfraster Schuldnerwohnrechte Mieterrechte Kündigungsgründe Zutrittsrechte gerichtlicher Klageweg Räumungsantrag. Output Kündigungsschreiben und Räumungsklage-Baustein mit Disclaimer. Abgrenzung zu zvg-mieteinzug-rückstaende und zvg-gläubiger-schuldner-kommunikation."
 ---
 
 # Räumung, Kündigung und Besitzkonflikte

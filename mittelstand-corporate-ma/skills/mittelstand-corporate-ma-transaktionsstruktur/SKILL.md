@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-transaktionsstruktur
-description: "Transaktionsstrukturierung: Entwickelt Strukturvarianten fuer Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung."
+description: "Transaktionsstrukturierung: Entwickelt Strukturvarianten für Share Deal, Asset Deal, Carve-out, Joint Venture, Verschmelzung, Spaltung, Formwechsel, Roll-over und Managementbeteiligung."
 ---
 
 # Transaktionsstrukturierung

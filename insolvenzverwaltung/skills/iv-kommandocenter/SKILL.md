@@ -1,6 +1,6 @@
 ---
 name: iv-kommandocenter
-description: "Einstiegspunkt fuer neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Pruefraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortfuehrung Masseampel Fristen. Output: Verfahrenskarte Beteiligtenregister Risiko-Priorisierung To-do-Liste. Abgrenzung: Einstieg und Triage; Detailarbeit je Workstream in Spezialist-Skills."
+description: "Einstiegspunkt für neue Insolvenzverwaltungsmandate: Verfahrensart bestimmen Prioritaeten setzen naechste Workstreams planen. §§ 56 80 InsO Verwalterbestellung § 270d Schutzschirm StaRUG. Prüfraster: Verfahrensrolle Sicherungsmassnahmen Betriebsfortführung Masseampel Fristen. Output: Verfahrenskarte Beteiligtenregister Risiko-Priorisierung To-do-Liste. Abgrenzung: Einstieg und Triage; Detailarbeit je Workstream in Spezialist-Skills."
 ---
 
 # Insolvenzverwaltungs-Kommandocenter

@@ -1,6 +1,6 @@
 ---
 name: prozesskostenhilfe-antrag
-description: "Anwalt erstellt PKH-Antrag fuer Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Pruefraster: Erklaerung persoenliche und wirtschaftliche Verhaeltnisse Formular ZP1a Nachweise Einkommen Vermoegen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung moeglich. Output: vollstaendiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-pruefen (Vorpruefung Erfolgsaussicht) und klage-sozialgericht."
+description: "Anwalt erstellt PKH-Antrag für Sozialgerichtsverfahren und muss alle Belege korrekt zusammenstellen. § 73a SGG iVm §§ 114 ff. ZPO. Prüfraster: Erklärung persoenliche und wirtschaftliche Verhältnisse Formular ZP1a Nachweise Einkommen Vermögen Belastungen Miete Unterhalt. Beiordnungsantrag Rechtsanwalt kein Anwaltszwang vor SG aber Beiordnung möglich. Output: vollständiger PKH-Antrag mit Anlagenverzeichnis. Abgrenzung zu pkh-erfolgsaussicht-prüfen (Vorprüfung Erfolgsaussicht) und klage-sozialgericht."
 ---
 
 # Prozesskostenhilfe-Antrag (Sozialgericht)

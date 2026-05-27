@@ -1,6 +1,6 @@
 ---
 name: transkriptionsdienst-erklaerung
-description: "Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklaerung in Erstantwort. Pruefraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis fuer Erstantwort. Abgrenzung zu einwilligung-hinweis-datenschutz (DSGVO-Klausel) und erstantwort-generator."
+description: "Mandant kann seinen Fall nicht schriftlich schildern und soll stattdessen anrufen. Transkriptionsservice Erklärung in Erstantwort. Prüfraster: Telefonnummer Ablauf des Anrufs Verarbeitungshinweis DSGVO-Einwilligung Kein-Mandat-Hinweis. Output: Transkriptionsservice-Hinweis für Erstantwort. Abgrenzung zu einwilligung-hinweis-datenschutz (DSGVO-Klausel) und erstantwort-generator."
 ---
 
 # Transkriptionsdienst-Erklärung

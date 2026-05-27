@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-transparenzregister
-description: "Transparenzregister-Meldung fuer GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bussgelder. Normen: §§ 18 ff. GwG, GeldwaescheG. Pruefraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwaesche-Beratung."
+description: "Transparenzregister-Meldung für GmbH oder UG: wirtschaftlich Berechtigte, Fristen, Bußgelder. Normen: §§ 18 ff. GwG, GeldwäscheG. Prüfraster: Identifikation wirtschaftlich Berechtigter, Meldepflicht, Meldefristen, Aktualisierungen. Output: Checkliste Transparenzregister-Meldung. Abgrenzung: nicht AML-Geldwäsche-Beratung."
 ---
 
 # Transparenzregister

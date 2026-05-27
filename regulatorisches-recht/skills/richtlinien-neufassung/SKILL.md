@@ -1,6 +1,6 @@
 ---
 name: richtlinien-neufassung
-description: "Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Pruefraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg. Output: neue Richtlinie Implementierungshinweise. Abgrenzung: nicht fuer Anpassung bestehender Richtlinien (regulatorisches-recht-anpassen)."
+description: "Interne Richtlinien und Unternehmensanweisungen auf regulatorischer Basis neu verfassen. KWG WpHG DORA DSGVO GwG MaRisk. Prüfraster: regulatorische Anforderungen Inhaltsstruktur Formulierungsstandard Genehmigungsweg. Output: neue Richtlinie Implementierungshinweise. Abgrenzung: nicht für Anpassung bestehender Richtlinien (regulatorisches-recht-anpassen)."
 ---
 
 # Richtlinien-Neufassung

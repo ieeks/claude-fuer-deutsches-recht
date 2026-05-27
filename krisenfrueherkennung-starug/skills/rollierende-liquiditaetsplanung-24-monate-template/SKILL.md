@@ -1,6 +1,6 @@
 ---
 name: rollierende-liquiditaetsplanung-24-monate-template
-description: "Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), IDW S 11 (Fortbestehensprognose), IDW S 6 (Sanierungskonzept). Pruefraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform."
+description: "Rollierende 24-Monats-Liquiditaetsplanung nach StaRUG erstellen: Sanierungsberater oder GF braucht Liquiditaets-Forecast. Normen: § 1 StaRUG (24-Monats-Horizont), IDW S 11 (Fortbestehensprognose), IDW S 6 (Sanierungskonzept). Prüfraster: Woechentliche Granularitaet Wochen 1-13, monatliche Granularitaet Monate 14-24, Stresstests, Sensitivitaetsanalysen, StaRUG-konforme Dokumentation. Output Excel-Template Liquiditaetsplanung, Stresstest-Szenarios, Dokumentationsprotokoll. Abgrenzung: Integrierte GuV/Bilanz/CF-Planung siehe integrierte-planung-guv-bilanz-cashflow; Ampel-KPIs siehe kennzahlenset-und-ampelsystem-starug-konform."
 ---
 
 # Rollierende Liquiditätsplanung — 24-Monate-Template

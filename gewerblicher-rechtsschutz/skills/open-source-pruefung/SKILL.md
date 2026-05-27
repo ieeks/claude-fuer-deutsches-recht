@@ -1,6 +1,6 @@
 ---
 name: open-source-pruefung
-description: "Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Pruefraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfaehige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-pruefung (vertragliche IP) und fto-triage (Patente)."
+description: "Unternehmen will Software ausliefern oder als Open Source veroffentlichen und fragt nach Lizenz-Compliance. Open-Source-Lizenz-Compliance. Prüfraster: Manifest SBOM Repository Copyleft-Pflichten Lizenzkompatibilitaet GPL LGPL MIT Apache genehmigungsfähige Bibliotheken. Output: Compliance-Bericht mit Handlungsempfehlungen je Abhaengigkeit. Abgrenzung zu ip-klausel-prüfung (vertragliche IP) und fto-triage (Patente)."
 ---
 
 # Open-Source-Lizenz-Compliance-Prüfung

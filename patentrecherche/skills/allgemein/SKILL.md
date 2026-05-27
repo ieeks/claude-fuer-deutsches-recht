@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Patentrecherche-Plugin: agentische Datenbankrecherche in Espacenet, Google Patents, DEPATISnet, EPO-Register und USPTO, Neuheitspruefung nach § 3 PatG und Art. 54 EPUe, erfinderische Taetigkeit, FTO, Patentfamilien und Rechtsstandpruefung."
+description: "Einstieg und Überblick für das Patentrecherche-Plugin: agentische Datenbankrecherche in Espacenet, Google Patents, DEPATISnet, EPO-Register und USPTO, Neuheitsprüfung nach § 3 PatG und Art. 54 EPUe, erfinderische Tätigkeit, FTO, Patentfamilien und Rechtsstandprüfung."
 ---
 
 # Patentrecherche — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-bank-kapitalmarktrecht-ombudsmann-bafin-schlichtung
-description: "Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde loesen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Pruefraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-pruefen (Klageroute) und schriftsatzkern-substantiierung (Klage)."
+description: "Mandant will vor Klage Bank-Streit durch Ombudsmann-Verfahren oder BaFin-Beschwerde lösen. Ombudsmann private Banken Sparkassen BaFin-Beschwerde § 4b FinDAG. Normen § 4b FinDAG WpHG § 14 KapMuG §§ 32 ff. EU-ODR-Plattform. Prüfraster Zulassigkeits-Check Vergleichs-Chancen Kosten-Nutzen Zeitlinie. Output Ombudsmann-Antrag BaFin-Beschwerde Vergleichs-Konzept. Abgrenzung zu anlageberatungsfehler-prüfen (Klageroute) und schriftsatzkern-substantiierung (Klage)."
 ---
 
 # Bank-/Kapitalmarktrecht — Ombudsmann, BaFin, Schlichtung

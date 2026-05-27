@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das KI-Governance-Plugin: EU-KI-VO und DSGVO, Use-Case-Triage, KI-Inventar, Folgenabschaetzung (FRIA/DSFA), Vendor-Review, Richtlinien-Monitor und interne KI-Richtlinien fuer Unternehmen und Kanzleien."
+description: "Einstieg und Orientierung für das KI-Governance-Plugin: EU-KI-VO und DSGVO, Use-Case-Triage, KI-Inventar, Folgenabschaetzung (FRIA/DSFA), Vendor-Review, Richtlinien-Monitor und interne KI-Richtlinien für Unternehmen und Kanzleien."
 ---
 
 # KI-Governance — Allgemein

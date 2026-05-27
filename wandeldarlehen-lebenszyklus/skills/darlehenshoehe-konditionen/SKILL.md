@@ -1,6 +1,6 @@
 ---
 name: darlehenshoehe-konditionen
-description: "Darlehenshoehe Zinsen Laufzeit und Konditionen fuer Wandeldarlehen verhandeln und dokumentieren. §§ 488 491 BGB Darlehensvertrag §§ 246 247 BGB Zinsen. Pruefraster: Darlehenshoehe Zinssatz Disagio Laufzeit Faelligkeit Sicherheiten Rangruecktritt. Output: Term-Sheet Konditionenblatt Vertragsklauseln. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
+description: "Darlehenshoehe Zinsen Laufzeit und Konditionen für Wandeldarlehen verhandeln und dokumentieren. §§ 488 491 BGB Darlehensvertrag §§ 246 247 BGB Zinsen. Prüfraster: Darlehenshoehe Zinssatz Disagio Laufzeit Fälligkeit Sicherheiten Rangrücktritt. Output: Term-Sheet Konditionenblatt Vertragsklauseln. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Darlehensbetrag und Konditionen

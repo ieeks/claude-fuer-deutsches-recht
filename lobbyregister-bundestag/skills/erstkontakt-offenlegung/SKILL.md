@@ -1,6 +1,6 @@
 ---
 name: erstkontakt-offenlegung
-description: "Formuliert Offenlegung beim erstmaligen Kontakt: Identitaet, Anliegen, Auftraggeber, Registereintrag und Verhaltenskodizes. Output Kontaktbausteine."
+description: "Formuliert Offenlegung beim erstmaligen Kontakt: Identität, Anliegen, Auftraggeber, Registereintrag und Verhaltenskodizes. Output Kontaktbausteine."
 ---
 
 # Erstkontakt Offenlegung

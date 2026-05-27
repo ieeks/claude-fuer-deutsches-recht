@@ -1,6 +1,6 @@
 ---
 name: anspruchsgrundlagen-pruefen
-description: "Anspruchsgrundlagen identifizieren und Pruefungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz loesen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Pruefraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjaehrung. Output Anspruchsgrundlagen-Baum mit Pruefungsschema. Abgrenzung: CISG-spezifisch siehe cisg-pruefen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil."
+description: "Anspruchsgrundlagen identifizieren und Prüfungsreihenfolge bestimmen: Richter oder Kandidat muss Anspruchskonkurrenz lösen. Normen: §§ 433 ff., 280 ff., 812 ff., 823 ff. BGB; HGB; CISG; GmbHG; StVG; ProdHG; IPR Rom-I/II. Prüfraster: Reihenfolge vertraglich, quasi-vertraglich, dinglich, deliktisch, bereicherungsrechtlich; Tatbestandsmerkmale, Rechtsfolge, Einwendungen, Einreden, Verjährung. Output Anspruchsgrundlagen-Baum mit Prüfungsschema. Abgrenzung: CISG-spezifisch siehe cisg-prüfen; IPR siehe internationales-privatrecht; Tenorierung siehe tenor-bauen-zivil."
 ---
 
 # Anspruchsgrundlagen-Prüfung

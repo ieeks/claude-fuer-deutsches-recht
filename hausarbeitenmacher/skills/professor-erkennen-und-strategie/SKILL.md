@@ -1,6 +1,6 @@
 ---
 name: professor-erkennen-und-strategie
-description: "Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenstaendig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Pruefraster Lehrmeinung-Recherche Strategie-Wahl Abweichungs-Argumentation. Output Strategie-Empfehlung Argumentations-Hinweis. Abgrenzung zu meinungsstreit-darstellen (Inhalt) und hausarbeit-workflow-start (Master)."
+description: "Student fragt sich ob er der Lehrmeinung des Professors folgen soll oder eigenständig argumentieren. Fangfrage zu Beginn wer die Hausarbeit bewertet. Kurze Recherche zur Lehrmeinung. Normen Wissenschaftsfreiheit Art. 5 GG. Prüfraster Lehrmeinung-Recherche Strategie-Wahl Abweichungs-Argumentation. Output Strategie-Empfehlung Argumentations-Hinweis. Abgrenzung zu meinungsstreit-darstellen (Inhalt) und hausarbeit-workflow-start (Master)."
 ---
 
 # Professor erkennen und Strategie wählen

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-pflichtteilsberechnung
-description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat. §§ 2303 2311 2314 BGB Pflichtteil. Pruefraster: Pflichtteilsberechtigter Nachlasswert Bewertung Auskunftsanspruch Ergaenzungsanspruch Abzuege. Output: Pflichtteilsberechnung Auskunftsklage-Entwurf. Abgrenzung: nicht fuer Pflichtteilsergaenzungsanspruch (fachanwalt-erbrecht-pflichtteilsergaenzung-2325)."
+description: "Pflichtteilsanspruch berechnen wenn Erblasser nahe Angehoerige vom Erbe ausgeschlossen hat. §§ 2303 2311 2314 BGB Pflichtteil. Prüfraster: Pflichtteilsberechtigter Nachlasswert Bewertung Auskunftsanspruch Ergaenzungsanspruch Abzuege. Output: Pflichtteilsberechnung Auskunftsklage-Entwurf. Abgrenzung: nicht für Pflichtteilsergaenzungsanspruch (fachanwalt-erbrecht-pflichtteilsergaenzung-2325)."
 ---
 
 # Pflichtteilsberechnung — Auskunft und Stufenklage

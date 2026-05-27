@@ -1,6 +1,6 @@
 ---
 name: iv-plan-darstellender-teil
-description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollstaendig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Pruefraster: Krisengeschichte Massnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht fuer gestaltenden Teil (iv-plan-gestaltender-teil)."
+description: "Darstellenden Teil des Insolvenzplans oder StaRUG-Plans vollständig und widerspruchsfrei verfassen. § 220 InsO § 6 StaRUG Darstellungspflichten. Prüfraster: Krisengeschichte Massnahmen Vergleichsrechnung Sonderaktiva Sicherheiten Steuerfolgen Offenlegung. Output: Darstellender Teil als Entwurf Risiko- und Lueckenliste. Abgrenzung: nicht für gestaltenden Teil (iv-plan-gestaltender-teil)."
 ---
 
 # IV-integrierte Darstellender Teil

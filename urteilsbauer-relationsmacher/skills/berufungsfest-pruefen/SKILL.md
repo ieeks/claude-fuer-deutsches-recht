@@ -1,6 +1,6 @@
 ---
 name: berufungsfest-pruefen
-description: "Fertiges Urteil gegen haeufigste Aufhebungsgruende selbst pruefen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begruendungsmangel). Pruefraster: Tatsachenfeststellung vollstaendig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begruendungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitspruefung siehe revisionsfest-pruefen; Tenorierung siehe tenor-bauen-zivil."
+description: "Fertiges Urteil gegen häufigste Aufhebungsgründe selbst prüfen: Richter will vor Urteilsversand Aufhebungsrisiken minimieren. Normen: § 529 ZPO (Tatsachenfeststellung Berufung), § 546 ZPO (Rechtsverletzung), § 547 Nr. 6 ZPO (Begründungsmangel). Prüfraster: Tatsachenfeststellung vollständig, kein Verfahrensmangel, keine uebergangenen Angriffs-/Verteidigungsmittel, Begründungstiefe ausreichend. Output Berufungsfest-Checkliste mit Ampelstatus. Abgrenzung: Revisionsfestigkeitsprüfung siehe revisionsfest-prüfen; Tenorierung siehe tenor-bauen-zivil."
 ---
 
 # Berufungsfestigkeit prüfen

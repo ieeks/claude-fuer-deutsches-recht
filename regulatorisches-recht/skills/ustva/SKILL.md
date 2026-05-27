@@ -1,6 +1,6 @@
 ---
 name: ustva
-description: "Umsatzsteuervoranmeldung im regulatorischen Kontext pruefen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Pruefraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Pruefprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht fuer allgemeines Steuerrecht."
+description: "Umsatzsteuervoranmeldung im regulatorischen Kontext prüfen wenn Finanzunternehmen oder regulierte Entitaeten USt-Fragen haben. §§ 14 14a 18 UStG Voranmeldungspflicht. Prüfraster: Voranmeldungspflicht Steuerklasse Vorsteuer Fristen Sondervorauszahlung. Output: USt-Prüfprotokoll Voranmeldungs-Checkliste. Abgrenzung: nicht für allgemeines Steuerrecht."
 ---
 
 # Umsatzsteuer-Voranmeldung (§ 18 UStG)

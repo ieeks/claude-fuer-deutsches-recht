@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-ma-due-diligence-findings
-description: "Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht fuer M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Pruefraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie."
+description: "Anwalt hat Datensichtung abgeschlossen und muss Due-Diligence-Bericht für M&A-Transaktion strukturieren. M&A Due Diligence Report Legal Tax Commercial. Prüfraster: Red Flags Yellow Flags Green Findings strukturiert Risikobewertung Materialitaet aufschiebende Bedingungen Garantien Kaufpreisanpassung Disclosure Schedules. Output: Findings-Report Risikomatrix. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-holding-strukturplanung (Strukturierung) und vergleichsverhandlung-strategie."
 ---
 
 # M&A Due Diligence Findings

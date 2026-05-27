@@ -1,6 +1,6 @@
 ---
 name: skill-installierer
-description: "Neue Skills in der KI-Anwaltskanzlei installieren: Verfuegbarkeitscheck, Abhaengigkeiten, Konfiguration. Normen: technisch/intern. Pruefraster: Kompatibilitaet, Abhaengigkeitspruefung, Testlauf. Output: Installationsprotokoll neuer Skill. Abgrenzung: nicht Skill-Aktualisierung."
+description: "Neue Skills in der KI-Anwaltskanzlei installieren: Verfuegbarkeitscheck, Abhaengigkeiten, Konfiguration. Normen: technisch/intern. Prüfraster: Kompatibilitaet, Abhaengigkeitsprüfung, Testlauf. Output: Installationsprotokoll neuer Skill. Abgrenzung: nicht Skill-Aktualisierung."
 ---
 
 # Skill-Installer

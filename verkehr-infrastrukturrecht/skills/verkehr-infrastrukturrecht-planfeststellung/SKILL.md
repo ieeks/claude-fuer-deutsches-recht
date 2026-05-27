@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-planfeststellung
-description: "Planfeststellung fuer Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot), BVerwG-Rspr Abwaegungsfehler. Pruefraster: Einwendungsfristen, Eroerrterungstermin, Klagebefugnis § 42 Abs. 2 VwGO, UmwRG-Verbandsklage, Eilrechtsschutz. Output Einwendungsschrift oder Klageschrift-Entwurf. Abgrenzung: Normenkontrolle Bauleitplan siehe normenkontrolle-bauleitplanung-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz."
+description: "Planfeststellung für Strassenbau, Schienenstrecken und OEPNV-Infrastruktur begleiten oder anfechten: Vorhabentraeger benoetigt Planfeststellungsbeschluss oder Anlieger klagt dagegen. Normen: § 17 FStrG (Bundesstrasse), § 18 AEG (Eisenbahn), § 28 PBefG (Strassenbahn), § 17 VwVfG (Abwaegungsgebot), BVerwG-Rspr Abwaegungsfehler. Prüfraster: Einwendungsfristen, Eroerrterungstermin, Klagebefugnis § 42 Abs. 2 VwGO, UmwRG-Verbandsklage, Eilrechtsschutz. Output Einwendungsschrift oder Klageschrift-Entwurf. Abgrenzung: Normenkontrolle Bauleitplan siehe normenkontrolle-bauleitplanung-Plugin; Energietrassen siehe energietrassen-planfeststellung-rechtsschutz."
 ---
 
 # Planfeststellung und Plangenehmigung — Verkehrsinfrastruktur

@@ -1,6 +1,6 @@
 ---
 name: kollidierende-agb-pruefen
-description: "Kollidierende AGB im B2B-Verkehr (Battle of the Forms) loesen: Kaufvertrag mit beiderseitigen AGB und widerspruechen. Normen: §§ 305-310 BGB (AGB-Recht B2B), CISG Art. 19 (Annahme mit Abweichungen). Pruefraster: Last-Shot-Doctrine, Knock-out-Regel (Restgueltigkeit), Rechtswahlklauseln, Gerichtsstandsklauseln, Schiedsklauseln, Haftungsbeschraenkungen, Eigentumsvorbehalt. Output Loesungs-Memo mit Vertragsinhalt nach Battle of the Forms. Abgrenzung: AGB-Kontrolle allgemein siehe Vertragsrecht-Plugin; CISG spezifisch siehe cisg-pruefen."
+description: "Kollidierende AGB im B2B-Verkehr (Battle of the Forms) lösen: Kaufvertrag mit beiderseitigen AGB und widerspruechen. Normen: §§ 305-310 BGB (AGB-Recht B2B), CISG Art. 19 (Annahme mit Abweichungen). Prüfraster: Last-Shot-Doctrine, Knock-out-Regel (Restgueltigkeit), Rechtswahlklauseln, Gerichtsstandsklauseln, Schiedsklauseln, Haftungsbeschraenkungen, Eigentumsvorbehalt. Output Lösungs-Memo mit Vertragsinhalt nach Battle of the Forms. Abgrenzung: AGB-Kontrolle allgemein siehe Vertragsrecht-Plugin; CISG spezifisch siehe cisg-prüfen."
 ---
 
 # Kollidierende AGB

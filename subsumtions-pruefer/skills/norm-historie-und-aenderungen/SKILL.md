@@ -1,6 +1,6 @@
 ---
 name: norm-historie-und-aenderungen
-description: "Prueft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Uebergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems geaendert worden sein koennten."
+description: "Prüft die Norm-Historie: geltende Fassung zum massgeblichen Zeitpunkt, Übergangsvorschriften, intertemporales Recht, aenderungsrelevante Gesetzgebungsverfahren. Warnt bei Normen, die seit dem Wissensstand des Systems geaendert worden sein koennten."
 ---
 
 # Norm-Historie und Änderungen

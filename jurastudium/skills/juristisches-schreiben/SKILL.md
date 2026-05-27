@@ -1,6 +1,6 @@
 ---
 name: juristisches-schreiben
-description: "Juristisches Schreiben trainieren fuer Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Loesungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Pruefraster Satzstruktur juristisch korrekt, Definitionen prazise, Subsumtion vollstaendig, Praegnanz ohne Weitschweifigkeit, Zitierweise korrekt. Output kommentierter Text mit Verbesserungsvorschlaegen zu Stil und Struktur. Abgrenzung zu Gutachten-Uebung fuer inhaltliche Pruefung und zu Subsumtionslehre."
+description: "Juristisches Schreiben trainieren für Klausur und Seminararbeit: Anwendungsfall Student will Schreibstil verbessern und benoetigt Feedback zu Formulierungen Argumentationsstruktur und Praegnanz. Gutachtenstil, Lösungsschemata, Subsumtion Methodenlehre Buergerliches Recht. Prüfraster Satzstruktur juristisch korrekt, Definitionen prazise, Subsumtion vollständig, Praegnanz ohne Weitschweifigkeit, Zitierweise korrekt. Output kommentierter Text mit Verbesserungsvorschlaegen zu Stil und Struktur. Abgrenzung zu Gutachten-Uebung für inhaltliche Prüfung und zu Subsumtionslehre."
 ---
 
 # Juristische Schreibberatung

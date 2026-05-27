@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-erbrecht-erbschaftsausschlagung
-description: "Erbschaftsausschlagung erlaeutern und Erklaerung formulieren wenn Erbe ueberschuldet ist oder sonstige Gruende vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Pruefraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklaerung Antragsentwurf. Abgrenzung: nicht fuer Pflichtteilsausschlagung oder Erbverzicht."
+description: "Erbschaftsausschlagung erlaeutern und Erklärung formulieren wenn Erbe ueberschuldet ist oder sonstige Gründe vorliegen. §§ 1942 1944 1945 BGB Ausschlagung. Prüfraster: Ausschlagungsfrist sechs Wochen drei Monate Ausland Empfaenger Nachlassgericht Form Anfechtung. Output: Ausschlagungserklärung Antragsentwurf. Abgrenzung: nicht für Pflichtteilsausschlagung oder Erbverzicht."
 ---
 
 # Erbschaftsausschlagung

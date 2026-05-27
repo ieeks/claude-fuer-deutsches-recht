@@ -1,6 +1,6 @@
 ---
 name: cap-table-update-pre-post
-description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Pruefraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht fuer Wandlungsmechanik (wandlungsmechanik-konzipieren)."
+description: "Cap-Table vor und nach Wandlung aktualisieren und Verwasserungseffekte berechnen wenn Wandeldarlehen konvertiert. § 55 GmbHG Kapitalerhohung §§ 17 ff. GmbHG Gesellschafterliste. Prüfraster: Pre-Money Post-Money Wandlungspreis neue Anteile Verwasserung bestehende Gesellschafter. Output: Cap-Table-Vergleich Pre/Post Verwasserungsrechnung. Abgrenzung: nicht für Wandlungsmechanik (wandlungsmechanik-konzipieren)."
 ---
 
 # Cap-Table Update – Pre-Money und Post-Money

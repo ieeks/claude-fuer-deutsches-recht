@@ -1,6 +1,6 @@
 ---
 name: kueschk-klageschrift-anwalt-baustein
-description: "Anwaltliche Klageschrift Kuendigungsschutzklage: Klageschrift mit Tenor und Hilfsantraegen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begruendung nach KSchG-Pruefschema; Beweisangebote; BAG-Zitierstil."
+description: "Anwaltliche Klageschrift Kündigungsschutzklage: Klageschrift mit Tenor und Hilfsanträgen; Weiterbeschaeftigungsantrag; Anlagen-Checkliste; strukturierte Begründung nach KSchG-Prüfschema; Beweisangebote; BAG-Zitierstil."
 ---
 
 # Klageschrift — Anwaltliche Version

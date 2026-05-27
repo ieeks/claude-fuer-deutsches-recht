@@ -1,6 +1,6 @@
 ---
 name: allgemeine-berufliche-korrespondenz
-description: "Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Pruefraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialitaet. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklaerung. Abgrenzung: nicht fuer spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich)."
+description: "Allgemeine berufliche E-Mail-Korrespondenz von Anwaelten professionell und berufsrechtskonform umformulieren. § 43a BRAO allgemeine Berufspflichten § 26 BORA Sachlichkeitsgebot. Prüfraster: Sachlichkeit Professionalitaet Ton Empfaengerorientierung Kollegialität. Output: ueberarbeitete E-Mail mit Vorher-Nachher-Erklärung. Abgrenzung: nicht für spezifische Frist- oder Mahnsituationen (frist-und-mahnung-hoeflich)."
 ---
 
 # Allgemeine Berufliche Korrespondenz

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-internationales-wirtschaftsrecht-schiedsklausel
-description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Pruefraster: Formvorschrift Art. II UN-Uebereinkommen New York 1958 Schriftform Schiedsfaehigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren)."
+description: "Mandant verhandelt internationalen Vertrag und fragt: Sollen wir eine Schiedsklausel aufnehmen und wie formulieren wir sie richtig? § 1031 ZPO Schiedsklausel. Prüfraster: Formvorschrift Art. II UN-Übereinkommen New York 1958 Schriftform Schiedsfähigkeit § 1030 ZPO Vollstreckung auslaendischer Schiedsspruch §§ 1061 ff. ZPO DIS- bzw. ICC-Schiedsordnung Trennungsprinzip Kompetenz-Kompetenz. Output: Schiedsklausel-Entwurf und Vergleich instituionell vs. ad hoc. Abgrenzung zu fachanwalt-iwr-icc-uncitral-schiedsverfahren (laufendes Verfahren)."
 ---
 
 # Schiedsklausel — Prüfung und Gestaltung

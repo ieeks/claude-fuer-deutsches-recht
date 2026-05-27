@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Triage fuer prozessrechtliche Mandate: Sachverhalt erfassen, Zustaendigkeit pruefen, Streitwert berechnen, Fristen sichern und zu Klageschrift, Eilverfahren, Mahnbescheid oder Vollstreckung routen."
+description: "Einstieg und Triage für prozessrechtliche Mandate: Sachverhalt erfassen, Zuständigkeit prüfen, Streitwert berechnen, Fristen sichern und zu Klageschrift, Eilverfahren, Mahnbescheid oder Vollstreckung routen."
 ---
 
 # Prozessrecht — Allgemein

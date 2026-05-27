@@ -1,6 +1,6 @@
 ---
 name: anlagenverzeichnis-extrakt
-description: "Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Pruefraster Vollstaendigkeit Fundstellen-Praezision Parteizuordnung. Output vollstaendiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenueberstellung (Beweisuebersicht)."
+description: "Anwalt sucht alle Anlagen K-/B-/AST-/AG-Verweise in der Akte und will Anlagenverzeichnis erstellen. Anlagenbezeichnung Kurzbeschreibung Schriftsatz Blattangabe je Partei. Normen §§ 130 131 ZPO Schriftsatz-Anlagen. Prüfraster Vollständigkeit Fundstellen-Praezision Parteizuordnung. Output vollständiges Anlagenverzeichnis je Partei. Abgrenzung zu aktenauszug-erstellen (Gesamtauszug) und beweismittel-gegenüberstellung (Beweisuebersicht)."
 ---
 
 # Anlagenverzeichnis-Extrakt

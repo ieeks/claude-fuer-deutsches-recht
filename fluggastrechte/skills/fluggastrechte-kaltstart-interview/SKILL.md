@@ -1,6 +1,6 @@
 ---
 name: fluggastrechte-kaltstart-interview
-description: "Kaltstart-Interview fuer das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und Reiseplan-Konvention. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/fluggastrechte/CLAUDE.md. Bei Erstinstallation laufen lassen. Mit --redo neu interviewen. Disclaimer Selbstmandat ersetzt nicht anwaltliche Pruefung im Streitfall."
+description: "Kaltstart-Interview für das Fluggastrechte-Plugin. Klaert Anwendungsrolle (eigener Fluggastrechte-Anspruch / Vertretung Familie / Mitreisende). Erfasst Buchungsstammdaten Vertragspartner (Airline IATA-Code) und Reiseplan-Konvention. Schreibt das Profil nach ~/.claude/plugins/config/claude-fuer-deutsches-recht/fluggastrechte/CLAUDE.md. Bei Erstinstallation laufen lassen. Mit --redo neu interviewen. Disclaimer Selbstmandat ersetzt nicht anwaltliche Prüfung im Streitfall."
 ---
 
 # /fluggastrechte:fluggastrechte-kaltstart-interview

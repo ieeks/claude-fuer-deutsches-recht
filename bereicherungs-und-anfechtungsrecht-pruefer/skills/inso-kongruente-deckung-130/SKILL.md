@@ -1,6 +1,6 @@
 ---
 name: inso-kongruente-deckung-130
-description: "Kongruente Deckungsanfechtung nach § 130 InsO pruefen: Sicherung oder Befriedigung in den letzten drei Monaten. Normen: § 130 InsO. Pruefraster: Zahlungsunfaehigkeit, Kenntnis des Anfechtungsgegners, Drei-Monats-Frist. Output: Pruefergebnis Anfechtbarkeit kongruente Deckung mit Kenntnisnachweisen. Abgrenzung: nicht § 131 InsO (inkongruente Deckung)."
+description: "Kongruente Deckungsanfechtung nach § 130 InsO prüfen: Sicherung oder Befriedigung in den letzten drei Monaten. Normen: § 130 InsO. Prüfraster: Zahlungsunfähigkeit, Kenntnis des Anfechtungsgegners, Drei-Monats-Frist. Output: Prüfergebnis Anfechtbarkeit kongruente Deckung mit Kenntnisnachweisen. Abgrenzung: nicht § 131 InsO (inkongruente Deckung)."
 ---
 
 # Kongruente Deckung — § 130 InsO

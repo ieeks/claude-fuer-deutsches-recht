@@ -1,6 +1,6 @@
 ---
 name: ips-planbetroffene-auswahl
-description: "Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung dokumentiert begruenden. §§ 2 4 StaRUG Gestaltbarkeit Ausnahmen. Pruefraster: gestaltbare Rechtsverhaeltnisse Ausnahmen Arbeitnehmer deliktische Forderungen Nichtunternehmer Begruendungspflicht. Output: Planbetroffenenregister Nichtbetroffenenbegrundung Ausnahmencheck. Abgrenzung: nicht fuer allgemeine Gruppenbildung (ips-gruppen-klassenbildung)."
+description: "Planbetroffene im StaRUG-Verfahren sachgerecht auswaehlen und Nichteinbeziehung dokumentiert begründen. §§ 2 4 StaRUG Gestaltbarkeit Ausnahmen. Prüfraster: gestaltbare Rechtsverhältnisse Ausnahmen Arbeitnehmer deliktische Forderungen Nichtunternehmer Begründungspflicht. Output: Planbetroffenenregister Nichtbetroffenenbegrundung Ausnahmencheck. Abgrenzung: nicht für allgemeine Gruppenbildung (ips-gruppen-klassenbildung)."
 ---
 
 # Auswahl der Planbetroffenen

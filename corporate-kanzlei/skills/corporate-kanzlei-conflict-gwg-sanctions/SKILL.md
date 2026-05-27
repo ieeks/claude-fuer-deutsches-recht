@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-conflict-gwg-sanctions
-description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmepruefung fuer Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken."
+description: "Konflikt-, GwG- und Sanktionscheck: Mandatsannahmeprüfung für Corporate/M&A: Interessenkonflikte (§ 43a BRAO), wirtschaftlich Berechtigte (§§ 2 ff. GwG), Sanktionen (EU/US OFAC), PEP, Mittelherkunft, Sektor- und Laenderrisiken."
 ---
 
 # Konflikt-, GwG- und Sanktionscheck

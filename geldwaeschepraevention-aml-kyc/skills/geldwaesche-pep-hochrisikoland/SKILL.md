@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-pep-hochrisikoland
-description: "Verstaerkte KYC-Pruefung fuer PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FATF Hochrisikoliste EU-Delegierte VO. Pruefraster PEP Familienangehoerige nahestehende Personen Hochrisikolaender Nominees Treuhandstrukturen Enhanced Due Diligence. Output Verstaerkte KYC-Akte mit PEP-Begruendung EDD-Dokumentation Freigabe auf Leitungsebene. Abgrenzung zu geldwaesche-kyc-onboarding und geldwaesche-sanktionsscreening."
+description: "Verstaerkte KYC-Prüfung für PEP politisch exponierte Personen Hochrisikolaender und komplexe Strukturen nach GwG. Anwendungsfall Kunde ist PEP oder kommt aus Hochrisikoland und verstaerkte Sorgfaltspflichten greifen. Normen § 15 GwG verstaerkte Sorgfaltspflichten § 1 Abs. 12 GwG PEP-Definition FATF Hochrisikoliste EU-Delegierte VO. Prüfraster PEP Familienangehoerige nahestehende Personen Hochrisikolaender Nominees Treuhandstrukturen Enhanced Due Diligence. Output Verstaerkte KYC-Akte mit PEP-Begründung EDD-Dokumentation Freigabe auf Leitungsebene. Abgrenzung zu geldwäsche-kyc-onboarding und geldwäsche-sanktionsscreening."
 ---
 
 # PEP, Hochrisikoland und verstärkte Sorgfalt

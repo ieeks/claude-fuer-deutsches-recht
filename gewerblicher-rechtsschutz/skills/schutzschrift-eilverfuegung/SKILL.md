@@ -1,6 +1,6 @@
 ---
 name: schutzschrift-eilverfuegung
-description: "Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befuerchtet einstweilige Verfuegung ohne Anhoerung. § 945a ZPO Schutzschrift ZSER. Pruefraster: Hinterlegung zentrales elektronisches Schutzschriftenregister § 945a ZPO Sachverhalt Gegenrede Glaubhaftmachung eidesstattliche Versicherung Wertangabe Senatsauswahl. Output: Schutzschrift-Entwurf fuer sofortige Hinterlegung. Abgrenzung zu unterlassungsverlangen (Abwehr der Abmahnung selbst) und verletzungs-triage."
+description: "Mandant hat Abmahnung oder Verletzungsschreiben erhalten und befuerchtet einstweilige Verfuegung ohne Anhoerung. § 945a ZPO Schutzschrift ZSER. Prüfraster: Hinterlegung zentrales elektronisches Schutzschriftenregister § 945a ZPO Sachverhalt Gegenrede Glaubhaftmachung eidesstattliche Versicherung Wertangabe Senatsauswahl. Output: Schutzschrift-Entwurf für sofortige Hinterlegung. Abgrenzung zu unterlassungsverlangen (Abwehr der Abmahnung selbst) und verletzungs-triage."
 ---
 
 # Schutzschrift gegen Eilverfügung

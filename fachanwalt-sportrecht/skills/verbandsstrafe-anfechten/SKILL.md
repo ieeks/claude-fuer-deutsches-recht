@@ -1,6 +1,6 @@
 ---
 name: verbandsstrafe-anfechten
-description: Pruefraster fuer die Anfechtung von Verbandsstrafen im Sport. Spannungsfeld Verbandsautonomie Art. 9 GG vs. gerichtliche Inhaltskontrolle vereinsrechtlich § 25 BGB Schiedsklauseln § 1029 ZPO CAS-Schiedsgerichtsbarkeit (BGH Pechstein-Urteil KZR 6/15 v. 07.06.2016 Kartellsenat). Dopingverfahren NADA Code WADA-Code Anti-Doping-Gesetz § 4 AntiDopG. Vertraglicher und persoenlichkeitsrechtlicher Schutz Spieler bei Vereinswechsel Lizenzentzug Spielsperre Bewertungs-Verfahren. Inhaltskontrolle nach §§ 305 ff. BGB AGB-Anwendung auf Verbandssatzung BGH II ZR 235/95.
+description: Prüfraster für die Anfechtung von Verbandsstrafen im Sport. Spannungsfeld Verbandsautonomie Art. 9 GG vs. gerichtliche Inhaltskontrolle vereinsrechtlich § 25 BGB Schiedsklauseln § 1029 ZPO CAS-Schiedsgerichtsbarkeit (BGH Pechstein-Urteil KZR 6/15 v. 07.06.2016 Kartellsenat). Dopingverfahren NADA Code WADA-Code Anti-Doping-Gesetz § 4 AntiDopG. Vertraglicher und persoenlichkeitsrechtlicher Schutz Spieler bei Vereinswechsel Lizenzentzug Spielsperre Bewertungs-Verfahren. Inhaltskontrolle nach §§ 305 ff. BGB AGB-Anwendung auf Verbandssatzung BGH II ZR 235/95.
 ---
 
 # Verbandsstrafe anfechten

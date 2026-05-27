@@ -1,6 +1,6 @@
 ---
 name: wandlungspreis-berechnung
-description: "Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandlung ausgeloest wird. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Pruefraster: Bewertungsdeckel Rabatt Qualified-Financing-Preis MFN Verwasserungsschutz Rundungsregel. Output: Berechnungsnachweis Wandlungspreis neue Anteile. Abgrenzung: nicht fuer Cap-Table-Update (cap-table-update-pre-post)."
+description: "Wandlungspreis auf Basis vertraglich vereinbarter Parameter berechnen wenn Wandlung ausgelöst wird. SAFE §§ 488 ff. BGB §§ 53 55 GmbHG. Prüfraster: Bewertungsdeckel Rabatt Qualified-Financing-Preis MFN Verwasserungsschutz Rundungsregel. Output: Berechnungsnachweis Wandlungspreis neue Anteile. Abgrenzung: nicht für Cap-Table-Update (cap-table-update-pre-post)."
 ---
 
 # Wandlungspreis-Berechnung

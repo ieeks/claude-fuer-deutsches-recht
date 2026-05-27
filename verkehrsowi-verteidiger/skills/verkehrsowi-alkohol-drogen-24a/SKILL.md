@@ -1,6 +1,6 @@
 ---
 name: verkehrsowi-alkohol-drogen-24a
-description: "Alkohol- und Drogen-OWi verteidigen: Mandant hat Bussgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Pruefraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemaess, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin."
+description: "Alkohol- und Drogen-OWi verteidigen: Mandant hat Bußgeldbescheid wegen 0.5-Promille oder Drogennachweis erhalten. Normen: § 24a Abs. 1 StVG (0.5-Promille-Grenze), § 24a Abs. 2 StVG (Wirkstoffnachweis THC/Kokain/Amphetamin), § 81a StPO (Blutprobe), § 316 StGB (Trunkenheit im Verkehr Abgrenzung). Prüfraster: Toleranzwerte, analytische Nachweisgrenze vs. Wirkung, Blutprobe-Anforderung ordnungsgemäß, Fahrerlaubnis-Konsequenzen § 69 StGB. Output Einspruchs-Strategie, Beweisverwertungs-Antrag. Abgrenzung: Strafrecht § 316 StGB siehe fachanwalt-strafrecht-Plugin; Fahrerlaubnisentzug VwR siehe fachanwalt-verwaltungsrecht-Plugin."
 ---
 
 # Alkohol und Drogen — § 24a StVG

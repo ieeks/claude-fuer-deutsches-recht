@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-lebensversicherung-rueckkauf
-description: "Lebensversicherung Rueckkaufswert und Widerruf nach BGH-Rechtsprechung. Anwendungsfall Versicherungsnehmer will Lebensversicherung kuendigen oder fehlerhafte Widerrufsbelehrung ausnutzen. Normen § 169 VVG Rueckkaufswert § 8 VVG Widerrufsrecht BGH IV ZR 73/13 Endlos-Widerrufs-Joker § 153 VVG Bewertungsreserve. Pruefraster Rueckkaufswert-Berechnung Mindestbetrag Stornogebuehr-Verbot Widerrufsbelehrung Fehler Endlos-Joker Bewertungsreserve. Output Rueckforderungsschreiben mit Berechnung Widerrufserklaerung und Klagestrategie. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-pruefen und fachanwalt-versicherungsrecht-deckungsklage."
+description: "Lebensversicherung Rückkaufswert und Widerruf nach BGH-Rechtsprechung. Anwendungsfall Versicherungsnehmer will Lebensversicherung kündigen oder fehlerhafte Widerrufsbelehrung ausnutzen. Normen § 169 VVG Rückkaufswert § 8 VVG Widerrufsrecht BGH IV ZR 73/13 Endlos-Widerrufs-Joker § 153 VVG Bewertungsreserve. Prüfraster Rückkaufswert-Berechnung Mindestbetrag Stornogebühr-Verbot Widerrufsbelehrung Fehler Endlos-Joker Bewertungsreserve. Output Rückforderungsschreiben mit Berechnung Widerrufserklärung und Klagestrategie. Abgrenzung zu fachanwalt-versicherungsrecht-leistungsablehnung-prüfen und fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Lebensversicherung Rückkauf

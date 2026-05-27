@@ -1,6 +1,6 @@
 ---
 name: stb-dba-tschechien
-description: "DBA Deutschland Tschechien aus 1980 fortgeltend gegenueber Nachfolgestaat. Anwendungsfall grenzueberschreitende Arbeitsverhaeltnisse Bauausfuehrung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
+description: "DBA Deutschland Tschechien aus 1980 fortgeltend gegenüber Nachfolgestaat. Anwendungsfall grenzüberschreitende Arbeitsverhältnisse Bauausführung Beteiligungen Lizenzen. EU-MTRL ergaenzend. Methodenartikel Anrechnung. Output Mandanten-Memo Berechnungsbeispiel BZSt-Hinweise."
 ---
 
 # DBA Deutschland-Tschechien

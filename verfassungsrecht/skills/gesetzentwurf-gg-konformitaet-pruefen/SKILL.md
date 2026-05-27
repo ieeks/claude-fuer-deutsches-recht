@@ -1,6 +1,6 @@
 ---
 name: gesetzentwurf-gg-konformitaet-pruefen
-description: "Gesetzentwurf auf Grundgesetz-Konformitaet pruefen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Pruefraster: formelle Verfassungsmaessigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhaeltnismaessigkeit EU-Recht-Konformitaet. Output: Verfassungspruefmemo Risikobewertung. Abgrenzung: nicht fuer laufende Normenkontrolle (normenkontrolle ist separates Plugin)."
+description: "Gesetzentwurf auf Grundgesetz-Konformität prüfen bevor Gesetzgebungsverfahren eingeleitet wird. Art. 1 20 GG Grundprinzipien Art. 70-80 GG Gesetzgebung. Prüfraster: formelle Verfassungsmäßigkeit Grundrechte Art. 20 GG Rechtsstaatsprinzip Verhältnismäßigkeit EU-Recht-Konformität. Output: Verfassungsprüfmemo Risikobewertung. Abgrenzung: nicht für laufende Normenkontrolle (normenkontrolle ist separates Plugin)."
 ---
 
 # Gesetzentwurf — GG-Konformität prüfen (Gesetzgebersicht)

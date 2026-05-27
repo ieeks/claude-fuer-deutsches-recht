@@ -1,6 +1,6 @@
 ---
 name: annahmen-sammeln-fortfuehrung
-description: "Sammelt die Annahmen die der Geschaeftsfuehrer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate`."
+description: "Sammelt die Annahmen die der Geschäftsführer der Fortbestehensprognose zu Grunde legt. Umsatzentwicklung Kostenentwicklung Personalkostenentwicklung Investitionen Working-Capital Saisonalitaet Auftragsbestand Kunden-Konzentration Markt- und Branchenentwicklung. Annahmen muessen konkret nachvollziehbar und mit der Vergangenheit abgleichbar sein. Eingang zur Plausibilisierung im Skill `annahmen-belastbarkeit-plausibilisieren` und zur 12-Monats-Liquiditaet im Skill `liquiditaet-12-monate`."
 ---
 
 # Annahmen sammeln (Fortführung)

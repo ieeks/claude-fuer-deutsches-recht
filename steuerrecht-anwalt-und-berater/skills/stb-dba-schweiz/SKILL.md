@@ -1,6 +1,6 @@
 ---
 name: stb-dba-schweiz
-description: "DBA Deutschland Schweiz mit Schwerpunkt 60-Tage-Grenzgaengerregelung Art. 15a. Anwendungsfall Pendler Suedbaden Bodensee Zuerich Pauschalbesteuerung Wegzug Wegzugsbesteuerung Beteiligungen Lizenzen. Anrechnungsmethode Aktivitaetsklausel Subject-to-Tax. Output Mandanten-Memo Grenzgaengernachweis Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-schweiz-60-tage-rueckkehr."
+description: "DBA Deutschland Schweiz mit Schwerpunkt 60-Tage-Grenzgaengerregelung Art. 15a. Anwendungsfall Pendler Suedbaden Bodensee Zuerich Pauschalbesteuerung Wegzug Wegzugsbesteuerung Beteiligungen Lizenzen. Anrechnungsmethode Aktivitaetsklausel Subject-to-Tax. Output Mandanten-Memo Grenzgaengernachweis Berechnungsbeispiel BZSt-Hinweise Querverweis stb-dba-grenzgaenger-schweiz-60-tage-rückkehr."
 ---
 
 # DBA Deutschland-Schweiz

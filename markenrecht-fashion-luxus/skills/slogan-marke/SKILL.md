@@ -1,6 +1,6 @@
 ---
 name: slogan-marke
-description: "Slogan-Marken fuer Luxus-Mode auf Eintragbarkeit pruefen und anmelden: Kampagnen-Claim soll als Marke geschuetzt werden. Normen: §§ 3 und 8 MarkenG, Art. 7 Abs. 1 lit. b UMV, EuGH C-398/08 Audi/Vorsprung durch Technik, BGH I ZB 22/20 Quadratisch Praktisch Gut. Pruefraster: Unterscheidungskraft (kein reines Werbemittel), Freihaltebeduerftigkeit, Verkehrsdurchsetzung. Output Pruefgutachten Eintragbarkeit, Anmelde-Strategie fuer Slogan. Abgrenzung: Wortmarke (keine Slogan-Thematik) siehe wortmarke-anmeldung-dpma; Bildmarke siehe bildmarke-und-wort-bild."
+description: "Slogan-Marken für Luxus-Mode auf Eintragbarkeit prüfen und anmelden: Kampagnen-Claim soll als Marke geschützt werden. Normen: §§ 3 und 8 MarkenG, Art. 7 Abs. 1 lit. b UMV, EuGH C-398/08 Audi/Vorsprung durch Technik, BGH I ZB 22/20 Quadratisch Praktisch Gut. Prüfraster: Unterscheidungskraft (kein reines Werbemittel), Freihaltebedürftigkeit, Verkehrsdurchsetzung. Output Prüfgutachten Eintragbarkeit, Anmelde-Strategie für Slogan. Abgrenzung: Wortmarke (keine Slogan-Thematik) siehe wortmarke-anmeldung-dpma; Bildmarke siehe bildmarke-und-wort-bild."
 ---
 
 # Slogan-Marken für Luxus-Mode

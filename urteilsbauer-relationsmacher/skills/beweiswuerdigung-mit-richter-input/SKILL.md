@@ -1,6 +1,6 @@
 ---
 name: beweiswuerdigung-mit-richter-input
-description: "Strukturierte Beweiswuerdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgruende-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswuerdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverstaendige). Pruefraster: Glaubwuerdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverstaendigen-Bewertung. Output Beweiswuerdigung-Abschnitt fuer Entscheidungsgruende. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgruende gesamt siehe entscheidungsgruende-zivil-schreiben."
+description: "Strukturierte Beweiswürdigung nach § 286 ZPO schreiben: Richter hat Beweise erhoben und will Entscheidungsgründe-Abschnitt verfassen. Normen: § 286 ZPO (freie Beweiswürdigung), § 261 ZPO (Beweislast), §§ 414 ff. ZPO (Sachverständige). Prüfraster: Glaubwürdigkeit, Glaubhaftigkeit, Aussagekonstanz, Realkennzeichen, Widersprueche, Sachverständigen-Bewertung. Output Beweiswürdigung-Abschnitt für Entscheidungsgründe. Abgrenzung: Beweisbeschluss vorher siehe beweisbeschluss-vorbereiten; Entscheidungsgründe gesamt siehe entscheidungsgründe-zivil-schreiben."
 ---
 
 # Beweiswürdigung mit haendischem Richter-Input

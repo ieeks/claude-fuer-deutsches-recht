@@ -1,6 +1,6 @@
 ---
 name: dreidimensionale-marke
-description: "Dreidimensionale Marke (Formmarke) fuer Flacons und Schuhformen anmelden: Parfuemhaus oder Schuhhersteller will Produktform schuetzen. Normen: § 3 Abs. 2 MarkenG (technische Funktion Ausschluss), Art. 7 Abs. 1 lit. e UMV, EuGH C-163/16 Louboutin (roter Sohlen-Absatz), EuG T-508/08 Lego. Pruefraster: technisch bedingte Form, Unterscheidungskraft 3D-Zeichen, Verkehrsdurchsetzung fuer Flacons. Output Anmelde-Strategie 3D-Marke, Darstellungsanforderungen, Verkehrsdurchsetzungs-Nachweis-Konzept. Abgrenzung: Positionsmarke siehe positionsmarke; 2D-Logo siehe bildmarke-und-wort-bild."
+description: "Dreidimensionale Marke (Formmarke) für Flacons und Schuhformen anmelden: Parfuemhaus oder Schuhhersteller will Produktform schützen. Normen: § 3 Abs. 2 MarkenG (technische Funktion Ausschluss), Art. 7 Abs. 1 lit. e UMV, EuGH C-163/16 Louboutin (roter Sohlen-Absatz), EuG T-508/08 Lego. Prüfraster: technisch bedingte Form, Unterscheidungskraft 3D-Zeichen, Verkehrsdurchsetzung für Flacons. Output Anmelde-Strategie 3D-Marke, Darstellungsanforderungen, Verkehrsdurchsetzungs-Nachweis-Konzept. Abgrenzung: Positionsmarke siehe positionsmarke; 2D-Logo siehe bildmarke-und-wort-bild."
 ---
 
 # Dreidimensionale Marken (3D-Formmarken)

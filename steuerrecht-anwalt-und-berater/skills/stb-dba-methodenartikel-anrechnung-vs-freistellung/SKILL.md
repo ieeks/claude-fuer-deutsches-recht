@@ -1,6 +1,6 @@
 ---
 name: stb-dba-methodenartikel-anrechnung-vs-freistellung
-description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmethode mit § 32b EStG fuer auslaendische Einkuenfte. Subject-to-Tax-Klausel § 50d Abs. 9 EStG Switch-Over § 20 Abs. 2 AStG. Aktivitaetsklauseln Rueckfallklauseln. Output Berechnungsbeispiel JE-Anlage AUS Memo."
+description: "Methodenartikel Art. 23A und Art. 23B OECD-Musterabkommen und Wahl zwischen Anrechnung und Freistellung mit Progressionsvorbehalt. Anwendungsfall Steuerberater entscheidet zwischen Anrechnungsmethode mit § 34c EStG und Freistellungsmethode mit § 32b EStG für auslaendische Einkuenfte. Subject-to-Tax-Klausel § 50d Abs. 9 EStG Switch-Over § 20 Abs. 2 AStG. Aktivitaetsklauseln Rückfallklauseln. Output Berechnungsbeispiel JE-Anlage AUS Memo."
 ---
 
 # Methodenartikel: Anrechnung vs. Freistellung (Art. 23 OECD-MA, § 34c EStG)

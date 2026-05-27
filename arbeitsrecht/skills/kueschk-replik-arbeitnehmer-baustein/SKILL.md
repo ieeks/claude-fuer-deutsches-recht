@@ -1,6 +1,6 @@
 ---
 name: kueschk-replik-arbeitnehmer-baustein
-description: "Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie fuer den Kammertermin."
+description: "Reaktion auf die Klageerwiderung des Arbeitgebers: Bestreiten von Behauptungen; Anforderungen an die Substantiierungstiefe; Replik-Baustein mit typischen Gegenargumenten; Beweismittel-Strategie für den Kammertermin."
 ---
 
 # Replik des Arbeitnehmers auf Klageerwiderung

@@ -1,6 +1,6 @@
 ---
 name: aktualisierung-unverzueglich
-description: "Steuert unverzuegliche Updates bei Stammdaten, Personen, Taetigkeitsbeschreibung, Vorhabenbereichen, Regelungsvorhaben, Auftraegen und Auftraggebern. Output Update-Ticket."
+description: "Steuert unverzuegliche Updates bei Stammdaten, Personen, Tätigkeitsbeschreibung, Vorhabenbereichen, Regelungsvorhaben, Auftraegen und Auftraggebern. Output Update-Ticket."
 ---
 
 # Unverzuegliche Aktualisierung

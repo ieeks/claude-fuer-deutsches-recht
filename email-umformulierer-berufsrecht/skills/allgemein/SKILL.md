@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das Email-Umformulierer-Berufsrecht-Plugin: BRAO/BORA-konforme Umformulierung emotionaler oder unsachlicher E-Mails, Sachlichkeitsgebot, Kollegialitaetsgebot, Notare, Steuerberater und mehrsprachige Korrespondenz fuer Anwaelte und Kanzleien."
+description: "Einstieg und Überblick für das Email-Umformulierer-Berufsrecht-Plugin: BRAO/BORA-konforme Umformulierung emotionaler oder unsachlicher E-Mails, Sachlichkeitsgebot, Kollegialitätsgebot, Notare, Steuerberater und mehrsprachige Korrespondenz für Anwaelte und Kanzleien."
 ---
 
 # E-Mail-Umformulierer Berufsrecht — Allgemein

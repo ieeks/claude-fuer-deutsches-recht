@@ -1,6 +1,6 @@
 ---
 name: mietspiegel-quellen
-description: "Operationalisiert die Pruefung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn fuer eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprueft werden soll. Liefert ein strukturiertes Datenblatt fuer die Folgeskills mieterhoehung-pruefen-widersprechen und klageentwurf-amtsgericht."
+description: "Operationalisiert die Prüfung der ortsueblichen Vergleichsmiete und der Mietpreisbremse anhand der mitgelieferten Referenz references/mietspiegel-quellen.md. Nutze diesen Skill, wenn für eine konkrete Adresse die ortsuebliche Vergleichsmiete, die Wohnlage, die Mietpreisbremse oder die Kappungsgrenze geprüft werden soll. Liefert ein strukturiertes Datenblatt für die Folgeskills mieterhoehung-prüfen-widersprechen und klageentwurf-amtsgericht."
 ---
 
 # Mietspiegel-Quellen (amtlich)

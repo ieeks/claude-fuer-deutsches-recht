@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer den Kanzlei-Builder-Hub: findet, prueft und installiert Community-Skills mit Security-Review-Gate, verwaltet installierte Skills und Plugins, aktualisiert automatisch, erstellt kanzleieigene Playbooks und unterstuetzt bei Konfiguration und Qualitaetspruefung der KI-Kanzleiumgebung."
+description: "Einstieg und Überblick für den Kanzlei-Builder-Hub: findet, prüft und installiert Community-Skills mit Security-Review-Gate, verwaltet installierte Skills und Plugins, aktualisiert automatisch, erstellt kanzleieigene Playbooks und unterstuetzt bei Konfiguration und Qualitaetsprüfung der KI-Kanzleiumgebung."
 ---
 
 # Kanzlei-Builder-Hub — Allgemein

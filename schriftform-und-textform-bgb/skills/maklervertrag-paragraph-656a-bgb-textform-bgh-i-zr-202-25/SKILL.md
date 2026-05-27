@@ -1,6 +1,6 @@
 ---
 name: maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25
-description: "Maklervertrag Paragraph 656a BGB Textform - BGH I ZR 202/25 vom 11. Maerz 2026: E-Mail-Austausch erfuellt Textform auch auf getrennten Datentraegern; konkludenter Abschluss moeglich wenn wesentliche Bestandteile bestimmbar; Erklaerungsende muss erkennbar sein (Provisionshinweis unter Grussformel genuegt nicht); Bereicherungsanspruch des Maklers gesperrt bei Textformverstoss."
+description: "Maklervertrag Paragraph 656a BGB Textform - BGH I ZR 202/25 vom 11. Maerz 2026: E-Mail-Austausch erfuellt Textform auch auf getrennten Datentraegern; konkludenter Abschluss möglich wenn wesentliche Bestandteile bestimmbar; Erklärungsende muss erkennbar sein (Provisionshinweis unter Grussformel genuegt nicht); Bereicherungsanspruch des Maklers gesperrt bei Textformverstoss."
 ---
 
 # Maklervertrag § 656a BGB — Textform und BGH I ZR 202/25

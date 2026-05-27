@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-marken-widerspruch
-description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Pruefraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht fuer Loeschungsklage (§ 49 MarkenG)."
+description: "Widerspruch gegen Markenanmeldung beim DPMA oder EUIPO einlegen oder abwehren. §§ 42 43 MarkenG Widerspruchsverfahren Art. 46 EUTMR. Prüfraster: Widerspruchsfrist Widerspruchsmarke Verwechslungsgefahr Benutzungsschonfrist Nichtbenutzungseinrede. Output: Widerspruchsschriftsatz oder Erwiderung. Abgrenzung: nicht für Löschungsklage (§ 49 MarkenG)."
 ---
 
 # Marken-Widerspruchsverfahren

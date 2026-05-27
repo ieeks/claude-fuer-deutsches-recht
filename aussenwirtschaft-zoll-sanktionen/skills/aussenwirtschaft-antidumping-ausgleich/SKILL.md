@@ -1,6 +1,6 @@
 ---
 name: aussenwirtschaft-antidumping-ausgleich
-description: "Antidumping Antisubvention und Ausgleichsmassnahmen im EU-Aussenhandelsrecht. Anwendungsfall Import- oder Exporteur ist von Antidumping-Massnahmen betroffen oder will Erstattungsantrag stellen. Normen EU-Antidumpingverordnung 2016/1036 Antisubventionsverordnung 2016/1037 UZK Art. 117 ff. Rueckzahlung. Pruefraster Antidumping Antisubvention Umgehung Zusatzzoll Erstattungsantrag Befreiung Kommissionsverfahren Abgabenbescheid. Output Antidumping-Pruefbericht mit Abgabenberechnung Erstattungsantrag und Widerspruchsstrategie. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
+description: "Antidumping Antisubvention und Ausgleichsmassnahmen im EU-Aussenhandelsrecht. Anwendungsfall Import- oder Exporteur ist von Antidumping-Massnahmen betroffen oder will Erstattungsantrag stellen. Normen EU-Antidumpingverordnung 2016/1036 Antisubventionsverordnung 2016/1037 UZK Art. 117 ff. Rückzahlung. Prüfraster Antidumping Antisubvention Umgehung Zusatzzoll Erstattungsantrag Befreiung Kommissionsverfahren Abgabenbescheid. Output Antidumping-Prüfbericht mit Abgabenberechnung Erstattungsantrag und Widerspruchsstrategie. Abgrenzung zu aussenwirtschaft-zolltarif-vzta und aussenwirtschaft-zollverfahren-bewilligungen."
 ---
 
 # Antidumping- und Ausgleichszölle

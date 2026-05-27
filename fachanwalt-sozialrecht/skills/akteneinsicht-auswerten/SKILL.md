@@ -1,6 +1,6 @@
 ---
 name: akteneinsicht-auswerten
-description: "Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch fuer Widerspruch oder Klage auswerten. § 25 SGB X § 120 SGG. Pruefraster: chronologische Sichtung Identifikation entscheidungserheblicher Aktenstuecke Widersprueche zwischen Aktenteilen Beweislage. Output: Aktenchronik Aktenliste mit Bewertung pro Eintrag (entscheidend/hilfreich/neutral/belastend) und Pruefkatalog fuer Folgeschriftsatz. Abgrenzung zu akteneinsicht-anfordern (Antrag) und bescheidanalyse (Bescheid-Fokus)."
+description: "Anwalt hat Sozialrechts-Verwaltungs- oder Gerichtsakte erhalten und muss diese systematisch für Widerspruch oder Klage auswerten. § 25 SGB X § 120 SGG. Prüfraster: chronologische Sichtung Identifikation entscheidungserheblicher Aktenstuecke Widersprueche zwischen Aktenteilen Beweislage. Output: Aktenchronik Aktenliste mit Bewertung pro Eintrag (entscheidend/hilfreich/neutral/belastend) und Prüfkatalog für Folgeschriftsatz. Abgrenzung zu akteneinsicht-anfordern (Antrag) und bescheidanalyse (Bescheid-Fokus)."
 ---
 
 # Akteneinsicht auswerten

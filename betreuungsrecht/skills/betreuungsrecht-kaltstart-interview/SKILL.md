@@ -1,6 +1,6 @@
 ---
 name: betreuungsrecht-kaltstart-interview
-description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer / ehrenamtlich / Vereinsbetreuer / Behördenbetreuer), zuständigem Betreuungsgericht, typischen Aufgabenkreisen (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-pruefen nur für eine Konnektoren-Prüfung."
+description: "Kaltstart-Interview für das Betreuungsrecht-Plugin. Befüllt das Praxisprofil unter ~/.claude/plugins/config/claude-fuer-deutsches-recht/betreuungsrecht/CLAUDE.md mit Angaben zur Betreuerrolle (Berufsbetreuer / ehrenamtlich / Vereinsbetreuer / Behördenbetreuer), zuständigem Betreuungsgericht, typischen Aufgabenkreisen (Vermögenssorge / Gesundheitssorge / Aufenthaltsbestimmung) und Eskalationsstrukturen. Lädt bei Erstinstallation oder wenn die Konfiguration noch [PLATZHALTER]-Marker enthält. Mit --redo für ein erneutes Interview, mit --integrationen-prüfen nur für eine Konnektoren-Prüfung."
 ---
 
 # /betreuungsrecht:betreuungsrecht-kaltstart-interview

@@ -1,6 +1,6 @@
 ---
 name: rechtsfolge-bestimmen
-description: "Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprueche. Gibt Berechnungshinweise fuer Schadensersatz und Vertragsstrafen."
+description: "Bestimmt die Rechtsfolge nach erfolgreicher Subsumtion: Anspruchsinhalt, Hoehe, Tenor, Verwaltungsakt-Inhalt, Strafmass-Rahmen. Unterscheidet Primaeranspruch, Sekundaeranspruch und Nebenansprüche. Gibt Berechnungshinweise für Schadensersatz und Vertragsstrafen."
 ---
 
 # Rechtsfolge bestimmen

@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-umwandlungssteuerrecht
-description: "Umwandlungssteuerrecht: Begleitet Verschmelzung, Spaltung und Formwechsel nach UmwStG auf Steuerneutralitaet, Buchwertfortfuehrung, Sperrfristen, Verlustnutzung und Grunderwerbsteuer. Normen: §§ 11-25 UmwStG, §§ 1 ff. GrEStG, § 8c KStG."
+description: "Umwandlungssteuerrecht: Begleitet Verschmelzung, Spaltung und Formwechsel nach UmwStG auf Steuerneutralitaet, Buchwertfortführung, Sperrfristen, Verlustnutzung und Grunderwerbsteuer. Normen: §§ 11-25 UmwStG, §§ 1 ff. GrEStG, § 8c KStG."
 ---
 
 # Umwandlungssteuerrecht

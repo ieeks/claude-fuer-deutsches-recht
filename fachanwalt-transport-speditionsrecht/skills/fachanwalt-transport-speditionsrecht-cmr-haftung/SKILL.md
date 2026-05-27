@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-transport-speditionsrecht-cmr-haftung
-description: "CMR-Haftung des Frachtfuehrers im internationalen Strassengueterverkehr pruefen. Normen: Art. 17 23 29 CMR. Pruefraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungspruefergebnis. Abgrenzung: nicht CMR-Schadensregulierung."
+description: "CMR-Haftung des Frachtführers im internationalen Strassengueterverkehr prüfen. Normen: Art. 17 23 29 CMR. Prüfraster: Haftungsvoraussetzungen, Befreiungstatbestaende, Haftungshoechstbetraege, grobes Verschulden. Output: CMR-Haftungsprüfergebnis. Abgrenzung: nicht CMR-Schadensregulierung."
 ---
 
 # CMR-Haftung – Grenzüberschreitender Straßengüterverkehr

@@ -1,6 +1,6 @@
 ---
 name: buergergeld-jobcenter-sgb-ii
-description: "Buergergeld nach SGB II. Streit mit Jobcenter zu Regelbedarf KdU Sanktion 2023-Reform Schonvermoegen Karenzzeit. Praxis-Leitfaden Widerspruch Klage Eilantrag fuer Buerger."
+description: "Buergergeld nach SGB II. Streit mit Jobcenter zu Regelbedarf KdU Sanktion 2023-Reform Schonvermögen Karenzzeit. Praxis-Leitfaden Widerspruch Klage Eilantrag für Buerger."
 ---
 
 # Buergergeld — Streit mit dem Jobcenter

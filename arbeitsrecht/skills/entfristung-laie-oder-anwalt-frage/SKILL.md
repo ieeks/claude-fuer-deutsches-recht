@@ -1,6 +1,6 @@
 ---
 name: entfristung-laie-oder-anwalt-frage
-description: "Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhaeltnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist."
+description: "Statusabfrage Entfristungsklage: Anwalt oder Laie; bei Laie Warnungen und Empfehlung anwaltlicher Beratung; kein Mandatsverhältnis; Hinweis auf § 17 TzBfG Drei-Wochen-Frist als kritischste Ausschlussfrist."
 ---
 
 # Entfristung: Laie oder Anwalt?

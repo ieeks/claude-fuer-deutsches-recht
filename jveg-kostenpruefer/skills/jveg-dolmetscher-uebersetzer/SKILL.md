@@ -1,6 +1,6 @@
 ---
 name: jveg-dolmetscher-uebersetzer
-description: "Verguetung fuer gerichtliche Dolmetscher und Uebersetzer nach JVEG berechnen. Normen: §§ 9 11 JVEG, Anlage 1 JVEG. Pruefraster: Stundenverguetung, Mindestwartezeit, Anfahrt, schriftliche Uebersetzung je Seite. Output: Verguetungsberechnung Dolmetscher und Uebersetzer. Abgrenzung: nicht Sachverstaendigenverguetung."
+description: "Verguetung für gerichtliche Dolmetscher und Übersetzer nach JVEG berechnen. Normen: §§ 9 11 JVEG, Anlage 1 JVEG. Prüfraster: Stundenverguetung, Mindestwartezeit, Anfahrt, schriftliche Übersetzung je Seite. Output: Verguetungsberechnung Dolmetscher und Übersetzer. Abgrenzung: nicht Sachverständigenverguetung."
 ---
 
 # JVEG-Dolmetscher-Uebersetzer

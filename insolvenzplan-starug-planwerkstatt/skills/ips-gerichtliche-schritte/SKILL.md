@@ -1,6 +1,6 @@
 ---
 name: ips-gerichtliche-schritte
-description: "Gerichtliche Verfahrensschritte fuer Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Planbestaetigung. §§ 231 232 248 InsO §§ 45 ff. StaRUG Gerichtsverfahren. Pruefraster: Einreichung Vorpruefung Eroerterungstermin Abstimmung Bestaetigung Rechtsmittel Planueberwachung Fristenkalender. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht fuer aussergerichtliche Kommunikation (ips-stakeholder-kommunikation)."
+description: "Gerichtliche Verfahrensschritte für Insolvenzplan und StaRUG-Plan steuern von Einreichung bis Planbestätigung. §§ 231 232 248 InsO §§ 45 ff. StaRUG Gerichtsverfahren. Prüfraster: Einreichung Vorprüfung Eroerterungstermin Abstimmung Bestätigung Rechtsmittel Planueberwachung Fristenkalender. Output: Gerichtsfahrplan Antragsentwuerfe Fristenkalender. Abgrenzung: nicht für außergerichtliche Kommunikation (ips-stakeholder-kommunikation)."
 ---
 
 # Gerichtliche Schritte

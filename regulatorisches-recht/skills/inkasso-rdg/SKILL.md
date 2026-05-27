@@ -1,6 +1,6 @@
 ---
 name: inkasso-rdg
-description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG pruefen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Pruefraster: Erlaubnispflicht Nebenleistungsprivileg Inkassoerlaubnis Zulassung Aufsicht Kundenschutz. Output: RDG-Pruefmemo Erlaubnis-Empfehlung. Abgrenzung: nicht fuer anwaltliche Forderungseinziehung."
+description: "Inkasso- und Rechtsdienstleistungserlaubnis nach RDG prüfen wenn gewerbliche Forderungseinziehung betrieben wird. §§ 2 10 RDG Rechtsdienstleistungserlaubnis. Prüfraster: Erlaubnispflicht Nebenleistungsprivileg Inkassoerlaubnis Zulassung Aufsicht Kundenschutz. Output: RDG-Prüfmemo Erlaubnis-Empfehlung. Abgrenzung: nicht für anwaltliche Forderungseinziehung."
 ---
 
 # Inkassodienstleistungen (RDG)

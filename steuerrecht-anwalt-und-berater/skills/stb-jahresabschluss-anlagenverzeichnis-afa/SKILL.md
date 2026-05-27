@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-anlagenverzeichnis-afa
-description: "Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall vollstaendige Aktualisierung Anlagen Zugaenge Abgaenge AfA-Methoden Sonderabschreibung 7g 7b 6b EStG. Methodik AfA-Tabellen. Output Anlagenspiegel."
+description: "Anlagenverzeichnis und AfA-Buchung Jahresabschluss. Anwendungsfall vollständige Aktualisierung Anlagen Zugaenge Abgaenge AfA-Methoden Sonderabschreibung 7g 7b 6b EStG. Methodik AfA-Tabellen. Output Anlagenspiegel."
 ---
 
 # Anlagenverzeichnis und AfA — Jahresabschluss-Aktualisierung

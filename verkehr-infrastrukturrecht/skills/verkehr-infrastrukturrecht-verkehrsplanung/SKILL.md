@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-verkehrsplanung
-description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Pruefraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begruendung, Abwaegungsgebot. Output Projektfahrplan, Begruendungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende."
+description: "Verkehrsplanung rechtlich begleiten: Kommune oder Verband plant Strassen- oder Radverkehrs-Massnahme und muss Beteiligung und Beschluss vorbereiten. Normen: § 45 StVO (Verkehrsanordnungen), FStrG, StrWG (Landesrecht), ROG §§ 4 ff. (Raumordnung), BauGB §§ 1 ff. (Bauleitplanung), UVPG. Prüfraster: Varianten, Betroffenheiten, Beteiligungsverfahren, Beschluss-Begründung, Abwaegungsgebot. Output Projektfahrplan, Begründungsbausteine, Beteiligungsunterlagen. Abgrenzung: Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung; Verkehrswende siehe verkehr-infrastrukturrecht-verkehrswende."
 ---
 
 # Verkehrsplanung und Projektstrategie

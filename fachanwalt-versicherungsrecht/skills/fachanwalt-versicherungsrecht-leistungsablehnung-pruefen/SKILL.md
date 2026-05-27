@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-leistungsablehnung-pruefen
-description: "Ablehnung des Versicherers pruefen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlaessig § 307 BGB AGB-Kontrolle § 195 BGB Verjaehrung. Pruefraster Obliegenheitsverletzung Vorsatz grobe Fahrlaessigkeit Kausalitaet Risikoausschluss AVB-Auslegung Verjaehrung Hemmung. Output Pruefvermerk mit Ablehnungsbegruendung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-pruefen und fachanwalt-versicherungsrecht-deckungsklage."
+description: "Ablehnung des Versicherers prüfen nach §§ 1 28 VVG Obliegenheitsverletzung und Risikoausschluss. Anwendungsfall Versicherung hat Schadensantrag abgelehnt und Mandant fragt nach Erfolgsaussichten. Normen § 28 VVG Obliegenheitsverletzung § 19 VVG Anzeigepflichtverletzung § 81 VVG grob fahrlässig § 307 BGB AGB-Kontrolle § 195 BGB Verjährung. Prüfraster Obliegenheitsverletzung Vorsatz grobe Fahrlässigkeit Kausalität Risikoausschluss AVB-Auslegung Verjährung Hemmung. Output Prüfvermerk mit Ablehnungsbegründung Widerspruchspotenzial und Klageschrift-Empfehlung. Abgrenzung zu deckungsanfrage-prüfen und fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Leistungsablehnung prüfen

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gmbh-vorbereitung
-description: "GmbH-Gruendung vorbereiten: Gruenderpruefung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Pruefraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschaeftsfuehrereignung. Output: Vorbereitungscheckliste GmbH-Gruendung. Abgrenzung: nicht UG-Gruendung (eigener Skill)."
+description: "GmbH-Gründung vorbereiten: Gründerprüfung, Kapitalplanung, Notar-Auftrag, Gesellschafterliste. Normen: §§ 2 3 5 7 GmbHG. Prüfraster: Mindestkapital 25000 Euro, Einzahlungsnachweis, Gesellschafterkreis, Geschäftsführereignung. Output: Vorbereitungscheckliste GmbH-Gründung. Abgrenzung: nicht UG-Gründung (eigener Skill)."
 ---
 
 # GmbH-Vorbereitung

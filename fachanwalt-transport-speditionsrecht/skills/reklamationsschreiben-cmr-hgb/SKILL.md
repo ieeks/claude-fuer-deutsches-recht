@@ -1,6 +1,6 @@
 ---
 name: reklamationsschreiben-cmr-hgb
-description: "Reklamationsschreiben fuer Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Pruefraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift."
+description: "Reklamationsschreiben für Ladungsschaeden nach HGB oder CMR verfassen: Fristen beachten. Normen: § 438 HGB, Art. 30 CMR. Prüfraster: Reklamationsfrist sieben Tage, schriftliche Anzeige, Schadensnachweis. Output: Reklamationsschreiben HGB oder CMR. Abgrenzung: nicht Klageschrift."
 ---
 
 # Reklamationsschreiben CMR und HGB

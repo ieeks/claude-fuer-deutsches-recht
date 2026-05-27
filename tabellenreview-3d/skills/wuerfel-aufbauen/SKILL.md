@@ -1,6 +1,6 @@
 ---
 name: wuerfel-aufbauen
-description: "3D-Wuerfelstruktur fuer den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Pruefraster: Dimensionen-Vollstaendigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Abgrenzung: nicht Pruefungsdurchfuehrung."
+description: "3D-Wuerfelstruktur für den Tabellenreview aufbauen: Zeilen, Spalten, Perspektiven verknuepfen. Normen: §§ 174 ff. InsO. Prüfraster: Dimensionen-Vollständigkeit, Verknuepfungslogik, Konfiguration. Output: Wuerfelkonfigurationsdokument. Abgrenzung: nicht Prüfungsdurchführung."
 ---
 
 # /tabellenreview-3d:würfel-aufbauen

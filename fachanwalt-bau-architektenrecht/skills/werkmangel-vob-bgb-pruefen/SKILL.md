@@ -1,6 +1,6 @@
 ---
 name: werkmangel-vob-bgb-pruefen
-description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht pruefen: Abgrenzung und Parallelpruefung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Pruefraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelpruefung BGB und VOB. Abgrenzung: nicht ausschliesslich BGB-Werkvertrag."
+description: "Werkmaengel sowohl nach VOB/B als auch nach BGB-Werkvertragsrecht prüfen: Abgrenzung und Parallelprüfung. Normen: §§ 633 634 640 BGB, § 13 VOB/B. Prüfraster: BGB-Mangel vs. VOB/B-Mangel, Gewaehrleistungsfristen, Ruegeregeln. Output: Vergleichende Maengelprüfung BGB und VOB. Abgrenzung: nicht ausschließlich BGB-Werkvertrag."
 ---
 
 # Werkmangel — VOB/B oder BGB?

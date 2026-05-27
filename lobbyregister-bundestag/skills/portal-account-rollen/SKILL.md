@@ -1,6 +1,6 @@
 ---
 name: portal-account-rollen
-description: "Plant Administrationskonto, Rollen, Zugriffsschutz, Zwei-Personen-Freigabe und Passwortmanager fuer das Lobbyregisterportal. Output Account-Konzept."
+description: "Plant Administrationskonto, Rollen, Zugriffsschutz, Zwei-Personen-Freigabe und Passwortmanager für das Lobbyregisterportal. Output Account-Konzept."
 ---
 
 # Portal-Account und Rollen

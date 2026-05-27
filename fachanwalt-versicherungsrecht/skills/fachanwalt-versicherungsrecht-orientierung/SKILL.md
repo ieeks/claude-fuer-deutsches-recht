@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-orientierung
-description: "Orientierung im Versicherungsvertragsrecht fuer Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will Versicherungsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltspruefung Versicherungsrecht vor. Normen VVG VAG GDV-Musterbedingungen AVB-Sparten BU KV LV Sach-Haftpflicht D-und-O. Pruefraster Sparten Normen FAO-Voraussetzungen Standardliteratur typische Mandate Fristen. Output Rechtsgebietsuebersicht Normen Standardliteratur und Routing zu Versicherungsmandats-Skills. Abgrenzung zu mandat-triage-versicherungsrecht und fachanwalt-versicherungsrecht-deckungsklage."
+description: "Orientierung im Versicherungsvertragsrecht für Mandate und Fachanwaltschaft nach FAO. Anwendungsfall Kanzlei will Versicherungsmandat beurteilen oder Anwalt bereitet sich auf Fachanwaltsprüfung Versicherungsrecht vor. Normen VVG VAG GDV-Musterbedingungen AVB-Sparten BU KV LV Sach-Haftpflicht D-und-O. Prüfraster Sparten Normen FAO-Voraussetzungen Standardliteratur typische Mandate Fristen. Output Rechtsgebietsuebersicht Normen Standardliteratur und Routing zu Versicherungsmandats-Skills. Abgrenzung zu mandat-triage-versicherungsrecht und fachanwalt-versicherungsrecht-deckungsklage."
 ---
 
 # Fachanwalt für Versicherungsrecht — Orientierung

@@ -1,6 +1,6 @@
 ---
 name: anw-steuerbescheid-analyse
-description: "Steuerbescheid strukturiert auswerten und Angriffspunkte fuer Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Pruefungsbescheid. Erfasst Steuerart Veranlagungsjahr Nachforderung oder Erstattung Vorlaeufigkeitsvermerk Vorbehalt der Nachpruefung § 164 AO Aenderungsvorschriften §§ 172 ff. AO Bekanntgabe § 122 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG. Output Analyse-Protokoll Angriffspunkte Fristenstatus Empfehlung Einspruch oder Akzeptanz. Nahtloser Uebergang zu anw-einspruch-finanzamt."
+description: "Steuerbescheid strukturiert auswerten und Angriffspunkte für Einspruch identifizieren. Anwendungsfall Mandant hat Steuerbescheid bekommen und fragt ob und wie er sich wehren kann. Bescheidarten Festsetzungsbescheid Aenderungsbescheid Schaetzungsbescheid Haftungsbescheid Prüfungsbescheid. Erfasst Steuerart Veranlagungsjahr Nachforderung oder Erstattung Vorlaeufigkeitsvermerk Vorbehalt der Nachprüfung § 164 AO Aenderungsvorschriften §§ 172 ff. AO Bekanntgabe § 122 AO Vier-Tages-Fiktion seit 01.01.2025 PostModG. Output Analyse-Protokoll Angriffspunkte Fristenstatus Empfehlung Einspruch oder Akzeptanz. Nahtloser Übergang zu anw-einspruch-finanzamt."
 ---
 
 # Steuerbescheid-Analyse

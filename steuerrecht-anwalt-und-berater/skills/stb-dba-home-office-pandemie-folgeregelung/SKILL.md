@@ -1,6 +1,6 @@
 ---
 name: stb-dba-home-office-pandemie-folgeregelung
-description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pandemie. Anwendungsfall Grenzueberschreitender Arbeitnehmer mit Home-Office-Tagen. Konkrete Vereinbarungen DE-Schweiz DE-Oesterreich DE-Luxemburg DE-Niederlande DE-Frankreich DE-Belgien. Schwellenregelungen. Output Mandanten-Memo Berechnungsbeispiel Pruef-Checkliste."
+description: "Konsultations-Vereinbarungen zu Home-Office wahrend und nach Pandemie. Anwendungsfall Grenzüberschreitender Arbeitnehmer mit Home-Office-Tagen. Konkrete Vereinbarungen DE-Schweiz DE-Oesterreich DE-Luxemburg DE-Niederlande DE-Frankreich DE-Belgien. Schwellenregelungen. Output Mandanten-Memo Berechnungsbeispiel Prüf-Checkliste."
 ---
 
 # Home-Office und Konsultations-Vereinbarungen DBA (Pandemie-Folgeregelung)

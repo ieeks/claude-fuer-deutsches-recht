@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-arbeitsrecht-kuendigungsschutzklage
-description: "Kuendigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kuendigung. Anwendungsfall Arbeitnehmer erhaelt Kuendigung und will Klage erheben oder Arbeitgeber prueft Kuendigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Pruefraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kuendigungsgruende Sonderkuendigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
+description: "Kündigungsschutzklage nach § 4 KSchG mit Drei-Wochen-Frist ab Zugang der schriftlichen Kündigung. Anwendungsfall Arbeitnehmer erhaelt Kündigung und will Klage erheben oder Arbeitgeber prüft Kündigungsrisiko. Normen § 4 KSchG Klagefrist § 1 KSchG soziale Rechtfertigung § 623 BGB Schriftform § 102 BetrVG BR-Anhoerung. Prüfraster Anwendbarkeit KSchG § 1 § 23 Schriftform Zugangszeitpunkt Kündigungsgründe Sonderkündigungsschutz BR-Anhoerung. Output Klageschrift Arbeitsgericht mit Antrag Sachverhalt Beweisangeboten und Guetemerkmal. Abgrenzung zu fachanwalt-arbeitsrecht-befristung-tzbfg und fachanwalt-arbeitsrecht-massenentlassung-17-kschg."
 ---
 
 # Kündigungsschutzklage (§ 4 KSchG)

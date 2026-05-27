@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-due-diligence-reporting
-description: "Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht fuer Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, § 93 AktG Informationsgrundlage. Pruefraster Executive Summary, Risikoklassifizierung, Workstream-Einzelberichte, Handlungsempfehlungen, SPA-Anpassungshinweise. Output strukturierter DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen. Abgrenzung zu DD-Legal und DD-Commercial fuer Einzelanalysen."
+description: "Due Diligence Report erstellen und strukturieren: Anwendungsfall After DD-Phase muss Anwalt einen umfassenden DD-Bericht für Kaeufer-Management, Investitionskomitee oder Finanzierungsbank erstellen. SPA-Berichtspflichten, § 93 AktG Informationsgrundlage. Prüfraster Executive Summary, Risikoklassifizierung, Workstream-Einzelberichte, Handlungsempfehlungen, SPA-Anpassungshinweise. Output strukturierter DD-Bericht mit Executive Summary, Risikomatrix und SPA-Empfehlungen. Abgrenzung zu DD-Legal und DD-Commercial für Einzelanalysen."
 ---
 
 # DD Reporting und Legal Fact Book

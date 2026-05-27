@@ -1,6 +1,6 @@
 ---
 name: zulaessigkeit-pruefen
-description: "Zulaessigkeit der Zivilklage systematisch pruefen: Richter oder Referendar prueft Pruefstation Zulaessigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zustaendigkeit), §§ 12 ff. ZPO (oertliche Zustaendigkeit), § 23 GVG (sachliche Zustaendigkeit), §§ 1 ff. GKG (Streitwert). Pruefraster: Rechtsweg, internationale Zustaendigkeit, oertliche und sachliche Zustaendigkeit, Partei-/Prozessfaehigkeit, Rechtsschutzbeduerfnis, besondere Verfahrensarten. Output Zulaessigkeits-Pruefungsschema. Abgrenzung: Meritorische Pruefung siehe anspruchsgrundlagen-pruefen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin."
+description: "Zulässigkeit der Zivilklage systematisch prüfen: Richter oder Referendar prüft Prüfstation Zulässigkeit. Normen: § 13 GVG (Rechtsweg), EuGVVO Bruessel Ia (internationale Zuständigkeit), §§ 12 ff. ZPO (örtliche Zuständigkeit), § 23 GVG (sachliche Zuständigkeit), §§ 1 ff. GKG (Streitwert). Prüfraster: Rechtsweg, internationale Zuständigkeit, örtliche und sachliche Zuständigkeit, Partei-/Prozessfähigkeit, Rechtsschutzbedürfnis, besondere Verfahrensarten. Output Zulässigkeits-Prüfungsschema. Abgrenzung: Meritorische Prüfung siehe anspruchsgrundlagen-prüfen; Verwaltungsgericht siehe fachanwalt-verwaltungsrecht-Plugin."
 ---
 
 # Zulässigkeit der Zivilklage

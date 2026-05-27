@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-urheber-medienrecht-filesharing-verteidigung
-description: "Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Pruefraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklaerung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht fuer allgemeine Urheberrechtsverletzungen."
+description: "Filesharing-Abmahnung verteidigen und Gegenargumente entwickeln wenn Urheberrechtsverletzung per Internetzugang vorgeworfen wird. §§ 97 97a UrhG Abmahnung §§ 85 ff. UrhG Leistungsschutzrechte. Prüfraster: Tatsachenbasis IP-Zuordnung Stoerrerhaftung Haushaltsangehoerige Gegendarstellung modifizierte Unterlassungserklärung. Output: Abwehrschreiben modifizierte UE Klageerwiderungsentwurf. Abgrenzung: nicht für allgemeine Urheberrechtsverletzungen."
 ---
 
 # Filesharing-Abmahnung Verteidigung

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-orientierung
-description: "Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Pruefraster Normen-Ueberblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Ueberblick und Routing)."
+description: "Anwalt will Fachanwaltschaft Sportrecht erwerben oder Mandat im Sportrecht bearbeiten und braucht Orientierung. FAO-Voraussetzungen typische Mandate Fristen. Normen BGB §§ 21 ff. Vereinsrecht CAS Code WADA-Code DFB-Statuten. Prüfraster Normen-Überblick Mandatstypen FAO-Fallzahl-Anforderungen. Output Orientierungs-Leitfaden Normen-Karte. Abgrenzung zu allen Einzel-Skills (nur Überblick und Routing)."
 ---
 
 # Fachanwalt für Sportrecht — Orientierung

@@ -1,6 +1,6 @@
 ---
 name: einfache-sprache-briefe
-description: "Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Pruefraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Uebersetzung in einfacher Sprache mit Erklaerung der naechsten Schritte. Abgrenzung zu Mandantenbrief fuer foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin."
+description: "Anwalts- und Behoerdenbriefe in leichte oder einfache Sprache uebersetzen: Anwendungsfall Mandant mit sprachlichen Einschraenkungen oder geringem Bildungsniveau soll Schreiben von Behoerde Gericht oder Gegenseite verstehen. BeratungsHiG kostenfreie Beratung, BRAO niedrigschwellige Erstberatung, Leichte-Sprache-Standard. Prüfraster Hauptaussage herausarbeiten, Fachbegriffe ersetzen, kurze Saetze bildhafte Sprache, Rechte und Pflichten klar benennen. Output Brief-Übersetzung in einfacher Sprache mit Erklärung der naechsten Schritte. Abgrenzung zu Mandantenbrief für foermliche Korrespondenz und zu Einfache-Sprache-Jura-Plugin."
 ---
 
 # [VERALTET] Verständliche Mandantenbriefe → siehe `/mandantenbrief` und `/status mandant`

@@ -1,6 +1,6 @@
 ---
 name: europarecht-vertragsverletzung-durchsetzung
-description: "Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Pruefraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhilfemassnahmen. Output: Verfahrensstand-Memo Reaktionsstrategie. Abgrenzung: nicht fuer Nichtigkeitsklage (europarecht-klagearten-eugh)."
+description: "Vertragsverletzungsverfahren der EU-Kommission gegen Mitgliedstaaten einordnen oder Reaktion eines Mitgliedstaats vorbereiten. Art. 258 260 AEUV Vertragsverletzung. Prüfraster: Verletzungshandlung Mahnschreiben Klage Urteil Sanktion Abhilfemassnahmen. Output: Verfahrensstand-Memo Reaktionsstrategie. Abgrenzung: nicht für Nichtigkeitsklage (europarecht-klagearten-eugh)."
 ---
 
 # Vertragsverletzung und Durchsetzung

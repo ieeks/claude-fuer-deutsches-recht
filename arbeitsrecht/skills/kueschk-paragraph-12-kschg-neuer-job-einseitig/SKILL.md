@@ -1,6 +1,6 @@
 ---
 name: kueschk-paragraph-12-kschg-neuer-job-einseitig
-description: "§ 12 KSchG einseitige Loesung nach Aufnahme eines neuen Arbeitsverhaeltnisses: Erklaerungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung."
+description: "§ 12 KSchG einseitige Lösung nach Aufnahme eines neuen Arbeitsverhältnisses: Erklärungsfrist eine Woche nach Rechtskraft; Rechtsfolge Annahmeverzugslohn ohne Abfindung; Abgrenzung zu § 9 KSchG; Handlungsfristen und Empfehlung."
 ---
 
 # § 12 KSchG: Einseitige Lösung nach neuem Job

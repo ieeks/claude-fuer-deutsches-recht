@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-familienrecht-duesseldorfer-tabelle-unterhalt
-description: "Unterhaltsberechnung nach Duesseldorfer Tabelle und BGB: Mandant will Kindes- oder Ehegattenunterhalt berechnen oder anfechten. Normen: § 1601 ff. BGB (Verwandtenunterhalt), § 1612a BGB (Mindestunterhalt), §§ 1569-1587 BGB (nachehelicher Unterhalt), § 1361 BGB (Trennungsunterhalt). Pruefraster: Bereinigtes Nettoeinkommen (Berufsaufwendungen, Fahrtkosten, Altersvorsorge), Selbstbehalts-Saetze, Mangelfall § 1609 BGB Rangfolge, Abbaenderungsklage § 238 FamFG, Wechselmodell BGH XII ZB 234/19. Output Unterhaltsberechnung, Tabellen-Auswertung. Abgrenzung: Duesseldorfer Tabelle-Berechnung siehe unterhalt-duesseldorfer-tabelle; Trennungsunterhalt spezifisch siehe fachanwalt-familienrecht-unterhaltsberechnung."
+description: "Unterhaltsberechnung nach Duesseldorfer Tabelle und BGB: Mandant will Kindes- oder Ehegattenunterhalt berechnen oder anfechten. Normen: § 1601 ff. BGB (Verwandtenunterhalt), § 1612a BGB (Mindestunterhalt), §§ 1569-1587 BGB (nachehelicher Unterhalt), § 1361 BGB (Trennungsunterhalt). Prüfraster: Bereinigtes Nettoeinkommen (Berufsaufwendungen, Fahrtkosten, Altersvorsorge), Selbstbehalts-Saetze, Mangelfall § 1609 BGB Rangfolge, Abbaenderungsklage § 238 FamFG, Wechselmodell BGH XII ZB 234/19. Output Unterhaltsberechnung, Tabellen-Auswertung. Abgrenzung: Duesseldorfer Tabelle-Berechnung siehe unterhalt-duesseldorfer-tabelle; Trennungsunterhalt spezifisch siehe fachanwalt-familienrecht-unterhaltsberechnung."
 ---
 
 # Unterhaltsberechnung Düsseldorfer Tabelle

@@ -1,6 +1,6 @@
 ---
 name: ips-minderheitenschutz
-description: "Schlechterstellungsrisiken opponierender Beteiligter analysieren und Planangriffe durch Minderheitenschutzpruefung abwenden. § 251 InsO § 64 StaRUG Minderheitenschutz. Pruefraster: individuelle Schlechterstellung Sicherheitsleistungen Vergleichsrechnung Einwandkatalog Bestaetigungshemmnisse. Output: Minderheitenschutzmatrix Nachbesserungsliste. Abgrenzung: nicht fuer Cramdown-Fragen (ips-cramdown-obstruktion)."
+description: "Schlechterstellungsrisiken opponierender Beteiligter analysieren und Planangriffe durch Minderheitenschutzprüfung abwenden. § 251 InsO § 64 StaRUG Minderheitenschutz. Prüfraster: individuelle Schlechterstellung Sicherheitsleistungen Vergleichsrechnung Einwandkatalog Bestätigungshemmnisse. Output: Minderheitenschutzmatrix Nachbesserungsliste. Abgrenzung: nicht für Cramdown-Fragen (ips-cramdown-obstruktion)."
 ---
 
 # Minderheitenschutz

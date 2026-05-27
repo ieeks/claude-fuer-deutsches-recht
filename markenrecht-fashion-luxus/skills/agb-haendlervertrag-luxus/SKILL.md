@@ -1,6 +1,6 @@
 ---
 name: agb-haendlervertrag-luxus
-description: "AGB-Kontrolle im Selektivvertrieb Luxus/Fashion: Haendlervertrag mit Konditionsklauseln, MFN-Klauseln und Vertragsstrafe-Bemessung pruefen oder entwerfen. Normen: §§ 305 ff. BGB (AGB-Kontrolle B2B), Art. 5 Vertikal-GVO (EU) 2022/720, EuGH C-230/16 Coty (selektiver Vertrieb Plattformverbot). Pruefraster: BGH-Klauselverbote, MFN-Zulassigkeit nach Coty II, kartellrechtliche Compliance. Output AGB-Review mit Aenderungsvorschlaegen oder Haendlervertrags-Entwurf. Abgrenzung: Kartellrecht Preisbindung siehe vertikale-preisbindung-vbe-vo; Selektiv-Vertrieb allgemein siehe selektiver-vertrieb-coty."
+description: "AGB-Kontrolle im Selektivvertrieb Luxus/Fashion: Haendlervertrag mit Konditionsklauseln, MFN-Klauseln und Vertragsstrafe-Bemessung prüfen oder entwerfen. Normen: §§ 305 ff. BGB (AGB-Kontrolle B2B), Art. 5 Vertikal-GVO (EU) 2022/720, EuGH C-230/16 Coty (selektiver Vertrieb Plattformverbot). Prüfraster: BGH-Klauselverbote, MFN-Zulassigkeit nach Coty II, kartellrechtliche Compliance. Output AGB-Review mit Aenderungsvorschlaegen oder Haendlervertrags-Entwurf. Abgrenzung: Kartellrecht Preisbindung siehe vertikale-preisbindung-vbe-vo; Selektiv-Vertrieb allgemein siehe selektiver-vertrieb-coty."
 ---
 
 # AGB im Händlervertrag für Luxus-Selektivvertrieb

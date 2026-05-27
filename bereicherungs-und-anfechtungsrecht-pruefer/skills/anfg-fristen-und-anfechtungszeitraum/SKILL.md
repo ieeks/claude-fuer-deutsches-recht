@@ -1,6 +1,6 @@
 ---
 name: anfg-fristen-und-anfechtungszeitraum
-description: "Anfechtungsfristen im ausserinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Pruefraster: Fristbeginn, Fristberechnung, Verjaebrungsverhaeltnis, Hemmungstatbestaende. Output: Fristenblatt mit Anfechtungszeitraeumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO."
+description: "Anfechtungsfristen im außerinsolvenzlichen Anfechtungsrecht bestimmen: zehn Jahre Vorsatzanfechtung, vier Jahre unentgeltliche Leistung. Normen: §§ 3 4 AnfG, §§ 195 199 BGB. Prüfraster: Fristbeginn, Fristberechnung, Verjaebrungsverhältnis, Hemmungstatbestaende. Output: Fristenblatt mit Anfechtungszeiträumen. Abgrenzung: nicht InsO-Anfechtungsfristen §§ 130 ff. InsO."
 ---
 
 # Fristen und Anfechtungszeitraum — AnfG

@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Pruefraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten."
+description: "Vergleichsverhandlung im Bau- und Architektenrecht strategisch vorbereiten: Gutachtenlage, Haftungsquoten. Normen: §§ 779 BGB, § 278 ZPO. Prüfraster: Streitpunkte, Gutachtenlage, Vergleichsspielraum, Fristen. Output: Vergleichsverhandlungs-Strategie Baurecht. Abgrenzung: nicht VOB-Schiedsgutachten."
 ---
 
 # Vergleichsverhandlung und Einigung im Privates Baurecht, Architekten- und Ingenieurrecht

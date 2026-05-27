@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-migrationsrecht-geas-reform-grenzverfahren-2024
-description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Workflow Eilantrag Identitaetspruefung Verfahrensgarantien."
+description: "GEAS-Reform EU-Asyl- und Migrationsmanagementverordnung 2024/1351 EU-Asylverfahrensverordnung 2024/1348 EU-Grenzverfahrensverordnung 2024/1349 ab 12.6.2026 anwendbar. Pflicht-Grenzverfahren bei Antragstellern mit niedrigen Anerkennungsquoten. Fiktion der Nicht-Einreise. Solidaritaetsmechanismus § 16 EU-AMVO. Rechtsbehelf-Frist 7 Tage. Workflow Eilantrag Identitätsprüfung Verfahrensgarantien."
 ---
 
 # GEAS-Reform: EU-Grenzverfahren 2024

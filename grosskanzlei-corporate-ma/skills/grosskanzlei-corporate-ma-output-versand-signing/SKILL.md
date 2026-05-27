@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-output-versand-signing
-description: "Transaktionsoutput, Signing-Pack und Versand vorbereiten: Anwendungsfall Closing oder Signing naht und Anwalt muss Markups, Board Papers, Signing Packs, Closing Deliverables und beA/Notar/Email-Versand koordinieren. §§ 125 ff. BGB Formvorschriften, Notarrecht, beA-Verordnung. Pruefraster Ausgabeformat Clean vs. Markup, PDF-Finalisierung, Signaturseiten, Versandprotokoll, Empfaengerbestaetigungen. Output Versand-Checkliste mit Signing-Pack, Protokoll und Bestaetigung. Abgrenzung zu Closing-Bible fuer Archivierung und zu Signing-Closing-CPs fuer Bedingungspruefung."
+description: "Transaktionsoutput, Signing-Pack und Versand vorbereiten: Anwendungsfall Closing oder Signing naht und Anwalt muss Markups, Board Papers, Signing Packs, Closing Deliverables und beA/Notar/Email-Versand koordinieren. §§ 125 ff. BGB Formvorschriften, Notarrecht, beA-Verordnung. Prüfraster Ausgabeformat Clean vs. Markup, PDF-Finalisierung, Signaturseiten, Versandprotokoll, Empfaengerbestätigungen. Output Versand-Checkliste mit Signing-Pack, Protokoll und Bestätigung. Abgrenzung zu Closing-Bible für Archivierung und zu Signing-Closing-CPs für Bedingungsprüfung."
 ---
 
 # Output, Signing und Versand

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-insolvenz-sanierungsrecht-glaeubigerantrag
-description: "Glaeubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Forderung und Eroefffnungsgrund. Anwendungsfall Glaeubiger will Insolvenz des Schuldners eroefffnen lassen. Normen § 14 InsO Glaeubiger-Antrag § 17 InsO Zahlungsunfaehigkeit § 19 InsO Ueberschuldung § 21 InsO Sicherungsmassnahmen § 26 InsO Kostenvorschuss. Pruefraster Glaubhaftmachung Forderung Eroefffnungsgrund Rechtsschutzbedurfnis Anhoerung Sicherungsmassnahmen Kosten BGH IX ZB 116/08. Output Vollstaendiges Antragsformular mit Glaubhaftmachungs-Anlage und Kosten-Kalkulation. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
+description: "Gläubiger-Insolvenzantrag nach § 14 InsO mit Glaubhaftmachung Forderung und Eroefffnungsgrund. Anwendungsfall Gläubiger will Insolvenz des Schuldners eroefffnen lassen. Normen § 14 InsO Gläubiger-Antrag § 17 InsO Zahlungsunfähigkeit § 19 InsO Überschuldung § 21 InsO Sicherungsmassnahmen § 26 InsO Kostenvorschuss. Prüfraster Glaubhaftmachung Forderung Eroefffnungsgrund Rechtsschutzbedurfnis Anhoerung Sicherungsmassnahmen Kosten BGH IX ZB 116/08. Output Vollständiges Antragsformular mit Glaubhaftmachungs-Anlage und Kosten-Kalkulation. Abgrenzung zu fachanwalt-insolvenz-sanierungsrecht-schutzschirmverfahren und fachanwalt-insolvenz-sanierungsrecht-restrukturierungsplan."
 ---
 
 ## Mandantenfragen beim Kaltstart

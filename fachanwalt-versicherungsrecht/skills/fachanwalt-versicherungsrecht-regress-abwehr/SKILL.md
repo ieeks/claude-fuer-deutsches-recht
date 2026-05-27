@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-versicherungsrecht-regress-abwehr
-description: "Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung. Anwendungsfall Sozialversicherungstraeger oder Versicherung macht Regress auf Haftenden geltend. Normen § 116 SGB X Forderungsuebergang § 86 VVG Uebergang § 76 LBG Dienstherrenregress. Pruefraster sachliche und zeitliche Kongruenz Quotenvorrecht Geschaedigter § 116 Abs. 3 SGB X Familienprivileg § 86 Abs. 3 VVG Mitverschulden Verjaehrung Hemmung Verhandlungen. Output Regressabwehrschreiben mit Konkurrenz-Einrede Quotenvorrecht-Argumentation und Verjaehrungseinrede. Abgrenzung zu klage-versicherer-strategie und schriftsatzkern-substantiierung."
+description: "Regressabwehr gegen Sozialversicherungstraeger und Versicherungstraeger nach Schadensersatzleistung. Anwendungsfall Sozialversicherungstraeger oder Versicherung macht Regress auf Haftenden geltend. Normen § 116 SGB X Forderungsuebergang § 86 VVG Übergang § 76 LBG Dienstherrenregress. Prüfraster sachliche und zeitliche Kongruenz Quotenvorrecht Geschaedigter § 116 Abs. 3 SGB X Familienprivileg § 86 Abs. 3 VVG Mitverschulden Verjährung Hemmung Verhandlungen. Output Regressabwehrschreiben mit Konkurrenz-Einrede Quotenvorrecht-Argumentation und Verjährungseinrede. Abgrenzung zu klage-versicherer-strategie und schriftsatzkern-substantiierung."
 ---
 
 # Regress-Abwehr

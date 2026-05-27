@@ -1,6 +1,6 @@
 ---
 name: positionsmarke
-description: "Positionsmarken (z.B. roter Sohlenstreifen Louboutin, Adidas-Streifen, Burberry-Karo) anmelden: Position auf Traeger exakt beschreiben und schuetzen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV, EuGH C-163/16 Louboutin. Pruefraster: Positions-Beschreibung (Traeger, Position, Ausdehnung), Unterscheidungskraft, Verkehrsdurchsetzung, Freihaltebeduerftigkeit. Output Anmelde-Strategie, Beschreibungs-Entwurf fuer Anmeldeformular, Nachweis-Konzept. Abgrenzung: 3D-Formmarke siehe dreidimensionale-marke; Bild-/Wort-Bild-Marke siehe bildmarke-und-wort-bild."
+description: "Positionsmarken (z.B. roter Sohlenstreifen Louboutin, Adidas-Streifen, Burberry-Karo) anmelden: Position auf Traeger exakt beschreiben und schützen. Normen: §§ 3 und 8 MarkenG, Art. 4 UMV, EuGH C-163/16 Louboutin. Prüfraster: Positions-Beschreibung (Traeger, Position, Ausdehnung), Unterscheidungskraft, Verkehrsdurchsetzung, Freihaltebedürftigkeit. Output Anmelde-Strategie, Beschreibungs-Entwurf für Anmeldeformular, Nachweis-Konzept. Abgrenzung: 3D-Formmarke siehe dreidimensionale-marke; Bild-/Wort-Bild-Marke siehe bildmarke-und-wort-bild."
 ---
 
 # Positionsmarken

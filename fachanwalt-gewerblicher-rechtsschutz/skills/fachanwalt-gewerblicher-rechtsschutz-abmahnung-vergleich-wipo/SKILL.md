@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-abmahnung-vergleich-wipo
-description: "Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Pruefraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzustaendigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht fuer Markenrecht vor EUIPO oder DPMA."
+description: "Abmahnung oder Vergleich bei Domainnamen-Streit und WIPO-Schiedsverfahren vorbereiten. UDRP WIPO-Schiedsregeln § 14 MarkenG Markenrecht. Prüfraster: Domain-Name Verwechslungsgefahr Boese-Glauben-Registrierung Schiedsstellenzuständigkeit Transferantrag. Output: WIPO-Beschwerde oder Verteidigung Vergleichsangebot. Abgrenzung: nicht für Markenrecht vor EUIPO oder DPMA."
 ---
 
 # Abmahnungs-Vergleich / WIPO-Mediation im gewerblichen Rechtsschutz

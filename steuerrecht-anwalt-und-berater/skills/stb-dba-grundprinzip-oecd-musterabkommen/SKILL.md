@@ -1,6 +1,6 @@
 ---
 name: stb-dba-grundprinzip-oecd-musterabkommen
-description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassungen und MLI fuer die Pruefung deutscher Doppelbesteuerungsabkommen. Anwendungsfall Steuerberater oder Steueranwalt arbeitet einen DBA-Sachverhalt vom Pruefungsschema her auf. Aufbau eines DBA Praeambel Anwendungsbereich Begriffsbestimmungen Verteilungs- und Methodenartikel Verfahrensartikel Schlussklauseln. Pruefungsschritte Ansaessigkeit Einkunftsart Verteilungsartikel Methodenartikel Subject-to-Tax. Output DBA-Pruefungsraster Memo Querverweis zu landesbezogenen Skills."
+description: "Grundprinzipien des OECD-Musterabkommens 2017 inkl. BEPS-Anpassungen und MLI für die Prüfung deutscher Doppelbesteuerungsabkommen. Anwendungsfall Steuerberater oder Steueranwalt arbeitet einen DBA-Sachverhalt vom Prüfungsschema her auf. Aufbau eines DBA Praeambel Anwendungsbereich Begriffsbestimmungen Verteilungs- und Methodenartikel Verfahrensartikel Schlussklauseln. Prüfungsschritte Ansaessigkeit Einkunftsart Verteilungsartikel Methodenartikel Subject-to-Tax. Output DBA-Prüfungsraster Memo Querverweis zu landesbezogenen Skills."
 ---
 
 # DBA-Grundprinzip: OECD-Musterabkommen 2017 und Anwendungsschritte

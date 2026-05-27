@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Triage im Arbeitsrecht: Mandantenrolle klaeren, Sofort-Fristen pruefen (KSchG-Klage drei Wochen, Entfristung drei Wochen), Schwerpunkt bestimmen (Kuendigung, Befristung, Betriebsrat, Expansion, Untersuchung) und zu Folge-Skills routen."
+description: "Einstieg und Triage im Arbeitsrecht: Mandantenrolle klaeren, Sofort-Fristen prüfen (KSchG-Klage drei Wochen, Entfristung drei Wochen), Schwerpunkt bestimmen (Kündigung, Befristung, Betriebsrat, Expansion, Untersuchung) und zu Folge-Skills routen."
 ---
 
 # Arbeitsrecht — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-vereinsstrafrecht
-description: "Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: Spielsperre Geldstrafe Lizenzentzug. § 25 BGB Satzungsautonomie BGH II ZR 7/70 Inhaltskontrolle Vereinsstrafe AGB §§ 305 ff. BGB BGH Pechstein KZR 6/15. Normen § 25 BGB §§ 305 ff. BGB § 1029 ZPO CAS Code. Pruefraster Rechtsgrundlage Verhaeltnismaessigkeit Verfahrensrechte Anhoerung Gerichtsweg. Output Widerspruchs-Schrift Klage-Entwurf CAS-Berufung. Abgrenzung zu verbandsstrafe-anfechten (Raster allg.) und cas-berufung-vorbereiten (CAS)."
+description: "Sportler oder Verein soll Verbands- oder Vereinsstrafe anfechten: Spielsperre Geldstrafe Lizenzentzug. § 25 BGB Satzungsautonomie BGH II ZR 7/70 Inhaltskontrolle Vereinsstrafe AGB §§ 305 ff. BGB BGH Pechstein KZR 6/15. Normen § 25 BGB §§ 305 ff. BGB § 1029 ZPO CAS Code. Prüfraster Rechtsgrundlage Verhältnismäßigkeit Verfahrensrechte Anhoerung Gerichtsweg. Output Widerspruchs-Schrift Klage-Entwurf CAS-Berufung. Abgrenzung zu verbandsstrafe-anfechten (Raster allg.) und cas-berufung-vorbereiten (CAS)."
 ---
 
 # Vereinsstrafrecht

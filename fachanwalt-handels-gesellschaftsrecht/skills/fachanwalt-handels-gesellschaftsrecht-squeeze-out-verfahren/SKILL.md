@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-handels-gesellschaftsrecht-squeeze-out-verfahren
-description: "Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Pruefraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Uebernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit."
+description: "Mehrheitsaktionaer will Minderheitsaktionaere aus AG herausdrangen oder Minderheitsaktionaer wird herausgedraengt. Squeeze-out §§ 327a ff. AktG. Prüfraster: 95-Prozent-Schwelle Barabfindung gerichtliche Festsetzung. WpUG-Squeeze-out nach Übernahmeangebot. Verschmelzungs-Squeeze-out § 62 Abs. 5 UmwG. Spruchverfahren SpruchG. Output: Ablaufplan und Schriftsatzvorlagen Squeeze-out und Spruchverfahren. Abgrenzung zu fachanwalt-handels-gesellschaftsrecht-gesellschafterstreit (GmbH-Streit) und fachanwalt-hgr-dis-schiedsverfahren-streit."
 ---
 
 # Squeeze-out Verfahren

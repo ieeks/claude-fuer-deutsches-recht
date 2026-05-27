@@ -1,6 +1,6 @@
 ---
 name: kartellverbot-modus
-description: "Prueft Marktabgrenzung im Kontext des Kartellverbots (Art 101 AEUV und Paragraf 1 GWB): Wettbewerbsbeschraenkung bezweckt oder bewirkt Single-Brand vs Inter-Brand Wettbewerb Spuerbarkeit nach Bagatellbekanntmachung und EuGH Rs C-226/11 Expedia Gruppenfreistellungsverordnungen und Einzelfreistellung."
+description: "Prüft Marktabgrenzung im Kontext des Kartellverbots (Art 101 AEUV und Paragraf 1 GWB): Wettbewerbsbeschraenkung bezweckt oder bewirkt Single-Brand vs Inter-Brand Wettbewerb Spuerbarkeit nach Bagatellbekanntmachung und EuGH Rs C-226/11 Expedia Gruppenfreistellungsverordnungen und Einzelfreistellung."
 ---
 
 # Kartellverbot — Modus

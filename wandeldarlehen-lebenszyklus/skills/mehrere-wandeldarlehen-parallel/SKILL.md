@@ -1,6 +1,6 @@
 ---
 name: mehrere-wandeldarlehen-parallel
-description: "Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren und Konflikte erkennen. §§ 488 ff. BGB § 39 InsO Rangruecktritt. Pruefraster: Pari-passu-Stellung Rangregelungen Wandlungsrechte Verwasserungsschutz Vesting. Output: Uebersichtsmatrix Konfliktliste Handlungsempfehlung. Abgrenzung: nicht fuer Einzeldarlehen-Erstellung."
+description: "Mehrere parallele Wandeldarlehen von verschiedenen Investoren koordinieren und Konflikte erkennen. §§ 488 ff. BGB § 39 InsO Rangrücktritt. Prüfraster: Pari-passu-Stellung Rangregelungen Wandlungsrechte Verwasserungsschutz Vesting. Output: Übersichtsmatrix Konfliktliste Handlungsempfehlung. Abgrenzung: nicht für Einzeldarlehen-Erstellung."
 ---
 
 # Mehrere parallele Wandeldarlehen

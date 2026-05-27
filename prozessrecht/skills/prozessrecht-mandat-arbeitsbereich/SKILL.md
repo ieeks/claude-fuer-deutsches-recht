@@ -1,6 +1,6 @@
 ---
 name: prozessrecht-mandat-arbeitsbereich
-description: "Digitaler Arbeitsbereich fuer Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Pruefraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill."
+description: "Digitaler Arbeitsbereich für Prozessmandate: Dokumentenablage, Aufgabenverteilung, Fristentracking. Normen: ZPO, BRAO. Prüfraster: Dokumentenstruktur, Aufgabenliste, Fristverwaltung. Output: Mandats-Arbeitsbereich-Struktur. Abgrenzung: nicht Kanzlei-Builder-Hub-Skill."
 ---
 
 # Mandatsarbeitsbereich

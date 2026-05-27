@@ -1,6 +1,6 @@
 ---
 name: anwaltsgeheimnis-pruefung
-description: "Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen pruefen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Pruefraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Pruefergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung: nicht Datenschutz-Compliance DSGVO."
+description: "Anwaltsgeheimnis und Verschwiegenheitspflicht bei Weitergabe von Mandatsinformationen prüfen. Normen: § 43a BRAO, § 203 StGB, § 102 ZPO. Prüfraster: Offenbarungsbefugnis, Zeugnisverweigerungsrecht, strafrechtliche Grenzen. Output: Prüfergebnis Anwaltsgeheimnis mit Handlungsempfehlung. Abgrenzung: nicht Datenschutz-Compliance DSGVO."
 ---
 
 # Vertraulichkeitsschutz-Erstprüfung (Vorlagepflicht und Verschwiegenheit)

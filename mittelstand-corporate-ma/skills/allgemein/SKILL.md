@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das Mittelstand-Corporate-MA-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung und PMI im Mittelstandsmandat."
+description: "Einstieg und Orientierung für das Mittelstand-Corporate-MA-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung und PMI im Mittelstandsmandat."
 ---
 
 # Mittelstand Corporate M&A — Allgemein

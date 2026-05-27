@@ -1,6 +1,6 @@
 ---
 name: verfassungsrecht-grundrechtspruefung
-description: "Student prueft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhaeltnismaessigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Pruefraster Drei-Schritt-Schema pro Grundrecht Verhaeltnismaessigkeitspruefung Schluss-Saetze. Output Grundrechts-Pruefungsschema Argumentation. Abgrenzung zu oeffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden)."
+description: "Student prüft Grundrechte in der Hausarbeit: Schutzbereich Eingriff verfassungsrechtliche Rechtfertigung Verhältnismäßigkeit. Art. 1-19 GG Drittwirkung mittelbar Schranken-Schranken. Normen GG Art. 1 2 3 4 5 8 12 14. Prüfraster Drei-Schritt-Schema pro Grundrecht Verhältnismäßigkeitsprüfung Schluss-Saetze. Output Grundrechts-Prüfungsschema Argumentation. Abgrenzung zu öffentliches-recht-statthaft (Klage-Schema) und methodenlehre-auslegung (Methoden)."
 ---
 
 # Verfassungsrecht — Grundrechts-Prüfung

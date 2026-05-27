@@ -1,6 +1,6 @@
 ---
 name: wandlung-kommunikation-paketverteilung
-description: "Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Pruefraster: Empfaengerliste Dokumente Zugang Fristen Bestaetigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht fuer inhaltliche Pruefung der Wandlung (wandelereignis-eingang)."
+description: "Kommunikation und Dokumentenversand an alle Beteiligten nach Wandlungsentscheidung organisieren. §§ 130 132 BGB Zugang §§ 15 55 GmbHG. Prüfraster: Empfaengerliste Dokumente Zugang Fristen Bestätigung. Output: Kommunikationsplan Versandprotokoll. Abgrenzung: nicht für inhaltliche Prüfung der Wandlung (wandelereignis-eingang)."
 ---
 
 # Wandlung – Kommunikation und Paketverteilung

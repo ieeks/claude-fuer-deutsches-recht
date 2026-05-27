@@ -1,6 +1,6 @@
 ---
 name: jveg-kuerzung-wegfall-8a
-description: "Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG pruefen: fehlerhafte Gutachten, Verspaetung. Normen: § 8a JVEG. Pruefraster: Verschulden, Kausalitaet, Kuerzungsumfang. Output: Pruefergebnis Kuerzung § 8a JVEG mit Begruendung. Abgrenzung: nicht Dreimonatsfrist § 2 JVEG."
+description: "Kuerzung oder Wegfall der JVEG-Verguetung nach § 8a JVEG prüfen: fehlerhafte Gutachten, Verspaetung. Normen: § 8a JVEG. Prüfraster: Verschulden, Kausalität, Kuerzungsumfang. Output: Prüfergebnis Kuerzung § 8a JVEG mit Begründung. Abgrenzung: nicht Dreimonatsfrist § 2 JVEG."
 ---
 
 # JVEG-Kuerzung-Wegfall-8a

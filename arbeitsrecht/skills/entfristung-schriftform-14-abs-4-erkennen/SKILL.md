@@ -1,6 +1,6 @@
 ---
 name: entfristung-schriftform-14-abs-4-erkennen
-description: "KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG fuer Befristungsabreden; eigenthaendige Unterschrift nach § 126 BGB erforderlich; KEINE elektronische Form bei Befristungsabrede; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt als unbefristet; Vertrag selbst wirksam."
+description: "KERNSKILL: Schriftform nach § 14 Abs. 4 TzBfG für Befristungsabreden; eigenthaendige Unterschrift nach § 126 BGB erforderlich; KEINE elektronische Form bei Befristungsabrede; Rechtsfolge § 16 Satz 1 TzBfG Vertrag gilt als unbefristet; Vertrag selbst wirksam."
 ---
 
 # KERNSKILL: Schriftform § 14 Abs. 4 TzBfG — Die häufig übersehene Falle

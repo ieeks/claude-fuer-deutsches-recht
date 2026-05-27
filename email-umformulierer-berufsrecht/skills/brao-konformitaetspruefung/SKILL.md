@@ -1,6 +1,6 @@
 ---
 name: brao-konformitaetspruefung
-description: "E-Mail auf BRAO-Konformitaet pruefen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Pruefraster: Verschwiegenheitspflicht Interessenkonflikt unabhaengige Berufsausuebung Werbegrenzen Mandatsbeziehung. Output: BRAO-Pruefprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht fuer BORA-Detailpruefung (bora-konformitaetspruefung)."
+description: "E-Mail auf BRAO-Konformität prüfen bevor sie versandt wird. §§ 43 43a 43b BRAO Grundpflichten Sachlichkeitsgebot Werbung. Prüfraster: Verschwiegenheitspflicht Interessenkonflikt unabhängige Berufsausübung Werbegrenzen Mandatsbeziehung. Output: BRAO-Prüfprotokoll Beanstandungen Korrekturvorschlaege. Abgrenzung: nicht für BORA-Detailprüfung (bora-konformitätsprüfung)."
 ---
 
 # BRAO-Konformitätsprüfung

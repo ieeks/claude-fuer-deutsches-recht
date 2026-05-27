@@ -1,6 +1,6 @@
 ---
 name: stb-susa-haupt-und-personenkonten
-description: "SuSa-Auswertung Hauptbuchkonten und Personenkonten separat auswerten. Anwendungsfall Pruefung Hauptbuch Sammelkonten 1400 1500 vs Personenkonten Debitoren Kreditoren OPOS. Methodik Konsistenz Hauptbuch zu Personenkonten Abstimmung. Output Vollabstimmung Hauptbuch Nebenbuch."
+description: "SuSa-Auswertung Hauptbuchkonten und Personenkonten separat auswerten. Anwendungsfall Prüfung Hauptbuch Sammelkonten 1400 1500 vs Personenkonten Debitoren Kreditoren OPOS. Methodik Konsistenz Hauptbuch zu Personenkonten Abstimmung. Output Vollabstimmung Hauptbuch Nebenbuch."
 ---
 
 # Hauptbuchkonten und Personenkonten — Abstimmung

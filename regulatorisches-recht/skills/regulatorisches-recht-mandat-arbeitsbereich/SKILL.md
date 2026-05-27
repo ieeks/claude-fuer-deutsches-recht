@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-mandat-arbeitsbereich
-description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Pruefraster: Mandatsumfang Zustaendigkeiten Fristen Risikostufe beteiligte Behoerden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht fuer inhaltliche Regulierungspruefung."
+description: "Regulatorisches Mandat strukturieren und Arbeitsbereich abgrenzen. KWG WpHG DORA VAG GwG BaFin. Prüfraster: Mandatsumfang Zuständigkeiten Fristen Risikostufe beteiligte Behoerden. Output: Mandatssteckbrief Arbeitsplan Rollenverteilung. Abgrenzung: nicht für inhaltliche Regulierungsprüfung."
 ---
 
 # Mandat-Workspace-Verwaltung

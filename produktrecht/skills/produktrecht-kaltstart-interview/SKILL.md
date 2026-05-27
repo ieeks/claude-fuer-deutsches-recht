@@ -1,6 +1,6 @@
 ---
 name: produktrecht-kaltstart-interview
-description: "Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennzeichnungs-Pflichten EU-Produktsicherheits-VO 2023/988. Pruefraster Produktkategorien typische Risiken Eskalationsschwellen Kanzleiprofil. Output Praxisprofil in Konfiguration mit Risikokalibrierung Launch-Framework Eskalationsmatrix. Abgrenzung: produktrecht-anpassen fuer spaetere Einzelaenderungen."
+description: "Produktrecht-Plugin erstmalig einrichten und Launch-Tracker verbinden sowie Risikokalibrierung der Rechtsabteilung erfassen. Verbindet Launch-Tracker liest vergangene Reviews lernt Risikokalibrierung. Normen ProdSG MarktueberwG CE-Kennzeichnungs-Pflichten EU-Produktsicherheits-VO 2023/988. Prüfraster Produktkategorien typische Risiken Eskalationsschwellen Kanzleiprofil. Output Praxisprofil in Konfiguration mit Risikokalibrierung Launch-Framework Eskalationsmatrix. Abgrenzung: produktrecht-anpassen für spaetere Einzelaenderungen."
 ---
 
 # /kaltstart-interview

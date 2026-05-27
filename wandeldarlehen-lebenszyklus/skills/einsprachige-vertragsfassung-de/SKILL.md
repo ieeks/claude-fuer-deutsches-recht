@@ -1,6 +1,6 @@
 ---
 name: einsprachige-vertragsfassung-de
-description: "Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten fuer rein nationale Transaktionen. §§ 488 ff. BGB Darlehen §§ 55 56 GmbHG Kapitalerhohung. Pruefraster: SAFE-Konditionen BGB-Konformitaet Schriftformerfordernisse Investoren-Sonderrechte. Output: vollstaendiger Vertragsentwurf auf Deutsch. Abgrenzung: nicht fuer bilinguale Fassung (bilinguale-vertragserstellung)."
+description: "Wandeldarlehensvertrag auf Deutsch erstellen oder ueberarbeiten für rein nationale Transaktionen. §§ 488 ff. BGB Darlehen §§ 55 56 GmbHG Kapitalerhohung. Prüfraster: SAFE-Konditionen BGB-Konformität Schriftformerfordernisse Investoren-Sonderrechte. Output: vollständiger Vertragsentwurf auf Deutsch. Abgrenzung: nicht für bilinguale Fassung (bilinguale-vertragserstellung)."
 ---
 
 # Einsprachige Vertragsfassung (nur DE)

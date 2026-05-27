@@ -1,6 +1,6 @@
 ---
 name: geldwaesche-sanktionsscreening
-description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschaeft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001 881/2002 Russland-VO 833/2014 269/2014 OFAC-SDN-Liste. Pruefraster Namensscreening Alias-Screening Eigentuems-Kontrolle Embargo-Check Trefferlog False-Positive-Bewertung. Output Screening-Protokoll mit Trefferliste False-Positive-Begruendung Freigabe oder Meldepflicht. Abgrenzung zu geldwaesche-pep-hochrisikoland und geldwaesche-transaktionsmonitoring."
+description: "Sanktionsscreening von Kunden Transaktionen und Beteiligten gegen EU-US- und UN-Sanktionslisten. Anwendungsfall neues Geschäft soll abgeschlossen oder Transaktion freigegeben werden. Normen EU-Verordnungen 2580/2001 881/2002 Russland-VO 833/2014 269/2014 OFAC-SDN-Liste. Prüfraster Namensscreening Alias-Screening Eigentuems-Kontrolle Embargo-Check Trefferlog False-Positive-Bewertung. Output Screening-Protokoll mit Trefferliste False-Positive-Begründung Freigabe oder Meldepflicht. Abgrenzung zu geldwäsche-pep-hochrisikoland und geldwäsche-transaktionsmonitoring."
 ---
 
 # Sanktionslistenprüfung und Embargoabgleich

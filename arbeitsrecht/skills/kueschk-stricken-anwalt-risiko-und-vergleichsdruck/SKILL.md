@@ -1,6 +1,6 @@
 ---
 name: kueschk-stricken-anwalt-risiko-und-vergleichsdruck
-description: "KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rueckkehrpflicht droht; Aufloeungsantrag § 9 KSchG; § 12 KSchG einseitige Loesung nach neuem Arbeitsverhaeltnis."
+description: "KERNSKILL: Warnung vor der Stricken-Strategie des Arbeitgeberanwalts; Risiko dass Arbeitgeber spaet nachgibt wenn Arbeitnehmer neuen Job hat und Rückkehrpflicht droht; Aufloeungsantrag § 9 KSchG; § 12 KSchG einseitige Lösung nach neuem Arbeitsverhältnis."
 ---
 
 # KERNWARNUNG: Stricken-Anwalt-Risiko und Vergleichsdruck

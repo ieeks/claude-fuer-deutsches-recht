@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Ueberblick fuer das KI-Richtlinien-Plugin: Erstellung und Pflege berufsrechtskonformer KI-Nutzungsrichtlinien fuer Kanzleien und Rechtsabteilungen nach BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen fuer Anwaelte und Syndikus-Anwaelte."
+description: "Einstieg und Überblick für das KI-Richtlinien-Plugin: Erstellung und Pflege berufsrechtskonformer KI-Nutzungsrichtlinien für Kanzleien und Rechtsabteilungen nach BRAO, BORA, DSGVO, KI-Verordnung sowie BRAK- und DAV-Hinweisen für Anwaelte und Syndikus-Anwaelte."
 ---
 
 # KI-Richtlinie fuer Kanzleien und Rechtsabteilungen — Allgemein

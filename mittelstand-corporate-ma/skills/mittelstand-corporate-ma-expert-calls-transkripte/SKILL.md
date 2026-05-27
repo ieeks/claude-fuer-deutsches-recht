@@ -1,6 +1,6 @@
 ---
 name: mittelstand-corporate-ma-expert-calls-transkripte
-description: "Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte fuer DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Pruefraster Kernaussagen-Extrakt Widerspruechepruefung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtspruefung)."
+description: "Anwalt wertet Management Presentations Expert Calls und Verhandlungstranskripte für DD und SPA-Vorbereitung aus. Normen §§ 311 241 BGB Vorvertragspflichten Geheimhaltungsvereinbarungen NDA. Prüfraster Kernaussagen-Extrakt Widerspruecheprüfung DD-Relevanz-Mapping SPA-Anker. Output Transkript-Zusammenfassung Key-Points-Liste DD-Fundstellen. Abgrenzung zu datenraum-gap-clean-room (Datenmaterial) und due-diligence-legal (Rechtsprüfung)."
 ---
 
 # Expert Calls und Transkripte

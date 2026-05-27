@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer den Gruendungsassistenten fuer deutsche Gesellschaften: Rechtsformwahl, Gesellschaftsvertrag, Geschaeftsfuehrervertrag, Notar, Handelsregister, Gewerbeamt, Finanzamt und Transparenzregister fuer GmbH, UG, GbR, OHG, KG und verwandte Rechtsformen."
+description: "Einstieg und Orientierung für den Gründungsassistenten für deutsche Gesellschaften: Rechtsformwahl, Gesellschaftsvertrag, Geschäftsführervertrag, Notar, Handelsregister, Gewerbeamt, Finanzamt und Transparenzregister für GmbH, UG, GbR, OHG, KG und verwandte Rechtsformen."
 ---
 
 # Gesellschaftsgruender — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: negative-codeworte-katalog
-description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeutung. Erfasst die thematischen Cluster Alkohol und Suchtmittel, Krankheitshaeufung, Konflikte, Diebstahl und Vertrauensbruch, mangelnde Loyalitaet, schwierige Persoenlichkeit, sexuelle Verfehlungen, Betriebsratstaetigkeit und Mitlaeufertum. Jede Formulierung ist einer Bedeutung und einer Ampel zugeordnet."
+description: "Erweiterter Katalog negativer Codeworte und ihrer kodierten Bedeutung. Erfasst die thematischen Cluster Alkohol und Suchtmittel, Krankheitshaeufung, Konflikte, Diebstahl und Vertrauensbruch, mangelnde Loyalitaet, schwierige Persoenlichkeit, sexuelle Verfehlungen, Betriebsratstätigkeit und Mitlaeufertum. Jede Formulierung ist einer Bedeutung und einer Ampel zugeordnet."
 ---
 
 # Negative Codeworte und ihre kodierte Bedeutung

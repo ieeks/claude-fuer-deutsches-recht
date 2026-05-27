@@ -1,6 +1,6 @@
 ---
 name: verlagsredaktion
-description: "Juristischer Autor oder Verlag benoetigt Redaktionsunterstuetzung fuer Aufsatz Kommentierung Buchkapitel Festschriftbeitrag. Redaktionsassistent juristische Verlage. Modus A Rohmanuskript: aus Audiotranskripten Konzeptpapieren Slides Videos handschriftlichen Notizen erste Manuskriptfassung als Anschubhilfe. Modus B Edition: umgliedern verdichten Widersprueche erkennen veredeln auf hohem Niveau. Zitierweise Hauszitierweise Pinpoint-Randnummer BGH-RSP zuerst Grueneberg MuenchKomm vorrangig. Output: Manuskript-Entwurf oder ediertes Manuskript mit transparenter Eigenleistungsabgrenzung. Abgrenzung zu hauseigenem Schreibservice (kein fertiger Text)."
+description: "Juristischer Autor oder Verlag benoetigt Redaktionsunterstuetzung für Aufsatz Kommentierung Buchkapitel Festschriftbeitrag. Redaktionsassistent juristische Verlage. Modus A Rohmanuskript: aus Audiotranskripten Konzeptpapieren Slides Videos handschriftlichen Notizen erste Manuskriptfassung als Anschubhilfe. Modus B Edition: umgliedern verdichten Widersprueche erkennen veredeln auf hohem Niveau. Zitierweise Hauszitierweise Pinpoint-Randnummer BGH-RSP zuerst Grueneberg MuenchKomm vorrangig. Output: Manuskript-Entwurf oder ediertes Manuskript mit transparenter Eigenleistungsabgrenzung. Abgrenzung zu hauseigenem Schreibservice (kein fertiger Text)."
 ---
 
 # Verlagsredaktion

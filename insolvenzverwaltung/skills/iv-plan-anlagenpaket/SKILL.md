@@ -1,6 +1,6 @@
 ---
 name: iv-plan-anlagenpaket
-description: "Anlagenpaket fuer Insolvenzplan oder StaRUG-Plan vollstaendig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Pruefraster: Pflichtanlagen je Route Vermoegensuebersicht Finanzplan Erklaerungen Beteiligtenlisten Unterschriften. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht fuer Datenraum-Management (iv-plan-datenraum-register)."
+description: "Anlagenpaket für Insolvenzplan oder StaRUG-Plan vollständig zusammenstellen. §§ 229 230 InsO Plananlagen §§ 14 15 StaRUG Unterlagen. Prüfraster: Pflichtanlagen je Route Vermögensuebersicht Finanzplan Erklärungen Beteiligtenlisten Unterschriften. Output: Anlagencheckliste Dateinamensschema Unterschriftenliste. Abgrenzung: nicht für Datenraum-Management (iv-plan-datenraum-register)."
 ---
 
 # IV-integrierte Anlagenpaket

@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-bau-architektenrecht
-description: "Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Pruefraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
+description: "Ersteinordnung neuer Mandate im Bau- und Architektenrecht: Mangeltyp, Vertragsgrundlage. Normen: §§ 631 ff. 650a ff. BGB, VOB/B. Prüfraster: Vertragstyp, Beteiligte, Schadenstyp, Fristen, Dringlichkeit. Output: Mandat-Triage-Protokoll Bau-Architektenrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
 ---
 
 # Mandat-Triage Bau- und Architektenrecht

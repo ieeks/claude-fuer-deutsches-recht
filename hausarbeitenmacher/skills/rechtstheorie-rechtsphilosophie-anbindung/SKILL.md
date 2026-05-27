@@ -1,6 +1,6 @@
 ---
 name: rechtstheorie-rechtsphilosophie-anbindung
-description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Pruefraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Ueberblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtspruefung (Grundrechte)."
+description: "Student schreibt Hausarbeit mit rechtstheoretischem Bezug: Positivismus Naturrecht Kelsen Hart Dworkin Radbruch Alexy. Geltungsgrund Rechtsbegriff Auslegung Gerechtigkeit. Normen Art. 20 GG Rechtsstaatsprinzip. Prüfraster Theorien-Zuordnung Argumentations-Qualitaet Reflexions-Tiefe. Output rechtstheoretischer Abschnitt Theorien-Überblick. Abgrenzung zu methodenlehre-auslegung (Methoden) und verfassungsrecht-grundrechtsprüfung (Grundrechte)."
 ---
 
 # Rechtstheorie und Rechtsphilosophie — Anbindung

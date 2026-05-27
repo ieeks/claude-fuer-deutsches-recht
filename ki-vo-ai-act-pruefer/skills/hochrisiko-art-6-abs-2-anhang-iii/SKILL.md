@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-art-6-abs-2-anhang-iii
-description: "Unternehmen prueft ob sein KI-System in einen der acht sensiblen Anwendungsbereiche der KI-VO faellt. Art. 6 Abs. 2 i.V.m. Anhang III KI-VO Hochrisiko-Zuordnung. Pruefraster: Durchlauf aller acht Anhang-III-Bereiche Biometrie kritische Infrastruktur Bildung Beschaeftigung wesentliche Dienste Strafverfolgung Migration Justiz. Rueckausnahme Art. 6 Abs. 3 beachten. Output: strukturierte Zuordnungsentscheidung mit Begruendung je Bereich. Abgrenzung zu hochrisiko-art-6-abs-1-sicherheitsbauteil (Anhang-I-Sektorrecht) und rueckausnahme-art-6-abs-3 (Ausnahmen)."
+description: "Unternehmen prüft ob sein KI-System in einen der acht sensiblen Anwendungsbereiche der KI-VO faellt. Art. 6 Abs. 2 i.V.m. Anhang III KI-VO Hochrisiko-Zuordnung. Prüfraster: Durchlauf aller acht Anhang-III-Bereiche Biometrie kritische Infrastruktur Bildung Beschaeftigung wesentliche Dienste Strafverfolgung Migration Justiz. Rückausnahme Art. 6 Abs. 3 beachten. Output: strukturierte Zuordnungsentscheidung mit Begründung je Bereich. Abgrenzung zu hochrisiko-art-6-abs-1-sicherheitsbauteil (Anhang-I-Sektorrecht) und rückausnahme-art-6-abs-3 (Ausnahmen)."
 ---
 
 # Hochrisiko-KI: Anhang III — Art. 6 Abs. 2 KI-VO (Entscheidungsbaum)

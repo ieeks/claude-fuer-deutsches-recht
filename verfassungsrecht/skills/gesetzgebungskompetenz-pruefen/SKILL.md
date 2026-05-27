@@ -1,6 +1,6 @@
 ---
 name: gesetzgebungskompetenz-pruefen
-description: "Gesetzgebungskompetenz des Bundes oder eines Landes fuer konkretes Regelungsvorhaben pruefen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Pruefraster: ausschliessliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzpruefmemo Ergebnis mit Fundstellen. Abgrenzung: nicht fuer formelles Gesetzgebungsverfahren (formelle-verfassungsmaessigkeit)."
+description: "Gesetzgebungskompetenz des Bundes oder eines Landes für konkretes Regelungsvorhaben prüfen. Art. 70 71 72 73 74 GG Kompetenzkatalog. Prüfraster: ausschließliche konkurrierende Gesetzgebung Abweichungsgesetzgebung Subsidiaritaet Sperrwirkung. Output: Kompetenzprüfmemo Ergebnis mit Fundstellen. Abgrenzung: nicht für formelles Gesetzgebungsverfahren (formelle-verfassungsmäßigkeit)."
 ---
 
 # Gesetzgebungskompetenz prüfen

@@ -1,6 +1,6 @@
 ---
 name: schulung-fallbesprechung
-description: "Strukturierte Fallbesprechung fuer Schulung Inhouse-Fortbildung Referendariats-AG oder Pruefungs-Vorbereitung Fachanwalt Sozialrecht. Nimmt eine bestehende Akte (Bescheid plus medizinische Unterlagen plus Mandantenangaben) und fuehrt die Teilnehmenden durch fuenf Stationen Fall-Triage Bescheidanalyse Strategiebesprechung Schriftsatzwerkstatt Rollenspiel Mandantengespraech. Pro Station kompetenzbasierte Lernziele Diskussionsfragen typische Stolperfallen und Musterloesung. Eignet sich fuer 90-Minuten Halbtag oder Ganztag. Kompatibel mit der Testakte sozialrecht-rollstuhl-tannenberg in der vier disparate Faelle einer Familie als Trainings-Setting vorliegen."
+description: "Strukturierte Fallbesprechung für Schulung Inhouse-Fortbildung Referendariats-AG oder Prüfungs-Vorbereitung Fachanwalt Sozialrecht. Nimmt eine bestehende Akte (Bescheid plus medizinische Unterlagen plus Mandantenangaben) und führt die Teilnehmenden durch fuenf Stationen Fall-Triage Bescheidanalyse Strategiebesprechung Schriftsatzwerkstatt Rollenspiel Mandantengespraech. Pro Station kompetenzbasierte Lernziele Diskussionsfragen typische Stolperfallen und Musterlösung. Eignet sich für 90-Minuten Halbtag oder Ganztag. Kompatibel mit der Testakte sozialrecht-rollstuhl-tannenberg in der vier disparate Faelle einer Familie als Trainings-Setting vorliegen."
 ---
 
 # Schulungs-Fallbesprechung — Trainerleitfaden

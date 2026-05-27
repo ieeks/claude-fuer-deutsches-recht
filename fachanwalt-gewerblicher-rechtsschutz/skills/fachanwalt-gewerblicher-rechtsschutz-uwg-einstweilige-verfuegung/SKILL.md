@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewerblicher-rechtsschutz-uwg-einstweilige-verfuegung
-description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Pruefraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismaessigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht fuer Hauptsacheverfahren."
+description: "Einstweilige Verfuegung im UWG-Verfahren beantragen oder abwehren bei dringenden Wettbewerbs- oder Markenrechtsverletzungen. §§ 935 940 ZPO §§ 8 12 UWG § 14 MarkenG. Prüfraster: Verfuegungsanspruch Verfuegungsgrund Dringlichkeit Glaubhaftmachung Verhältnismäßigkeit. Output: Verfuegungsantrag oder Schutzschrift. Abgrenzung: nicht für Hauptsacheverfahren."
 ---
 
 # UWG-Einstweilige Verfuegung

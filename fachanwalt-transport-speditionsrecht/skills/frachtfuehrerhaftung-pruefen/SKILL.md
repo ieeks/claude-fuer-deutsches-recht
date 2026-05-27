@@ -1,6 +1,6 @@
 ---
 name: frachtfuehrerhaftung-pruefen
-description: "Frachtfuehrerhaftung fuer Verlust oder Beschaedigung des Gutes nach HGB pruefen. Normen: §§ 425 427 428 HGB. Pruefraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtfuehrerhaftungs-Pruefergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB."
+description: "Frachtführerhaftung für Verlust oder Beschaedigung des Gutes nach HGB prüfen. Normen: §§ 425 427 428 HGB. Prüfraster: Obhutszeitraum, Haftungsbefreiungstatbestaende, Haftungshoechstbetrag 8.33 SZR je Kilogramm. Output: Frachtführerhaftungs-Prüfergebnis. Abgrenzung: nicht Speditionshaftung §§ 454 ff. HGB."
 ---
 
 # Frachtführer-Haftung prüfen

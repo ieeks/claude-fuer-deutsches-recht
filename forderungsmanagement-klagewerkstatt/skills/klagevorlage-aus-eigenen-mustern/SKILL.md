@@ -1,6 +1,6 @@
 ---
 name: klagevorlage-aus-eigenen-mustern
-description: "Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Pruefraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zustaendigkeitspruefung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP fuer naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller."
+description: "Kanzlei will einmalig ihre eigenen Klagemuster in ein wiederverwendbares Plugin destillieren. Lernlauf Klagewerkstatt. Prüfraster: Eigene Muster Urteile Kommentare hochladen Extraktion einer Standardklage-Vorlage Zuständigkeitsprüfung online Sachverhalt-Dialog. Output: Klageschrift DOCX und Markdown plus Mini-Plugin ZIP für naechste Klagen ohne erneute Extraktion. Abgrenzung zu klage-aus-eigenem-skill (Nutzung des Plugins) und inkasso-zahlungsklage-ersteller."
 ---
 
 # Klagewerkstatt — Lernlauf aus eigenen Mustern

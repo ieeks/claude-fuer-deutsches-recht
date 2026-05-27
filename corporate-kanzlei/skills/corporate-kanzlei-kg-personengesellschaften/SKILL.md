@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-kg-personengesellschaften
-description: "KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Pruefraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht."
+description: "KG und Personengesellschaften im Corporate/M&A-Kontext begleiten: Anteilsuebertragung, Haftungsstruktur, Ergebnisverwendung bei KG, GmbH & Co. KG, Partnerschaft und GbR nach MoPeG 2024. Normen: HGB §§ 105-177a, MoPeG 2024, AktG (Kommanditaktionaer). Prüfraster: Komplementaerhaftung, Kommanditeinlage, Einheitsbilanz, Steuerliche Sonderformen. Output Strukturierungsempfehlung, Anteilsuebertragungsvertrag-Entwurf, Haftungsmatrix. Abgrenzung: GmbH/AG siehe gesellschaftsrecht-register; Steuer siehe umwandlungssteuerrecht."
 ---
 
 # KG und Personengesellschaften — Corporate/M&A

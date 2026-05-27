@@ -1,6 +1,6 @@
 ---
 name: jahresbericht-betreuungsgericht
-description: "Jahresbericht fuer Betreuungsgericht nach § 1840 BGB erstellen: Anwendungsfall Betreuer muss jaehrlichen Rechenschaftsbericht ueber persoenliche und wirtschaftliche Verhaeltnisse der betreuten Person beim Betreuungsgericht einreichen. § 1840 BGB Berichtspflicht, § 1841 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung. Pruefraster persoenliche Lage Gesundheit Wohnsituation, wirtschaftliche Verhaeltnisse Einnahmen Ausgaben Vermoegen, Betreueraktivitaeten, Genehmigungs-Status. Output vollstaendiger Jahresbericht mit Anlagen fuer Betreuungsgericht. Abgrenzung zu Vermögensverzeichnis-Pruefung fuer Ersterfassung und zu Genehmigungspflicht-Pruefung."
+description: "Jahresbericht für Betreuungsgericht nach § 1840 BGB erstellen: Anwendungsfall Betreuer muss jaehrlichen Rechenschaftsbericht über persoenliche und wirtschaftliche Verhältnisse der betreuten Person beim Betreuungsgericht einreichen. § 1840 BGB Berichtspflicht, § 1841 BGB Rechnungslegung, § 1814 BGB Betreuerbestellung. Prüfraster persoenliche Lage Gesundheit Wohnsituation, wirtschaftliche Verhältnisse Einnahmen Ausgaben Vermögen, Betreueraktivitaeten, Genehmigungs-Status. Output vollständiger Jahresbericht mit Anlagen für Betreuungsgericht. Abgrenzung zu Vermögensverzeichnis-Prüfung für Ersterfassung und zu Genehmigungspflicht-Prüfung."
 ---
 
 # Jahresbericht des Betreuers ans Betreuungsgericht (§ 1863 BGB)

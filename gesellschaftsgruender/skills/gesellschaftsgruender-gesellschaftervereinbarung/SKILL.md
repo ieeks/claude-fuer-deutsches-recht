@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gesellschaftervereinbarung
-description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Pruefraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell)."
+description: "Gesellschaftervereinbarung (SHA) neben dem Gesellschaftsvertrag entwerfen: Vorkaufsrechte, Drag-Along, Tag-Along. Normen: §§ 705 ff. BGB, GmbHG. Prüfraster: schuldrechtliche Bindung, Satzungsrang, Durchsetzbarkeit, Vertragsstrafe. Output: SHA-Entwurf mit Kernklauseln. Abgrenzung: nicht Gesellschaftsvertrag (nur notariell)."
 ---
 
 # Gesellschaftervereinbarung (Shareholder Agreement)

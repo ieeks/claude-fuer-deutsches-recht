@@ -1,6 +1,6 @@
 ---
 name: anw-haftungswarn-15a-inso-mandant
-description: "Anwaltliche Beratung und Warnschreiben an GmbH-Geschaeftsfuehrung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfaehigkeit sechs Wochen Ueberschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestaetigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-pruefung-17-19-inso Gutachten."
+description: "Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat. Antragspflicht § 15a InsO drei Wochen Zahlungsunfähigkeit sechs Wochen Überschuldung. Strafbarkeit Insolvenzverschleppung § 15a Abs. 4 InsO. GF-Haftung § 15b InsO nach SanInsFoG. Output Beratungsdokumentation Warnschreiben mit Belehrung Eingangsbestätigung. Abgrenzung zu stb-warnschreiben-krisensignale Steuerberater-Pflichthinweis und anw-insolvenzreife-prüfung-17-19-inso Gutachten."
 ---
 
 # Haftungswarn an GmbH-Geschäftsführung bei Insolvenzreife (Anwaltliche Sicht)

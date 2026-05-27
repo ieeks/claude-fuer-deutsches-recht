@@ -1,6 +1,6 @@
 ---
 name: mandatsverhaeltnis-hinweis
-description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Pruefraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begruendung. Kurz- und Langform fuer Antwortmail und Fusszeile. Output: Disclaimer-Texte fuer E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator."
+description: "Antwortmail muss klar machen dass noch kein Mandatsverhältnis besteht und keine Rechtsberatung erfolgt. § 43 BRAO Haftungsabgrenzung Erstanfrage. Prüfraster: Beantwortung der Anfrage = keine Rechtsberatung kein Mandatsverhältnis kein Pflichten-Begründung. Kurz- und Langform für Antwortmail und Fusszeile. Output: Disclaimer-Texte für E-Mail. Abgrenzung zu vertraulichkeit-erinnerung (Schweigepflicht) und erstantwort-generator."
 ---
 
 # Mandatsverhältnis-Hinweis

@@ -1,6 +1,6 @@
 ---
 name: liquiditaet-12-monate
-description: "Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib. Pruefung ob in jedem Zeitabschnitt mehr als die geschuldeten Verbindlichkeiten zur Verfuegung stehen. Bezuege zur Zahlungsfaehigkeit nach § 17 InsO (Zehn-Prozent-Schwelle Drei-Wochen-Frist nach BGH IX ZR 123/04). Falls Plugin liquiditaetsplanung installiert — dort die detaillierte Wochenplanung; dieses Plugin uebernimmt die Monatsaggregate."
+description: "Erstellt die rollierende Zwoelf-Monats-Liquiditaetsvorschau auf Basis der plausibilisierten Annahmen. Pro Woche oder pro Monat Aufstellung der Einzahlungen und Auszahlungen Anfangsbestand Endbestand Linieverbleib. Prüfung ob in jedem Zeitabschnitt mehr als die geschuldeten Verbindlichkeiten zur Verfuegung stehen. Bezuege zur Zahlungsfähigkeit nach § 17 InsO (Zehn-Prozent-Schwelle Drei-Wochen-Frist nach BGH IX ZR 123/04). Falls Plugin liquiditaetsplanung installiert — dort die detaillierte Wochenplanung; dieses Plugin uebernimmt die Monatsaggregate."
 ---
 
 # Zwölf-Monats-Liquidität

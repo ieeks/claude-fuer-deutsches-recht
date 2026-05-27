@@ -1,6 +1,6 @@
 ---
 name: norm-zerlegen-in-tatbestandsmerkmale
-description: "Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Pruefungsreihenfolge. Grundlage fuer den Vier-Schritt der Subsumtion je TBM."
+description: "Zerlegt eine Norm systematisch in ihre Tatbestandsmerkmale (TBM): geschriebene und ungeschriebene Merkmale, Definitionen aus h.M. und Rechtsprechung, Prüfungsreihenfolge. Grundlage für den Vier-Schritt der Subsumtion je TBM."
 ---
 
 # Norm zerlegen in Tatbestandsmerkmale
@@ -43,12 +43,13 @@ Das System liest den Normtext und unterteilt in:
 
 ### Schritt 3 — Definitionen aus h.M. und Rechtsprechung
 
-## Aktuelle Rechtsprechung zur Methodik
+## Quellen für Definitionen und Methodik
 
-- BGH, Urt. v. 17.10.2019 - III ZR 42/19, NJW 2020, 399 — Die Tatbestandsmerkmale einer Norm sind im Wege der klassischen Auslegungsmethoden zu ermitteln (Wortlaut, Systematik, teleologisch, historisch); das Gericht ist an den Wortlaut gebunden, darf aber auslegen.
-- BGH, Urt. v. 09.04.2019 - VI ZR 89/18, NJW 2019, 2162 — Ungeschriebene Tatbestandsmerkmale (Verkehrspflichten) werden richterrechtlich entwickelt und sind als TBM im Vier-Schritt zu prüfen wie geschriebene Merkmale.
-- BVerfG, Beschl. v. 31.10.2016 - 1 BvR 871/13, NJW 2017, 222 — Die Auslegung einer Norm darf nicht zu einer Auslegung contra legem führen; der Richter ist an den demokratisch legitimierten Gesetzgeberwillen gebunden.
-- EuGH, Urt. v. 24.06.2019 - C-573/17, NJW 2019, 2667 — Unionsrechtliche Begriffe sind autonom auszulegen; nationale Begriffsbestimmungen der Mitgliedstaaten sind nicht maßgebend, soweit die Norm das Unionsrecht umsetzt.
+- **Normtext zuerst:** Wortlaut, Satzstruktur, Verweisungen, Ausnahmen und Rechtsfolge sichtbar zerlegen.
+- **Gesetzesmaterialien und Systematik:** Bei offenen Begriffen Entstehungsgeschichte, Stellung im Gesetz und Zweck der Norm heranziehen.
+- **Kommentare und Lehrbücher:** Definitionen nur mit Fundstelle übernehmen; abweichende Ansichten als solche kennzeichnen.
+- **Rechtsprechung zur konkreten Norm:** Nur Entscheidungen zitieren, die das jeweilige Tatbestandsmerkmal wirklich behandeln. Keine abstrakten Methodenzitate erfinden.
+- **EU-Recht:** Bei unionsrechtlich geprägten Begriffen prüfen, ob autonome Auslegung des Unionsrechts Vorrang vor nationalen Definitionen hat.
 
 ## Definitionen ausgewählter TBM
 

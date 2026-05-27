@@ -1,6 +1,6 @@
 ---
 name: rechtsargumente-gegenueberstellung
-description: "Erstellt eine tabellarische Gegenueberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjaehrungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches Argument ueberzeugt. Normen §§ 195-218 BGB Verjaehrung §§ 280 ff. BGB Schadensersatz."
+description: "Erstellt eine tabellarische Gegenüberstellung der Rechtsargumente beider Parteien: Anspruchsgrundlage Einwendungen Einreden Verjährungsthema und Pinpoint-Zitate aus Rechtsprechung (BGH OLG EuGH). Keine Wertung welches Argument ueberzeugt. Normen §§ 195-218 BGB Verjährung §§ 280 ff. BGB Schadensersatz."
 ---
 
 # Rechtsargumente — Gegenüberstellung

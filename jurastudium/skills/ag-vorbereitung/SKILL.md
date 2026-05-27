@@ -1,6 +1,6 @@
 ---
 name: ag-vorbereitung
-description: "AG-Vorbereitung und Cold-Call-Prep fuer Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und oeffentliches Recht Loesungsschemata, Subsumtion. Pruefraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, moegliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterloesung und Argumentationsstruktur. Abgrenzung zu Pruefungsgespraech-AG fuer laufende AG-Diskussion und zu Examensvorbereitung-Fragen."
+description: "AG-Vorbereitung und Cold-Call-Prep für Jurastudium: Anwendungsfall Student wird im naechsten Seminar oder Arbeitsgemeinschaft aufgerufen und muss konkrete Faelle vorbereiten und Fragen des Dozenten antizipieren. BGB-AT, SchuldR, Strafrecht und öffentliches Recht Lösungsschemata, Subsumtion. Prüfraster Fachgebiet bestimmen, Fall-Schwerpunkte herausarbeiten, mögliche Dozentenfragen antizipieren, Schwachpunkte ueberarbeiten. Output Cold-Call-Voorbereitung mit Musterlösung und Argumentationsstruktur. Abgrenzung zu Prüfungsgespraech-AG für laufende AG-Diskussion und zu Examensvorbereitung-Fragen."
 ---
 
 # AG/Seminar-Vorbereitung (Cold-Call-Prep)

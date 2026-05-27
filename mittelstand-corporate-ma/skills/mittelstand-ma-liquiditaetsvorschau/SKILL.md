@@ -1,6 +1,6 @@
 ---
 name: mittelstand-ma-liquiditaetsvorschau
-description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Pruefraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Pruefung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten)."
+description: "Unternehmen in M&A oder Krise braucht Liquiditaetsvorschau: 3-Wochen-Liquiditaet 13-Wochen-Cash-Bridge Runway OPOS Bankdaten Insolvenzschwellen. Normen §§ 17-19 InsO IDW S 11 GoF. Prüfraster Zufluss-Abfluss-Plan OPOS-Abgleich Banklinien-Prüfung Insolvenzschwellen-Check. Output Liquiditaetsplan-Tabelle Runway-Berechnung Warnsignal-Ampel. Abgrenzung zu mittelstand-ma-insolvenzreife (Rechtsschwellen) und fortbestehensprognose (IDW-Gutachten)."
 ---
 
 # Freistehende Liquiditätsvorschau (Mittelstand)

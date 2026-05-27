@@ -1,6 +1,6 @@
 ---
 name: europarecht-deutscher-denkfehler-scanner
-description: "Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Pruefraster: fehlende Europarechtskonformitaet verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill fuer alle Europarechts-Mandate."
+description: "Typische deutsche Denkfehler im Umgang mit EU-Recht erkennen und korrigieren. Art. 267 AEUV Vorrangprinzip EuGH-Judikatur. Prüfraster: fehlende Europarechtskonformität verkannte Direktwirkung uebergangene Vorlagepflicht falsche Richtlinienauslegung. Output: Denkfehler-Liste Korrekturempfehlungen. Abgrenzung: Qualitaets-Skill für alle Europarechts-Mandate."
 ---
 
 # Deutscher-Denkfehler-Scanner

@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-sportrecht-cas-dis-sport-verbands-schiedsverfahren
-description: "Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert. WADA-Code Anti-Doping FIFA Players Status Committee. Normen CAS Code Art. R27 ff. DIS-Sportschiedsgerichtsordnung FIFA RSTP Art. 17. Pruefraster Schiedsklausel-Pruefung Frist-Check Verfahrensart Beweis. Output Schiedsklage-Entwurf Strategie-Memo. Abgrenzung zu cas-berufung-vorbereiten (Berufung) und fachanwalt-sportrecht-doping-verfahren (Doping)."
+description: "Sportler Verein oder Verband wird in Schiedsverfahren vor CAS DIS oder Verbands-Schiedsgericht involviert. WADA-Code Anti-Doping FIFA Players Status Committee. Normen CAS Code Art. R27 ff. DIS-Sportschiedsgerichtsordnung FIFA RSTP Art. 17. Prüfraster Schiedsklausel-Prüfung Frist-Check Verfahrensart Beweis. Output Schiedsklage-Entwurf Strategie-Memo. Abgrenzung zu cas-berufung-vorbereiten (Berufung) und fachanwalt-sportrecht-doping-verfahren (Doping)."
 ---
 
 # Sport-Schiedsgerichtsbarkeit — CAS / DIS-Sport / Verbände

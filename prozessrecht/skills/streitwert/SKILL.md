@@ -1,6 +1,6 @@
 ---
 name: streitwert
-description: "Streitwert fuer zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebuehren. Normen: §§ 3 9 ZPO, GKG, RVG. Pruefraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhalt der Ansprueche)."
+description: "Streitwert für zivilrechtliche Klagen berechnen: Hauptforderung, Nebenforderungen, Gerichts- und Anwaltsgebühren. Normen: §§ 3 9 ZPO, GKG, RVG. Prüfraster: Streitwertbemessung, Nebenforderungen, Kostenfolge. Output: Streitwertberechnung mit Kostentabelle. Abgrenzung: nicht Anspruchstabelle (Inhalt der Ansprüche)."
 ---
 
 # Streitwertfestsetzung – GKG / RVG

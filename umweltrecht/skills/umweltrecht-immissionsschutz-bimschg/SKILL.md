@@ -1,6 +1,6 @@
 ---
 name: umweltrecht-immissionsschutz-bimschg
-description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Ruecksichtnahmegebot. Pruefraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall)."
+description: "Anlagenbetreiber oder Nachbar: BImSchG-Genehmigung beantragen anfechten oder Nachbar-Drittschutz geltend machen. BImSchG §§ 4 6 10 16 17 4. BImSchV UVPG. Normen BImSchG § 5 Abs. 1 Nr. 1 Drittschutz Rücksichtnahmegebot. Prüfraster Genehmigungspflicht UVP-Pflicht Drittschutz Nachbarklage Verbandsklage UmwRG. Output Genehmigungsantrag-Struktur Schriftsatz OVG. Abgrenzung zu umweltrecht-naturschutz-artenschutz (Naturschutz) und umweltrecht-stoerfall-anlagen (Stoerfall)."
 ---
 
 # Immissionsschutz und BImSchG

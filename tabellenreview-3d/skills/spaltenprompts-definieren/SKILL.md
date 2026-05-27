@@ -1,6 +1,6 @@
 ---
 name: spaltenprompts-definieren
-description: "Spaltenprompts fuer die drei Pruefperspektiven des 3D-Tabellenreviews definieren. Normen: §§ 174 ff. InsO. Pruefraster: Prompt-Formulierung je Spalte, Normverankerung, Eindeutigkeit. Output: Spaltenprompts-Dokument. Abgrenzung: nicht Zeilenprompts."
+description: "Spaltenprompts für die drei Prüfperspektiven des 3D-Tabellenreviews definieren. Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Spalte, Normverankerung, Eindeutigkeit. Output: Spaltenprompts-Dokument. Abgrenzung: nicht Zeilenprompts."
 ---
 
 # /tabellenreview-3d:spaltenprompts-definieren

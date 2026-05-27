@@ -1,6 +1,6 @@
 ---
 name: wandlungspruefung-trigger-maturity
-description: "Wandlung bei Laufzeitablauf des Wandeldarlehens pruefen wenn kein qualifiziertes Finanzierungsereignis eingetreten ist. §§ 488 ff. BGB Faelligkeit. Pruefraster: Laufzeitenddatum Wandlungsrecht Wandlungspflicht Rueckzahlungsalternative Preisbestimmung. Output: Pruefprotokoll Handlungsempfehlung. Abgrenzung: nicht fuer Qualified-Financing-Trigger (wandlungspruefung-trigger-qualified-financing)."
+description: "Wandlung bei Laufzeitablauf des Wandeldarlehens prüfen wenn kein qualifiziertes Finanzierungsereignis eingetreten ist. §§ 488 ff. BGB Fälligkeit. Prüfraster: Laufzeitenddatum Wandlungsrecht Wandlungspflicht Rückzahlungsalternative Preisbestimmung. Output: Prüfprotokoll Handlungsempfehlung. Abgrenzung: nicht für Qualified-Financing-Trigger (wandlungsprüfung-trigger-qualified-financing)."
 ---
 
 # Wandlungsprüfung – Trigger Maturity (Laufzeitablauf)

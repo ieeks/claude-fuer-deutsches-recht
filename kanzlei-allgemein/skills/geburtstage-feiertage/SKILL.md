@@ -1,6 +1,6 @@
 ---
 name: geburtstage-feiertage
-description: Pflegt einen Mandanten- und Geschaeftspartner-Geburtstagsverteiler. Reminders einige Tage vor dem Tag. Vorlagen fuer kurze persoenliche Glueckwunsch-E-Mail (formell-warm). Bei Geschaeftspartnern auch Firmenjubilaeen. Geburtstagsverteiler getrennt von Mandantenfaellen — Pflege als Geschaeftspartnerstamm. Datenschutz beachten Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Geburtstagsglueckwunsch zulaessig; Widerspruchsrecht Mandant beachten.
+description: Pflegt einen Mandanten- und Geschäftspartner-Geburtstagsverteiler. Reminders einige Tage vor dem Tag. Vorlagen für kurze persoenliche Glueckwunsch-E-Mail (formell-warm). Bei Geschäftspartnern auch Firmenjubilaeen. Geburtstagsverteiler getrennt von Mandantenfaellen — Pflege als Geschäftspartnerstamm. Datenschutz beachten Art. 6 Abs. 1 lit. f DSGVO berechtigtes Interesse Geburtstagsglueckwunsch zulässig; Widerspruchsrecht Mandant beachten.
 ---
 
 # Geburtstage und Feiertage

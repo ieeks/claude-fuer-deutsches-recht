@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Schriftsatzkern fuer urheber- und medienrechtliche Klagen und Antraege substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Pruefraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht fuer aussergerichtliche Korrespondenz."
+description: "Schriftsatzkern für urheber- und medienrechtliche Klagen und Anträge substantiiert ausformulieren. §§ 97 97a 101 UrhG §§ 935 940 ZPO einstweilige Verfuegung. Prüfraster: Anspruchsgrundlage Sachverhaltssubstantiierung Beweisangebot Antrag Streitwert. Output: Schriftsatzkern Klagentwurf oder Antrag. Abgrenzung: nicht für außergerichtliche Korrespondenz."
 ---
 
 # Schriftsatzkern und Substantiierung im Urheber- und Medienrecht

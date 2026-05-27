@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das Mietrecht-Plugin: Wohnraum- und Gewerberaummiete fuer Vermieter und Mieter, amtliche Mietspiegel-Quellen, Mieterhoehung, Mietsenkung, Nebenkostenpruefung und -erstellung, Kuendigung, Kautionsrueckforderung und Klageentwurf."
+description: "Einstieg und Orientierung für das Mietrecht-Plugin: Wohnraum- und Gewerberaummiete für Vermieter und Mieter, amtliche Mietspiegel-Quellen, Mieterhoehung, Mietsenkung, Nebenkostenprüfung und -erstellung, Kündigung, Kautionsrückforderung und Klageentwurf."
 ---
 
 # Mietrecht — Allgemein

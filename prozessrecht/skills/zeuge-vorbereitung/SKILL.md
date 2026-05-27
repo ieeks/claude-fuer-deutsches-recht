@@ -1,6 +1,6 @@
 ---
 name: zeuge-vorbereitung
-description: "Zeuge fuer Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Pruefraster: Zeugnisverweigerungsrecht, Glaubwuerdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverstaendigenbestellung §§ 402 ff. ZPO."
+description: "Zeuge für Gerichtstermin vorbereiten: Aussagerecht, Zeugnisverweigerung, Vernehmungsablauf. Normen: §§ 373 ff. 383 ff. ZPO. Prüfraster: Zeugnisverweigerungsrecht, Glaubwürdigkeitsfragen, Vernehmungsthemen. Output: Zeugenvorbereitungsprotokoll. Abgrenzung: nicht Sachverständigenbestellung §§ 402 ff. ZPO."
 ---
 
 # Zeugenvernehmung-Vorbereitung

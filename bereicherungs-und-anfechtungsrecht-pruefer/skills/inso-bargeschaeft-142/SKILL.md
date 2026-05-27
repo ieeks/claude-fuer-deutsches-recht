@@ -1,6 +1,6 @@
 ---
 name: inso-bargeschaeft-142
-description: "Bargeschaeftsprivileg in der Insolvenzanfechtung pruefen: gleichwertige und unmittelbare Gegenleistung schuetzt vor Rueckgewaehr. Normen: § 142 InsO, AnfRefG 2017. Pruefraster: Gleichwertigkeit, Unmittelbarkeit des Leistungsaustauschs, Ausschluss bei Zahlungsunfaehigkeitskenntnis. Output: Pruefergebnis Bargeschaeft. Abgrenzung: nicht § 130 InsO kongruente Deckung ohne Gegenleistung."
+description: "Bargeschäftsprivileg in der Insolvenzanfechtung prüfen: gleichwertige und unmittelbare Gegenleistung schützt vor Rückgewaehr. Normen: § 142 InsO, AnfRefG 2017. Prüfraster: Gleichwertigkeit, Unmittelbarkeit des Leistungsaustauschs, Ausschluss bei Zahlungsunfähigkeitskenntnis. Output: Prüfergebnis Bargeschäft. Abgrenzung: nicht § 130 InsO kongruente Deckung ohne Gegenleistung."
 ---
 
 # Bargeschäftsprivileg — § 142 InsO

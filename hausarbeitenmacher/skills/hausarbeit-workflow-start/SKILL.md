@@ -1,6 +1,6 @@
 ---
 name: hausarbeit-workflow-start
-description: "Student beginnt Hausarbeit und braucht vollstaendige Begleitung von Anfang bis Abgabe. Master-Workflow-Skill: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Pruefraster Gesamt-Workflow sokratisch fragen gentle korrigieren Beck-Online juris einbinden. Output fertige Hausarbeit Schritt fuer Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination)."
+description: "Student beginnt Hausarbeit und braucht vollständige Begleitung von Anfang bis Abgabe. Master-Workflow-Skill: Fangfrage Lehrkraft Aufgabenstellung Routing Methode Fachgebiet Subsumtion Endkontrolle. Normen je nach Fachgebiet BGB HGB StGB VwGO. Prüfraster Gesamt-Workflow sokratisch fragen gentle korrigieren Beck-Online juris einbinden. Output fertige Hausarbeit Schritt für Schritt. Abgrenzung zu allen Einzel-Skills (nur Master-Koordination)."
 ---
 
 # Master-Workflow Hausarbeiten- und Seminararbeitenmacher

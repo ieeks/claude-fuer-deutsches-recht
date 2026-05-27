@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Streit im gewerblichen Rechtsschutz durch Vergleich loesen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht fuer WIPO-Schiedsverfahren."
+description: "Streit im gewerblichen Rechtsschutz durch Vergleich lösen und Verhandlungsstrategie entwickeln. § 14 MarkenG § 139 PatG § 8 UWG § 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für WIPO-Schiedsverfahren."
 ---
 
 # Vergleichsverhandlung und Einigung im Marken-, Patent-, Design- und Wettbewerbsrecht

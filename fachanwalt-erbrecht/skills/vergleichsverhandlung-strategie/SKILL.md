@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Erbrechtlichen Streit durch Vergleich loesen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht fuer Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft)."
+description: "Erbrechtlichen Streit durch Vergleich lösen und Verhandlungsstrategie entwickeln. §§ 2303 2042 BGB §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Nachlasswert Kosten Zeitperspektive Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf. Abgrenzung: nicht für Mediation (fachanwalt-erbrecht-verhandlung-mediation-erbengemeinschaft)."
 ---
 
 # Vergleichsverhandlung und Einigung im Erb- und Pflichtteilsrecht

@@ -1,6 +1,6 @@
 ---
 name: interessen-und-vorhabenbereiche
-description: "Ordnet Interessen- und Vorhabenbereiche im Register zu und prueft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix."
+description: "Ordnet Interessen- und Vorhabenbereiche im Register zu und prüft, ob Themen breit genug und nicht verschleiernd beschrieben sind. Output Bereichsmatrix."
 ---
 
 # Interessen- und Vorhabenbereiche

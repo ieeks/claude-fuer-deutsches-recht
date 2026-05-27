@@ -1,6 +1,6 @@
 ---
 name: nichtleistungskondiktion-grundtatbestand-812-i-1-alt-2
-description: "Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB pruefen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Pruefraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Pruefergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung)."
+description: "Nichtleistungskondiktion nach § 812 Abs. 1 S. 1 Alt. 2 BGB prüfen: in sonstiger Weise ohne Rechtsgrund erlangt. Normen: § 812 Abs. 1 S. 1 Alt. 2 BGB. Prüfraster: kein Leistungsverhältnis, Abgrenzung zur Leistungskondiktion, Zuweisungsgehalt. Output: Prüfergebnis Nichtleistungskondiktion. Abgrenzung: nicht Alt. 1 Leistungskondiktion (bewusste Zweckrichtung)."
 ---
 
 # Nichtleistungskondiktion — Grundtatbestand § 812 Abs. 1 S. 1 Alt. 2 BGB

@@ -1,6 +1,6 @@
 ---
 name: aktenauszug-strukturpruefung
-description: "Fertig erstellten Aktenauszug auf Vollstaendigkeit pruefen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Pruefraster Bausteine-Vollstaendigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Pruefergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetspruefung (Wertungs-Check)."
+description: "Fertig erstellten Aktenauszug auf Vollständigkeit prüfen: alle Bausteine vorhanden Fristen hervorgehoben neutrale Sprache. Normen §§ 128-134 253 ZPO. Prüfraster Bausteine-Vollständigkeit Fristen-Markierung Neutralitaets-Check Sprach-Qualitaet. Output Prüfergebnis-Bericht Lueckenliste Verbesserungshinweise. Abgrenzung zu aktenauszug-erstellen (Erstellung) und neutralitaetsprüfung (Wertungs-Check)."
 ---
 
 # Aktenauszug — Strukturprüfung

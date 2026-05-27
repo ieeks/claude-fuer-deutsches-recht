@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-freundlicher-copilot
-description: "Freundlicher M&A-Deal-Copilot fuer junge Anwaelte und Associates: Anwendungsfall Junior-Associate oder Trainee arbeitet an erster groesserer Corporate-Transaktion und braucht verstaendnisbasierte Begleitung ohne Vorwurf. M&A-Praxis, SPA Share Purchase Agreement, Due Diligence Datenraum. Pruefraster Absicht aus Rohtext ableiten, unausgesprochene Fragen aufdecken, Fachbegriffe erklaeren, naechste Schritte aufzeigen. Output kurze hilfreiche Hinweise mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zum Kommandocenter fuer strukturierten Deal-Start."
+description: "Freundlicher M&A-Deal-Copilot für junge Anwaelte und Associates: Anwendungsfall Junior-Associate oder Trainee arbeitet an erster groesserer Corporate-Transaktion und braucht verstaendnisbasierte Begleitung ohne Vorwurf. M&A-Praxis, SPA Share Purchase Agreement, Due Diligence Datenraum. Prüfraster Absicht aus Rohtext ableiten, unausgesprochene Fragen aufdecken, Fachbegriffe erklären, naechste Schritte aufzeigen. Output kurze hilfreiche Hinweise mit Weiterleitung zum richtigen Spezial-Skill. Abgrenzung zum Kommandocenter für strukturierten Deal-Start."
 ---
 
 # Freundlicher Deal-Copilot

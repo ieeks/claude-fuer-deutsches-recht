@@ -1,6 +1,6 @@
 ---
 name: vergabe-nachpruefung-aussicht
-description: "Aussichten eines Vergabenachpruefungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Pruefraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgruende), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachpruefungsantrag selbst siehe fachanwalt-vergaberecht-nachpruefungsantrag-vk."
+description: "Aussichten eines Vergabenachprüfungsverfahrens bewerten: Anwalt oder Bieter will vor Antrag Erfolgsaussichten einschaetzen. Normen: §§ 155 ff. GWB (Rechtsschutz), § 160 Abs. 2 GWB (Antragsbefugnis), § 160 Abs. 3 GWB (Ruegerobliegenheit), § 169 GWB (Zuschlagsstopp). Prüfraster: Antragsbefugnis, Praeklusion, Vergabeverstoesse (Eignung, Wertung, Ausschlussgründe), sofortige Beschwerde OLG. Output Erfolgsaussichts-Gutachten, Strategie-Empfehlung. Abgrenzung: Mandats-Triage siehe mandat-triage-vergaberecht; Nachprüfungsantrag selbst siehe fachanwalt-vergaberecht-nachprüfungsantrag-vk."
 ---
 
 # Vergabe-Nachprüfung — Erfolgs-Aussichten

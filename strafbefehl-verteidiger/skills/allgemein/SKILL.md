@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Triage fuer die Verteidigung gegen einen Strafbefehl: Einspruchsfrist nach Paragraph 410 StPO sichern, Strafbefehl auf Zulaessigkeit und Inhalt pruefen, Strategie waehlen und zu Folge-Skills routen."
+description: "Einstieg und Triage für die Verteidigung gegen einen Strafbefehl: Einspruchsfrist nach Paragraph 410 StPO sichern, Strafbefehl auf Zulässigkeit und Inhalt prüfen, Strategie waehlen und zu Folge-Skills routen."
 ---
 
 # Strafbefehl-Verteidiger — Allgemein

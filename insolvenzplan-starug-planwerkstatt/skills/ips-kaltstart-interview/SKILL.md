@@ -1,6 +1,6 @@
 ---
 name: ips-kaltstart-interview
-description: "Insolvenzplan- oder StaRUG-Mandat durch strukturiertes Erstgespraech aufgleisen wenn Unterlagen fehlen. §§ 13 15a InsO §§ 29 42 StaRUG Antragspflichten. Pruefraster: Basisdaten Krisenursachen Glaeubigerlandschaft Liquiditaetslage Sanierungsidee fehlende Unterlagen. Output: Interviewprotokoll Unterlagenliste Annahmenregister. Abgrenzung: nicht fuer laufende Datenraum-Pflege (ips-datenraum-register)."
+description: "Insolvenzplan- oder StaRUG-Mandat durch strukturiertes Erstgespraech aufgleisen wenn Unterlagen fehlen. §§ 13 15a InsO §§ 29 42 StaRUG Antragspflichten. Prüfraster: Basisdaten Krisenursachen Gläubigerlandschaft Liquiditaetslage Sanierungsidee fehlende Unterlagen. Output: Interviewprotokoll Unterlagenliste Annahmenregister. Abgrenzung: nicht für laufende Datenraum-Pflege (ips-datenraum-register)."
 ---
 
 # Kaltstart-Interview

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-rechtsformwahl
-description: "Rechtsformwahl fuer Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE im Vergleich. Normen: GmbHG, AktG, PartGG, HGB, SE-VO. Pruefraster: Haftung, Steuern, Kapital, Mitbestimmung, Borsenreife. Output: Rechtsformvergleich-Matrix mit Empfehlung. Abgrenzung: nicht Gruendungsunterlagen (separate Skills je Rechtsform)."
+description: "Rechtsformwahl für Unternehmen: GmbH, UG, AG, GbR, PartG, KG, SE im Vergleich. Normen: GmbHG, AktG, PartGG, HGB, SE-VO. Prüfraster: Haftung, Steuern, Kapital, Mitbestimmung, Borsenreife. Output: Rechtsformvergleich-Matrix mit Empfehlung. Abgrenzung: nicht Gründungsunterlagen (separate Skills je Rechtsform)."
 ---
 
 # Rechtsformwahl

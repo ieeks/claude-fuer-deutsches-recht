@@ -1,6 +1,6 @@
 ---
 name: sanierungsbausteine-vorschlagen
-description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklaerung hart Comfortletter Gesellschafterdarlehen mit Rangruecktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklaerung-extern-hart-erzeugen gesellschafterdarlehen-rangruecktritt stundungsanfrage-glaeubiger)."
+description: "Wenn die Fortbestehensprognose ohne Massnahmen negativ oder knapp positiv ist schlaegt dieser Skill konkrete Sanierungsbausteine vor. Auswahl Patronatserklärung hart Comfortletter Gesellschafterdarlehen mit Rangrücktritt Stundungsvereinbarungen Forderungsverzichte mit Besserungsschein Eigenkapitalmassnahme StaRUG-Restrukturierungsplan. Empfehlungsmatrix nach Effekt und Umsetzungszeit. Empfiehlt konkret welche Dokumente erzeugt werden sollten (Skills patronatserklärung-extern-hart-erzeugen gesellschafterdarlehen-rangrücktritt stundungsanfrage-gläubiger)."
 ---
 
 # Sanierungsbausteine vorschlagen

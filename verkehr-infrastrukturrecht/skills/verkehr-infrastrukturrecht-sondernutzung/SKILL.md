@@ -1,6 +1,6 @@
 ---
 name: verkehr-infrastrukturrecht-sondernutzung
-description: "Sondernutzung oeffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis fuer Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Pruefraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Pruefung, Gebuehren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung."
+description: "Sondernutzung öffentlicher Strassenflaechen beantragen und anfechten: Unternehmen braucht Erlaubnis für Aussengastronomie, Ladesaeule oder Baustelle. Normen: § 8 FStrG (Bundesstrassenrecht), § 16 StrWG NW (Landesstrassenrecht), BayStrWG (Bayern), VwGO (Widerspruch). Prüfraster: Erlaubnis vs. Gemeingebrauch, Auflagen-Prüfung, Gebühren, Widerruf bei Verkehrsanforderungen, Ladesaeulen/Aussengastro/Warenauslagen/Baustelleneinrichtung. Output Sondernutzungsantrag, Widerspruchsschrift gegen Ablehnung. Abgrenzung: Parkraum siehe verkehr-infrastrukturrecht-parkraumbewirtschaftung; Planfeststellung siehe verkehr-infrastrukturrecht-planfeststellung."
 ---
 
 # Sondernutzung oeffentlicher Strassenflaechen

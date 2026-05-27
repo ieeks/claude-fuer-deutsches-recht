@@ -1,6 +1,6 @@
 ---
 name: versorgungsordnung-und-betriebsvereinbarung-drafting
-description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einfuehrung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Pruefraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschaeftsfuehrervertrag."
+description: "Versorgungsordnung und Betriebsvereinbarung zur bAV-Einführung entwerfen. Normen: §§ 1 17 BetrAVG, §§ 77 87 BetrVG. Prüfraster: Leistungszusagen, Unverfallbarkeit, Mitbestimmung, Finanzierungsklauseln. Output: Versorgungsordnungs-Entwurf und BV-Muster. Abgrenzung: nicht Geschäftsführervertrag."
 ---
 
 # Versorgungsordnung und Betriebsvereinbarung — Drafting (Düsseldorfer Schule)

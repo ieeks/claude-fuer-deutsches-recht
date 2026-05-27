@@ -1,6 +1,6 @@
 ---
 name: verfuegung-eines-nichtberechtigten-816-bgb
-description: "Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verfuegenden Nichtberechtigten pruefen. Normen: § 816 BGB. Pruefraster: wirksame Verfuegung durch Gutglaubenserwerb oder Genehmigung, entgeltlich vs. unentgeltlich, Anspruch auf Erlangtes. Output: Pruefergebnis Anspruch § 816 BGB. Abgrenzung: nicht § 822 BGB (unentgeltliche Weitergabe)."
+description: "Bereicherungsanspruch des Berechtigten nach § 816 BGB gegen verfuegenden Nichtberechtigten prüfen. Normen: § 816 BGB. Prüfraster: wirksame Verfuegung durch Gutglaubenserwerb oder Genehmigung, entgeltlich vs. unentgeltlich, Anspruch auf Erlangtes. Output: Prüfergebnis Anspruch § 816 BGB. Abgrenzung: nicht § 822 BGB (unentgeltliche Weitergabe)."
 ---
 
 # Verfügung eines Nichtberechtigten — § 816 BGB

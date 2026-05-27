@@ -1,6 +1,6 @@
 ---
 name: anw-insolvenzreife-pruefung-17-19-inso
-description: "Anwaltliches Pruefgutachten zur Insolvenzreife einer GmbH oder UG aus Steueranwalts-Sicht. Anwendungsfall GF einer Krisengesellschaft mit Steuerrueckstaenden kommt zum Anwalt und Insolvenzreife muss rechtssicher geprueft werden vor Belehrung ueber Antragspflicht. Zahlungsunfaehigkeit § 17 InsO 10-Prozent-Schema drei Wochen BGH IX ZR 123/04. Ueberschuldung § 19 InsO zweistufig IDW S 11 Fortbestehensprognose 24 Monate SanInsKG. Steuerspezifisch Steuerschulden Lohnsteuer Umsatzsteuer als Passiva I AdV § 361 AO Stundung § 222 AO beeinflussen Faelligkeit. Output Pruefgutachten Antragspflicht-Bewertung Uebergang zu anw-haftungswarn-15a-inso-mandant."
+description: "Anwaltliches Prüfgutachten zur Insolvenzreife einer GmbH oder UG aus Steueranwalts-Sicht. Anwendungsfall GF einer Krisengesellschaft mit Steuerrückstaenden kommt zum Anwalt und Insolvenzreife muss rechtssicher geprüft werden vor Belehrung über Antragspflicht. Zahlungsunfähigkeit § 17 InsO 10-Prozent-Schema drei Wochen BGH IX ZR 123/04. Überschuldung § 19 InsO zweistufig IDW S 11 Fortbestehensprognose 24 Monate SanInsKG. Steuerspezifisch Steuerschulden Lohnsteuer Umsatzsteuer als Passiva I AdV § 361 AO Stundung § 222 AO beeinflussen Fälligkeit. Output Prüfgutachten Antragspflicht-Bewertung Übergang zu anw-haftungswarn-15a-inso-mandant."
 ---
 
 # Anwaltliche Insolvenzreife-Prüfung §§ 17, 19 InsO (Steueranwalts-Sicht)

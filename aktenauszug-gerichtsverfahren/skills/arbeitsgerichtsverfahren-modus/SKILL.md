@@ -1,6 +1,6 @@
 ---
 name: arbeitsgerichtsverfahren-modus
-description: "Aktenauszug fuer ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Pruefraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG)."
+description: "Aktenauszug für ArbGG-Verfahren erstellen: Guetetermin Kammerverfahren Urteilsverfahren Beschlussverfahren. KSchG-Dreiwochenfrist § 4 KSchG Berufung § 64 ArbGG Revision § 72 ArbGG. Normen ArbGG §§ 2 54 64 72 KSchG §§ 1 4 9. Prüfraster Fristen-Spezifika arbeitsgerichtliche Besonderheiten BAG-Leitsaetze. Output ArbGG-spezifischer Aktenauszug. Abgrenzung zu zivilprozess-modus (ZPO) und sozialgerichtsverfahren-modus (SGG)."
 ---
 
 # Arbeitsgerichtsverfahren-Modus (ArbGG)

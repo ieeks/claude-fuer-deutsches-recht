@@ -1,6 +1,6 @@
 ---
 name: bussgeld-und-pruefverfahren
-description: "Reaktionsworkflow bei RfS-Pruefung, Anhoerung, Bussgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan."
+description: "Reaktionsworkflow bei RfS-Prüfung, Anhoerung, Bußgeldrisiko nach § 7 LobbyRG und Kodexverstoss. Output Verteidigungs- und Remediationplan."
 ---
 
 # Bussgeld und Pruefverfahren

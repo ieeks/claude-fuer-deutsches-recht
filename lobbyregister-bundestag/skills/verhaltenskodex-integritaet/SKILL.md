@@ -1,6 +1,6 @@
 ---
 name: verhaltenskodex-integritaet
-description: "Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex fuer Kontakte. Output Kodex-Check."
+description: "Operationalisiert Offenheit, Transparenz, Ehrlichkeit und Integritaet nach § 5 LobbyRG und Verhaltenskodex für Kontakte. Output Kodex-Check."
 ---
 
 # Verhaltenskodex und Integritaet

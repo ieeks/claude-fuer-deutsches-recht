@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-verwaltungsrecht
-description: "Eingangs-Triage fuer verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untaetigkeitsklage 3 Monate). Pruefraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht, Schule, Subventionen, Auslaender), Behoerdenebene, Verfahrensstand, Frist-Sofort-Check, Eskalation bei drohendem Vollzug. Output Triage-Protokoll mit Fristen-Ampel, Routing-Empfehlung. Abgrenzung: Detailpruefung siehe widerspruch-oder-klage-erstpruefung; Schriftsatz siehe schriftsatzkern-substantiierung."
+description: "Eingangs-Triage für verwaltungsrechtliche Mandate: Erst-Qualifizierung des Sachgebiets, Verfahrensstands und Frist-Sofort-Checks. Normen: § 70 VwGO (Widerspruch 1 Monat), § 74 VwGO (Klage 1 Monat), § 75 VwGO (Untätigkeitsklage 3 Monate). Prüfraster: Sachgebiet (Bau, Gewerbe, Polizei, Beamtenrecht, Schule, Subventionen, Auslaender), Behoerdenebene, Verfahrensstand, Frist-Sofort-Check, Eskalation bei drohendem Vollzug. Output Triage-Protokoll mit Fristen-Ampel, Routing-Empfehlung. Abgrenzung: Detailprüfung siehe widerspruch-oder-klage-erstprüfung; Schriftsatz siehe schriftsatzkern-substantiierung."
 ---
 
 # Mandat-Triage Verwaltungsrecht

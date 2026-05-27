@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-medizinrecht-aufklaerungsfehler
-description: "Aufklaerungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risikoaufklaerung. Form muendlich persoenlich rechtzeitig vor Eingriff. Inhalt Diagnose Verlauf Alternativen Risiken Nachteile. Beweislast § 630h Abs. 2 BGB Arzt fuer Aufklaerung. Hypothetische Einwilligung als Verteidigung BGH VI ZR 130/16. Mutmassliche Einwilligung Notfall. Substantiierter Entscheidungskonflikt BGH VI ZR 260/93. Schadensersatz fuer Folge des nicht aufgeklaerten Risikos."
+description: "Aufklärungspflicht §§ 630e 630h BGB Selbstbestimmungs- und Risikoaufklärung. Form muendlich persoenlich rechtzeitig vor Eingriff. Inhalt Diagnose Verlauf Alternativen Risiken Nachteile. Beweislast § 630h Abs. 2 BGB Arzt für Aufklärung. Hypothetische Einwilligung als Verteidigung BGH VI ZR 130/16. Mutmassliche Einwilligung Notfall. Substantiierter Entscheidungskonflikt BGH VI ZR 260/93. Schadensersatz für Folge des nicht aufgeklaerten Risikos."
 ---
 
 # Aufklärungsfehler

@@ -1,6 +1,6 @@
 ---
 name: launch-pruefung
-description: "Produktmanager oder Rechtsabteilung will vor dem Launch pruefen ob das Produkt oder Feature produktrechtlich freigegeben werden kann. Vollstaendige rechtliche Freigabeprufung gegen konfiguriertes Pruefrahmenwerk und Risikokalibrierung. Normen ProdSG Produktsicherheitsgesetz MarktueberwG CE-Konformitaet EU-Produktsicherheits-VO 2023/988. Pruefraster KI-VO-Anforderungen UWG-Verstoessrisiken DSGVO DSA Verbraucherschutz BGB. Output Launch-Freigabe-Checkliste mit Ampel-Status offenen Punkten und Eskalations-Empfehlung. Abgrenzung: feature-risikobewertung fuer vertiefte Einzel-Risiko-Analyse."
+description: "Produktmanager oder Rechtsabteilung will vor dem Launch prüfen ob das Produkt oder Feature produktrechtlich freigegeben werden kann. Vollständige rechtliche Freigabeprufung gegen konfiguriertes Prüfrahmenwerk und Risikokalibrierung. Normen ProdSG Produktsicherheitsgesetz MarktueberwG CE-Konformität EU-Produktsicherheits-VO 2023/988. Prüfraster KI-VO-Anforderungen UWG-Verstoessrisiken DSGVO DSA Verbraucherschutz BGB. Output Launch-Freigabe-Checkliste mit Ampel-Status offenen Punkten und Eskalations-Empfehlung. Abgrenzung: feature-risikobewertung für vertiefte Einzel-Risiko-Analyse."
 ---
 
 # Produkt-Launch-Freigabeprüfung

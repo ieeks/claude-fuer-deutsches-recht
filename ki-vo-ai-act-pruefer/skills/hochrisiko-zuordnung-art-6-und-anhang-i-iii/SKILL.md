@@ -1,6 +1,6 @@
 ---
 name: hochrisiko-zuordnung-art-6-und-anhang-i-iii
-description: "Anwalt oder Compliance-Beauftragter benoetigt Gesamtuebersicht der Hochrisiko-Zuordnungsregeln bevor eine Detailpruefung begonnen wird. Art. 6 KI-VO Sicherheitsbauteil plus Anhang I (Art. 6 Abs. 1) vs. eigenstaendige Nennung in Anhang III (Art. 6 Abs. 2). Alle acht Anhang-III-Bereiche und vier Rueckausnahmen Art. 6 Abs. 3 KI-VO. Output: Gesamtuebersichtstabelle Hochrisiko-Kategorien. Abgrenzung zu hochrisiko-art-6-abs-1-sicherheitsbauteil und hochrisiko-art-6-abs-2-anhang-iii (Detailpruefungen)."
+description: "Anwalt oder Compliance-Beauftragter benoetigt Gesamtuebersicht der Hochrisiko-Zuordnungsregeln bevor eine Detailprüfung begonnen wird. Art. 6 KI-VO Sicherheitsbauteil plus Anhang I (Art. 6 Abs. 1) vs. eigenständige Nennung in Anhang III (Art. 6 Abs. 2). Alle acht Anhang-III-Bereiche und vier Rückausnahmen Art. 6 Abs. 3 KI-VO. Output: Gesamtuebersichtstabelle Hochrisiko-Kategorien. Abgrenzung zu hochrisiko-art-6-abs-1-sicherheitsbauteil und hochrisiko-art-6-abs-2-anhang-iii (Detailprüfungen)."
 ---
 
 # Hochrisiko-Zuordnung — Art. 6 KI-VO und Anhang I/III

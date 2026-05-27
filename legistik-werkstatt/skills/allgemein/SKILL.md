@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg in die Legistik-Werkstatt fuer Bundes- und Landesministerien: Referentenentwuerfe, Kabinettsentwuerfe, Verordnungen, Satzungen, Synopsen, Folgenabschaetzung, Verfassungscheck und XML im HdR-Layout."
+description: "Einstieg in die Legistik-Werkstatt für Bundes- und Landesministerien: Referentenentwuerfe, Kabinettsentwuerfe, Verordnungen, Satzungen, Synopsen, Folgenabschaetzung, Verfassungscheck und XML im HdR-Layout."
 ---
 
 # Legistik-Werkstatt — Allgemein

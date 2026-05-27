@@ -1,6 +1,6 @@
 ---
 name: internationale-harmonisierung-konzern-bav
-description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Pruefraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme)."
+description: "Internationale bAV-Systeme im Konzern harmonisieren: Governance, Finanzierungsniveaus, lokale Compliance. Normen: IORP-II, lokale Pensionsgesetze, BetrAVG. Prüfraster: Harmonisierungsziele, rechtliche Grenzen, Umsetzungsplan. Output: Internationaler Harmonisierungsplan bAV. Abgrenzung: nicht Country-by-Country-Matrix (Bestandsaufnahme)."
 ---
 
 # Internationale Harmonisierung Konzern-BAV

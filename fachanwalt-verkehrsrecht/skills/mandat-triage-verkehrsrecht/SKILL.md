@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-verkehrsrecht
-description: "Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen pruefen. Eingangs-Triage Verkehrsrecht. Pruefraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjaehrung 3 Jahre § 195 BGB) Versicherungslage Eilbeduerftigkeit vorlaeufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bussgeld-einspruch-pruefen."
+description: "Neues Verkehrsrechtsmandat kommt rein und Anwalt muss Sachgebiet klaeren und Fristen prüfen. Eingangs-Triage Verkehrsrecht. Prüfraster: Verfahrensart (Zivilrecht Schadensregulierung OWi Strafrecht Fahrerlaubnis) Unfallart Fristen (Einspruch OWi 2 Wochen § 67 OWiG Verjährung 3 Jahre § 195 BGB) Versicherungslage Eilbedürftigkeit vorlaeufige Entziehung § 111a StPO. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-verkehrsrecht-orientierung (Orientierung) und bußgeld-einspruch-prüfen."
 ---
 
 # Mandat-Triage Verkehrsrecht

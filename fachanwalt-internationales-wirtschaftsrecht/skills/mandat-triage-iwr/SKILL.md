@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-iwr
-description: "Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Pruefraster: Mandantenrolle (Exporteur Importeur Investor) Geschaeft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Uebersicht)."
+description: "Neues internationales Wirtschaftsrechtsmandat kommt rein und Anwalt klaert Sachgebiet und Sofort-Fristen. Eingangs-Triage IWR. Prüfraster: Mandantenrolle (Exporteur Importeur Investor) Geschäft (Warenkauf Investition Lizenz) Jurisdiktionen Sanktionen Embargos (Russland EU US OFAC UK) Exportkontrolle AWG Korruptionsrisiko. Sofort-Fristen Klagezustellung Auslandsbezug § 183 ZPO Apostille Schiedseinleitung. Output: Routing-Entscheidung mit Folge-Skill. Abgrenzung zu fachanwalt-internationales-wirtschaftsrecht-orientierung (Übersicht)."
 ---
 
 # Mandat-Triage Internationales Wirtschaftsrecht

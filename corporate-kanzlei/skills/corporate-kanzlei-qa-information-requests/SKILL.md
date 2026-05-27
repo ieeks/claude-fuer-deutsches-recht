@@ -1,6 +1,6 @@
 ---
 name: corporate-kanzlei-qa-information-requests
-description: "Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Pruefraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules."
+description: "Q&A- und Information-Request-Management in M&A-Transaktionen: DD-Team erhaelt schriftliche Datenraum-Fragen und muss konsistente Antworten mit Disclosure-Wirkung erstellen. Normen: § 311 Abs. 2 BGB, Disclosure-Praxis SPA, MAR Insider-Abgrenzung. Prüfraster: Konsistenz mit Disclosure Schedules, Freigabeprozess, Protokollierung, Wirkung als Disclosure-Erweiterung. Output Q&A-Log, Antwort-Protokoll, Disclosure-Ergaenzungs-Memo. Abgrenzung: Datenraum-Aufbau siehe datenraum-aufbau; Disclosure Schedules siehe disclosure-schedules."
 ---
 
 # Q&A und Information Requests

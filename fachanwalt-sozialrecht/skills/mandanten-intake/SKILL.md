@@ -1,6 +1,6 @@
 ---
 name: mandanten-intake
-description: "Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Pruefraster: Geburtsdatum Versichertennummer zustaendige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebuehren und GwG-Check)."
+description: "Erstgespräch oder Telefon-Intake in einer Sozialrechtskanzlei — Stammdaten Mandant erfassen Fristen identifizieren und Akte anlegen. Sozialrechtliches Mandats-Intake. Prüfraster: Geburtsdatum Versichertennummer zuständige Behoerden Verfahrensstand laufende Fristen Bevollmaechtigungssituation Familien- und Bedarfsgemeinschaft Schwerbehinderten- oder Pflegestatus. Output: Mandatsblatt Vollmacht Datenschutzhinweis Aktenanlage mit sofortigen Fristen markiert. Abgrenzung zu mandat-triage-sozialrecht (Routing) und erstgespraech-mandatsannahme (Gebühren und GwG-Check)."
 ---
 
 # Mandanten-Intake (Sozialrecht)

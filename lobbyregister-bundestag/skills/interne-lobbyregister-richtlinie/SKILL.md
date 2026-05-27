@@ -1,6 +1,6 @@
 ---
 name: interne-lobbyregister-richtlinie
-description: "Erstellt interne Richtlinie fuer Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf."
+description: "Erstellt interne Richtlinie für Rollen, Meldewege, Kontaktfreigabe, Registerdaten, Fristen, Verhaltenskodex und Schulung. Output Richtlinienentwurf."
 ---
 
 # Interne Lobbyregister-Richtlinie

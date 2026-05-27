@@ -1,6 +1,6 @@
 ---
 name: vergleichsverhandlung-strategie
-description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Pruefraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf BATNA-Analyse. Abgrenzung: nicht fuer Schiedsstellenverfahren (fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg)."
+description: "Vergleichsverhandlung im Urheber- und Medienrechtstreit vorbereiten und Strategie entwickeln. §§ 97 97a UrhG §§ 779 BGB Vergleich. Prüfraster: Vergleichsziele BATNA Streitwert Kosten Lizenzbereitschaft Geheimhaltung. Output: Verhandlungsstrategie Vergleichsentwurf BATNA-Analyse. Abgrenzung: nicht für Schiedsstellenverfahren (fachanwalt-urheber-medienrecht-schiedsstelle-dpma-vgg)."
 ---
 
 # Vergleichsverhandlung und Einigung im Urheber- und Medienrecht

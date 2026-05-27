@@ -1,6 +1,6 @@
 ---
 name: kueschk-formfehler-pruefen
-description: "Formfehler-Pruefung bei Kuendigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur."
+description: "Formfehler-Prüfung bei Kündigungen: Schriftform § 623 BGB; Vollmachtsruege § 174 BGB bei fehlender Originalvollmacht; Anhoerung Betriebsrat § 102 BetrVG; Massenentlassung §§ 17 und 18 KSchG mit Anzeigepflicht bei Bundesagentur."
 ---
 
 # Formfehler bei der Kündigung prüfen

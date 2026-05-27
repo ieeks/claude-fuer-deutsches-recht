@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Triage im gewerblichen Rechtsschutz: Marke, Patent, Urheber, UWG und Design einordnen, Verletzungstriage durchfuehren, Fristen sichern und zu Durchsetzungs- oder Abwehr-Skills routen."
+description: "Einstieg und Triage im gewerblichen Rechtsschutz: Marke, Patent, Urheber, UWG und Design einordnen, Verletzungstriage durchführen, Fristen sichern und zu Durchsetzungs- oder Abwehr-Skills routen."
 ---
 
 # Gewerblicher Rechtsschutz — Allgemein

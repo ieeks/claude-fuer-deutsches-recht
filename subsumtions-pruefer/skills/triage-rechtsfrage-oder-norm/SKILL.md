@@ -1,6 +1,6 @@
 ---
 name: triage-rechtsfrage-oder-norm
-description: "Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rueckfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern."
+description: "Interaktiver Einstieg: Erfasst strukturiert, ob der Nutzer eine Rechtsfrage, einen Lebenssachverhalt, eine konkrete Norm oder eine Mischung davon hat. Stellt gezielte Rückfragen und leitet zum passenden naechsten Skill weiter. Warnt vor typischen Eingabefehlern."
 ---
 
 # Triage: Rechtsfrage oder Norm?

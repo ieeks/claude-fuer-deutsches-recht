@@ -1,6 +1,6 @@
 ---
 name: verarbeitungsverzeichnis-vvt-generator
-description: "Verzeichnis der Verarbeitungstaetigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Pruefraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollstaendiges VVT je Verarbeitungstaetigkeit. Abgrenzung: nicht fuer Datenschutz-Folgenabschaetzung (dsfa-erstellung)."
+description: "Verzeichnis der Verarbeitungstätigkeiten nach Art. 30 DSGVO erstellen oder aktualisieren. Art. 30 DSGVO VVT-Pflicht. Prüfraster: Pflichtangaben Art. 30 Abs. 1 Verantwortlicher Zweck Kategorien Empfaenger Fristen Massnahmen. Output: vollständiges VVT je Verarbeitungstätigkeit. Abgrenzung: nicht für Datenschutz-Folgenabschaetzung (dsfa-erstellung)."
 ---
 
 # VVT — Verzeichnis von Verarbeitungstätigkeiten

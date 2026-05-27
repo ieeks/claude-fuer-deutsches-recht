@@ -1,6 +1,6 @@
 ---
 name: kueschk-allgemeiner-und-besonderer-feststellungsantrag
-description: "Erklaerung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Antraege gestellt werden sollten."
+description: "Erklärung des Unterschieds zwischen dem punktuellen Feststellungsantrag nach § 4 Satz 1 KSchG und dem allgemeinen Feststellungsantrag nach § 256 ZPO als Schleppnetz-Antrag; Formulierungsvorschlaege; warum beide Anträge gestellt werden sollten."
 ---
 
 # Allgemeiner und besonderer Feststellungsantrag

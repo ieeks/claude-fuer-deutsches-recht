@@ -1,6 +1,6 @@
 ---
 name: ruegeschriftsatz-erstellen
-description: "Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachpruefung. Adressat oeffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertpruefung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachpruefungsstrategie enthalten."
+description: "Ruegeschriftsatz nach § 160 Abs. 3 GWB als Pflichtvoraussetzung jeder Vergabenachprüfung. Adressat öffentlicher Auftraggeber. Konkret bezeichneter Vergabeverstoß mit Norm und Sachverhalt. Antrag auf Abhilfe und hilfsweise Aufhebung. Unverzuegliche Einreichung bei Erkennbarkeit. Bei Nichtabhilfe Antragsfrist 15 Kalendertage zur Vergabekammer. Aufbau Sachverhalt, rechtlicher Verstoß, Beweismittel, Antrag. Form Schriftform oder qualifiziert elektronische Signatur. Schwellenwertprüfung nach § 106 GWB obligatorisch. Checkliste Rechtzeitigkeit, Bestimmtheitsgebot, Praeklusionsrisiko und Nachprüfungsstrategie enthalten."
 ---
 
 # Rügeschriftsatz nach § 160 Abs. 3 GWB

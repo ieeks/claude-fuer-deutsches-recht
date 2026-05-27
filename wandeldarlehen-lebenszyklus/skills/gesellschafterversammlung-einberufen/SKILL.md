@@ -1,6 +1,6 @@
 ---
 name: gesellschafterversammlung-einberufen
-description: "Gesellschafterversammlung fuer Wandeldarlehensmandat einberufen und Tagesordnung aufstellen. §§ 49 51 GmbHG Ladungspflichten. Pruefraster: Ladungsfrist Form Tagesordnung Quorum Vollmachten Protokollpflicht. Output: Einberufungsschreiben Tagesordnung Vollmachtsformular. Abgrenzung: nicht fuer spezifische Beschlussvorbereitung (gesellschafterbeschluss-vorbereiten)."
+description: "Gesellschafterversammlung für Wandeldarlehensmandat einberufen und Tagesordnung aufstellen. §§ 49 51 GmbHG Ladungspflichten. Prüfraster: Ladungsfrist Form Tagesordnung Quorum Vollmachten Protokollpflicht. Output: Einberufungsschreiben Tagesordnung Vollmachtsformular. Abgrenzung: nicht für spezifische Beschlussvorbereitung (gesellschafterbeschluss-vorbereiten)."
 ---
 
 # Gesellschafterversammlung einberufen (Kapitalerhöhung)

@@ -1,6 +1,6 @@
 ---
 name: alternative-marktdefinition-eng
-description: "Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begruendung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Pruefraster Nachfragesubstitution ausgeschlossene Produkte Regionen Begruendung Ausschluss. Auswirkung auf Marktanteil und Marktbeherrschungsvermutung § 18 Abs. 4 GWB 40-Prozent-Schwelle. Output Argumentationsmemo mit Begruendungs-Pyramide und Risikobewertung. Abgrenzung: alternative-marktdefinition-weit fuer die andere Richtung."
+description: "Mandant will eine engere Marktabgrenzung argumentieren um niedrigere Marktanteile oder fehlende Marktbeherrschung zu zeigen. Generiert engere alternative Marktdefinition mit juristischer und oekonomischer Begründung. Normen § 18 GWB Art. 102 AEUV EU-Bekanntmachung Marktdefinition 2024 ABl 2024/C 1645. Prüfraster Nachfragesubstitution ausgeschlossene Produkte Regionen Begründung Ausschluss. Auswirkung auf Marktanteil und Marktbeherrschungsvermutung § 18 Abs. 4 GWB 40-Prozent-Schwelle. Output Argumentationsmemo mit Begründungs-Pyramide und Risikobewertung. Abgrenzung: alternative-marktdefinition-weit für die andere Richtung."
 ---
 
 # Alternative Marktdefinition — Enger

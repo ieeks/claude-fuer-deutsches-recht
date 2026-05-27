@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung fuer das Verfassungsrecht-Plugin: deutsches Verfassungsrecht unter dem Grundgesetz, Gesetzgebungskompetenz, formelle und materielle Verfassungsmaessigkeit, Grundrechtspruefung, Verhaeltnismaessigkeit und Verfassungsbeschwerde; rechtsprechungsgetrieben mit Recherche auf bundesverfassungsgericht.de."
+description: "Einstieg und Orientierung für das Verfassungsrecht-Plugin: deutsches Verfassungsrecht unter dem Grundgesetz, Gesetzgebungskompetenz, formelle und materielle Verfassungsmäßigkeit, Grundrechtsprüfung, Verhältnismäßigkeit und Verfassungsbeschwerde; rechtsprechungsgetrieben mit Recherche auf bundesverfassungsgericht.de."
 ---
 
 # Verfassungsrecht — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: country-by-country-benefits-matrix-konzern
-description: "Laenderuebergreifende Benefits-Matrix fuer internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Pruefraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie."
+description: "Laenderuebergreifende Benefits-Matrix für internationalen Konzern erstellen: Versorgungsniveaus im Vergleich. Normen: IORP-II, lokale Pensionsgesetze. Prüfraster: Leistungsebenen, gesetzliche Mindeststandards, Harmonisierungsbedarf. Output: Country-by-Country-Benefits-Matrix. Abgrenzung: nicht nationale bAV-Strategie."
 ---
 
 # Country-by-Country Benefits-Matrix für Konzerne

@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-geschaeftsfuehrervertrag
-description: "Geschaeftsfuehrervertrag fuer GmbH-Geschaeftsfuehrer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kuendigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Pruefraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschaeftsfuehrervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer."
+description: "Geschäftsführervertrag für GmbH-Geschäftsführer aufsetzen: Verguetung, Wettbewerbsverbot, Abberufung, Kündigungsfristen. Normen: §§ 35 38 GmbHG, BGB Dienstvertrag. Prüfraster: Verguetungsstruktur, Tantieme, Freistellung, Geheimhaltung, Pensionszusage. Output: Geschäftsführervertrags-Entwurf. Abgrenzung: nicht Anstellungsvertrag Arbeitnehmer."
 ---
 
 # Geschäftsführer-Anstellungsvertrag GmbH

@@ -1,6 +1,6 @@
 ---
 name: widerspruch-oder-klage-erstpruefung
-description: "Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Pruefraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo."
+description: "Entscheidung Widerspruch vs. direkte Klage treffen: Mandant fragt was als naechstes zu tun ist nach Erhalt eines Bescheids. Normen: § 68 VwGO (Vorverfahren statthaft?), § 42 VwGO (Anfechtungs-/Verpflichtungsklage), § 74 VwGO (Klagefrist), §§ 80 und 80a und 123 VwGO (vorlaeufiger Rechtsschutz). Prüfraster: Vorverfahrenspflicht (Bundesland), Statthaftigkeit, Klagebefugnis, Frist, vorlaeufiger Rechtsschutz-Bedarf. Output Vorabbewertung Erfolgsaussicht, Streitwert § 52 GKG, Routing. Abgrenzung: Widerspruchsschrift siehe fachanwalt-verwaltungsrecht-widerspruchsschrift; Eilantrag siehe eilantrag-80-abs-5-vwgo."
 ---
 
 # Widerspruch oder Klage — Erstprüfung

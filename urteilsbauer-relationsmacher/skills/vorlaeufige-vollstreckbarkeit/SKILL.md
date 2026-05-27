@@ -1,6 +1,6 @@
 ---
 name: vorlaeufige-vollstreckbarkeit
-description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Pruefraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-pruefen."
+description: "Anordnung zur vorlaeufigen Vollstreckbarkeit nach §§ 708-720a ZPO bestimmen: Richter muss die richtige Vollstreckbarkeitsermaechtigungs-Formel formulieren. Normen: § 709 ZPO (Sicherheitsleistung 110%), § 711 ZPO (Schutzantrag Schuldner), § 713 ZPO (vereinfachte Vollstreckbarkeit), § 708 Nr. 2 ZPO (Versaeumnisurteil). Prüfraster: Beschwerdehoehedifferenz, Sicherheitsleistungs-Pflichtteil, Schutzantrag. Output Vollstreckbarkeits-Formel. Abgrenzung: Kostenentscheidung siehe kostenentscheidung-bauen; Berufung siehe berufungsfest-prüfen."
 ---
 
 # Vorläufige Vollstreckbarkeit

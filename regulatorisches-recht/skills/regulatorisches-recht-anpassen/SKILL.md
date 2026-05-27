@@ -1,6 +1,6 @@
 ---
 name: regulatorisches-recht-anpassen
-description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Pruefraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht fuer Neuerstellung von Richtlinien (richtlinien-neufassung)."
+description: "Bestehende Richtlinien oder Compliance-Dokumente an neue regulatorische Anforderungen anpassen. KWG WpHG DORA DSGVO GwG aktuelle BaFin-Vorgaben. Prüfraster: Bestandsdokument Neuregelung Delta-Analyse Anpassungsbedarf. Output: ueberarbeitetes Dokument Aenderungsprotokoll. Abgrenzung: nicht für Neuerstellung von Richtlinien (richtlinien-neufassung)."
 ---
 
 # Praxisprofil anpassen

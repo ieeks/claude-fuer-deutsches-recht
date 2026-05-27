@@ -1,6 +1,6 @@
 ---
 name: mandat-triage-transport-speditionsrecht
-description: "Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Pruefraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
+description: "Ersteinordnung neuer Mandate im Transport- und Speditionsrecht: Vertragstyp, national vs. international. Normen: §§ 407 454 HGB, CMR. Prüfraster: Vertragstyp, Schadenstyp, Dringlichkeit, Fristen. Output: Mandat-Triage-Protokoll Transport-Speditionsrecht. Abgrenzung: nicht Erstgespraeches-Aufnahme."
 ---
 
 # Mandat-Triage Transport- und Speditionsrecht

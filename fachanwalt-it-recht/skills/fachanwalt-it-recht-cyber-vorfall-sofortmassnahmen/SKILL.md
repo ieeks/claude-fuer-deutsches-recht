@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-it-recht-cyber-vorfall-sofortmassnahmen
-description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionspruefung Loesegeldzahlung."
+description: "Cyber-Vorfall-Sofortmassnahmen Ransomware Datenleck Hack. Meldepflichten 72 Stunden Art. 33 DSGVO BSIG NIS2UmsuCG kritische Infrastruktur. Forensik Beweissicherung Chain-of-Custody Behoerden Cybercrime. Krisenkommunikation Betroffene Aufsicht Versicherer. Workflow Tag 1 Tag 2-7 Folgewochen. Strafanzeige §§ 202a 303b StGB Sanktionsprüfung Lösegeldzahlung."
 ---
 
 # Cyber-Vorfall-Sofortmaßnahmen

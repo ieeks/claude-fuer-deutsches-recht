@@ -1,6 +1,6 @@
 ---
 name: stb-jahresabschluss-handels-vs-steuerbilanz
-description: "Handelsbilanz vs Steuerbilanz Massgeblichkeit § 5 EStG. Anwendungsfall Pruefung Abweichungen Handels- und Steuerbilanz Massgeblichkeitsprinzip umgekehrte Massgeblichkeit Wahlrechte. Methodik Differenz-Tabelle Bewertungs-Unterschiede. Output Steuerbilanz oder Ueberleitungsrechnung."
+description: "Handelsbilanz vs Steuerbilanz Massgeblichkeit § 5 EStG. Anwendungsfall Prüfung Abweichungen Handels- und Steuerbilanz Massgeblichkeitsprinzip umgekehrte Massgeblichkeit Wahlrechte. Methodik Differenz-Tabelle Bewertungs-Unterschiede. Output Steuerbilanz oder Überleitungsrechnung."
 ---
 
 # Handelsbilanz vs. Steuerbilanz — Massgeblichkeit § 5 EStG

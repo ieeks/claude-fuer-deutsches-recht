@@ -1,6 +1,6 @@
 ---
 name: normhierarchie-routing
-description: "Richtige Normbene fuer ein legistisches Vorhaben bestimmen Bundesgesetz Landesgesetz Rechtsverordnung oder Satzung. Anwendungsfall politische Vorgabe liegt vor unklar auf welcher Ebene geregelt werden soll. Pruefkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG Landeskompetenz Verordnungsermaechtigung Art. 80 GG Satzungskompetenz Art. 28 Abs. 2 GG Wesentlichkeitstheorie BVerfG Vorbehalt des Gesetzes. Bei Buergerrechten oder Strafnormen nur Gesetz. Output Normebenentscheidung Begruendung drei Saetze Verweis naechster Skill. Anschluss gesetzgebungskompetenz-pruefen verordnungsermaechtigung-art80."
+description: "Richtige Normbene für ein legistisches Vorhaben bestimmen Bundesgesetz Landesgesetz Rechtsverordnung oder Satzung. Anwendungsfall politische Vorgabe liegt vor unklar auf welcher Ebene geregelt werden soll. Prüfkatalog Gesetzgebungskompetenz Bund Art. 70 bis 74 GG Landeskompetenz Verordnungsermaechtigung Art. 80 GG Satzungskompetenz Art. 28 Abs. 2 GG Wesentlichkeitstheorie BVerfG Vorbehalt des Gesetzes. Bei Buergerrechten oder Strafnormen nur Gesetz. Output Normebenentscheidung Begründung drei Saetze Verweis naechster Skill. Anschluss gesetzgebungskompetenz-prüfen verordnungsermaechtigung-art80."
 ---
 
 # Normhierarchie-Routing

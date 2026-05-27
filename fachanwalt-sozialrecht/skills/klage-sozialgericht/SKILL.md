@@ -1,6 +1,6 @@
 ---
 name: klage-sozialgericht
-description: "Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Pruefraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zustaendigkeit § 8 SGG oertliche Zustaendigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe)."
+description: "Nach negativem Widerspruchsbescheid muss Klage zum Sozialgericht erhoben werden. §§ 87 ff. SGG Klagefrist. Prüfraster: Klagefrist 1 Monat nach Widerspruchsbescheid § 87 Abs. 1 SGG kein Anwaltszwang vor SG beA-Versandpflicht sachliche Zuständigkeit § 8 SGG örtliche Zuständigkeit § 57 SGG PKH-Antrag § 73a SGG. Output: Klageschrift SG mit Anlagenverzeichnis Beweisangeboten und PKH-Antrag. Abgrenzung zu eilantrag-sozialrecht (Eilrechtsschutz) und fachanwalt-sozialrecht-widerspruch-sozialleistung (Widerspruchsstufe)."
 ---
 
 # Klage zum Sozialgericht

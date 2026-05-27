@@ -1,6 +1,6 @@
 ---
 name: fristen-und-quartalsmonitor
-description: "Baut Fristenkalender fuer unverzuegliche Updates, Quartalsfrist fuer Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestaetigung und Nachholfristen. Output Fristenbuch."
+description: "Baut Fristenkalender für unverzuegliche Updates, Quartalsfrist für Stellungnahmen, sechs Monate Finanzdaten, jaehrliche Bestätigung und Nachholfristen. Output Fristenbuch."
 ---
 
 # Fristen- und Quartalsmonitor

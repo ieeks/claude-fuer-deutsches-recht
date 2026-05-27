@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-billing-narratives
-description: "Big-Law Billing Narratives und Abrechnung fuer M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Pruefraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffaehige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD fuer freistehende Abrechnung."
+description: "Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise erstellen. § 3a RVG Stundenhonorar, GoBD Buchungsanforderungen, XRechnung ZUGFeRD. Prüfraster Honorarvereinbarung prüfen, Time Entries nach Phase strukturieren, Cap-Verbrauch ueberwachen, Success-Fee-Bedingungen abgleichen. Output deal-tauffähige Rechnungsnarrative mit Matter-Controlling und GoBD-konformem Buchungsnachweis. Abgrenzung zu E-Rechnung-GoBD für freistehende Abrechnung."
 ---
 
 # Big-Law Billing Narratives (Corporate M&A)

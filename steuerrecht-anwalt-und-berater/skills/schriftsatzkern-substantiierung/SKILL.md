@@ -1,6 +1,6 @@
 ---
 name: schriftsatzkern-substantiierung
-description: "Substantiierten Schriftsatzkern fuer steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begruendet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruchsgrundlagen-Kette Beweisangebote Hilfsantraege. § 76 FGO Amtsermittlung setzt schluessigen Vortrag voraus. Replik- und Duplik-Vorausschau. Output Schriftsatz-Geruest mit Tatsachen Normen Beweismitteln Antraegen. Abgrenzung zu anw-einspruch-finanzamt und anw-klage-finanzgericht fertige Schriftsaetze."
+description: "Substantiierten Schriftsatzkern für steuerrechtliche Verfahren aufbauen. Anwendungsfall Einspruch Klage FG Revision BFH Stundungs- und Erlassantrag muessen begründet und mit Beweisen unterfuettert werden. Tatsachenvortrag-Geruest Anspruchsgrundlagen-Kette Beweisangebote Hilfsanträge. § 76 FGO Amtsermittlung setzt schluessigen Vortrag voraus. Replik- und Duplik-Vorausschau. Output Schriftsatz-Geruest mit Tatsachen Normen Beweismitteln Anträgen. Abgrenzung zu anw-einspruch-finanzamt und anw-klage-finanzgericht fertige Schriftsaetze."
 ---
 
 # Schriftsatzkern und Substantiierung im Steuerrecht (Beratung und Prozess)

@@ -1,6 +1,6 @@
 ---
 name: hauptstadtrepraesentanz
-description: "Prueft, ob eine Geschaeftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check."
+description: "Prüft, ob eine Geschäftsstelle am Sitz von Bundestag und Bundesregierung als Hauptstadtrepraesentanz anzugeben ist. Output Berlin-Anschrift-Check."
 ---
 
 # Hauptstadtrepraesentanz

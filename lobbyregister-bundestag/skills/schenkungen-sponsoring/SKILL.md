@@ -1,6 +1,6 @@
 ---
 name: schenkungen-sponsoring
-description: "Prueft Schenkungen und sonstige lebzeitige Zuwendungen Dritter, Gesamtstufe, Einzelangaben, Zustimmung und Altfall-Anonymisierung. Output Sponsoring-Check."
+description: "Prüft Schenkungen und sonstige lebzeitige Zuwendungen Dritter, Gesamtstufe, Einzelangaben, Zustimmung und Altfall-Anonymisierung. Output Sponsoring-Check."
 ---
 
 # Schenkungen und Sponsoring

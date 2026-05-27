@@ -1,6 +1,6 @@
 ---
 name: verfassungsrechtliche-pruefung
-description: "Verfassungsrechtliche Pruefung einer Massnahme oder Norm umfassend durchfuehren. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Pruefraster: formelle Verfassungsmaessigkeit Grundrechtspruefung Staatsstrukturprinzipien Verhaeltnismaessigkeit EU-Recht. Output: umfassendes Verfassungspruefmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtspruefung oder formelle-verfassungsmaessigkeit."
+description: "Verfassungsrechtliche Prüfung einer Massnahme oder Norm umfassend durchführen. Art. 1-20 GG Grundrechte Staatsorganisationsrecht. Prüfraster: formelle Verfassungsmäßigkeit Grundrechtsprüfung Staatsstrukturprinzipien Verhältnismäßigkeit EU-Recht. Output: umfassendes Verfassungsprüfmemo. Abgrenzung: Oberbegriff-Skill; Detailarbeit in Spezialist-Skills wie grundrechtsprüfung oder formelle-verfassungsmäßigkeit."
 ---
 
 # Verfassungsrechtliche Prüfung — Master-Workflow

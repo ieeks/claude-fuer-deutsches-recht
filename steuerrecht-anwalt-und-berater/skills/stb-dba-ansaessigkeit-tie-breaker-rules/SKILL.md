@@ -1,6 +1,6 @@
 ---
 name: stb-dba-ansaessigkeit-tie-breaker-rules
-description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschaeftsleitung in unterschiedlichen Staaten. Pruefung staendige Wohnstaette Mittelpunkt der Lebensinteressen gewoehnlicher Aufenthalt Staatsangehoerigkeit Verstaendigung. MLI-Anpassung Place of Effective Management. Output Ansaessigkeitsmemo Beweismittelliste."
+description: "Ansaessigkeit nach Art. 4 OECD-Musterabkommen und Tie-Breaker-Regelungen bei mehrfacher Ansaessigkeit. Anwendungsfall natuerliche Person mit Wohnsitz in mehreren Staaten oder Kapitalgesellschaft mit Sitz und tatsaechlicher Geschäftsleitung in unterschiedlichen Staaten. Prüfung ständige Wohnstaette Mittelpunkt der Lebensinteressen gewoehnlicher Aufenthalt Staatsangehoerigkeit Verständigung. MLI-Anpassung Place of Effective Management. Output Ansaessigkeitsmemo Beweismittelliste."
 ---
 
 # Ansaessigkeit und Tie-Breaker-Rules (Art. 4 OECD-MA)

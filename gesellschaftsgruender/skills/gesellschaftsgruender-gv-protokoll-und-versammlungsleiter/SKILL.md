@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-gv-protokoll-und-versammlungsleiter
-description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchfuehren. Normen: §§ 48 ff. GmbHG. Pruefraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung."
+description: "Gesellschafterversammlungs-Protokoll anfertigen und Versammlungsleitung durchführen. Normen: §§ 48 ff. GmbHG. Prüfraster: Protokollierungspflicht, Abstimmungsergebnis, Unterschriften, Formfehler. Output: GV-Protokoll-Vorlage. Abgrenzung: nicht GV-Einladung und Tagesordnung."
 ---
 
 # Protokoll der Gesellschafterversammlung

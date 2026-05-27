@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Betreuungsrecht nach BtOG und BGB: Betreuerrolle klaeren, Aufgabenkreise bestimmen, Genehmigungspflichten pruefen, Jahresbericht und Vermoegensdokumentation strukturieren."
+description: "Einstieg und Orientierung im Betreuungsrecht nach BtOG und BGB: Betreuerrolle klaeren, Aufgabenkreise bestimmen, Genehmigungspflichten prüfen, Jahresbericht und Vermögensdokumentation strukturieren."
 ---
 
 # Betreuungsrecht — Allgemein

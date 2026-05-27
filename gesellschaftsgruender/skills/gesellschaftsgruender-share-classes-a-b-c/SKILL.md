@@ -1,6 +1,6 @@
 ---
 name: gesellschaftsgruender-share-classes-a-b-c
-description: "Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Pruefraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht."
+description: "Anteilsklassen A, B, C in GmbH oder AG gestalten: unterschiedliche Gewinn-, Stimm- und Liquidationsrechte. Normen: §§ 29 47 GmbHG, §§ 11 12 AktG. Prüfraster: Satzungsgestaltung, steuerliche Wirkung, Investorenerwartungen. Output: Satzungsklauseln Anteilsklassen. Abgrenzung: nicht Golden-Share-Einzelvetorecht."
 ---
 
 # Anteilsklassen A / B / C / Common

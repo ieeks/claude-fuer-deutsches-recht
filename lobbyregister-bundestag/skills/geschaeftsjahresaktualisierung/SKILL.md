@@ -1,6 +1,6 @@
 ---
 name: geschaeftsjahresaktualisierung
-description: "Fuehrt durch die mindestens jaehrliche vollstaendige Ueberpruefung und Bestaetigung des Registereintrags nach § 3 und § 4 LobbyRG. Output Jahresupdate-Mappe."
+description: "Führt durch die mindestens jaehrliche vollständige Überprüfung und Bestätigung des Registereintrags nach § 3 und § 4 LobbyRG. Output Jahresupdate-Mappe."
 ---
 
 # Geschaeftsjahresaktualisierung

@@ -1,6 +1,6 @@
 ---
 name: zeilenprompts-definieren
-description: "Zeilenprompts fuer einzelne Pruefpositionen im 3D-Tabellenreview definieren. Normen: §§ 174 ff. InsO. Pruefraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Output: Zeilenprompts-Dokument. Abgrenzung: nicht Spaltenprompts."
+description: "Zeilenprompts für einzelne Prüfpositionen im 3D-Tabellenreview definieren. Normen: §§ 174 ff. InsO. Prüfraster: Prompt-Formulierung je Zeilentyp, Normverankerung, Eindeutigkeit. Output: Zeilenprompts-Dokument. Abgrenzung: nicht Spaltenprompts."
 ---
 
 # /tabellenreview-3d:zeilenprompts-definieren

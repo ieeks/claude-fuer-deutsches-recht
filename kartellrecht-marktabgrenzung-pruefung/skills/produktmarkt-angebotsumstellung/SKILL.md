@@ -1,6 +1,6 @@
 ---
 name: produktmarkt-angebotsumstellung
-description: "Prueft angebotsseitige Substitution (Supply-Side Substitution): Kann ein anderer Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln? Bewertet Umstellungskosten regulatorische Anforderungen Zertifizierungen und Zeitaufwand. Grenzt Supply-Side Substitution vom potenziellen Wettbewerb ab."
+description: "Prüft angebotsseitige Substitution (Supply-Side Substitution): Kann ein anderer Anbieter kurzfristig und ohne erhebliche Kosten auf den relevanten Markt wechseln? Bewertet Umstellungskosten regulatorische Anforderungen Zertifizierungen und Zeitaufwand. Grenzt Supply-Side Substitution vom potenziellen Wettbewerb ab."
 ---
 
 # Produktmarkt — Angebotsseitige Substitution

@@ -1,6 +1,6 @@
 ---
 name: allgemein
-description: "Einstieg und Orientierung im Lobbyregister-Bundestag-Plugin. Klaert Registrierungspflicht nach LobbyRG, Ausnahmen, Portalworkflow, Fristen, Verhaltenspflichten und Routing zu allen 50 Spezial-Skills fuer Public-Affairs-Mandate."
+description: "Einstieg und Orientierung im Lobbyregister-Bundestag-Plugin. Klaert Registrierungspflicht nach LobbyRG, Ausnahmen, Portalworkflow, Fristen, Verhaltenspflichten und Routing zu allen 50 Spezial-Skills für Public-Affairs-Mandate."
 ---
 
 # Lobbyregister Bundestag — Allgemein

@@ -1,6 +1,6 @@
 ---
 name: eilantrag-krankenkassen-leistung
-description: "Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext fuer Buerger."
+description: "Eilantrag wenn die Krankenkasse Behandlung Hilfsmittel oder Therapie ablehnt § 86b Abs. 2 SGG. Schwere und unumkehrbare Gesundheitsschaeden Mustertext für Buerger."
 ---
 
 # Eilantrag gegen die Krankenkasse — wenn Sie nicht warten koennen

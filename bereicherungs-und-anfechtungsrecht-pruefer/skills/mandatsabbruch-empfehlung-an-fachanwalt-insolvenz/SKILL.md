@@ -1,6 +1,6 @@
 ---
 name: mandatsabbruch-empfehlung-an-fachanwalt-insolvenz
-description: "Komplexitaetsindikatoren erkennen: Wann uebersteigt der Sachverhalt dieses Pruefungstool und erfordert Fachanwalt fuer Insolvenzrecht. Normen: §§ 129 ff. InsO, AnfG. Pruefraster: Komplexitaetssignale, Mandatsgrenzen, Hinweispflicht. Output: Warnhinweis mit Empfehlung Fachanwalt Insolvenzrecht. Abgrenzung: kein inhaltlicher Anspruchsguetachter."
+description: "Komplexitaetsindikatoren erkennen: Wann uebersteigt der Sachverhalt dieses Prüfungstool und erfordert Fachanwalt für Insolvenzrecht. Normen: §§ 129 ff. InsO, AnfG. Prüfraster: Komplexitaetssignale, Mandatsgrenzen, Hinweispflicht. Output: Warnhinweis mit Empfehlung Fachanwalt Insolvenzrecht. Abgrenzung: kein inhaltlicher Anspruchsguetachter."
 ---
 
 # Mandatsabbruch und Empfehlung an Fachanwalt

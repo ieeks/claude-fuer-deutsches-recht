@@ -1,6 +1,6 @@
 ---
 name: post-eintragung-checkliste
-description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschliessen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Pruefraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestaetigung. Abgrenzung: nicht fuer Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung)."
+description: "Nacharbeiten nach Handelsregistereintragung der Kapitalerhohung abschließen. §§ 57 40 GmbHG §§ 39 16 GmbHG Legitimationswirkung. Prüfraster: Eintragsbekanntmachung Gesellschafterliste Anteilsurkunden Investor-Cap-Table-Update Mitteilungspflichten. Output: Post-Closing-Checkliste Bestätigung. Abgrenzung: nicht für Anmeldung selbst (handelsregisteranmeldung-kapitalerhoehung)."
 ---
 
 # Post-Eintragung-Checkliste

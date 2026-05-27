@@ -1,6 +1,6 @@
 ---
 name: stb-mandanten-onboarding-checkliste-vollservice
-description: "Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchfuehrung Lohn Steuererklaerung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar."
+description: "Onboarding-Checkliste Neumandant Vollservice. Anwendungsfall Mandatsannahme Standardablauf Mandantenvereinbarung Vollmachten DSGVO-Information Buchführung Lohn Steuererklärung. Methodik strukturierter Checkliste. Output Mandantenakte komplett startklar."
 ---
 
 # Mandanten-Onboarding-Checkliste Vollservice

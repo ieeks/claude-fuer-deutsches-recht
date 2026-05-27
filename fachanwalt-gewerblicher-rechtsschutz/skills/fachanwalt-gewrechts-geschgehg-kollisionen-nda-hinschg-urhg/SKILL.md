@@ -1,6 +1,6 @@
 ---
 name: fachanwalt-gewrechts-geschgehg-kollisionen-nda-hinschg-urhg
-description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht pruefen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Pruefraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsaufloesung Hinweisgeberschutz. Output: Kollisionspruefmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill fuer Kollisionsfragen."
+description: "Kollisionen zwischen gewerblichem Rechtsschutz NDA-Recht HinSchG und Urheberrecht prüfen wenn mehrere Schutzrechtsregime sich ueberschneiden. §§ 1 ff. GeschmMG § 14 MarkenG §§ 1 ff. HinSchG §§ 97 ff. UrhG. Prüfraster: Anwendungsbereich Vorrangfragen Schutzbereich Kollisionsauflösung Hinweisgeberschutz. Output: Kollisionsprüfmemo Handlungsempfehlung. Abgrenzung: Querschnitts-Skill für Kollisionsfragen."
 ---
 
 ## Mandantenfragen beim Kaltstart

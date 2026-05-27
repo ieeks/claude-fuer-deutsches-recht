@@ -1,6 +1,6 @@
 ---
 name: ips-stabilisierung-starug
-description: "StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Pruefraster: Stabilisierungsbedarf Verhaeltnismaessigkeit Glaeubiger Dauer Insolvenznaehe Organpflichten Kommunikationslinie. Output: Stabilisierungsantrag Betroffenenliste Verhaeltnismaessigkeitsnotiz. Abgrenzung: nicht fuer Schutzschirmverfahren nach InsO."
+description: "StaRUG-Stabilisierungsmassnahmen beantragen wenn Vollstreckungsdruck die Planarbeit gefaehrdet. §§ 49 50 51 StaRUG Stabilisierungsanordnung. Prüfraster: Stabilisierungsbedarf Verhältnismäßigkeit Gläubiger Dauer Insolvenznaehe Organpflichten Kommunikationslinie. Output: Stabilisierungsantrag Betroffenenliste Verhältnismäßigkeitsnotiz. Abgrenzung: nicht für Schutzschirmverfahren nach InsO."
 ---
 
 # StaRUG-Stabilisierung

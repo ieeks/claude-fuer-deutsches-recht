@@ -1,6 +1,6 @@
 ---
 name: deaktivieren
-description: "Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Pruefraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestaetigung. Abgrenzung: nicht vollstaendige Deinstallation."
+description: "Einzelne Skills oder Plugins temporaer deaktivieren ohne Deinstallation. Normen: technisch/intern. Prüfraster: Abhaengigkeiten, Deaktivierungsumfang, Reaktivierungsweg. Output: Deaktivierungsbestätigung. Abgrenzung: nicht vollständige Deinstallation."
 ---
 
 # /deaktivieren — Skill deaktivieren (ohne Dateilöschung)

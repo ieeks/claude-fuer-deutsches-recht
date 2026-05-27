@@ -1,6 +1,6 @@
 ---
 name: grosskanzlei-corporate-ma-closing-bible-archiv
-description: "Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollstaendige Dokumentensammlung aller executed Agreements, Signaturseiten und Registerbelege. §§ 433 ff. BGB SPA-Pflichten, Notarrecht. Pruefraster Vollstaendigkeit Signaturketten, Versionierung Anlagen, Registerbelege, Closing Deliverables, Widerrufsrechte. Output strukturierte Closing Bible mit Inhaltsverzeichnis, Signaturkettenprotokoll, Registerstandsnachweisen und Deal-Archiv. Abgrenzung zu Signing Closing Conditions Skill fuer CP-Pruefung und zu Matter-File Skill fuer laufende Aktenstruktur."
+description: "Closing Bible und Deal-Archiv erstellen: Anwendungsfall Mandant oder Counsel braucht nach Signing/Closing vollständige Dokumentensammlung aller executed Agreements, Signaturseiten und Registerbelege. §§ 433 ff. BGB SPA-Pflichten, Notarrecht. Prüfraster Vollständigkeit Signaturketten, Versionierung Anlagen, Registerbelege, Closing Deliverables, Widerrufsrechte. Output strukturierte Closing Bible mit Inhaltsverzeichnis, Signaturkettenprotokoll, Registerstandsnachweisen und Deal-Archiv. Abgrenzung zu Signing Closing Conditions Skill für CP-Prüfung und zu Matter-File Skill für laufende Aktenstruktur."
 ---
 
 # Closing Bible und Archiv

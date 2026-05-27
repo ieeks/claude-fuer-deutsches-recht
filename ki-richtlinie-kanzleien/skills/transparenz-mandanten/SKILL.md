@@ -1,6 +1,6 @@
 ---
 name: transparenz-mandanten
-description: "Transparenz gegenueber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Pruefraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklaerung. Output Musterklauseln fuer Mandatsvertrag und Datenschutzerklaerung. Abgrenzung zu Kennzeichnungspflichten-Veroeffentlichungen und zu Berufsrecht-Bausteine."
+description: "Transparenz gegenüber Mandanten bei KI-Einsatz in Kanzleien sicherstellen: Anwendungsfall Kanzlei muss Mandaten informieren dass KI-Systeme bei Mandatsbearbeitung eingesetzt werden. Art. 6 Abs. 1 lit. a DSGVO Einwilligung, Art. 13 DSGVO Informationspflichten, § 43a BRAO Vertrauen in anwaltliche Arbeit. Prüfraster Mandatsvertrag-Klausel KI-Einsatz, Drittland-Transfer-Hinweis, Einwilligungstext, anwaltliche Verantwortlichkeits-Erklärung. Output Musterklauseln für Mandatsvertrag und Datenschutzerklärung. Abgrenzung zu Kennzeichnungspflichten-Veröffentlichungen und zu Berufsrecht-Bausteine."
 ---
 
 # Transparenz gegenüber Mandanten
