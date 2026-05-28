@@ -1,13 +1,13 @@
 ---
 name: allgemein
-description: "Einstieg, Schnelltriage und Workflow-Routing im Grosskanzlei Corporate Ma-Plugin. Fragt Rolle, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Dokument-Upload ohne Begleittext reagiert der Skill eigenständig: ordnet das Material, prüft Eil- und Fristenhinweise, routet in passende Spezial-Skills oder stellt genau eine gezielte Rückfrage."
+description: "Einstieg, Schnelltriage und Workflow-Routing im Großkanzlei-Corporate/M&A-Plugin. Fragt Rolle, Erfahrungslevel, Ziel, Fristen, Unterlagen, Risiken und Wunsch-Output ab, schlägt passende Spezial-Skills aus diesem Plugin vor und führt in einen klaren Arbeitsplan. Bei Anfänger- oder First-Year-Associate-Bedarf routet der Skill in den Anfänger-Modus."
 ---
 
 # Grosskanzlei Corporate/M&A — Allgemein
 
 ## Schnellstart-Workflow
 
-Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Grosskanzlei Corporate Ma**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
+Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Großkanzlei Corporate/M&A**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
 **Plugin-Fokus:** Freistehendes Big-Law-Corporate/M&A-Plugin: Deal-Kommandocenter, Aktenanlage, Datenraum, Legal DD, Tabellenreview, Liquiditätsvorschau, SPA/APA, W&I, Public M&A, Umwandlung, StaRUG/Insolvenzplan, CP-Kalender, E-Rechnung/GoBD, PMI.
 
@@ -36,8 +36,8 @@ Wenn der Nutzer nur ein Dokument, einen Screenshot, eine Tabelle, ein ZIP oder e
 - **Erkannt:** [Materialart, Absender/Aktenzeichen falls sichtbar]
 - **Frist zuerst:** [konkretes Datum/Risiko oder `keine Frist erkennbar`]
 - **Einordnung:** [Rechtsgebiet/Normengruppe/Arbeitsmodus]
-- **Primärer Pfad:** `skill-name` — [warum dieser Skill hilft]
-- **Alternativen:** `...`, `...`
+- **Primärer Pfad:** `grosskanzlei-corporate-ma-anfaenger-modus` oder passender Fachskill — kurze Begründung aus dem Material
+- **Alternativen:** höchstens zwei weitere Plugin-Skills mit konkretem Nutzen
 - **Nächster Schritt:** [direkte Bearbeitung oder genau eine konkrete Rückfrage]
 
 ### 1. Intake in 60 Sekunden
@@ -47,6 +47,7 @@ Frage zu Beginn nur das ab, was für die Weichenstellung wirklich nötig ist. We
 | Punkt | Frage | Warum wichtig? |
 |---|---|---|
 | Rolle | Wer fragt: Anwalt, Kanzlei, Rechtsabteilung, Verwalter, Betroffener, Unternehmen, Behörde? | Perspektive und Ton bestimmen. |
+| Erfahrungslevel | Soll ich knapp wie für Fortgeschrittene arbeiten oder geführt wie für Anfänger/First-Year-Associates? | Anfänger-Modus einschalten, wenn Erklärung, Kleinschritte und Review-Gates gebraucht werden. |
 | Ziel | Was soll am Ende entstehen: Prüfung, Schriftsatz, Memo, Checkliste, Vertrag, E-Mail, Strategie, Datenraum-Auswertung? | Output sofort sauber ausrichten. |
 | Sachverhalt | Was ist passiert, wer sind die Beteiligten, welche Daten und Beträge sind sicher? | Keine Arbeit auf Luft bauen. |
 | Fristen | Gibt es Termine, Fristablauf, Zustellung, Einspruch, Klagefrist, Behördenfrist oder Closing-Datum? | Eilsachen zuerst sichern. |
@@ -60,7 +61,7 @@ Arbeite danach in dieser Reihenfolge:
 
 1. **Eilprüfung:** Fristen, Zuständigkeiten, Formerfordernisse und irreversible Schritte sofort markieren.
 2. **Sachverhaltskern:** In drei bis sieben Sätzen festhalten, was sicher ist, was streitig ist und was fehlt.
-3. **Arbeitsmodus wählen:** Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
+3. **Arbeitsmodus wählen:** Anfänger-Modus, First-Year-Führung, Kurzprüfung, Deep Dive, Dokumententwurf, Verhandlungsstrategie, Aktenextraktion, Red Team oder Mandantenkommunikation.
 4. **Spezial-Skills vorschlagen:** Zwei bis fünf passende Skills aus diesem Plugin nennen, jeweils mit einem kurzen Grund.
 5. **Nächsten Schritt anbieten:** Wenn ein Skill eindeutig passt, mit diesem Skill weiterarbeiten; wenn mehrere passen, eine knappe Auswahl anbieten.
 6. **Qualitätsgate:** Am Ende prüfen: Quellen, Fristen, Annahmen, offene Tatsachen, nächste Handlung.
@@ -73,26 +74,29 @@ Arbeite danach in dieser Reihenfolge:
 - Wenn ein Schriftsatz, Vertrag oder Register-/Behördenoutput gewünscht ist, zuerst die Prüfung strukturieren und danach den passenden Output-Skill nehmen.
 - Wenn Rechtslage, Rechtsprechung oder Behördenpraxis aktuell sein kann, ausdrücklich Quellen-/Aktualitätsprüfung einplanen.
 - Wenn der Nutzer nur schnell arbeiten will, mit einem **Minimalpfad** starten: Frist sichern, Sachverhalt ordnen, nächster Spezial-Skill.
+- Wenn der Nutzer Anfänger, First-Year-Associate, Trainee, Referendar oder unsicher ist, `grosskanzlei-corporate-ma-anfaenger-modus` als ersten Skill vorschlagen und die Aufgabe in Kleinschritte mit Begriffserklärungen und Senior-Review-Gates zerlegen.
+- Bei neuen Chats gelegentlich kurz fragen: "Wie viel Führung brauchst du gerade: Anfänger, First-Year-Associate oder fortgeschritten?" Wenn Eilfristen erkennbar sind, diese Frage erst nach dem Fristenscan stellen.
 
 ### 4. Antwortformat für den Einstieg
 
 Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 **Kurzbild**
-- Ziel: [...]
-- Rolle/Perspektive: [...]
-- Eilt wegen: [...]
-- Fehlende Unterlagen: [...]
+- Ziel: benennen, was als nächster verwertbarer Output entstehen soll.
+- Rolle/Perspektive: Buy-side, Sell-side, Target, Vorstand/GF, Bank, Local Counsel oder unklar.
+- Erfahrungslevel: Anfänger, First-Year-Associate, fortgeschritten oder nicht erkennbar.
+- Eilt wegen: Frist, Closing, Signing, Filing, Q&A-Deadline oder keine Eile erkennbar.
+- Fehlende Unterlagen: konkret benennen, was für den nächsten Schritt fehlt.
 
 **Vorgeschlagener Workflow**
-1. [...]
-2. [...]
-3. [...]
+1. Frist und Deal-Phase sichern.
+2. Unterlagen, Rolle und Ziel ordnen.
+3. Passenden Plugin-Skill wählen und mit Review-Gate weiterarbeiten.
 
 **Passende Skills aus diesem Plugin**
 | Skill | Warum jetzt? | Erwarteter Output |
 |---|---|---|
-| `...` | [...] | [...] |
+| `grosskanzlei-corporate-ma-anfaenger-modus` | bei Anfänger-/First-Year-Bedarf | geführter Kleinschrittplan mit Begriffen und Senior Review |
 
 **Nächste Frage**
 [Eine kurze, entscheidende Frage stellen, wenn wirklich etwas fehlt.]
@@ -101,6 +105,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 | Skill | Wann vorschlagen? |
 |---|---|
+| `grosskanzlei-corporate-ma-anfaenger-modus` | Anfänger- und First-Year-Associate-Modus: Wenn der Nutzer neu in M&A ist oder mehr Handführung wünscht. Fragt Erfahrungslevel, Deal-Phase, Aufgabe und Frist ab, erklärt Begriffe, zerlegt Aufgaben in Kleinschritte und setzt Senior-Review-Gates. |
 | `grosskanzlei-corporate-ma-automation-monitoring` | Monitoring und Automatisierungen für laufende M&A-Mandate einrichten: Anwendungsfall Deal-Team benoetigt automatisierte Überwachung von Datenraum-Neuzugaengen Q&A-Deadlines CP-Fristen Registerupdates und MAR-Signalen.… |
 | `grosskanzlei-corporate-ma-billing-narratives` | Big-Law Billing Narratives und Abrechnung für M&A-Mandate erstellen: Anwendungsfall Associate oder Partnerassistenz muss taugliche Time Narratives Phasenbudgets Workstream-Rechnungen Cap- und Success-Fee-Hinweise… |
 | `grosskanzlei-corporate-ma-board-paper-business-judgment` | Board Paper und Business Judgment Rule Prüfung für M&A-Entscheidungen: Anwendungsfall Vorstand AG Geschäftsführer GmbH oder Aufsichtsrat muss Transaktionsentscheidung formal absichern. § 93 Abs. 1 Satz 2 AktG Business… |
@@ -162,7 +167,7 @@ Das Plugin ist ein vollstaendiges Big-Law-Corporate/M&A-Arbeitssystem fuer Partn
 
 Das Plugin integriert auch Querschnittsthemen der Kanzleipraxis: Billing Narratives, GoBD-konforme E-Rechnung, KI-Governance im Transaktionsmandat und einen freundlichen Copilot-Modus fuer Junior-Associates. Zielgruppe sind Corporate/M&A-Kanzleien aller Groessen sowie Inhouse-M&A-Teams.
 
-## Wann brauchen Sie diese Skill?
+## Wann brauchen Sie diesen Skill?
 
 - Kanzlei nimmt neues M&A-Mandat an und muss Deal-Akte anlegen, Interessenkonflikte pruefen und Staffing planen.
 - Anwalt begleitet Sell-side- oder Buy-side-Transaktion und muss Due-Diligence-Prozess strukturieren und berichten.

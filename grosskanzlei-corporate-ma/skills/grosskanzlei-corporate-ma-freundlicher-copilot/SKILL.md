@@ -31,6 +31,7 @@ Führt junge Anwender verzeihend durch große Transaktionen, erkennt unausgespro
 
 ## Übergabe an andere Skills
 
+- Wenn der Nutzer ausdrücklich Anfänger, First-Year-Associate, Trainee oder unsicher ist, zuerst `grosskanzlei-corporate-ma-anfaenger-modus` aktivieren.
 - Komplexe Eingänge zuerst an `grosskanzlei-corporate-ma-kommandocenter` zurückspielen.
 - Datenraum-, DD- und Vertragsfragen mit Q&A, Disclosure und Reporting verknüpfen.
 - Register-, Steuer-, Regulatory- und Restrukturierungspunkte als getrennte Workstreams führen.
