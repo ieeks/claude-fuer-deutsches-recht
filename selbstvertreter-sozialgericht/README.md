@@ -1,5 +1,23 @@
 # selbstvertreter-sozialgericht
 
+## Direkt-Download
+
+| Datei | Download |
+| --- | --- |
+| Plugin-ZIP (`selbstvertreter-sozialgericht`) | [selbstvertreter-sozialgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-sozialgericht.zip) |
+| Kleine Testakte "Heizkosten und Eilantrag" | [testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-sozialgericht-heizkosten-eilantrag.zip) |
+
+Die Testakte liegt im Repository unter [`testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/`](../testakten/selbstvertreter-sozialgericht-heizkosten-eilantrag/) und wird im Release als separates ZIP bereitgestellt. Sie ist **kein Teil des Plugins**, sondern nur Material zum Ausprobieren.
+
+### Installation
+
+1. `selbstvertreter-sozialgericht.zip` herunterladen.
+2. Claude Code oder Claude Desktop/Cowork öffnen.
+3. **Customize Plugins** bzw. **Personal plugins** öffnen.
+4. **Install from .zip** wählen und `selbstvertreter-sozialgericht.zip` hochladen.
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
+
 Ein Plugin für Bürgerinnen und Bürger, die sich beim Sozialgericht selbst vertreten — ohne Anwalt. Es führt vom Bescheid über Widerspruch, Klage und Eilantrag bis zu Gutachten, Termin, Urteil und Berufung.
 
 ## Für wen ist das?

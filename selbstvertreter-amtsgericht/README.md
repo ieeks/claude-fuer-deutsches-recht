@@ -1,5 +1,23 @@
 # selbstvertreter-amtsgericht
 
+## Direkt-Download
+
+| Datei | Download |
+| --- | --- |
+| Plugin-ZIP (`selbstvertreter-amtsgericht`) | [selbstvertreter-amtsgericht.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/selbstvertreter-amtsgericht.zip) |
+| Kleine Testakte "Küchentisch Kaufpreis" | [testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-selbstvertreter-amtsgericht-kuechentisch-kaufpreis.zip) |
+
+Die Testakte liegt im Repository unter [`testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/`](../testakten/selbstvertreter-amtsgericht-kuechentisch-kaufpreis/) und wird im Release als separates ZIP bereitgestellt. Sie ist **kein Teil des Plugins**, sondern nur Material zum Ausprobieren.
+
+### Installation
+
+1. `selbstvertreter-amtsgericht.zip` herunterladen.
+2. Claude Code oder Claude Desktop/Cowork öffnen.
+3. **Customize Plugins** bzw. **Personal plugins** öffnen.
+4. **Install from .zip** wählen und `selbstvertreter-amtsgericht.zip` hochladen.
+
+Nicht das komplette Repository-ZIP hochladen. Das Plugin-ZIP muss im Root direkt `.claude-plugin/plugin.json` und `skills/` enthalten.
+
 Plugin für Bürgerinnen und Bürger, die sich vor dem Amtsgericht **ohne Rechtsanwalt** selbst vertreten wollen. Es ist als geführter Begleiter gebaut: erst Fristen und Gericht klären, dann Streitwert, Antrag, Beweise und Kosten ordnen, dann den passenden Schriftsatz oder Terminplan vorbereiten.
 
 ## Für wen?
