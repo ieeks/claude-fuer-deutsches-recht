@@ -1,6 +1,6 @@
 ---
 name: saldotheorie-rueckabwicklung-nichtiger-vertraege
-description: "Rueckabwicklung nichtiger gegenseitiger Vertraege mit Saldierung, Schutzkorrekturen und § 818 Abs. 3 BGB pruefen. Output: Saldo- und Risikoanalyse."
+description: "Rückabwicklung nichtiger gegenseitiger Verträge mit Saldierung, Schutzkorrekturen und § 818 Abs. 3 BGB prüfen. Output: Saldo- und Risikoanalyse."
 ---
 
 # Saldotheorie: Rückabwicklung nichtiger gegenseitiger Verträge

@@ -22,7 +22,7 @@ description: "Vorsatzanfechtung außerhalb der Insolvenz geltend machen: Benacht
 ## Rechtsprechung (BGH — Leitsätze § 3 AnfG Vorsatzanfechtung)
 
 - BGH, Urt. v. 26.04.2012 - IX ZR 74/11, NJW 2012, 2182 — Zum Benachteiligungsvorsatz: dolus eventualis genügt; Schuldner muss wissen oder billigend in Kauf nehmen dass die Rechtshandlung seine Gläubiger benachteiligt. Kenntnis der eigenen Zahlungsunfähigkeit ist starkes Indiz.
-- BGH, Urt. v. 05.03.2015 - IX ZR 133/14, NJW 2015, 1600 — Zur Kenntnis des Anfechtungsgegners: blosse Kenntnis der wirtschaftlichen Schwierigkeiten des Schuldners genügt nicht; Kenntnis von tatsächlichen Umständen die auf Benachteiligungsabsicht schliessen lassen erforderlich.
+- BGH, Urt. v. 05.03.2015 - IX ZR 133/14, NJW 2015, 1600 — Zur Kenntnis des Anfechtungsgegners: blosse Kenntnis der wirtschaftlichen Schwierigkeiten des Schuldners genügt nicht; Kenntnis von tatsächlichen Umständen die auf Benachteiligungsabsicht schließen lassen erforderlich.
 - BGH, Urt. v. 22.09.2016 - IX ZR 219/14, NJW 2017, 57 — Zu inkongruenter Deckung als Indiz: Inkongruenz begründet starke Vermutung für Benachteiligungsvorsatz und Kenntnis des Anfechtungsgegners; beide Tatbestandsmerkmale werden dadurch erheblich erleichtert.
 
 ## Kommentarliteratur

@@ -1,6 +1,6 @@
 ---
 name: weichenstellung-bereicherung-oder-anfechtung
-description: "Triage-Entscheidung: welcher Regelungskreis ist einschlaegig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel, Insolvenzeroffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Prüf-Skill. Abgrenzung: kein inhaltlicher Anspruchsguetachter."
+description: "Triage-Entscheidung: welcher Regelungskreis ist einschlägig - Bereicherungsrecht, außerinsolvenzliche Anfechtung oder Insolvenzanfechtung. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Rechtsgrundmangel, Insolvenzeröffnung, vollstreckbarer Titel. Output: Weiterleitungsmatrix zum richtigen Prüf-Skill. Abgrenzung: kein inhaltlicher Anspruchsgutachter."
 ---
 
 # Weichenstellung: Bereicherung oder Anfechtung?
@@ -48,7 +48,7 @@ Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 1–30, § 2 Rn. 1–25 (Titelerfordern
 
 **Insolvenzverfahren eröffnet oder Antrag gestellt:**
 → Insolvenzanfechtung §§ 129 ff. InsO.
-→ Skill: `inso-grundtatbestand-129-glaeubigerbenachteiligung`
+→ Skill: `inso-grundtatbestand-129-gläubigerbenachteiligung`
 
 **Kein Insolvenzverfahren:**
 → Weiter zu Frage 3.
@@ -76,7 +76,7 @@ Huber in: AnfG, 12. Aufl. 2022, § 1 Rn. 1–30, § 2 Rn. 1–25 (Titelerfordern
 | Befund | Weiterer Skill |
 |---|---|
 | Leistung an den Beklagten, Rechtsgrund fehlt | `leistungskondiktion-grundtatbestand-812-i-1-alt-1` |
-| unklarer Rechts- oder Behaltensgrund | `rechtsgrund-und-behaltensgrund-pruefen` |
+| unklarer Rechts- oder Behaltensgrund | `rechtsgrund-und-behaltensgrund-prüfen` |
 | Zweckabrede oder Zweckverfehlung | `zweckverfehlung-und-kondiktionszweck` |
 | Zahlungskette, Anweisung, Drittleistung | `mehrpersonenverhaeltnisse-direkt-und-durchgriffskondiktion` |
 | nichtiger gegenseitiger Vertrag | `saldotheorie-rueckabwicklung-nichtiger-vertraege` |

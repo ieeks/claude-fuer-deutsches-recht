@@ -1,6 +1,6 @@
 ---
 name: verschaerfte-haftung-819-bgb-bei-bosglaeubigkeit
-description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigkeit oder Rechtshaengigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschaerfte Haftung, Rechtshaengigkeitswirkung. Output: Prüfergebnis verschaerfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB."
+description: "Verschärfte Bereicherungshaftung nach § 819 BGB bei Bösgläubigkeit oder Rechtshängigkeit prüfen. Normen: §§ 819 818 Abs. 4 BGB. Prüfraster: Kenntnis des Mangels, Zeitpunkt, Umfang verschärfte Haftung, Rechtshängigkeitswirkung. Output: Prüfergebnis verschärfte Haftung mit Berechnungshinweis. Abgrenzung: nicht gutgläubiger Entreicherungsschutz § 818 Abs. 3 BGB."
 ---
 
 # Verschärfte Haftung — § 819 BGB bei Bösgläubigkeit
@@ -12,7 +12,7 @@ description: "Verschaerfte Bereicherungshaftung nach § 819 BGB bei Boesglaeuigk
 3. Wann wurde die Klage zugestellt (Rechtshängigkeit → § 818 Abs. 4 BGB)?
 4. Welche Nutzungen, Gebrauchsvorteile oder Surrogate sind ab Bösgläubigkeit angefallen?
 5. Ist der Gegenstand nach Bösgläubigkeit zufällig untergegangen (verschärfte Zufallshaftung)?
-- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist fuer den Mandanten persoenlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
+- **Was will der Mandant wirklich erreichen?** (Nicht: was steht im Standardweg, sondern: welches Ergebnis ist für den Mandanten persönlich/wirtschaftlich das beste? Manchmal ist der schnellere Vergleich besser als der formal "richtige" Weg.)
 
 ## Zentrale Normen
 
@@ -61,7 +61,7 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 ## Prüfschema
 
-**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkuerzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
+**Vorab:** Der untenstehende Workflow ist die typische Standardlinie. Wenn die Mandantenlage abweicht (siehe "Strategische Optionen" oben), sind die Schritte entsprechend zu verkürzen, umzustellen oder durch ein anderes Skill zu ersetzen — der Workflow ist Leitfaden, nicht Pflichtprogramm.
 
 1. Wann Kenntnis vom Mangel des Rechtsgrundes (§ 819 Abs. 1)?
 2. Gesetz-/Sittenverstoß beim Empfänger (§ 819 Abs. 2)?
@@ -70,16 +70,16 @@ Ab Zustellung der Klageschrift: dieselben verschärften Regeln, unabhängig von 
 
 ## Strategische Optionen (vor dem Template entscheiden)
 
-Bevor das Template eins-zu-eins gefuellt wird, ist zu pruefen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** moegliche Form — nicht die einzige.
+Bevor das Template eins-zu-eins gefüllt wird, ist zu prüfen welche Variante zur Mandantenkonstellation passt. Das Template ist **eine** mögliche Form — nicht die einzige.
 
 | Konstellation | Empfohlener Weg |
 |---|---|
-| Standard — Bereicherungsschuldner boesglaeubig ab bestimmtem Zeitpunkt | § 819 Abs. 1 Kenntnisnachweis; Template-Pruefung unten |
-| Variante A — Kenntnis schwer nachweisbar | Haeufung von Indizien; Rechtshängigkeits-Zustellzeitpunkt sicherer |
-| Variante B — Gesetzes- oder Sittenverstoß (§ 819 Abs. 2) | Verschaerfung ab Empfang; kein Kenntnisnachweis noetig |
-| Variante C — Gesamtschuldner mit unterschiedlicher Kenntnis | Individuell je Schuldner pruefen; kein Einheitsansatz |
+| Standard — Bereicherungsschuldner bösgläubig ab bestimmtem Zeitpunkt | § 819 Abs. 1 Kenntnisnachweis; Template-Prüfung unten |
+| Variante A — Kenntnis schwer nachweisbar | Häufung von Indizien; Rechtshängigkeits-Zustellzeitpunkt sicherer |
+| Variante B — Gesetzes- oder Sittenverstoß (§ 819 Abs. 2) | Verschärfung ab Empfang; kein Kenntnisnachweis nötig |
+| Variante C — Gesamtschuldner mit unterschiedlicher Kenntnis | Individuell je Schuldner prüfen; kein Einheitsansatz |
 
-Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzuloesen — nicht das Mandat in das Schema zu pressen.
+Wenn die Mandantenkonstellation **nicht** ins Standardschema passt, ist das Template anzupassen oder durch ein anderes Skill abzulösen — nicht das Mandat in das Schema zu pressen.
 
 ## Output-Template
 
@@ -100,9 +100,9 @@ Sachverhalt (kurz): [...]
 
 ---
 
---- vor Versand klaeren ---
-1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Loesung]
+--- vor Versand klären ---
+1. Welches Verhandlungsziel hat der Mandant? [Bestand / Abfindung / Reputation / Schnelle Lösung]
 2. Welche Kompromisslinien sind absolut? [Mindestabfindung / Freistellung / Zeugnisformulierung]
-3. Sind Anschlusswege erwuenscht? [Mediation / Direktgespraech / Settlement vor Klageerhebung]
+3. Sind Anschlusswege erwünscht? [Mediation / Direktgespräch / Settlement vor Klageerhebung]
 
 Hinweis: Keine Rechtsberatung. Mechanische Prüfung anhand vom Nutzer behaupteter Tatsachen. Falsche Normwahl oder unvollständiger Sachverhalt kann das Ergebnis vollständig entwerten.

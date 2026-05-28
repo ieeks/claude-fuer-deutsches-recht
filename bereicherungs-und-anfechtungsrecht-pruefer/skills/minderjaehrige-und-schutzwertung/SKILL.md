@@ -1,6 +1,6 @@
 ---
 name: minderjaehrige-und-schutzwertung
-description: "Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Output: strukturierte Bereicherungspruefung."
+description: "Nutze diesen Skill, wenn Minderjährigenschutz durch Wertersatz oder Saldo nicht entwertet werden darf. Normen: §§ 107 bis 113 BGB; § 818 Abs. 3 BGB. Prüfraster: Prüfe das Spezialrecht vor dem allgemeinen Bereicherungsrecht; Übernimm Schutzwertungen in Saldo, Wertersatz und Entreicherung; Trenne Rückabwicklung, Schadensersatz und öffentlich-rechtliche Erstattung. Output: Schutzwertungs-Analyse mit verschärfter Entreicherungsanwendung. Abgrenzung: nicht volljährige Bösgläubigkeit § 819 BGB."
 ---
 
 # Minderjährige und Schutzwertung

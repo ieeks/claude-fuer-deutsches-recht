@@ -1,6 +1,6 @@
 ---
 name: rechtsgrund-und-behaltensgrund-pruefen
-description: "Bereicherungsrechtliche Kernfrage pruefen: nicht nur Zufluss, sondern Rechtsgrund und Behaltensgrund. Normen: §§ 812 ff. BGB. Output: Behaltensgrund-Matrix mit Darlegungslast und Verteidigungsrisiken."
+description: "Bereicherungsrechtliche Kernfrage prüfen: nicht nur Zufluss, sondern Rechtsgrund und Behaltensgrund. Normen: §§ 812 ff. BGB. Output: Behaltensgrund-Matrix mit Darlegungslast und Verteidigungsrisiken."
 ---
 
 # Rechtsgrund und Behaltensgrund prüfen

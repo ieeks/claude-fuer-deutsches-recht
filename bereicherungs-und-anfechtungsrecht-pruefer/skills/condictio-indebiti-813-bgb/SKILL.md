@@ -1,6 +1,6 @@
 ---
 name: condictio-indebiti-813-bgb
-description: "Rückforderung trotz Erfuellung einer einredebehafteten Verbindlichkeit nach § 813 BGB prüfen. Normen: § 813 BGB. Prüfraster: dauernde vs. temporaere Einreden, Verjaebrungseinrede, Tatbestandsmerkmale. Output: Prüfergebnis condictio indebiti mit Einredenklassifikation. Abgrenzung: nicht condictio § 812 Abs. 1 S. 1 Alt. 1 BGB bei fehlendem Rechtsgrund."
+description: "Rückforderung trotz Erfüllung einer einredebehafteten Verbindlichkeit nach § 813 BGB prüfen. Normen: § 813 BGB. Prüfraster: dauernde vs. temporäre Einreden, Verjährungseinrede, Tatbestandsmerkmale. Output: Prüfergebnis condictio indebiti mit Einredenklassifikation. Abgrenzung: nicht condictio § 812 Abs. 1 S. 1 Alt. 1 BGB bei fehlendem Rechtsgrund."
 ---
 
 # Condictio indebiti — § 813 BGB

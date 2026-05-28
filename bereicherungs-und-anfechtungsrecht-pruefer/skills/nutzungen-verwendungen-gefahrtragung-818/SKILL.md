@@ -1,6 +1,6 @@
 ---
 name: nutzungen-verwendungen-gefahrtragung-818
-description: "Nutzungen, Verwendungen, Surrogate, ersparte Aufwendungen und Gefahrtragung bei § 818 BGB strukturiert pruefen. Output: Wert- und Risiko-Tabelle."
+description: "Nutzungen, Verwendungen, Surrogate, ersparte Aufwendungen und Gefahrtragung bei § 818 BGB strukturiert prüfen. Output: Wert- und Risiko-Tabelle."
 ---
 
 # Nutzungen, Verwendungen und Gefahrtragung bei § 818 BGB

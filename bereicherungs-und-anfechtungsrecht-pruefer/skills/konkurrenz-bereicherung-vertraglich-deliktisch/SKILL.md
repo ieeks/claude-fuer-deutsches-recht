@@ -1,6 +1,6 @@
 ---
 name: konkurrenz-bereicherung-vertraglich-deliktisch
-description: "Verhältnis von Bereicherungsrecht zu vertraglichen Ansprüchen und Deliktsrecht §§ 823 ff. BGB klaeren. Normen: §§ 812 823 987 ff. BGB. Prüfraster: Vorrang-/Spezialitaetsfragen, bereicherungsrechtliche Lueckenfuellung. Output: Anspruchsprioriserungstabelle. Abgrenzung: nicht Konkurrenz mit AnfG/InsO-Anfechtung (eigener Skill)."
+description: "Verhältnis von Bereicherungsrecht zu vertraglichen Ansprüchen und Deliktsrecht §§ 823 ff. BGB klären. Normen: §§ 812 823 987 ff. BGB. Prüfraster: Vorrang-/Spezialitätsfragen, bereicherungsrechtliche Lückenfüllung. Output: Anspruchsprioriserungstabelle. Abgrenzung: nicht Konkurrenz mit AnfG/InsO-Anfechtung (eigener Skill)."
 ---
 
 # Konkurrenz: Bereicherung neben Vertrag, Delikt und EBV

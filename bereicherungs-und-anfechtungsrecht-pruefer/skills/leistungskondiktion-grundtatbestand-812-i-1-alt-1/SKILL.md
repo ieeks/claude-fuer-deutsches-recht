@@ -27,7 +27,7 @@ Prüfe die Leistungskondiktion nicht als bloße Rückholung eines Gegenstands. B
 4. **Behaltensgrund:** Darf der Empfänger den Vorteil heute noch behalten, obwohl der ursprüngliche Zweck fehlt, weggefallen oder nur teilweise erfüllt ist?
 5. **Risikozuweisung:** Würde eine Rückforderung eine gesetzliche oder vertragliche Risikoverteilung unterlaufen?
 
-Wenn eine dieser Ebenen unklar bleibt, verwende zuerst `rechtsgrund-und-behaltensgrund-pruefen` und bei gegenseitigen Verträgen zusätzlich `saldotheorie-rueckabwicklung-nichtiger-vertraege`.
+Wenn eine dieser Ebenen unklar bleibt, verwende zuerst `rechtsgrund-und-behaltensgrund-prüfen` und bei gegenseitigen Verträgen zusätzlich `saldotheorie-rueckabwicklung-nichtiger-vertraege`.
 
 ## Rechtsprechung
 

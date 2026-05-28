@@ -1,6 +1,6 @@
 ---
 name: parallel-und-konkurrenz-pruefung
-description: "Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelitaet, Subsidiaritaet, wechselseitige Auswirkungen. Output: Konkurrenzmatrix mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung je Regelungskreis."
+description: "Bereicherungsrecht und Anfechtungsrecht gleichzeitig prüfen: Anspruchskonkurrenzen und gegenseitige Beeinflussung aller drei Regelungskreise. Normen: §§ 812 ff. BGB, AnfG, §§ 129 ff. InsO. Prüfraster: Parallelität, Subsidiarität, wechselseitige Auswirkungen. Output: Konkurrenzmatrix mit Handlungsempfehlung. Abgrenzung: nicht Einzelprüfung je Regelungskreis."
 ---
 
 # Parallel- und Konkurrenzprüfung

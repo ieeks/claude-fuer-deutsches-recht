@@ -1,6 +1,6 @@
 ---
 name: wertveraenderung-und-stichtag
-description: "Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Output: strukturierte Bereicherungspruefung."
+description: "Nutze diesen Skill, wenn Wertsteigerung, Wertverlust und Bewertungszeitpunkt streitig sind. Normen: § 818 Abs. 1 und Abs. 2 BGB. Prüfraster: Erstelle eine Vermögensbilanz statt einer Gegenstandsliste; Prüfe Nutzungen, Surrogate und ersparte Aufwendungen vor § 818 Abs. 3 BGB; Bewerte Dienstleistung und Gebrauchsvorteil objektiv nach Markt- oder Nutzungswert. Output: Stichtagsanalyse mit Wertersatzhöhe und Risikozuweisung. Abgrenzung: nicht Schadensberechnung § 252 BGB."
 ---
 
 # Wertveränderung und Bewertungsstichtag
