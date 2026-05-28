@@ -9,7 +9,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Schriftform Und Te
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Schriftform Und Textform Bgb**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB qES § 126a Textform § 126b Zugang § 130 BGB lernt aus BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 159/23 Mietkündigung Klauselgenerator Mandantenmemos.
+**Plugin-Fokus:** Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB qES § 126a BGB Textform § 126b BGB Zugang § 130 BGB beA/ERV § 130e ZPO § 46h ArbGG BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 155/23 / VIII ZR 159/23 zur qES-Schriftsatzkündigung.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -106,17 +106,17 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `befristungsabrede-qes-rechtsprechung-stand-2026` | Aktuelle Rechtsprechung zur elektronischen Signatur bei Befristungsabreden nach § 14 Abs. 4 TzBfG. LAG Berlin-Brandenburg 16.03.2022 — 23 Sa 1133/21: eingescannte Unterschrift wahrt Schriftform nicht; nur eigenhändige… |
 | `buergschaft-verbraucherdarlehen-und-andere-strenge-formen` | Mandant hat Buergschaft oder Darlehensvertrag unterschrieben und fragt ob er noch gebunden ist wenn die Form nicht korrekt eingehalten wurde. §§ 766 492 484 311b BGB strenge Formerfordernisse. Prüfraster: Buergschaft §… |
 | `dokumentations-und-beweisarchitektur` | Anwalt oder Kanzlei muss sicherstellen dass Formerklärungen beweissicher dokumentiert und archiviert werden. Beweissicherung Willenserklärungen Formrecht. Prüfraster: Zugang § 130 BGB nachweisen Originalurkunden… |
-| `elektronische-form-paragraph-126a-bgb-qes` | Mandant moechte einen Vertrag elektronisch unterzeichnen der gesetzlich Schriftform erfordert und fragt ob die qES genuegt. § 126a BGB elektronische Form als Schriftformersatz eIDAS-VO (EU) 910/2014. Prüfraster:… |
+| `elektronische-form-paragraph-126a-bgb-qes` | Mandant möchte einen Vertrag oder eine Willenserklärung elektronisch unterzeichnen und fragt, ob qES, beA oder gerichtliche Zustellung die Schriftform ersetzen. Prüft § 126a BGB, eIDAS, Zugang, § 130e ZPO und § 46h ArbGG. |
 | `form-checker-fuer-vertrag-oder-willenserklaerung` | Mandant hat Vertrag oder Willenserklärung und fragt: Welche Form ist vorgeschrieben wurde sie eingehalten und was passiert wenn nicht? Form-Checker BGB. Prüfraster: gesetzliche vs. gewillkuerte Form Formhierarchie… |
 | `formerfordernisse-im-bgb-ueberblick` | Systematik der Formerfordernisse im BGB: gesetzliche vs. gewillkürte Form, §§ 125-129 BGB, Nichtigkeitsfolge § 125 BGB, Heilungsmöglichkeiten, Formhierarchie von Textform bis notarielle Beurkundung — Einstieg und… |
 | `gewerberaummiete-paragraph-550-bgb-langzeitform` | Gewerbemieter oder Vermieter fragt: Ist ein laenger als 1 Jahr laufender Gewerberaummietvertrag wegen Schriftform-Verstoß vorzeitig kündbar? § 550 BGB Langzeitform Gewerberaummietvertrag. Prüfraster:… |
 | `klauselgenerator-formvorbehalt-und-aenderungsvorbehalt` | Anwalt entwirft Vertrag und benoetigt Formvorbehalt- oder Aenderungsklauseln die AGB-rechtlich und BGH-konform sind. Klauselgenerator §§ 305b 305c BGB. Prüfraster: einfache Schriftformklausel doppelte… |
-| `kuendigung-per-schriftsatz-zustellung-formfragen` | Anwalt versendet oder empfaengt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Schriftform Kündigung Zustellung beA. Prüfraster: Beglaubigung § 169 Abs. 2 ZPO Schriftform-Erstreckung Abgrenzung… |
+| `kuendigung-per-schriftsatz-zustellung-formfragen` | Anwalt versendet oder empfängt eine Kündigung per Schriftsatz und fragt nach Formwirksamkeit. Prüft Schriftform, beA, qES, § 130a ZPO, § 130e ZPO, § 46h ArbGG, § 173 ZPO, § 186 ZPO, § 298 Abs. 3 ZPO und § 174 BGB. |
 | `maklervertrag-paragraph-656a-bgb-textform-bgh-i-zr-202-25` | Maklervertrag Paragraph 656a BGB Textform - BGH I ZR 202/25 vom 11. Maerz 2026: E-Mail-Austausch erfuellt Textform auch auf getrennten Datentraegern; konkludenter Abschluss möglich wenn wesentliche Bestandteile… |
 | `mandantenkorrespondenz-form-und-zugang-templates` | Kanzlei benoetigt fertige Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen. Mandantenbrief-Bibliothek Formrecht. Inhalt: Warnung qES-Mail nicht löschen Mieter-Hinweis auf E-Mail/WhatsApp-Kündigung prüfen… |
 | `mandantenwarnung-qes-per-email-whatsapp-und-zugang` | Wohnraummieter hat E-Mail oder WhatsApp-Nachricht mit Kündigungsdokument erhalten und Anwalt prüft ob Zugang wirksam erfolgt ist. BGH VIII ZR 159/23 Leitmemo. Prüfraster: qES-Dokument muss so in Machtbereich gelangen… |
 | `notarielle-beurkundung-und-oeffentliche-beglaubigung` | Mandant muss einen Vertrag notar-beurkunden lassen (GmbH-Kauf Grundstueckskauf Ehevertrag) und fragt nach Ablauf und Kosten. §§ 128 129 BGB Beurkundungsgesetz. Prüfraster: Beurkundungspflicht § 311b BGB Grundstueck §… |
-| `prozessablauf-papier-vs-elektronisch` | Kanzlei oder Mandant muss entscheiden ob Kündigung Maklervertrag oder Buergschaft per Papier oder elektronisch uebermittelt werden soll. Prozessablauf Formwahl praktisch. Prüfraster: wann Originalunterschrift Papier… |
+| `prozessablauf-papier-vs-elektronisch` | Kanzlei oder Mandant muss zwischen Papier, qES, Textform, beA-Schriftsatz oder Formfiktion wählen. Prüft Originalunterschrift, qES-Direktversand, § 130e ZPO, § 46h ArbGG und Beweisarchitektur. |
 | `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` | Vertragspartner bestreitet Schriftform wegen fehlender oder unzureichender Unterschrift. § 126 BGB Schriftform eigenhaendige Namenszeichnung. Prüfraster: Namenszeichnung vs. Paraphe Urkundeneinheit bei mehrseitigen… |
 | `textform-paragraph-126b-bgb-dauerhafter-datentraeger` | Mandant schickte Erklärung per E-Mail WhatsApp oder SMS und fragt ob Textform eingehalten wurde. § 126b BGB Textform dauerhafter Datentraeger. Prüfraster: lesbare Erklärung Person des Erklärenden erkennbar Abschluss… |
 | `verteidigungsstrategie-bei-formangriff` | Mandant wird von Vertragspartner mit Formmangel-Einwand konfrontiert und Anwalt muss Verteidigung aufbauen. Verteidigung Formverstoß §§ 125 242 BGB. Prüfraster: Heilungsmöglichkeiten nach Vollzug (§ 311b BGB)… |
@@ -128,7 +128,7 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 
 Das deutsche Zivilrecht kennt eine Hierarchie von Formerfordernissen: von der Textform (§ 126b BGB) ueber die Schriftform mit eigenhaendiger Unterschrift (§ 126 BGB) und die elektronische Form mit qualifizierter elektronischer Signatur (§ 126a BGB) bis zur notariellen Beurkundung (§§ 128, 129 BGB). Bei Verstoss gegen ein gesetzliches Formerfordernis ist die Erklaerung nach § 125 BGB nichtig; bei gewillkuerter Form koennen die Parteien Abweichendes vereinbaren.
 
-Das Plugin strukturiert Form-Analyse, Klauselgenerierung, Zugangs-Pruefung und Mandantenkommunikation fuer die Kanzleipraxis. Aktuelle BGH-Leitentscheidungen (BGH I ZR 202/25 zum Maklervertrag, BGH VIII ZR 159/23 zur qES-Zustellung bei Mietkuendigung) sind eingearbeitet.
+Das Plugin strukturiert Form-Analyse, Klauselgenerierung, Zugangs-Pruefung und Mandantenkommunikation fuer die Kanzleipraxis. Aktuelle BGH-Leitentscheidungen (BGH I ZR 202/25 zum Maklervertrag, BGH VIII ZR 155/23 und VIII ZR 159/23 zur qES-Schriftsatzkuendigung) sowie § 130e ZPO und § 46h ArbGG sind eingearbeitet.
 
 ## Wann brauchen Sie diese Skill?
 
@@ -154,6 +154,8 @@ Das Plugin strukturiert Form-Analyse, Klauselgenerierung, Zugangs-Pruefung und M
 - § 126a BGB — Elektronische Form (qES)
 - § 126b BGB — Textform
 - § 130 BGB — Zugang empfangsbeduerftiger Willenserklaerungen
+- §§ 130a, 130e ZPO — elektronischer Schriftsatz und Formfiktion
+- § 46h ArbGG — arbeitsgerichtliche Formfiktion
 - § 311b BGB — notarielle Beurkundung bei Grundstuecksgeschaeften
 - § 550 BGB — Schriftform bei Mietvertraegen ueber mehr als ein Jahr
 - § 568 BGB — Schriftform bei Kuendigung von Wohnraummietvertraegen
@@ -174,7 +176,7 @@ Das Plugin strukturiert Form-Analyse, Klauselgenerierung, Zugangs-Pruefung und M
 - `formerfordernisse-im-bgb-ueberblick` — Systematik der Formerfordernisse: gesetzlich vs. gewillkuert, Formhierarchie, Nichtigkeitsfolge § 125 BGB.
 - `form-checker-fuer-vertrag-oder-willenserklaerung` — Schnelle Formanalyse: welche Form ist vorgeschrieben, wurde sie eingehalten, was passiert bei Verstoss?
 - `schriftform-paragraph-126-bgb-eigenhaendige-unterschrift` — Schriftform: Namenszeichnung, Urkundeneinheit, Faksimile, Blankounterschrift und BGH-Linie.
-- `elektronische-form-paragraph-126a-bgb-qes` — qES als Schriftformersatz: eIDAS-Anforderungen, Pruefung, Zertifikatskette.
+- `elektronische-form-paragraph-126a-bgb-qes` — qES als Schriftformersatz: eIDAS-Anforderungen, qES-Zugang, beA-Abgrenzung, § 130e ZPO und § 46h ArbGG.
 - `textform-paragraph-126b-bgb-dauerhafter-datentraeger` — Textform: E-Mail, WhatsApp, SMS, PDF — Pruefung und Empfehlung.
 - `zugang-empfangsbeduerftiger-willenserklaerung-paragraph-130-bgb` — Zugang nach § 130 BGB: Machtbereichslehre, Briefkasten, Abrufbarkeit, Beweis.
 - `zugang-formgerechter-erklaerung-bgh-viii-zr-159-23` — BGH VIII ZR 159/23: qES-Dokument muss so zugehen, dass der Empfaenger die Signatur pruefen kann.
@@ -190,14 +192,15 @@ Das Plugin strukturiert Form-Analyse, Klauselgenerierung, Zugangs-Pruefung und M
 - `anspruchsformulierungen-bei-formverstoss` — Bereicherungsanspruch (§ 812 BGB), Feststellungsklage, c.i.c. nach Formmangel.
 - `mandantenwarnung-qes-per-email-whatsapp-und-zugang` — Mandantenmemo zu BGH VIII ZR 159/23: qES-Zugang, IT-Hinweise, Checkliste.
 - `mandantenkorrespondenz-form-und-zugang-templates` — Muster-Mandantenbriefe zu typischen Form- und Zugangsfragen.
-- `prozessablauf-papier-vs-elektronisch` — Prozessablaeufe fuer Kuendigung, Makler und Buergschaft: Papier vs. qES vs. E-Mail.
+- `prozessablauf-papier-vs-elektronisch` — Prozessablaeufe fuer Kuendigung, Makler und Buergschaft: Papier, qES, E-Mail, beA-Schriftsatz und Formfiktion.
 - `dokumentations-und-beweisarchitektur` — Kanzlei-Dokumentationsstandard fuer formrelevante Vorgaenge, ersetzendes Scannen.
-- `kuendigung-per-schriftsatz-zustellung-formfragen` — Formwirksamkeit von Kuendigungen per Schriftsatz und beA-Zustellung.
+- `kuendigung-per-schriftsatz-zustellung-formfragen` — Formwirksamkeit von Kuendigungen per Schriftsatz, beA, gerichtlicher Zustellung, § 130e ZPO und § 46h ArbGG.
 
 ## Worauf besonders achten
 
-- **Keine qES bei Befristungsabrede**: § 14 Abs. 4 TzBfG verlangt Papier-Schriftform; DocuSign und Adobe Sign genuegen nicht — Rechtsfolge ist Unbefristetheit nach § 16 TzBfG.
-- **qES-Zugang ist mehr als nur Empfang**: Nach BGH VIII ZR 159/23 muss der Empfaenger die Moeglichkeit haben, die Signatur tatsaechlich zu pruefen; ein bloss zugegangenes qES-Dokument in der E-Mail reicht nicht.
+- **Befristungsabrede nicht mit einfacher E-Signatur**: § 14 Abs. 4 TzBfG verlangt Schriftform; eine echte qES kann tragen, einfache Signatur, Scan und E-Mail nicht.
+- **qES-Zugang ist mehr als nur Empfang**: Nach BGH VIII ZR 159/23 muss der Empfaenger die Moeglichkeit haben, die Signatur tatsaechlich zu pruefen; ein Papierausdruck mit Transfervermerk genuegt nicht.
+- **beA ist nicht automatisch materielle Form**: beA kann § 130a ZPO erfuellen. Die materielle Form folgt nur aus qES-Zugang oder aus einer Formfiktion wie § 130e ZPO bzw. § 46h ArbGG.
 - **Makler-Textform genau lesen**: BGH I ZR 202/25 entschied, dass der Provisionshinweis erkennbar unter der Grussformel stehen muss; kein Schlussbaustein unter der Signaturzeile.
 - **Doppelte Schriftformklausel kann treuwidrig sein**: BGH hat zahlreiche doppelte Schriftformklauseln fuer unwirksam erklaert (§ 305b BGB); sorgfaeltige Formulierung ist unverzichtbar.
 - **Gewerbemiete § 550 BGB**: Jede Nachtragsvereinbarung ohne Schriftform oeffnet ein Kuendigungsrecht zum naechsten zulaessigen Termin.
@@ -222,5 +225,7 @@ Das Plugin strukturiert Form-Analyse, Klauselgenerierung, Zugangs-Pruefung und M
 - BGB §§ 125-130 in geltender Fassung
 - TzBfG § 14 Abs. 4 in geltender Fassung
 - BGH I ZR 202/25, Urteil vom 11.03.2026 (Maklervertrag Textform)
+- BGH VIII ZR 155/23, Urteil vom 27.11.2024 (qES-Schriftsatzkuendigung)
 - BGH VIII ZR 159/23, Urteil vom 27.11.2024 (qES-Zugang bei Mietkuendigung)
+- § 130e ZPO und § 46h ArbGG in geltender Fassung
 - VO (EU) Nr. 910/2014 (eIDAS-VO)

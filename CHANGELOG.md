@@ -1,7 +1,8 @@
 # v19.1.0 — BGB AT, Arbeitszeugnis-Testakte und Legistik-Ausbau
 
-- Neues Plugin `bgb-at-pruefer` mit 52 Skills zum BGB Allgemeiner Teil: Fallaufnahme, Anspruchsaufbau, Willenserklärung, Zugang, Vertragsschluss, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung.
-- Neue synthetische Testakte `bgb-at-altfraenkische-werkstatt` mit Online-Auktion, Annahmefrist, Minderjährigenkauf, Vollmacht, Anfechtung, Bedingung und Form-/Sittenwidrigkeitsprüffeldern.
+- Neues Plugin `bgb-at-pruefer` mit 53 Skills zum BGB Allgemeiner Teil: Fallaufnahme, Anspruchsaufbau, Willenserklärung, Zugang, Vertragsschluss, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung.
+- `bgb-at-pruefer` um einen eigenen qES-/beA-/Formfiktion-Skill erweitert: §§ 126, 126a, 130 BGB, § 130e ZPO, § 46h ArbGG, § 173 ZPO und BGH VIII ZR 155/23 / VIII ZR 159/23 werden jetzt als gemeinsamer BGB-AT-/Prozessrechts-Workflow geprüft.
+- Neue synthetische Testakte `bgb-at-altfraenkische-werkstatt` mit Online-Auktion, Annahmefrist, Minderjährigenkauf, Vollmacht, Anfechtung, Bedingung, Form-/Sittenwidrigkeitsprüffeldern und beA-/qES-/Formfiktion-Nachtrag.
 - Neue Testakte `arbeitszeugnis-analyse-bluehendes-leben` mit zehn vollständigen Arbeitszeugnissen aus zehn Branchen (PTA Apotheke, angestellter Anwalt, MTRA Radiologie, Lagermeister, ZFA, Filialleiterin Sparkasse, Speditionsdisponent, Hotel-Empfangsleiter, Wohnbereichsleitung Pflege, Industriemechanik); tatsächliche Noten verdeckt über gesamte Skala eins bis fünf, ohne Musterlösung.
 - `methodenlehre-buergerliches-recht` und `subsumtions-pruefer` verweisen nun auf `bgb-at-pruefer`, wenn die abstrakte Methodik in konkrete BGB-AT-Mechanik überführt werden soll.
 

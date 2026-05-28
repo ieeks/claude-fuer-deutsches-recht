@@ -99,7 +99,7 @@
     {
       "name": "bgb-at-pruefer",
       "source": "./bgb-at-pruefer",
-      "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingung, Fristen und Verjährung. 52 Skills plus synthetische Testakte.",
+      "description": "Großes Prüfplugin zum BGB Allgemeiner Teil: Vertragsschluss, Willenserklärung, Zugang, Geschäftsfähigkeit, Form, qES, beA, § 130e ZPO, § 46h ArbGG, Anfechtung, Stellvertretung, Fristen und Verjährung. 53 Skills plus synthetische Testakte.",
       "author": {
         "name": "Klotzkette"
       },
@@ -755,7 +755,7 @@
     {
       "name": "schriftform-und-textform-bgb",
       "source": "./schriftform-und-textform-bgb",
-      "description": "Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB qES § 126a Textform § 126b Zugang § 130 BGB lernt aus BGH I ZR 202/25 Maklervertrag und BGH VIII ZR 159/23 Mietkündigung Klauselgenerator Mandantenmemos.",
+      "description": "Workflow-Organisator zu Formerfordernissen im deutschen Zivilrecht: Schriftform § 126 BGB, qES § 126a BGB, Textform § 126b BGB, Zugang § 130 BGB, beA/ERV, § 130e ZPO, § 46h ArbGG und BGH VIII ZR 155/23 / VIII ZR 159/23.",
       "author": {
         "name": "Klotzkette"
       },

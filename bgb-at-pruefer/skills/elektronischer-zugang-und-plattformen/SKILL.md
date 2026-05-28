@@ -25,9 +25,11 @@ Digitale Erklärungsketten rechtsgeschäftlich sortieren.
 1. eröffneten Kommunikationskanal feststellen
 2. Abrufbarkeit, Spamfilter, Bounce und Portalhinweis prüfen
 3. Systemmeldungen als Wissenserklärung oder Willenserklärung einordnen
-4. Form- und Beweisrisiken verbinden
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+4. bei qES prüfen, ob die Datei samt prüfbarer Signatur in den Machtbereich des Empfängers gelangt ist
+5. bei beA/EGVP prüfen, ob nur prozessual eingereicht wurde oder eine materielle Formfiktion trägt
+6. Form- und Beweisrisiken verbinden
+7. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
+8. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
 
 ## Output
 
@@ -48,4 +50,5 @@ Digitale Erklärungsketten rechtsgeschäftlich sortieren.
 
 - allgemein
 - anspruchsaufbau-zivilrecht-bgb-at
+- elektronische-form-bea-qes-formfiktion
 - bgb-at-output-gutachten-memo-schriftsatz

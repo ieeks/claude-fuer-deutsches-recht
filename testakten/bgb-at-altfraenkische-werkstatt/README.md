@@ -6,7 +6,7 @@ Fiktive Ausbildungs- und Kanzleitestakte zu BGB AT. Die Akte bündelt Vertragssc
 
 - Plugin: bgb-at-pruefer
 - Startskill: allgemein
-- Gute Folgeskills: vertragsschluss-antrag-annahme, zugang-paragraph-130, taschengeld-paragraph-110, vollmacht-erteilung-umfang-erloeschen, anfechtung-routing, missbrauch-vertretungsmacht, fristen-berechnung-paragraphen-186-193
+- Gute Folgeskills: vertragsschluss-antrag-annahme, zugang-paragraph-130, taschengeld-paragraph-110, vollmacht-erteilung-umfang-erloeschen, anfechtung-routing, missbrauch-vertretungsmacht, elektronische-form-bea-qes-formfiktion, fristen-berechnung-paragraphen-186-193
 
 ## Dokumente
 
@@ -21,5 +21,6 @@ Fiktive Ausbildungs- und Kanzleitestakte zu BGB AT. Die Akte bündelt Vertragssc
 - 08_fristenkalender.csv
 - 09_anspruchsmatrix_roh.md
 - 10_erwartete_pruefpfade.md
+- 11_bea_qes_formfiktion_schriftsatz.md
 
 Alle Angaben sind frei erfunden. Die Akte enthält keine Musterlösung, sondern Prüfpfade und Reibungsflächen zum Arbeiten.

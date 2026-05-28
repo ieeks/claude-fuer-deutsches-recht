@@ -1,6 +1,6 @@
 # BGB AT Prüfer
 
-Großes Prüfplugin zum BGB Allgemeiner Teil. Es führt durch Vertragsschluss, Willenserklärungen, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung. Ziel ist ein schöner, schneller und trotzdem präziser Workflow für Klausur, Ausbildung, Kanzleivermerk und Mandatsarbeit.
+Großes Prüfplugin zum BGB Allgemeiner Teil. Es führt durch Vertragsschluss, Willenserklärungen, Zugang, Auslegung, Geschäftsfähigkeit, Form, Nichtigkeit, Anfechtung, Stellvertretung, Bedingungen, Fristen und Verjährung. Der Formteil ist mit qES, beA, § 130e ZPO und § 46h ArbGG verschaltet. Ziel ist ein schöner, schneller und trotzdem präziser Workflow für Klausur, Ausbildung, Kanzleivermerk und Mandatsarbeit.
 
 Experimentelles Werkzeug. Keine Rechtsberatung, keine Gewähr. Gesetzestext, Rechtsprechung und Kommentarliteratur müssen im konkreten Fall geprüft werden.
 
@@ -18,6 +18,7 @@ Starte mit dem Skill [allgemein](./skills/allgemein/SKILL.md). Der Einstieg frag
 - Anfechtung mit Auslegung, Frist, Gegner und Folgen prüfen
 - Stellvertretung, Vollmacht, Rechtsschein und § 181 BGB trennen
 - Form, Nichtigkeit, Gesetzesverbot, Sittenwidrigkeit und Bedingung als Wirksamkeitsfragen einordnen
+- elektronische Form, qES-Zugang, beA-Einreichung und prozessuale Formfiktion auseinanderhalten
 - aus dem Ergebnis Gutachten, Mandatsmemo, Schriftsatzbaustein, Rückfragenbrief oder Trainingsfall machen
 
 ## Empfohlener Workflow
@@ -61,6 +62,7 @@ Starte mit dem Skill [allgemein](./skills/allgemein/SKILL.md). Der Einstieg frag
 | [ergaenzende-vertragsauslegung](./skills/ergaenzende-vertragsauslegung/SKILL.md) | Prüft ergänzende Vertragsauslegung bei planwidriger Lücke, hypothetischem Parteiwillen, dispositivem Recht und Grenzen zur unzulässigen Vertragsneuschöpfung. |
 | [bedingung-befristung-paragraphen-158-163](./skills/bedingung-befristung-paragraphen-158-163/SKILL.md) | Prüft Bedingung und Befristung nach §§ 158 bis 163 BGB: aufschiebend, auflösend, Potestativbedingung, Bedingungsausfall, Treuwidrigkeit und Rechtsfolgen. |
 | [formnichtigkeit-paragraphen-125-129](./skills/formnichtigkeit-paragraphen-125-129/SKILL.md) | Prüft Formvorschriften und Formnichtigkeit nach §§ 125 bis 129 BGB: gesetzliche Form, vereinbarte Form, Schriftform, elektronische Form, Textform, notarielle Form und Heilung. |
+| [elektronische-form-bea-qes-formfiktion](./skills/elektronische-form-bea-qes-formfiktion/SKILL.md) | Prüft elektronische Form, beA, qES und prozessuale Formfiktion bei empfangsbedürftigen Willenserklärungen: §§ 126 und 126a BGB, § 130 BGB, § 130e ZPO, § 46h ArbGG, § 173 ZPO und BGH VIII ZR 155/23 sowie VIII ZR 159/23. |
 | [gesetzesverbot-sittenwidrigkeit-paragraphen-134-138](./skills/gesetzesverbot-sittenwidrigkeit-paragraphen-134-138/SKILL.md) | Prüft Nichtigkeit wegen Gesetzesverstoß und Sittenwidrigkeit nach §§ 134 und 138 BGB mit Verbotszweck, Gesamtwürdigung, Teilnichtigkeit und Rückabwicklung. |
 | [wucher-und-ausbeutung-paragraph-138-2](./skills/wucher-und-ausbeutung-paragraph-138-2/SKILL.md) | Prüft Wucher und wucherähnliche Geschäfte nach § 138 Abs. 2 BGB: auffälliges Missverhältnis, Schwächesituation, Ausbeutung, subjektive Kenntnis und Gesamtwürdigung. |
 | [anfechtung-routing](./skills/anfechtung-routing/SKILL.md) | Routing-Skill für Anfechtung nach §§ 119 bis 124 und § 142 BGB: Anfechtungsgrund, Erklärung, Gegner, Frist, Ausschluss, Folgen und Alternativen. |

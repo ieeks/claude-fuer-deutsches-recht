@@ -25,9 +25,11 @@ Formquelle, Forminhalt und Rechtsfolge sicher klären.
 1. gesetzliche oder vereinbarte Formquelle bestimmen
 2. betroffene Erklärung und Unterzeichnung prüfen
 3. elektronische Form, Textform und notarielle Form trennen
-4. Nichtigkeit, Heilung oder Beweisabrede festlegen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+4. bei empfangsbedürftigen Erklärungen Zugang in der geschuldeten Form prüfen
+5. beA, qES und prozessuale Formfiktion nach § 130e ZPO oder § 46h ArbGG als Sonderpfad abzweigen
+6. Nichtigkeit, Heilung oder Beweisabrede festlegen
+7. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
+8. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
 
 ## Output
 
@@ -48,4 +50,5 @@ Formquelle, Forminhalt und Rechtsfolge sicher klären.
 
 - allgemein
 - anspruchsaufbau-zivilrecht-bgb-at
+- elektronische-form-bea-qes-formfiktion
 - bgb-at-output-gutachten-memo-schriftsatz

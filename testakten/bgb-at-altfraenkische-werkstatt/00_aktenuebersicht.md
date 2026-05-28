@@ -24,6 +24,7 @@ Kunigunde Rabenhaupt, Inhaberin der Rabenhaupt Restaurierungswerkstatt, Altmarkt
 4. Ist der Einkauf durch Hildebrand von der Vollmacht gedeckt, obwohl die interne Preisgrenze überschritten wurde?
 5. Ist der Kauf des Minderjährigen Giselher wirksam, wenn die Zahlung über sein eigenes Jugendkonto und einen späteren Ratenrest laufen sollte?
 6. Gibt es Form-, Sittenwidrigkeits-, Bedingungs- oder Verjährungsfragen, die den Anspruch verändern?
+7. Kann eine arbeitsrechtliche Kündigung in einem elektronischen Schriftsatz über beA formwirksam erklärt werden oder braucht es zusätzlich Papieroriginal und Originalvollmacht?
 
 ## Bearbeitungsziel
 

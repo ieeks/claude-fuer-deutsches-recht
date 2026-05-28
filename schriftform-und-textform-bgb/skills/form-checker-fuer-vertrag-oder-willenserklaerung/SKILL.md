@@ -90,7 +90,8 @@ Welches Rechtsgeschäft liegt vor?
 
 → Kündigung Arbeitsvertrag / Aufhebungsvertrag
    → Schriftform § 623 BGB
-   → qES str. — Papier empfohlen
+   → direkte elektronische Form ausgeschlossen
+   → Papier empfohlen; im Arbeitsgerichtsverfahren § 46h ArbGG gesondert prüfen
 
 → Mieterhöhungsverlangen
    → Textform § 558a Abs. 1 BGB (E-Mail zulässig)

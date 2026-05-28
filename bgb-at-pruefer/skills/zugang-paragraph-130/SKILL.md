@@ -26,8 +26,10 @@ Zugang zeitlich und beweisfest aufarbeiten.
 2. gewöhnliche Kenntnisnahmemöglichkeit bewerten
 3. Widerruf vor oder gleichzeitig mit Zugang prüfen
 4. Empfangsbote, Vertreter und Organisation trennen
-5. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
-6. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
+5. bei formbedürftigen elektronischen Erklärungen prüfen, ob die Form beim Zugang noch prüfbar gewahrt ist
+6. gerichtliche Zustellung, Mitteilung, eEB und Transfervermerk als Beweis- und Formfragen getrennt bewerten
+7. Ergebnis mit Norm, Tatbestandsmerkmal, Subsumtion und Rechtsfolge festhalten.
+8. Offene Tatsachen als Rückfrage formulieren und nicht durch Vermutung ersetzen.
 
 ## Output
 
@@ -48,4 +50,5 @@ Zugang zeitlich und beweisfest aufarbeiten.
 
 - allgemein
 - anspruchsaufbau-zivilrecht-bgb-at
+- elektronische-form-bea-qes-formfiktion
 - bgb-at-output-gutachten-memo-schriftsatz
