@@ -1,5 +1,13 @@
 # Testakte Datenschutz: US-Transfer CloudSuite Assist
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-datenschutz-us-transfer-cloudsuite-rheinmain` (diese Akte) | [testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-datenschutz-us-transfer-cloudsuite-rheinmain.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate für realistische Tests.
+
 **Fiktive Testakte.** Alle Personen, Unternehmen, Aktenzeichen, Vertragsdaten und Dienste sind erfunden. Die Akte dient dazu, die Datenschutz-Skills zu US-Transfers, DPF-Listing, SCC, TIA und Behördenkommunikation realistisch zu testen.
 
 ## Kurzsachverhalt

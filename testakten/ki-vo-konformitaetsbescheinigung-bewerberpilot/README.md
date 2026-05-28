@@ -1,5 +1,13 @@
 # Testakte KI-VO: BewerberPilot TalentRank
 
+## ⬇️ Direkt-Download
+
+| Testakte | Direkt-Download |
+| --- | --- |
+| `testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot` (diese Akte) | [testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-ki-vo-konformitaetsbescheinigung-bewerberpilot.zip) |
+
+Die Testakte ist **kein Teil des Plugins** und wird separat als ZIP-Datei aus dem GitHub-Release geladen. Das ZIP enthält die Originalformate für realistische Tests.
+
 **Fiktive Testakte.** Alle Unternehmen, Personen, Produktnamen, Zahlen und Dokumente sind erfunden. Die Akte dient dazu, den KI-VO-Prüfer bei Konformitätsbescheinigung, EU-Konformitätserklärung, Evidence Index und Lückenliste zu testen.
 
 ## Kurzsachverhalt
