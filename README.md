@@ -31,10 +31,10 @@ Dieses Repository trifft **keine Aussage** zur Zulässigkeit eines Einsatzes im 
 | Kennzahl | Wert |
 |---|---|
 | **Plugins** | 105 |
-| **Skills (SKILL.md)** | 2535 — [Gesamtübersicht](./SKILLS.md) |
-| **Testakten** | 61 |
+| **Skills (SKILL.md)** | 2553 — [Gesamtübersicht](./SKILLS.md) |
+| **Testakten** | 63 |
 | **Fachanwalts-/-anwältinnen-Profile** | 24 |
-| **Letzter Release** | `v34.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
+| **Letzter Release** | `v36.0.0` — [latest auf GitHub](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest) |
 | **Marketplace-Definition** | [`.claude-plugin/marketplace.json`](./.claude-plugin/marketplace.json) |
 
 > 🧪 **Übrigens — es gibt auch sehr schöne Testakten.** Im Verzeichnis [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und handschriftlichen Notizen — bewusst unstrukturiert benannt wie ein realer Datenraum, damit sich die Plugins an echten Mandaten ausprobieren lassen. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
@@ -168,7 +168,7 @@ Diese Sammlung lässt sich u. a. in Claude Code, Claude Desktop und vergleichbar
 >
 > Beide Plugins sind in jedem Modus (Claude Code, Cowork, Desktop) einzeln zuschaltbar und greifen quer in alle Rechtsgebiets-Plugins ein. Wer mit dem Marketplace startet, sollte diese beiden zuerst aktivieren — alle anderen Skills referenzieren ihre Regeln (siehe [`references/methodik-buergerliches-recht.md`](./references/methodik-buergerliches-recht.md) und [`references/zitierweise.md`](./references/zitierweise.md)).
 
-> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz; Schmalfeld, Kontodaten und verdächtige Verträge), Einfache/Leichte Sprache (juristischer Mandantenbrief), Sozialrecht (Herr Tannenberg, Rollstuhl-Ablehnung), Fortbestehensprognose (Paragrafix GmbH, Legal-AI-Startup Berlin-Moabit), Kanzlei-Lebenszyklus-Alltag plus die bestehende Insolvenzakte Edelholz Berlin. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
+> 🧪 **Testakten zum Ausprobieren:** Im Ordner [`testakten/`](./testakten) liegen mehrere umfangreiche, fiktive Mandatsakten mit echten PDFs, Excel-Tabellen, Word-Entwürfen und Mandantennotizen — bewusst unstrukturiert benannt wie ein realer Datenraum. Eine Akte pro typischem Anwendungsfall: Fluggastrechte (Familie Bräutigam-Zaytuna), Betreuung (Frau Sauer, 87, Demenz; Schmalfeld, Kontodaten und verdächtige Verträge), Einfache/Leichte Sprache, Sozialrecht, Fortbestehensprognose, Grundsteuer-Bescheidkette, Grunderwerbsteuer-Share-Deal-Closing und Kanzlei-Lebenszyklus-Alltag. Jede Akte ist als eigenes ZIP am Release angehängt und wird **nicht** mit den Plugins ausgeliefert. Details und Direkt-Downloads im [Testakten-README](./testakten/README.md).
 
 Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deutschen Beratungspraxis, alphabetisch sortiert:
 
@@ -264,7 +264,7 @@ Plugins (in Claude-Code-Terminologie) für die wichtigsten Rechtsgebiete der deu
 | [`regulatorisches-recht`](./regulatorisches-recht) | Aufsichtsrecht, KWG, GwG, EnWG, TKG, Inkasso/RDG, UStVA, DORA-IKT-Vertragsprüfung. |
 | [`selbstvertreter-amtsgericht`](./selbstvertreter-amtsgericht) | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, § 23 GVG/§ 511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat und Berufung. 86 Skills. |
 | [`selbstvertreter-sozialgericht`](./selbstvertreter-sozialgericht) | Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Check, Rechtsprechungschat und Berufung. 80 Skills. |
-| [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerberater und Fachanwalt für Steuerrecht: Bescheidanalyse, Einspruch nach AO, Klage zum Finanzgericht, Außenprüfung, Selbstanzeige § 371 AO, Verbindliche Auskunft, Akteneinsicht Steuerakte. BWA-/SuSa-/Bilanz-Krisenprüfung für Steuerberater. Skills mit Präfixen `anw-` (Anwalt), `fa-` (Fachanwalt), `stb-` (Steuerberater). |
+| [`steuerrecht-anwalt-und-berater`](./steuerrecht-anwalt-und-berater) | Steuerberater und Fachanwalt für Steuerrecht: Bescheidanalyse, Einspruch, Klage FG, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, BWA-/SuSa-/Bilanz-Krisenprüfung. Skills mit Präfixen `anw-` (Anwalt) und `stb-` (Steuerberater). |
 | [`strafbefehl-verteidiger`](./strafbefehl-verteidiger) | Freistehender Strafbefehls-Verteidiger: Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
 | [`subsumtions-pruefer`](./subsumtions-pruefer) | Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema je TBM, Beweisbedarf erfassen, Rechtsfolgen und Einreden prüfen. Ausgabe als Schriftsatz oder Memo. Keine Rechtsberatung. |
 | [`tabellenreview-3d`](./tabellenreview-3d) | 3D-Tabellenreview als Würfel: Spaltenprompts pro Datenpunkt × Zeilenprompts pro Dokument × Arbeitsblatt-Perspektiven (Rollen, Adressaten). |
@@ -390,7 +390,7 @@ Dieses Repository ist vollständig auf das deutsche Recht und die Arbeitsweise d
 - **Bank-, Kapitalmarkt- & Aufsichtsrecht** – `fachanwalt-bank-kapitalmarktrecht`, `regulatorisches-recht`, `geldwaeschepraevention-aml-kyc`, `aussenwirtschaft-zoll-sanktionen`
 - **Insolvenz & Sanierung** – `insolvenzrecht` (Gläubiger/Schuldner), `insolvenzverwaltung` (Verwalter-Sicht, § 270d, § 15b, § 129 ff.), `zwangsverwaltung-zvg` (ZVG-Verwalter, § 155 Verteilungsplan), `insolvenzforderungsanmeldungspruefung`, `insolvenzplan-starug-planwerkstatt`, `fortbestehensprognose`, `fachanwalt-insolvenz-sanierungsrecht`
 - **Liquidität, Forderung & Inkasso** – `liquiditaetsplanung`, `forderungsmanagement-klagewerkstatt`, `phishing-vorfall-pruefer`, `vertragsausfueller`, Inkasso nach RDG / § 43d BRAO (in `regulatorisches-recht`)
-- **Steuerrecht** – `steuerrecht-anwalt-und-berater` (USt-Voranmeldung, Korrektur § 153 AO, Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Steuerberater-Werkzeuge)
+- **Steuerrecht** – `steuerrecht-anwalt-und-berater` (Bescheidanalyse, Einspruch, Außenprüfung, Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, Steuerberater-Werkzeuge)
 - **Strafrecht & OWi** – `aktenaufbereiter-strafrecht`, `fachanwalt-strafrecht`, `strafbefehl-verteidiger`, `verkehrsowi-verteidiger`
 - **Verwaltungs- & Verfassungsrecht** – `verfassungsrecht`, `fachanwalt-verwaltungsrecht` (Eilantrag § 80 V VwGO), `verkehr-infrastrukturrecht`, `umweltrecht`, `energierecht`, `fachanwalt-vergaberecht`
 - **Familien-, Erb-, Sozial- & Betreuungsrecht** – `fachanwalt-familienrecht` (Düsseldorfer Tabelle), `fachanwalt-erbrecht` (Pflichtteilsberechnung), `fachanwalt-sozialrecht`, `betreuungsrecht`, `fachanwalt-migrationsrecht`

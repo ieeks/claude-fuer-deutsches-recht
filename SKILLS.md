@@ -1,6 +1,6 @@
 # Skill-Übersicht
 
-Automatisch gezählte Gesamtübersicht aller **2535 Skills** in **105 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
+Automatisch gezählte Gesamtübersicht aller **2553 Skills** in **105 Plugins**. Jeder Skill verlinkt direkt auf seine `SKILL.md`.
 
 **Repository:** [Klotzkette/claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)
 
@@ -97,7 +97,7 @@ Automatisch gezählte Gesamtübersicht aller **2535 Skills** in **105 Plugins**.
 - [schriftform-und-textform-bgb](#schriftform-und-textform-bgb) — 23 Skills
 - [selbstvertreter-amtsgericht](#selbstvertreter-amtsgericht) — 86 Skills
 - [selbstvertreter-sozialgericht](#selbstvertreter-sozialgericht) — 80 Skills
-- [steuerrecht-anwalt-und-berater](#steuerrecht-anwalt-und-berater) — 187 Skills
+- [steuerrecht-anwalt-und-berater](#steuerrecht-anwalt-und-berater) — 203 Skills
 - [strafbefehl-verteidiger](#strafbefehl-verteidiger) — 21 Skills
 - [subsumtions-pruefer](#subsumtions-pruefer) — 31 Skills
 - [tabellenreview-3d](#tabellenreview-3d) — 21 Skills
@@ -1612,6 +1612,14 @@ Automatisch gezählte Gesamtübersicht aller **2535 Skills** in **105 Plugins**.
 | [`anw-defi-lending-yield-farming-bmf-22-11-2024`](./steuerrecht-anwalt-und-berater/skills/anw-defi-lending-yield-farming-bmf-22-11-2024/SKILL.md) | [`anw-einspruch-finanzamt`](./steuerrecht-anwalt-und-berater/skills/anw-einspruch-finanzamt/SKILL.md) |
 | [`anw-fristenbuch-steuerrecht`](./steuerrecht-anwalt-und-berater/skills/anw-fristenbuch-steuerrecht/SKILL.md) | [`anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern`](./steuerrecht-anwalt-und-berater/skills/anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern/SKILL.md) |
 | [`anw-grunderwerbsteuer-share-deal-90-prozent`](./steuerrecht-anwalt-und-berater/skills/anw-grunderwerbsteuer-share-deal-90-prozent/SKILL.md) | [`anw-haftungswarn-15a-inso-mandant`](./steuerrecht-anwalt-und-berater/skills/anw-haftungswarn-15a-inso-mandant/SKILL.md) |
+| [`anw-grest-anzeige-19-closing-check`](./steuerrecht-anwalt-und-berater/skills/anw-grest-anzeige-19-closing-check/SKILL.md) | [`anw-grest-asset-deal-kaufvertrag`](./steuerrecht-anwalt-und-berater/skills/anw-grest-asset-deal-kaufvertrag/SKILL.md) |
+| [`anw-grest-bescheid-einspruch-adv-16`](./steuerrecht-anwalt-und-berater/skills/anw-grest-bescheid-einspruch-adv-16/SKILL.md) | [`anw-grest-kaltstart-asset-share-deal`](./steuerrecht-anwalt-und-berater/skills/anw-grest-kaltstart-asset-share-deal/SKILL.md) |
+| [`anw-grest-konzernklausel-6a`](./steuerrecht-anwalt-und-berater/skills/anw-grest-konzernklausel-6a/SKILL.md) | [`anw-grest-share-deal-90-prozent-10-jahre`](./steuerrecht-anwalt-und-berater/skills/anw-grest-share-deal-90-prozent-10-jahre/SKILL.md) |
+| [`anw-grest-signing-closing-doppelfestsetzung`](./steuerrecht-anwalt-und-berater/skills/anw-grest-signing-closing-doppelfestsetzung/SKILL.md) | [`anw-grest-spa-tax-clause-indemnity`](./steuerrecht-anwalt-und-berater/skills/anw-grest-spa-tax-clause-indemnity/SKILL.md) |
+| [`anw-grundsteuer-einspruch-adv-bfh`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuer-einspruch-adv-bfh/SKILL.md) | [`anw-grundsteuer-ermittlungsbasis-flaeche-nutzung`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuer-ermittlungsbasis-flaeche-nutzung/SKILL.md) |
+| [`anw-grundsteuer-gutachten-gemeiner-wert`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuer-gutachten-gemeiner-wert/SKILL.md) | [`anw-grundsteuer-hebesatz-zahlungsplan`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuer-hebesatz-zahlungsplan/SKILL.md) |
+| [`anw-grundsteuer-kaltstart-bescheidkette`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuer-kaltstart-bescheidkette/SKILL.md) | [`anw-grundsteuer-landesmodell-routing`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuer-landesmodell-routing/SKILL.md) |
+| [`anw-grundsteuer-verfassungscheck-bundesmodell`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuer-verfassungscheck-bundesmodell/SKILL.md) | [`anw-grundsteuerwert-bewertung-bewg-218ff`](./steuerrecht-anwalt-und-berater/skills/anw-grundsteuerwert-bewertung-bewg-218ff/SKILL.md) |
 | [`anw-insolvenzreife-pruefung-17-19-inso`](./steuerrecht-anwalt-und-berater/skills/anw-insolvenzreife-pruefung-17-19-inso/SKILL.md) | [`anw-kaltstart-interview`](./steuerrecht-anwalt-und-berater/skills/anw-kaltstart-interview/SKILL.md) |
 | [`anw-klage-finanzgericht`](./steuerrecht-anwalt-und-berater/skills/anw-klage-finanzgericht/SKILL.md) | [`anw-mandat-triage-steuerrecht`](./steuerrecht-anwalt-und-berater/skills/anw-mandat-triage-steuerrecht/SKILL.md) |
 | [`anw-minbestg-pillar2-konzernbesteuerung`](./steuerrecht-anwalt-und-berater/skills/anw-minbestg-pillar2-konzernbesteuerung/SKILL.md) | [`anw-organschaft-konzern-grundlagen`](./steuerrecht-anwalt-und-berater/skills/anw-organschaft-konzern-grundlagen/SKILL.md) |

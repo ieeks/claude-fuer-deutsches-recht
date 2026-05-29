@@ -34,14 +34,24 @@ Anwaltliche Beratung bei Erwerb von Anteilen an Gesellschaften mit inländischem
 - **§ 11 GrEStG** — Steuersatz: Ländersteuer, **zwischen 3.5 % und 6.5 %** je Bundesland.
 - **§ 19 GrEStG** — Anzeigepflicht: **2 Wochen** ab Tatbestandsverwirklichung; Verstoß bewehrt mit Säumniszuschlägen und ggf. Strafverfahren.
 
-### Leitentscheidungen
+### Leitentscheidungen und Folgeskills
 
 - **BFH, Beschluss vom 09.07.2025 — II B 13/25 (AdV)**: Ernstliche Zweifel an der Rechtmaessigkeit einer doppelten GrESt-Festsetzung nach § 1 Abs. 2b und § 1 Abs. 3 GrEStG bei zeitlich getrenntem Signing und Closing eines GmbH-Anteilserwerbs. Volltext ueber BFH-Datenbank (STRE202520204).
+- **BFH, Beschluss vom 16.09.2025 — II B 23/25 (AdV)**: Keine automatische AdV gegen die Closing-Festsetzung selbst, wenn die rechtlichen Zweifel nur die zusätzliche Signing-Festsetzung betreffen. Zielbescheid sauber trennen.
 - **BFH, Beschluss vom 27.10.2025 — II B 47/25 (AdV)** (sog. dritter Signing-Closing-Beschluss): Bestaetigt die Linie aus II B 13/25; doppelte GrESt-Festsetzung auf einheitlichen Lebenssachverhalt verstoesst gegen den Verhaeltnismaessigkeitsgrundsatz; gilt auch ohne Nachpruefungsvorbehalt nach § 164 AO. Volltext ueber BFH-Datenbank (STRE202520313).
 - **BFH, Urteil vom 21.05.2025 — II R 31/22**: Volltext ueber BFH-Datenbank (Pruefung im Einzelfall).
 - **BFH, Urteil vom 25.09.2024 — II R 2/22** und **II R 46/22** (Konzernklausel § 6a GrEStG): Volltext ueber BFH-Datenbank.
-- BMF-Schreiben vom 10.05.2022 zur Anwendung StAGeRefG (90 %-Schwelle), verfuegbar unter bundesfinanzministerium.de.
+- Gleich lautende Erlasse der obersten Finanzbehörden der Länder vom 20.02.2026 zur Anwendung der Share-Deal-Regeln nach §§ 1 Abs. 2a und 2b GrEStG; sie ersetzen die Erlasse vom 10.05.2022 und sind als Verwaltungsauffassung zu kennzeichnen, nicht als Ersatz für BFH-Rechtsprechung.
 - Weitere Rechtsprechung: vor Zitierung ueber dejure.org / BFH-Datenbank verifizieren.
+
+Bei Detailfragen danach gezielt laden:
+
+- `anw-grest-kaltstart-asset-share-deal`
+- `anw-grest-share-deal-90-prozent-10-jahre`
+- `anw-grest-signing-closing-doppelfestsetzung`
+- `anw-grest-anzeige-19-closing-check`
+- `anw-grest-spa-tax-clause-indemnity`
+- `anw-grest-bescheid-einspruch-adv-16`
 
 ## Tatbestände im Überblick
 
@@ -173,4 +183,4 @@ und wird zusätzlich zum Kaufpreis fällig.
 
 ## Quellen und Updates
 
-Stand: 05/2026. StAGeRefG (Reform 1.7.2021): 95→90 %, 5→10 Jahre. BMF-Schreiben 10.5.2022 angewendet. Bundesland-Steuersätze 3.5 %–6.5 % aktuell. Bei Verschärfung RETT-Blocker oder weiterer Schwellenabsenkung aktualisieren.
+Stand: 05/2026. StAGeRefG (Reform 1.7.2021): 95→90 %, 5→10 Jahre. Gleich lautende Ländererlasse vom 20.02.2026 als Verwaltungsauffassung einordnen und den BStBl-/Landesvolltext vor Ausgabe öffnen. Bundesland-Steuersätze 3.5 %–6.5 % vor Ausgabe aktuell prüfen. Bei Verschärfung RETT-Blocker oder weiterer Schwellenabsenkung aktualisieren.

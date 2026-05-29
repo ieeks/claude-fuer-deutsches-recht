@@ -19,6 +19,22 @@ Drei Codex-Findings zur Testakte `11-co2kostaufg-aufteilungspruefung.md` aus dem
 
 ---
 
+# v36.1.0 - Steuerrecht Grundsteuer und Grunderwerbsteuer
+
+- **16 neue Steuerrechts-Skills.** Acht Grundsteuer-Skills decken Kaltstart/Bescheidkette, Verfassungscheck, Ermittlungsbasis, BewG-Bewertung, Einspruch/AdV, Landesmodell-Routing, Hebesatz/Zahlung und gemeinen Wert/Gutachten ab. Acht GrESt-Skills decken Asset Deal, Share Deal, Signing/Closing-Doppelfestsetzung, § 19-Anzeige, SPA-Tax-Clause, § 6a-Konzernklausel und Bescheid/Einspruch/AdV/§ 16 GrEStG ab.
+- **Faktenbank erweitert.** `rechtsstand-mai-2026-faktenbank` enthält jetzt die Grundsteuer-Anker BVerfG 10.04.2018, BFH-AdV 27.05.2024, BFH-Bundesmodell 12.11.2025, BFH-Baden-Württemberg-Stand Mai 2026, die gleich lautenden Ländererlasse vom 20.02.2026 zu Share Deals sowie die BFH-Signing/Closing-Beschlüsse II B 13/25, II B 23/25 und II B 47/25.
+- **Zwei neue Testakten.** `grundsteuer-rosenwinkel-bescheidkette` führt durch Grundsteuerwert-, Mess- und Gemeindebescheid mit Flächenfehlern, Denkmalschutz, Leerstand und niedrigerem gemeinen Wert. `grunderwerbsteuer-sharedeal-closing-waldkrone` bildet eine Share-Deal-Closing-Akte mit drei Bundesländern, § 19-Anzeige, SPA-Steuerklausel, Escrow und Doppelbescheid-AdV ab.
+- **Dokumentation und Metadaten.** Steuerrechts-README, Testakten-README, SKILLS-Übersicht, Asset-Index, Marketplace und Plugin-Manifest aktualisiert; `steuerrecht-anwalt-und-berater` auf `36.1.0` gesetzt.
+
+## Qualitätssicherung
+
+- `git diff --check`
+- `node scripts/validate-plugin-structure.mjs`
+- `python3 scripts/validate-yaml-frontmatter.py`
+- JSON-Manifest-Parse aller Plugin-Manifeste
+
+---
+
 # v36.0.0 — Codex-Round-3-Fixes: HeizkostenV-Bandbreite, § 18 vs. § 28 WEG, CO2KostAufG WEG-Grenzen, Gewährleistungs-Werkart, § 55a GmbHG, negatives Agio
 
 Sechs Codex-Review-Findings aus dem v35-PR systematisch behoben:

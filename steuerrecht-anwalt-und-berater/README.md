@@ -8,7 +8,7 @@ Konsolidiertes Steuerrecht-Plugin für zwei Zielgruppen: **Anwaltschaft im Steue
 
 ## Rechtsstand und Quellen-Gate
 
-Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell, § 23 EStG und § 20 EStG/Verlustverrechnung.
+Für aktuelle steuerrechtliche Aussagen zuerst `/steuerrecht-anwalt-und-berater:rechtsstand-mai-2026-faktenbank` laden. Der Skill enthält geprüfte freie Anker zu E-Rechnung ab 2025, Krypto/BFH/BMF, Grundsteuer-Bundesmodell/Landesmodellen, Grunderwerbsteuer-Share-Deals mit Signing/Closing, § 23 EStG und § 20 EStG/Verlustverrechnung.
 
 Keine BeckRS-, juris-, Kommentar- oder Aufsatzzitate aus Modellwissen. BFH/FG-Rechtsprechung nur mit Gericht, Entscheidungsform, Datum, Aktenzeichen und freier Quelle; Verwaltungsauffassung nur als BMF/BZSt-Quelle und nie als Ersatz für Gesetz und Rechtsprechung.
 
@@ -20,6 +20,8 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | Testakte | Direkt-Download |
 | --- | --- |
 | **fortbestehensprognose paragrafix gmbh** | [testakte-fortbestehensprognose-paragrafix-gmbh.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-fortbestehensprognose-paragrafix-gmbh.zip) |
+| **grundsteuer rosenwinkel bescheidkette** | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
+| **grunderwerbsteuer sharedeal closing waldkrone** | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
 
 Im ZIP sind die Originalformate (PDF, DOCX, XLSX, CSV, JPEG) für realistische Tests.
 
@@ -46,6 +48,8 @@ Fiktive Mandatsakte zum sofortigen Testen — **kein Teil des Plugins**, separat
 | Testakte | Direkt-Download |
 | --- | --- |
 | **Edelholz Manufaktur Berlin (Liquiditaet/Steuer/Insolvenz)** | [testakte-beispielakte-edelholz-berlin.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-beispielakte-edelholz-berlin.zip) |
+| **Grundsteuer Rosenwinkel Bescheidkette** | [testakte-grundsteuer-rosenwinkel-bescheidkette.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grundsteuer-rosenwinkel-bescheidkette.zip) |
+| **Grunderwerbsteuer Sharedeal Closing Waldkrone** | [testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip](https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip) |
 
 
 ---
@@ -73,6 +77,22 @@ Skills für steuerrechtliche Anwaltskanzleien — streitbezogene Folgebearbeitun
 | `/steuerrecht-anwalt-und-berater:anw-stundung-erlass-vollstreckungsaufschub` | Stundung § 222 AO, Erlass § 227/§ 163 AO, Vollstreckungsaufschub § 258 AO — Antrag mit Liquiditätsbeleg, Ratenplan, Sicherheitsleistung — **NEU** |
 | Rechtsprechung live prüfen | keine Entscheidung aus Modellwissen; Quelle vor Ausgabe protokollieren |
 | `/steuerrecht-anwalt-und-berater:anw-grunderwerbsteuer-share-deal-90-prozent` | GrESt beim Share Deal — 90-%-Schwelle ab 1.7.2021, 10-Jahres-Frist, RETT-Blocker, § 19 GrEStG Anzeigepflicht — **NEU** |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-kaltstart-bescheidkette` | Grundsteuer-Mandat aufnehmen: Bescheidkette Finanzamt/Gemeinde, Fristen, Modellrouting, Sofortmaßnahmen |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-verfassungscheck-bundesmodell` | Grundsteuer-Reform verfassungsrechtlich einordnen: BVerfG 2018, BFH-AdV 2024, BFH-Bundesmodell 2025/2026 |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-ermittlungsbasis-flaeche-nutzung` | Flächen, Nutzung, Baujahr, wirtschaftliche Einheit, Schätzung und Beleglage prüfen |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuerwert-bewertung-bewg-218ff` | Grundsteuerwert nach BewG §§ 218 ff. prüfen: Ertragswert/Sachwert, Bodenrichtwert, Grundstücksart |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-einspruch-adv-bfh` | Einspruch und AdV in Grundsteuerfällen mit BFH-Linie und Belegstrategie |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-landesmodell-routing` | Bundesmodell und Landesmodelle trennen: Baden-Württemberg, Bayern, Hamburg, Hessen, Niedersachsen |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-hebesatz-zahlungsplan` | Kommunalen Grundsteuerbescheid, Hebesatz, Fälligkeit, Stundung und Zahlung prüfen |
+| `/steuerrecht-anwalt-und-berater:anw-grundsteuer-gutachten-gemeiner-wert` | Niedrigeren gemeinen Wert und Gutachtenstrategie für Grundsteuer-AdV vorbereiten |
+| `/steuerrecht-anwalt-und-berater:anw-grest-kaltstart-asset-share-deal` | GrESt-Kaltstart: Asset Deal, Share Deal, Signing, Closing, Anzeige und Bescheidroute |
+| `/steuerrecht-anwalt-und-berater:anw-grest-asset-deal-kaufvertrag` | GrESt beim Grundstückskauf: Gegenleistung, einheitlicher Erwerbsgegenstand, Kaufvertrag |
+| `/steuerrecht-anwalt-und-berater:anw-grest-share-deal-90-prozent-10-jahre` | Share-Deal-Vertiefung: § 1 Abs. 2a/2b/3/3a GrEStG, 90 %, 10 Jahre, RETT-Blocker |
+| `/steuerrecht-anwalt-und-berater:anw-grest-signing-closing-doppelfestsetzung` | Signing/Closing-Spezialskill mit BFH II B 13/25, II B 23/25 und II B 47/25 |
+| `/steuerrecht-anwalt-und-berater:anw-grest-anzeige-19-closing-check` | § 19-GrEStG-Anzeige, Closing-Checkliste, Anlagen und Zuständigkeiten |
+| `/steuerrecht-anwalt-und-berater:anw-grest-spa-tax-clause-indemnity` | SPA-Steuerklauseln, GrESt-Indemnity, Escrow und Mitwirkungspflichten |
+| `/steuerrecht-anwalt-und-berater:anw-grest-konzernklausel-6a` | Konzernklausel § 6a GrEStG bei Umwandlung, Einbringung und Konzernumstrukturierung |
+| `/steuerrecht-anwalt-und-berater:anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheid prüfen: Einspruch, AdV, § 16 GrEStG, Doppelbelastung |
 | `/steuerrecht-anwalt-und-berater:anw-dac7-dac8-plattformen-krypto` | DAC7 (PStTG, 1.1.2023) und DAC8 (KryptoStG, 1.1.2026) — Meldepflichten Plattformen und Krypto-Dienstleister, MiCA-VO — **NEU** |
 | `/steuerrecht-anwalt-und-berater:anw-minbestg-pillar2-konzernbesteuerung` | Pillar Two / MinBestG ab 1.1.2024 — globaler Mindeststeuersatz 15 % für Konzerne ab 750 Mio EUR; IIR/UTPR/QDMTT, GloBE Information Return — **NEU** |
 | `/steuerrecht-anwalt-und-berater:anw-steuerstrafverteidigung-verstaendigung` | Strafverteidigung Steuerstrafsache (§§ 369 ff. AO) mit Einstellung § 153a StPO und Verständigung § 257c StPO |
@@ -154,23 +174,45 @@ Skills für Steuerberater und GmbH-Geschäftsleitung — BWA-/SuSa-/Bilanzprüfu
   [anw-organschaft-konzern-grundlagen]   — ertragst. / USt-/GewSt-Organschaft (§ 14 KStG, § 2 Abs. 2 UStG, § 2 Abs. 2 GewStG)
             ↓  bei Immobilien im Organkreis / share-deal
   [anw-grunderwerbsteuer-share-deal-90-prozent]   — § 1 Abs. 2a/3/3a GrEStG, Konzernklausel § 6a GrEStG
+            ↓  bei Signing/Closing, Anzeige oder Bescheidstreit
+  [anw-grest-signing-closing-doppelfestsetzung] + [anw-grest-anzeige-19-closing-check] + [anw-grest-bescheid-einspruch-adv-16]
             ↓  bei Konzern ≥ 750 Mio. EUR Konzernumsatz
   [anw-minbestg-pillar2-konzernbesteuerung]   — Pillar 2 / MinBestG, GIR-Erstabgabe 18 Monate (§ 95 Abs. 1 MinStG)
             ↓  bei grenzüberschreitenden Konstellationen
   Plugin [`aussenwirtschaft-zoll-sanktionen`](../aussenwirtschaft-zoll-sanktionen/)   — DBA-Klauseln, APAs, Verrechnungspreise, Sanktionscompliance
 ```
 
+### D) Grundsteuer-Workflow
+
+```
+  [anw-grundsteuer-kaltstart-bescheidkette]
+            ↓  Ebene bestimmen
+  Finanzamt: Grundsteuerwert / Messbetrag       Gemeinde: Hebesatz / Zahlung
+            ↓                                   ↓
+  [anw-grundsteuer-ermittlungsbasis-flaeche-nutzung]     [anw-grundsteuer-hebesatz-zahlungsplan]
+            ↓
+  [anw-grundsteuerwert-bewertung-bewg-218ff]
+            ↓  erhebliche Abweichung?
+  [anw-grundsteuer-gutachten-gemeiner-wert]
+            ↓
+  [anw-grundsteuer-einspruch-adv-bfh]
+            ↓
+  [anw-grundsteuer-verfassungscheck-bundesmodell] / [anw-grundsteuer-landesmodell-routing]
+```
+
 ---
 
 ## Testakten
 
-Drei fiktive Mandatsakten zum Ausprobieren der Skills:
+Fünf fiktive Mandatsakten zum Ausprobieren der Skills:
 
 | Testakte | Inhalt | Passt besonders zu |
 |---|---|---|
 | [`beispielakte-edelholz-berlin`](../testakten/beispielakte-edelholz-berlin/) | Edelholz Manufaktur Berlin GmbH — BWA, SuSa, Liquiditätslage, Steuern/SV-Rückstände | `stb-bwa-sus-bilanz-pruefung`, `stb-liquiditaetsvorschau-3wochen`, `stb-ueberschuldungspruefung-19-inso`, `stb-drv-sozialversicherungspruefung`, `stb-warnschreiben-krisensignale`, `anw-insolvenzreife-pruefung-17-19-inso`, `anw-haftungswarn-15a-inso-mandant`, `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern` |
 | [`fortbestehensprognose-paragrafix-gmbh`](../testakten/fortbestehensprognose-paragrafix-gmbh/) | Paragrafix GmbH — Legal-AI-Startup, § 102-StaRUG-Hinweis, BWA, SuSa, 13-Wochen-Liquiditätsplanung | `stb-bwa-sus-bilanz-pruefung`, `stb-liquiditaetsvorschau-3-6-12-monate`, `stb-ueberschuldungspruefung-19-inso`, `anw-insolvenzreife-pruefung-17-19-inso`, `anw-stundung-erlass-vollstreckungsaufschub`, `anw-organschaft-konzern-grundlagen` (Holding-Strukturierung), `anw-dac7-dac8-plattformen-krypto` (falls Plattform-/Krypto-Bezug) |
 | [`grosskanzlei-corporate-ma-datenraum`](../testakten/grosskanzlei-corporate-ma-datenraum/) | Projekt Silberfalke — Umwandlungs- und Steuerstruktur, verbindliche Auskunft, Außenprüfung im M&A-Kontext | `anw-verbindliche-auskunft`, `anw-aussenpruefung-strategien`, `anw-organschaft-konzern-grundlagen`, `anw-grunderwerbsteuer-share-deal-90-prozent`, `anw-minbestg-pillar2-konzernbesteuerung` (ab Konzernschwelle 750 Mio. EUR), `anw-einspruch-finanzamt`, `anw-klage-finanzgericht` |
+| [`grundsteuer-rosenwinkel-bescheidkette`](../testakten/grundsteuer-rosenwinkel-bescheidkette/) | Rosenwinkel 14/16 — Grundsteuerwert, Messbetrag, kommunaler Bescheid, Flächenfehler, Denkmalschutz, gemeiner Wert und AdV | `anw-grundsteuer-kaltstart-bescheidkette`, `anw-grundsteuer-ermittlungsbasis-flaeche-nutzung`, `anw-grundsteuerwert-bewertung-bewg-218ff`, `anw-grundsteuer-gutachten-gemeiner-wert`, `anw-grundsteuer-einspruch-adv-bfh`, `anw-grundsteuer-hebesatz-zahlungsplan` |
+| [`grunderwerbsteuer-sharedeal-closing-waldkrone`](../testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/) | Projekt Waldkrone — Share Deal, Signing/Closing, § 19-Anzeige, SPA-Tax-Clause, Doppelbescheid und AdV | `anw-grest-kaltstart-asset-share-deal`, `anw-grest-share-deal-90-prozent-10-jahre`, `anw-grest-signing-closing-doppelfestsetzung`, `anw-grest-anzeige-19-closing-check`, `anw-grest-spa-tax-clause-indemnity`, `anw-grest-bescheid-einspruch-adv-16` |
 
 > **Hinweis zum Testakten-Mapping:** Die obenstehende Spalte ist nicht abschließend. Die drei Akten decken jeweils mehrere Phasen des Krisen-/Außenprüfungs-/M&A-Workflows ab — ein passender Skill ist meistens über das Stichwortverzeichnis ("Mandatsanlass") der jeweiligen Akte schnell zu finden. Skills, die nicht direkt zu einer Akte mappen (z. B. `anw-minbestg-pillar2-konzernbesteuerung` ohne 750 Mio. EUR-Konzern in der Akte), werden anhand ihrer eigenen Beispieldaten innerhalb des Skills demonstriert.
 

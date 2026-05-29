@@ -2,7 +2,7 @@
 
 Übersicht aller Dateien, die der Release-Workflow (`.github/workflows/release-plugin-zips.yml`) pro Tag-Release `vX.Y.Z` an den GitHub-Release anhängt.
 
-**Stand:** v24.1.0 plus Meinungsprüfer-, WEG/Hausverwaltungs-, Gesellschaftsrecht-Legal-English- und Verlagsredaktions-Nachlauf
+**Stand:** v36.1.0 Steuerrecht-Nachlauf Grundsteuer/Grunderwerbsteuer
 
 ## Asset-Typen
 
@@ -108,7 +108,7 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `schriftform-und-textform-bgb` | Formerfordernisse im deutschen Zivilrecht: Schriftform, Textform, qES, Zugang, beA/ERV und Prozessordnungen. Mit Checklisten, Dokumentation und Rechtsprechung nur nach Live-Verifikation. |
 | `selbstvertreter-amtsgericht` | Selbstvertretung vor dem Amtsgericht ohne Anwalt: Anfänger-Workflow, Fristen, Zuständigkeit, §23 GVG/§511 ZPO-Grenzen, Klage/Erwiderung/Replik, Beweise, PKH, Termin, Sanity-Check, Rechtsprechungschat, Berufung. |
 | `selbstvertreter-sozialgericht` | Selbstvertretung vor dem Sozialgericht ohne Anwalt: Anfänger-Workflow, Widerspruch, Klage, Eilantrag, Pflegegrad, Krankenkasse, Bürgergeld, EM-Rente, GdB, Belege, Gutachten, Kostenfreiheit, Sanity-Check, Rechtsprechungschat, Berufung. |
-| `steuerrecht-anwalt-und-berater` | Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige. StB-Tools BWA SuSa Lohnbuchhaltung Jahresabschluss Mandantenkommunikation Software-Bedienung. DBA Europa Tuerkei Israel USA Kanada. |
+| `steuerrecht-anwalt-und-berater` | Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-): Einspruch Klage FG Aussenprüfung Selbstanzeige, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing Closing, BWA SuSa Lohnbuchhaltung Jahresabschluss. |
 | `strafbefehl-verteidiger` | Freistehendes Strafbefehls-Plugin für Verteidigung gegen Strafbefehl, Einspruch, Akteneinsicht, Tagessätze, Nebenfolgen, Pflichtverteidigung, Wiedereinsetzung, Einstellung, Zeugenstrategie und Hauptverhandlung. |
 | `subsumtions-pruefer` | Interaktiver Subsumtions-Workflow für deutsches Recht und Europarecht: Tatbestandsmerkmale zerlegen, Vier-Schritt-Schema anwenden, Rechtsfolgen und Einreden prüfen. Keine Rechtsberatung. |
 | `tabellenreview-3d` | 3D-Tabellenreview als Wuerfel: Spaltenprompts pro Datenpunkt x Zeilenprompts pro Dokument x Arbeitsblatt-Perspektiven (Recht / Steuer / Wirtschaft) gestapelt. Massenprüfung Vertragsstapel M&A-DD Immobilien Vendor-Onboarding mit Excel-Mehrblatt Kreuzblatt-Konsistenz Audit-Trail Belegkette. |
@@ -125,7 +125,7 @@ In der Reihenfolge der `.claude-plugin/marketplace.json`. URL-Schema:
 | `zwangsverwaltung-zvg` | Freistehendes ZVG-Plugin für Zwangsverwaltung und Versteigerung: Beschlagnahme, Besitz, Mieten, Treuhandkonto, Berichte, Verteilung, ZVG-Portal-Recherche, Bieterangebote und Versteigerungsteilnahme. |
 | `zwangsvollstreckung` | Freistehendes Plugin für die Zwangsvollstreckung nach §§ 704 ff. ZPO aus allen Titelarten: Mahn-/Vollstreckungsbescheid online, PfÜB Bank/Arbeitgeber, Kontensuche § 802l ZPO, Vermögensauskunft, Räumung, notarielle Urkunde § 800 ZPO, Insolvenztabelle § 201 InsO, ZVG-Antrag und Schuldnerschutz. |
 
-## Fallakten-Assets (61 Stück)
+## Fallakten-Assets (63 Stück)
 
 URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/latest/download/<asset>.zip`
 
@@ -154,6 +154,8 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | `testakte-geldwaesche-aml-kyc-musterholding.zip` | siehe `testakten/geldwaesche-aml-kyc-musterholding/` |
 | `testakte-gesellschaftsgruender-streit-roeschen-tech.zip` | siehe `testakten/gesellschaftsgruender-streit-roeschen-tech/` |
 | `testakte-gesellschaftsrecht-legal-english-frankfurt-startup.zip` | siehe `testakten/gesellschaftsrecht-legal-english-frankfurt-startup/` |
+| `testakte-grunderwerbsteuer-sharedeal-closing-waldkrone.zip` | siehe `testakten/grunderwerbsteuer-sharedeal-closing-waldkrone/` |
+| `testakte-grundsteuer-rosenwinkel-bescheidkette.zip` | siehe `testakten/grundsteuer-rosenwinkel-bescheidkette/` |
 | `testakte-grosskanzlei-corporate-ma-datenraum.zip` | siehe `testakten/grosskanzlei-corporate-ma-datenraum/` |
 | `testakte-inkasso-zahlungsklage-modefuchs.zip` | siehe `testakten/inkasso-zahlungsklage-modefuchs/` |
 | `testakte-insolvenzforderungsanmeldungspruefung-phoenix-solar.zip` | siehe `testakten/insolvenzforderungsanmeldungspruefung-phoenix-solar/` |
@@ -206,9 +208,9 @@ URL-Schema: `https://github.com/Klotzkette/claude-fuer-deutsches-recht/releases/
 | Typ | Anzahl | Summe |
 | --- | --- | --- |
 | plugin | 105 | |
-| fallakte | 61 | |
+| fallakte | 63 | |
 | manifest | 1 | |
-| **gesamt** | | **167** |
+| **gesamt** | | **169** |
 
 ## Verifikation eines Release
 
@@ -217,4 +219,4 @@ curl -s "https://api.github.com/repos/Klotzkette/claude-fuer-deutsches-recht/rel
   | python3 -c "import json,sys; d=json.load(sys.stdin); print('Tag:', d['tag_name']); print('Assets:', len(d['assets'])); [print(' -', a['name']) for a in d['assets']]"
 ```
 
-Erwartet nach dem nächsten Release: 167 Assets, davon 105 Plugin-ZIPs, 61 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.
+Erwartet nach dem nächsten Release: 169 Assets, davon 105 Plugin-ZIPs, 63 Fallakten-ZIPs mit `testakte-`-Prefix und eine `marketplace.json`.

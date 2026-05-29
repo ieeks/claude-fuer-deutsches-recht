@@ -22,7 +22,7 @@ description: "Einstieg, Schnelltriage und Workflow-Routing im Steuerrecht Anwalt
 
 Dieser Allgemein-Skill ist der schöne, schnelle Eingang in das Plugin **Steuerrecht Anwalt Und Berater**. Er funktioniert wie Empfang, Triage, Projektsteuerung und Qualitätskontrolle in einem: erst knapp klären, dann den richtigen Arbeitsweg wählen, dann passende Spezial-Skills aus diesem Plugin vorschlagen.
 
-**Plugin-Fokus:** Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-) mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: E-Rechnung, Umsatzsteuer/Vorsteuer, Krypto, Grundsteuer, Einspruch, Klage, FG, Außenprüfung, Selbstanzeige. StB-Tools BWA, SuSa, Lohnbuchhaltung, Jahresabschluss, Mandantenkommunikation, Software-Bedienung. DBA Europa, Türkei, Israel, USA, Kanada.
+**Plugin-Fokus:** Steuerrecht für Anwalt (anw- FAO § 9) und Steuerberater (stb-) mit Quellen-Gate `rechtsstand-mai-2026-faktenbank`: E-Rechnung, Umsatzsteuer/Vorsteuer, Krypto, Grundsteuer, Grunderwerbsteuer, Share Deals, Signing/Closing, Einspruch, Klage, FG, Außenprüfung, Selbstanzeige. StB-Tools BWA, SuSa, Lohnbuchhaltung, Jahresabschluss, Mandantenkommunikation, Software-Bedienung. DBA Europa, Türkei, Israel, USA, Kanada.
 
 ### 0. Stummer Upload — Material ohne Begleittext
 
@@ -124,6 +124,22 @@ Nutze als erste Antwort nach Aktivierung möglichst dieses kompakte Format:
 | `anw-fristenbuch-steuerrecht` | Fristenbuch für steuerrechtliche Verfahren pflegen und Fristen berechnen. Anwendungsfall neue Bescheide oder Entscheidungen eingegangen Fristen muessen sofort eingetragen und ueberwacht werden. Standardfristen… |
 | `anw-gf-haftung-69-ao-nicht-abgefuehrte-steuern` | Verteidigung gegen Haftungsbescheid nach § 69 AO wegen nicht abgeführter Lohnsteuer oder Umsatzsteuer der GmbH oder UG. Anwendungsfall Geschäftsführer erhaelt persoenlichen Haftungsbescheid des Finanzamts für… |
 | `anw-grunderwerbsteuer-share-deal-90-prozent` | Grunderwerbsteuer GrEStG bei Share-Deal-Transaktionen mit grundbesitzhaltenden Gesellschaften berechnen und gestalten. Anwendungsfall M-und-A-Transaktion mit Immobilien-Hintergrund Anteilsuebertragung droht… |
+| `anw-grest-kaltstart-asset-share-deal` | GrESt-Kaltstart bei Immobilien- und M&A-Transaktionen: Asset Deal oder Share Deal, Signing/Closing, Tatbestand, Steuerschuldner, Anzeige und Bescheidroute sortieren. |
+| `anw-grest-share-deal-90-prozent-10-jahre` | Share-Deal-Vertiefung mit § 1 Abs. 2a, 2b, 3 und 3a GrEStG, 90-%-Schwelle, 10-Jahres-Zeitraum, RETT-Blocker und Beteiligungsketten. |
+| `anw-grest-signing-closing-doppelfestsetzung` | Spezialskill für doppelte GrESt-Festsetzungen bei auseinanderfallendem Signing und Closing; BFH-AdV-Linie, Zielbescheid und § 16-Route sauber trennen. |
+| `anw-grest-anzeige-19-closing-check` | Anzeige nach § 19 GrEStG, Closing-Checkliste, Grundstücksliste, Zuständigkeiten, Anlagen und Versandnachweise für Post-Closing-Teams. |
+| `anw-grest-spa-tax-clause-indemnity` | GrESt im SPA: Tax Covenant, Indemnity, Escrow, Mitwirkung, Verfahrenskontrolle und Signing/Closing-Doppelrisiko vertraglich absichern. |
+| `anw-grest-bescheid-einspruch-adv-16` | GrESt-Bescheide prüfen und angreifen: Einspruch, AdV, § 16 GrEStG, falscher Tatbestand, falsche Bemessungsgrundlage oder Doppelbelastung. |
+| `anw-grest-asset-deal-kaufvertrag` | GrESt beim direkten Grundstückskauf: Gegenleistung, Kaufpreisbestandteile, einheitlicher Erwerbsgegenstand und Steuersatz je Bundesland prüfen. |
+| `anw-grest-konzernklausel-6a` | § 6a GrEStG bei Konzernumstrukturierungen: Umwandlung, Einbringung, 95-%-Beteiligung, Vor- und Nachbehaltensfristen und BFH-Linie prüfen. |
+| `anw-grundsteuer-kaltstart-bescheidkette` | Grundsteuer-Mandat aufnehmen: Grundsteuerwertbescheid, Messbescheid und kommunalen Grundsteuerbescheid trennen, Fristen sichern und Folgeskills routen. |
+| `anw-grundsteuer-verfassungscheck-bundesmodell` | Grundsteuer-Reform verfassungsrechtlich einordnen: BVerfG 2018, BFH-AdV 2024, BFH-Bundesmodell 2025/2026 und Landesmodelle sauber trennen. |
+| `anw-grundsteuer-ermittlungsbasis-flaeche-nutzung` | Flächen, Nutzungen, Baujahr, Grundstücksart, wirtschaftliche Einheit, Schätzungen und Belege in Grundsteuerakten abgleichen. |
+| `anw-grundsteuerwert-bewertung-bewg-218ff` | Grundsteuerwert nach BewG §§ 218 ff. prüfen: Ertragswert/Sachwert, Bodenrichtwert, Grundstücksart, Messzahl und Bewertungsfehler. |
+| `anw-grundsteuer-gutachten-gemeiner-wert` | Niedrigeren gemeinen Wert belegen: Kaufpreis, Marktbelege, Gutachtenstrategie und BFH-AdV-Linie in eine Verfahrensstrategie übersetzen. |
+| `anw-grundsteuer-einspruch-adv-bfh` | Grundsteuer-Einspruch und AdV: Frist, Bescheidart, BFH-AdV-Linie, Belegstrategie und FG-Antrag vorbereiten. |
+| `anw-grundsteuer-landesmodell-routing` | Bundesmodell und Landesmodelle trennen: Baden-Württemberg, Bayern, Hamburg, Hessen, Niedersachsen und punktuelle Landesabweichungen. |
+| `anw-grundsteuer-hebesatz-zahlungsplan` | Gemeindeebene: Hebesatz, Grundsteuerbescheid, Fälligkeiten, Stundung, Ratenzahlung und Zahlungsplan prüfen. |
 | `anw-haftungswarn-15a-inso-mandant` | Anwaltliche Beratung und Warnschreiben an GmbH-Geschäftsführung bei festgestellter Insolvenzreife nach §§ 17 19 InsO. Anwendungsfall GmbH-GF spricht beim Anwalt vor weil Steuerberater Krisensignale gemeldet hat.… |
 | `anw-insolvenzreife-pruefung-17-19-inso` | Anwaltliches Prüfgutachten zur Insolvenzreife einer GmbH oder UG aus Steueranwalts-Sicht. Anwendungsfall GF einer Krisengesellschaft mit Steuerrückstaenden kommt zum Anwalt und Insolvenzreife muss rechtssicher geprüft… |
 | `anw-kaltstart-interview` | Kaltstart-Interview für die steuerrechtsanwaltliche Kanzlei um Praxisprofil zu befuellen. Anwendungsfall Erstinstallation Plugin oder Konfiguration enthaelt noch Platzhalter-Marker. Erfragt Schwerpunktbereiche ESt USt… |

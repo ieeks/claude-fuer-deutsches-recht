@@ -1,0 +1,13 @@
+Bereich,Gebaeudeteil,Nutzung laut Verwaltung,Nutzung laut Bescheid,Flaeche Verwaltung qm,Flaeche Bescheid qm,Problem,Beleg
+EG links,Vorderhaus,Buchbinderei,Gewerbe,86,86,ok,Mietvertrag Buchbinderei Klee vom 01.04.2019
+EG rechts,Vorderhaus,ehemaliger Laden leerstehend,Gewerbe,72,72,Leerstand ab 09/2024,Nebenkostenkonto und Fotos
+1. OG,Vorderhaus,Wohnung R1,Wohnung,138,146,Balkon voll statt anteilig angesetzt,Aufmass 2021
+2. OG,Vorderhaus,Wohnung R2,Wohnung,141,149,Balkon voll statt anteilig angesetzt,Aufmass 2021
+DG,Vorderhaus,Wohnung R3,Wohnung,96,124,Dachschraegen falsch behandelt,Grundriss Architektin F. Wiegand
+EG,Seitenfluegel,Lager feucht,Nutzflaeche,54,92,Kellernahe Flaeche als voll nutzbar erfasst,Bauschadensbericht 12.02.2025
+1. OG,Seitenfluegel,Wohnatelier unvermietet,Wohnung,64,84,Brandschutzmaengel und nur eingeschraenkte Nutzung,Schreiben Bauaufsicht 18.07.2024
+2. OG,Seitenfluegel,Wohnung S2,Wohnung,71,87,Flurbereich doppelt erfasst,Teilungsplan
+Hinterhaus,Hofgebaeude,Archiv und Werkstatt,Wohnung,118,194,als Wohnflaeche statt Neben-/Nutzflaeche erfasst,alte Gewerbegenehmigung 1987
+Keller,Gesamt,Kellerabteile,unbekannt,0,80,Keller offenbar in Nutzflaeche eingerechnet,Kellerplan
+Hof,Gesamt,Hofflaeche,Zubehoer,226,226,ok,Kataster
+Grundstueck,Gesamt,Gesamtflaeche,Gesamtflaeche,1148,1148,ok,Flurkarte
