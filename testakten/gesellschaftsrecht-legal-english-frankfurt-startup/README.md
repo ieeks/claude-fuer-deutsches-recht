@@ -33,6 +33,7 @@ Beurkundender Notar: Notariat Dr. Bertram Veitschegger, Frankfurt am Main, Unter
 | `21-investor-email-screenshot.jpg` | Screenshot einer Investor-E-Mail aus der Mandantenkommunikation |
 | `22-whatsapp-screenshot.jpg` | WhatsApp-Screenshot Westarp/Hildemar |
 | `24-agio-und-kapitalruecklage-streitfrage.md` | Westarp-Notiz an Hildemar zur Satzungsverankerung des Agio |
+| `25-mailbox-und-call-fragmente.md` | Outlook-/Slack-/Call-Fragmente für den Donnerstagvormittag |
 | `emails/` | Originaltextstand der gesandten und empfangenen E-Mails als .eml |
 | `chats/` | Originalstand Slack-Thread #project-comet-moth und WhatsApp Westarp/Hildemar (Markdown, jeweils zusätzlich als DOCX und PDF) |
 
@@ -47,5 +48,5 @@ Beurkundender Notar: Notariat Dr. Bertram Veitschegger, Frankfurt am Main, Unter
 ## Hinweise
 
 - Die DOCX- und PDF-Versionen aller Texte liegen im selben Verzeichnis und sind im Memo-Layout der Kanzlei Hagemann & Westarp gesetzt (Times New Roman 11 pt, Blocksatz, Mandatslabel im Seitenkopf, Vertraulichkeitsvermerk im Seitenfuß).
-- E-Mails liegen zusätzlich als .eml im Unterordner `emails/` und sind in Outlook direkt öffenbar.
-- Chatverläufe (Slack #project-comet-moth, WhatsApp Westarp/Hildemar) liegen vollständig im Unterordner `chats/` als Markdown sowie je als eigene DOCX und PDF.
+- E-Mails liegen zusätzlich als .eml im Unterordner `emails/` und sind in Outlook direkt öffenbar. Der Ordner enthält Partnerauftrag, CFO-Zahlenstand, Investor-Counsel-Mail, Mandantenmail und Notariatskorrespondenz.
+- Chatverläufe (Slack #project-comet-moth, WhatsApp Westarp/Hildemar) liegen im Unterordner `chats/` als Markdown sowie je als eigene DOCX und PDF.

@@ -24,7 +24,7 @@
 ### Auf Mandantenseite
 
 - **Kunigunde Reiter** — Gründerin, CEO, 40 Prozent nominal. Volkswirtin, will Mandantenfragen in normaler Sprache beantwortet bekommen, ohne Anglizismen-Lawine. Sehr klare Linie: Anrechnung der bereits geleisteten Vesting-Monate ist für sie ein Knackpunkt.
-- **Meinhard Voss** — Gründer, CTO, 30 Prozent nominal. Skeptisch gegenüber englischen Begriffen, hält Anti-Dilution intuitiv für „auch eine Art Bezugsrecht". Wichtige Lern-Situation.
+- **Meinhard Voss** — Gründer, CTO, 30 Prozent nominal. Skeptisch gegenüber englischen Begriffen, hält Anti-Dilution intuitiv für „auch eine Art Bezugsrecht". Heikler Punkt für den Gründercall.
 - **Walburga Stein** — Gründerin, Product, 20 Prozent nominal. Politisch im Gründerteam Mittlerin; will keine Reibung mit Investoren.
 - **Olaf Eichholtz** — Interim CFO, ehemals Inhouse Counsel bei einem Mittelstandskonzern. Liefert die internen Cap-Table-Files. Hat aber Cap Table und Gesellschafterliste in einem Excel-Reiter vermischt — typischer Fehler.
 - **Eberwein & Helmstadt LLP, München** — bisherige Hauskanzlei für Arbeitsrecht und Vertragsrecht. Keine Corporate-Praxis. Hat den Seed-SHA gezeichnet.

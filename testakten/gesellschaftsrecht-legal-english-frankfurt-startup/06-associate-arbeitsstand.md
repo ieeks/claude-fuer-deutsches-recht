@@ -8,7 +8,7 @@ Dieses Dokument ist Hildemar K.s Arbeitsstand vom 20.05.2026, 02:14 Uhr. Adelhei
 
 Ich glaube, Cap Table ist im Grunde die Gesellschafterliste, aber mit englischer Ueberschrift. Muss ich noch prüfen.
 
-> **AvW:** Nein. Cap Table ist eine wirtschaftliche Projektion auf Fully-Diluted-Basis und enthält Optionen, Wandeldarlehen, Pool. Die Gesellschafterliste nach § 40 GmbHG ist eine **rechtlich verbindliche** Liste der **tatsächlich** in Geschäftsanteilen verkörperten Mitgliedschaftsrechte zum Stichtag. Wer das verwechselt, verwechselt im Mandantengespräch auch die Kategorien "wirtschaftliche Beteiligung" und "Mitgliedschaftsrecht". Bitte das Glossar (Datei 08) lesen. **Wiederlesen, dann umschreiben.**
+> **AvW:** Nein. Cap Table ist eine wirtschaftliche Projektion auf Fully-Diluted-Basis und enthält Optionen, Wandeldarlehen, Pool. Die Gesellschafterliste nach § 40 GmbHG ist eine **rechtlich verbindliche** Liste der **tatsächlich** in Geschäftsanteilen verkörperten Mitgliedschaftsrechte zum Stichtag. Wer das verwechselt, verwechselt im Mandantengespräch auch die Kategorien "wirtschaftliche Beteiligung" und "Mitgliedschaftsrecht". Bitte die Begriffe in Ihrer Notiz sauber trennen. **Wiederlesen, dann umschreiben.**
 
 ## 2 Fully Diluted
 
@@ -44,13 +44,13 @@ Drag/Tag: Term Sheet 60 Prozent plus Series A Majority. Satzung/Seed-SHA sehen a
 
 Investor Director Approval: Bei GmbH nicht einfach wie Delaware Board behandeln. Beirat nach Satzung bisher nur beratend. Wenn Zustimmungsvorbehalte gewollt sind, müssen Dokumente sauber angepasst werden.
 
-> **AvW:** Ja. Drei Ebenen: (1) **Satzung** — Beirat mit Zustimmungsvorbehalten ist zulässig (Heider, Münchener Kommentar GmbHG, § 6 Rn. 35 ff. — bitte das aus der Hauspraxisgruppe heraussuchen; **nicht** zitieren ohne Stellenprüfung), aber er bleibt **nicht** ein "Board of Directors" im Delaware-Sinne. (2) **Geschäftsführungs-Geschäftsordnung** — die Zustimmungsvorbehalte sind dort als interne Befugnisgrenze zu verankern. (3) **SHA** — schuldrechtliche Stimmbindung. Bitte nicht "Investor Director" in deutsche Dokumente übernehmen, sondern "Investor-Beiratsmitglied" oder "vom Investor entsandtes Beiratsmitglied" verwenden.
+> **AvW:** Ja. Drei Ebenen: (1) **Satzung** — Beirat mit Zustimmungsvorbehalten ist grundsätzlich über die Satzung und die Geschäftsordnung abbildbar; die genaue Grenze bitte mit der Hauspraxisgruppe gegenprüfen, **nicht** aus dem Bauch zitieren. Er bleibt aber **nicht** ein "Board of Directors" im Delaware-Sinne. (2) **Geschäftsführungs-Geschäftsordnung** — die Zustimmungsvorbehalte sind dort als interne Befugnisgrenze zu verankern. (3) **SHA** — schuldrechtliche Stimmbindung. Bitte nicht "Investor Director" in deutsche Dokumente übernehmen, sondern "Investor-Beiratsmitglied" oder "vom Investor entsandtes Beiratsmitglied" verwenden.
 
 ## 8 Series A Preferred Shares — echte Anteilsklasse oder nur schuldrechtlich?
 
 To do: Investor Counsel fragen, ob Series A Preferred Shares echte Anteilsklasse oder nur schuldrechtliche Rechte sein sollen.
 
-> **AvW:** Falsche Frage. In Deutschland gibt es **keine** Anteilsklassen wie in Delaware. Es gibt aber **Geschäftsanteile mit Sonderrechten einzelner Gesellschafter**, deren rechtliche Verankerung sich aus der allgemeinen **Satzungsautonomie** ergibt und nach ständiger Rechtsprechung auf § 35 BGB analog gestützt wird (BGHZ 123, 15; BGH, Urt. v. 14.05.1956 – II ZR 229/54; BGH, Urt. v. 25.06.1979 – II ZR 89/79 = LM BGB § 35 Nr. 4; OLG Nürnberg, Urt. v. 09.02.2000 – 12 U 813/99, GmbHR 2000, 561). **Im GmbHG selbst** gibt es **keine** positive Vorschrift, die Sonderrechte regelt — § 14 GmbHG (Einlagepflicht/Nennbetrag) ist gerade **nicht** der Anker, auch wenn das in der Praxis manchmal nachlässig zitiert wird. Hüten Sie sich erst recht vor dem doppelten Anfängerfehler, § 5 Abs. 3 GmbHG als Anker zu zitieren — diese Vorschrift regelt **nur**, dass Geschäftsanteile unterschiedliche **Nennbeträge** haben können und in Summe das Stammkapital ergeben müssen; sie betrifft **nicht** die wirtschaftlichen Sonderrechte wie Liquidation Preference oder Anti-Dilution. Die Vorzugsrechte werden in der **Satzung** definiert, mit den jeweiligen Liquidations-, Stimm- und Gewinnrechten. Schuldrechtliche Lösungen über den SHA sind möglich, aber riskant bei Insolvenz und gegenüber Rechtsnachfolgern. Empfehlung: dingliche Lösung in Satzung (mit Änderungsbeschluss nach § 53 GmbHG), plus schuldrechtliche Spiegelung im SHA. Das bitte als eigenen Memo-Abschnitt für die Mandantin.
+> **AvW:** Falsche Frage. In Deutschland gibt es **keine** Anteilsklassen wie in Delaware. Es gibt aber **Geschäftsanteile mit Sonderrechten einzelner Gesellschafter**, deren rechtliche Verankerung sich aus der allgemeinen **Satzungsautonomie** ergibt und nach ständiger Rechtsprechung auf § 35 BGB analog gestützt wird (u.a. BGH, Urt. v. 14.05.1956 – II ZR 229/54; BGH, Urt. v. 25.06.1979 – II ZR 89/79; OLG Nürnberg, Urt. v. 09.02.2000 – 12 U 813/99). **Im GmbHG selbst** gibt es **keine** positive Vorschrift, die Sonderrechte regelt — § 14 GmbHG (Einlagepflicht/Nennbetrag) ist gerade **nicht** der Anker, auch wenn das in der Praxis manchmal nachlässig zitiert wird. Ebenso wenig trägt § 5 Abs. 3 GmbHG die wirtschaftlichen Sonderrechte; diese Vorschrift regelt **nur**, dass Geschäftsanteile unterschiedliche **Nennbeträge** haben können und in Summe das Stammkapital ergeben müssen. Die Vorzugsrechte werden in der **Satzung** definiert, mit den jeweiligen Liquidations-, Stimm- und Gewinnrechten. Schuldrechtliche Lösungen über den SHA sind möglich, aber riskant bei Insolvenz und gegenüber Rechtsnachfolgern. Empfehlung: dingliche Lösung in Satzung (mit Änderungsbeschluss nach § 53 GmbHG), plus schuldrechtliche Spiegelung im SHA. Das bitte als eigenen Memo-Abschnitt für die Mandantin.
 
 ## 9 English long-form docs unter deutschem Recht
 
@@ -78,7 +78,7 @@ To do:
 
 ## Hildemars Reaktion am 21.05.2026, 09:47 Uhr
 
-OK. Ich habe heute Morgen schon das Glossar (Datei 08) und den Anfängerfehler-Katalog (Datei 09) gelesen. Ich verstehe jetzt:
+OK. Ich habe heute Morgen die Randnotizen und den Term-Sheet-Kommentar noch einmal nebeneinander gelegt. Ich verstehe jetzt:
 
 - Cap Table != Gesellschafterliste.
 - Fully Diluted ist definierte Rechengröße.

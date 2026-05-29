@@ -33,7 +33,7 @@ Dieses Dokument ist ein **Working Draft** des DD-Index aus dem virtuellen Datenr
 09_Data_Protection
 ```
 
-Hildemar hat die für das Plugin relevanten Funde in den nachfolgenden Abschnitten zusammengefasst. Die Quelle ist immer der Datenraum, nicht externe Datenbanken.
+Hildemar hat die für den Friday Call relevanten Funde in den nachfolgenden Abschnitten zusammengefasst. Die Quelle ist immer der Datenraum, nicht externe Datenbanken.
 
 ---
 
